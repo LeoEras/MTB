@@ -1503,5 +1503,9 @@
 1524|Windows Explorer|2017-01-18T10:45:35.0000000|2017-01-18T10:46:10.0000000|Windows Explorer|ManicTime/Applications
 1525|ManicTime|2017-01-18T10:46:10.0000000|2017-01-18T10:46:15.0000000|ManicTime|ManicTime/Applications
 1526|ManicTime - STANDARD|2017-01-18T10:46:15.0000000|2017-01-18T10:46:45.0000000|ManicTime|ManicTime/Applications
+1527|Windows Explorer|2017-01-18T11:03:29.0000000|2017-01-18T11:04:37.0000000|Windows Explorer|ManicTime/Applications
+1528||2017-01-18T11:03:28.0000000|2017-01-18T11:04:52.0000000||ManicTime/ComputerUsage
+1529|ManicTime - STANDARD|2017-01-18T11:04:37.0000000|2017-01-18T11:04:43.0000000|ManicTime|ManicTime/Applications
+1530|Windows Explorer|2017-01-18T11:04:43.0000000|2017-01-18T11:04:52.0000000|Windows Explorer|ManicTime/Applications
 
-(1505 rows affected)
+(1509 rows affected)
