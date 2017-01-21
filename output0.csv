@@ -1536,5 +1536,11 @@
 1558|A.cmd|2017-01-21T14:54:13.0000000|2017-01-21T14:54:26.0000000|A.cmd|ManicTime/Documents
 1559|Start menu|2017-01-21T14:54:51.0000000|2017-01-21T14:54:59.0000000|Windows Explorer|ManicTime/Applications
 1560|Windows Explorer|2017-01-21T14:54:59.0000000|2017-01-21T14:55:28.0000000|Windows Explorer|ManicTime/Applications
+1561|Battery Meter|2017-01-21T15:03:08.0000000|2017-01-21T15:03:14.0000000|Windows Explorer|ManicTime/Applications
+1562|Power Options|2017-01-21T15:03:14.0000000|2017-01-21T15:03:21.0000000|Windows Explorer|ManicTime/Applications
+1563|Edit Plan Settings|2017-01-21T15:03:21.0000000|2017-01-21T15:03:28.0000000|Windows Explorer|ManicTime/Applications
+1564|Control Panel|2017-01-21T15:03:28.0000000|2017-01-21T15:03:39.0000000|Windows Explorer|ManicTime/Applications
+1565|Program Manager|2017-01-21T15:03:39.0000000|2017-01-21T15:13:10.0000000|Windows Explorer|ManicTime/Applications
+1566||2017-01-21T15:03:08.0000000|2017-01-21T15:13:10.0000000||ManicTime/ComputerUsage
 
-(1538 rows affected)
+(1544 rows affected)
