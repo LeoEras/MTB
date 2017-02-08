@@ -1554,9 +1554,58 @@
 1576|Windows Explorer|2017-01-21T15:19:48.0000000|2017-01-21T15:19:56.0000000|Windows Explorer|ManicTime/Applications
 1577|Inicio.cmd - Notepad|2017-02-08T01:26:06.0000000|2017-02-08T01:26:23.0000000|Notepad|ManicTime/Applications
 1578|Program Manager|2017-02-08T01:26:23.0000000|2017-02-08T01:26:37.0000000|Windows Explorer|ManicTime/Applications
-1579|Chrome - Google Chrome|2017-02-08T01:26:37.0000000|2017-02-08T01:27:06.0000000|Google Chrome|ManicTime/Applications
-1580||2017-02-08T01:26:05.0000000|2017-02-08T01:27:06.0000000||ManicTime/ComputerUsage
+1579|Chrome - Google Chrome|2017-02-08T01:26:37.0000000|2017-02-08T01:29:41.0000000|Google Chrome|ManicTime/Applications
+1580||2017-02-08T01:26:05.0000000|2017-02-08T01:43:08.0000000||ManicTime/ComputerUsage
 1581|Inicio.cmd|2017-02-08T01:26:06.0000000|2017-02-08T01:26:23.0000000|Inicio.cmd|ManicTime/Documents
-1582|chrome://chrome-signin/?access_point=0&reason=0|2017-02-08T01:26:37.0000000|2017-02-08T01:27:06.0000000|chrome-signin|ManicTime/Documents
+1582|chrome://chrome-signin/?access_point=0&reason=0|2017-02-08T01:26:37.0000000|2017-02-08T01:29:41.0000000|chrome-signin|ManicTime/Documents
+1583|Nueva pestaña - Google Chrome|2017-02-08T01:29:41.0000000|2017-02-08T01:29:51.0000000|Google Chrome|ManicTime/Applications
+1584|Nueva pestaña - Google Chrome|2017-02-08T01:29:51.0000000|2017-02-08T01:29:58.0000000|Google Chrome|ManicTime/Applications
+1585|ESPOL | Servicio de Autenticación - Google Chrome|2017-02-08T01:29:58.0000000|2017-02-08T01:30:09.0000000|Google Chrome|ManicTime/Applications
+1586|http://sidweb./|2017-02-08T01:29:41.0000000|2017-02-08T01:29:51.0000000|sidweb.|ManicTime/Documents
+1587|http://sidweb.espol.edu.ec/|2017-02-08T01:29:51.0000000|2017-02-08T01:29:58.0000000|sidweb.espol.edu.ec|ManicTime/Documents
+1588|https://auth.espol.edu.ec/login?service=https:%2F%2Fwww.sidweb.espol.edu.ec%2Flogin|2017-02-08T01:29:58.0000000|2017-02-08T01:30:09.0000000|auth.espol.edu.ec|ManicTime/Documents
+1589|Actividad reciente - Google Chrome|2017-02-08T01:30:09.0000000|2017-02-08T01:31:20.0000000|Google Chrome|ManicTime/Applications
+1590|https://www.sidweb.espol.edu.ec/|2017-02-08T01:30:09.0000000|2017-02-08T01:31:20.0000000|www.sidweb.espol.edu.ec|ManicTime/Documents
+1591|DESARROLLO DE APLICACIONES WEB - Google Chrome|2017-02-08T01:31:20.0000000|2017-02-08T01:31:44.0000000|Google Chrome|ManicTime/Applications
+1592|Program Manager|2017-02-08T01:31:44.0000000|2017-02-08T01:31:50.0000000|Windows Explorer|ManicTime/Applications
+1593|/usr/bin/bash --login -i|2017-02-08T01:31:50.0000000|2017-02-08T01:32:00.0000000|mintty|ManicTime/Applications
+1594|MINGW64:/c/Users/Estudiante|2017-02-08T01:32:00.0000000|2017-02-08T01:32:23.0000000|mintty|ManicTime/Applications
+1595|https://www.sidweb.espol.edu.ec/courses/37728|2017-02-08T01:31:20.0000000|2017-02-08T01:31:44.0000000|www.sidweb.espol.edu.ec|ManicTime/Documents
+1596|MINGW64:/c/Users/Estudiante/Desktop|2017-02-08T01:32:23.0000000|2017-02-08T01:32:30.0000000|mintty|ManicTime/Applications
+1597|/usr/bin/bash --login -i|2017-02-08T01:32:30.0000000|2017-02-08T01:32:43.0000000|mintty|ManicTime/Applications
+1598|MINGW64:/c/Users/Estudiante/Desktop|2017-02-08T01:32:43.0000000|2017-02-08T01:33:01.0000000|mintty|ManicTime/Applications
+1599|Sin título - Google Chrome|2017-02-08T01:33:01.0000000|2017-02-08T01:33:11.0000000|Google Chrome|ManicTime/Applications
+1600|https://github.com/LeoEras/FORMS|2017-02-08T01:33:01.0000000|2017-02-08T01:33:11.0000000|github.com|ManicTime/Documents
+1601|GitHub - LeoEras/FORMS - Google Chrome|2017-02-08T01:33:11.0000000|2017-02-08T01:33:21.0000000|Google Chrome|ManicTime/Applications
+1602|MINGW64:/c/Users/Estudiante/Desktop|2017-02-08T01:33:21.0000000|2017-02-08T01:33:45.0000000|mintty|ManicTime/Applications
+1603|Nueva pestaña - Google Chrome|2017-02-08T01:33:45.0000000|2017-02-08T01:33:51.0000000|Google Chrome|ManicTime/Applications
+1604|MINGW64:/c/Users/Estudiante/Desktop|2017-02-08T01:33:51.0000000|2017-02-08T01:34:01.0000000|mintty|ManicTime/Applications
+1605|Node.js - Google Chrome|2017-02-08T01:34:01.0000000|2017-02-08T01:34:12.0000000|Google Chrome|ManicTime/Applications
+1606|https://github.com/LeoEras/FORMS|2017-02-08T01:33:11.0000000|2017-02-08T01:33:21.0000000|github.com|ManicTime/Documents
+1607|https://nodejs.org/es/|2017-02-08T01:34:01.0000000|2017-02-08T01:34:12.0000000|nodejs.org|ManicTime/Documents
+1608|Start menu|2017-02-08T01:34:12.0000000|2017-02-08T01:35:24.0000000|Windows Explorer|ManicTime/Applications
+1609|MINGW64:/c/Users/Estudiante/Desktop|2017-02-08T01:35:24.0000000|2017-02-08T01:35:30.0000000|mintty|ManicTime/Applications
+1610|Program Manager|2017-02-08T01:35:30.0000000|2017-02-08T01:36:55.0000000|Windows Explorer|ManicTime/Applications
+1611|Task Scheduler|2017-02-08T01:36:55.0000000|2017-02-08T01:37:57.0000000|Task Scheduler|ManicTime/Applications
+1612|Open|2017-02-08T01:37:57.0000000|2017-02-08T01:38:07.0000000|Open|ManicTime/Applications
+1614|Create Task|2017-02-08T01:38:07.0000000|2017-02-08T01:38:21.0000000|Create Task|ManicTime/Applications
+1615|Task Scheduler|2017-02-08T01:38:21.0000000|2017-02-08T01:40:55.0000000|Task Scheduler|ManicTime/Applications
+1616|Open|2017-02-08T01:40:55.0000000|2017-02-08T01:41:00.0000000|Open|ManicTime/Applications
+1617|Create Task|2017-02-08T01:41:00.0000000|2017-02-08T01:41:11.0000000|Create Task|ManicTime/Applications
+1618|Node.js - Google Chrome|2017-02-08T01:41:11.0000000|2017-02-08T01:41:16.0000000|Google Chrome|ManicTime/Applications
+1619|Create Task (Not Responding)|2017-02-08T01:41:16.0000000|2017-02-08T01:41:21.0000000|Desktop Window Manager|ManicTime/Applications
+1620|Task Scheduler|2017-02-08T01:41:21.0000000|2017-02-08T01:42:11.0000000|Task Scheduler|ManicTime/Applications
+1621|https://nodejs.org/es/|2017-02-08T01:41:11.0000000|2017-02-08T01:41:16.0000000|nodejs.org|ManicTime/Documents
+1622|Task Scheduler (Not Responding)|2017-02-08T01:42:11.0000000|2017-02-08T01:42:17.0000000|Desktop Window Manager|ManicTime/Applications
+1623|Node.js - Google Chrome|2017-02-08T01:42:17.0000000|2017-02-08T01:42:26.0000000|Google Chrome|ManicTime/Applications
+1624|Windows Explorer|2017-02-08T01:42:26.0000000|2017-02-08T01:42:31.0000000|Windows Explorer|ManicTime/Applications
+1625|Node.js - Google Chrome|2017-02-08T01:42:31.0000000|2017-02-08T01:42:37.0000000|Google Chrome|ManicTime/Applications
+1626|Nueva pestaña - Google Chrome|2017-02-08T01:42:37.0000000|2017-02-08T01:42:46.0000000|Google Chrome|ManicTime/Applications
+1627|Microsoft Management Console|2017-02-08T01:42:46.0000000|2017-02-08T01:42:57.0000000|Microsoft Management Console|ManicTime/Applications
+1628|Historial - Google Chrome|2017-02-08T01:42:57.0000000|2017-02-08T01:43:03.0000000|Google Chrome|ManicTime/Applications
+1629|Windows Explorer|2017-02-08T01:43:03.0000000|2017-02-08T01:43:08.0000000|Windows Explorer|ManicTime/Applications
+1630|https://nodejs.org/es/|2017-02-08T01:42:17.0000000|2017-02-08T01:42:26.0000000|nodejs.org|ManicTime/Documents
+1631|https://nodejs.org/es/|2017-02-08T01:42:31.0000000|2017-02-08T01:42:37.0000000|nodejs.org|ManicTime/Documents
+1632|chrome://history/|2017-02-08T01:42:57.0000000|2017-02-08T01:43:03.0000000|history|ManicTime/Documents
 
-(1560 rows affected)
+(1609 rows affected)
