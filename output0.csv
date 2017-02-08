@@ -1540,7 +1540,23 @@
 1562|Power Options|2017-01-21T15:03:14.0000000|2017-01-21T15:03:21.0000000|Windows Explorer|ManicTime/Applications
 1563|Edit Plan Settings|2017-01-21T15:03:21.0000000|2017-01-21T15:03:28.0000000|Windows Explorer|ManicTime/Applications
 1564|Control Panel|2017-01-21T15:03:28.0000000|2017-01-21T15:03:39.0000000|Windows Explorer|ManicTime/Applications
-1565|Program Manager|2017-01-21T15:03:39.0000000|2017-01-21T15:13:10.0000000|Windows Explorer|ManicTime/Applications
-1566||2017-01-21T15:03:08.0000000|2017-01-21T15:13:10.0000000||ManicTime/ComputerUsage
+1565|Program Manager|2017-01-21T15:03:39.0000000|2017-01-21T15:16:24.0000000|Windows Explorer|ManicTime/Applications
+1566||2017-01-21T15:03:08.0000000|2017-01-21T15:19:56.0000000||ManicTime/ComputerUsage
+1567|Libraries|2017-01-21T15:16:24.0000000|2017-01-21T15:16:30.0000000|Windows Explorer|ManicTime/Applications
+1568|Local Disk (C:)|2017-01-21T15:16:30.0000000|2017-01-21T15:16:35.0000000|Windows Explorer|ManicTime/Applications
+1569|Program Files (x86)|2017-01-21T15:16:35.0000000|2017-01-21T15:16:48.0000000|Windows Explorer|ManicTime/Applications
+1570|Test.txt - Notepad|2017-01-21T15:16:48.0000000|2017-01-21T15:16:57.0000000|Notepad|ManicTime/Applications
+1571|Program Manager|2017-01-21T15:16:57.0000000|2017-01-21T15:18:08.0000000|Windows Explorer|ManicTime/Applications
+1572|Test.txt|2017-01-21T15:16:48.0000000|2017-01-21T15:16:57.0000000|Test.txt|ManicTime/Documents
+1573|Start menu|2017-01-21T15:18:08.0000000|2017-01-21T15:18:16.0000000|Windows Explorer|ManicTime/Applications
+1574|Windows Explorer|2017-01-21T15:18:16.0000000|2017-01-21T15:18:47.0000000|Windows Explorer|ManicTime/Applications
+1575|Task Scheduler|2017-01-21T15:18:47.0000000|2017-01-21T15:19:48.0000000|Task Scheduler|ManicTime/Applications
+1576|Windows Explorer|2017-01-21T15:19:48.0000000|2017-01-21T15:19:56.0000000|Windows Explorer|ManicTime/Applications
+1577|Inicio.cmd - Notepad|2017-02-08T01:26:06.0000000|2017-02-08T01:26:23.0000000|Notepad|ManicTime/Applications
+1578|Program Manager|2017-02-08T01:26:23.0000000|2017-02-08T01:26:37.0000000|Windows Explorer|ManicTime/Applications
+1579|Chrome - Google Chrome|2017-02-08T01:26:37.0000000|2017-02-08T01:27:06.0000000|Google Chrome|ManicTime/Applications
+1580||2017-02-08T01:26:05.0000000|2017-02-08T01:27:06.0000000||ManicTime/ComputerUsage
+1581|Inicio.cmd|2017-02-08T01:26:06.0000000|2017-02-08T01:26:23.0000000|Inicio.cmd|ManicTime/Documents
+1582|chrome://chrome-signin/?access_point=0&reason=0|2017-02-08T01:26:37.0000000|2017-02-08T01:27:06.0000000|chrome-signin|ManicTime/Documents
 
-(1544 rows affected)
+(1560 rows affected)
