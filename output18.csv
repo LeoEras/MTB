@@ -1690,7 +1690,7 @@
 1716|Start menu|2017-02-12T00:34:57.0000000|2017-02-12T00:35:03.0000000|Windows Explorer|ManicTime/Applications
 1717|Sin título - Google Chrome|2017-02-17T19:01:57.0000000|2017-02-17T19:02:03.0000000|Google Chrome|ManicTime/Applications
 1718|Escuela Superior Politécnica del Litoral - Google Chrome|2017-02-17T19:02:03.0000000|2017-02-17T19:06:58.0000000|Google Chrome|ManicTime/Applications
-1719||2017-02-17T19:01:55.0000000|2017-02-17T20:42:03.0000000||ManicTime/ComputerUsage
+1719||2017-02-17T19:01:55.0000000|2017-02-17T20:57:13.0000000||ManicTime/ComputerUsage
 1720|http://file///C:/Users/Estudiante/Desktop/FORMS/form.html|2017-02-17T19:01:57.0000000|2017-02-17T19:02:03.0000000|file|ManicTime/Documents
 1721|http://file///C:/Users/Estudiante/Desktop/FORMS/form.html|2017-02-17T19:02:03.0000000|2017-02-17T19:06:58.0000000|file|ManicTime/Documents
 1722|Escuela Superior Politécnica del Litoral - Google Chrome|2017-02-17T19:06:58.0000000|2017-02-17T19:07:07.0000000|Google Chrome|ManicTime/Applications
@@ -1750,8 +1750,11 @@
 1781|https://www.google.com.ec/search?q=mysql+windows&oq=mysql+windows&aqs=chrome..69i57j0l5.3706j0j7&sourceid=chrome&ie=UTF-8|2017-02-17T20:40:54.0000000|2017-02-17T20:40:59.0000000|www.google.com.ec|ManicTime/Documents
 1782|https://www.google.com.ec/search?q=mysql+windows&oq=mysql+windows&aqs=chrome..69i57j0l5.3706j0j7&sourceid=chrome&ie=UTF-8|2017-02-17T20:40:59.0000000|2017-02-17T20:41:06.0000000|www.google.com.ec|ManicTime/Documents
 1783|MySQL :: MySQL on Windows - Google Chrome|2017-02-17T20:41:06.0000000|2017-02-17T20:41:15.0000000|Google Chrome|ManicTime/Applications
-1784|MySQL :: Download MySQL Installer - Google Chrome|2017-02-17T20:41:15.0000000|2017-02-17T20:42:03.0000000|Google Chrome|ManicTime/Applications
+1784|MySQL :: Download MySQL Installer - Google Chrome|2017-02-17T20:41:15.0000000|2017-02-17T20:42:11.0000000|Google Chrome|ManicTime/Applications
 1785|https://dev.mysql.com/downloads/windows/|2017-02-17T20:41:06.0000000|2017-02-17T20:41:15.0000000|dev.mysql.com|ManicTime/Documents
-1786|https://dev.mysql.com/downloads/installer/|2017-02-17T20:41:15.0000000|2017-02-17T20:42:03.0000000|dev.mysql.com|ManicTime/Documents
+1786|https://dev.mysql.com/downloads/installer/|2017-02-17T20:41:15.0000000|2017-02-17T20:42:11.0000000|dev.mysql.com|ManicTime/Documents
+1787|MySQL :: Begin Your Download - mysql-installer-community-5.7.17.0.msi - Google Chrome|2017-02-17T20:42:11.0000000|2017-02-17T20:51:37.0000000|Google Chrome|ManicTime/Applications
+1788|https://dev.mysql.com/downloads/file/?id=467606|2017-02-17T20:42:11.0000000|2017-02-17T20:51:37.0000000|dev.mysql.com|ManicTime/Documents
+1789|Windows Activation Client|2017-02-17T20:51:37.0000000|2017-02-17T20:57:13.0000000|Windows Activation Client|ManicTime/Applications
 
-(1755 rows affected)
+(1758 rows affected)
