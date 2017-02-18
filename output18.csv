@@ -1769,7 +1769,7 @@
 1800|Node.js Setup|2017-02-17T22:58:24.0000000|2017-02-17T22:58:26.0000000|Windows Installer - Unicode|ManicTime/Applications
 1801|Node.js Setup|2017-02-17T22:58:27.0000000|2017-02-17T23:20:32.0000000|Windows Installer - Unicode|ManicTime/Applications
 1802||2017-02-17T22:58:24.0000000|2017-02-17T22:58:26.0000000||ManicTime/ComputerUsage
-1803||2017-02-17T22:58:27.0000000|2017-02-18T01:28:43.0000000||ManicTime/ComputerUsage
+1803||2017-02-17T22:58:27.0000000|2017-02-18T01:42:45.0000000||ManicTime/ComputerUsage
 1804|Windows Activation Client|2017-02-17T23:20:32.0000000|2017-02-17T23:47:37.0000000|Windows Activation Client|ManicTime/Applications
 1805|Nueva pestaña - Google Chrome|2017-02-17T23:47:37.0000000|2017-02-17T23:47:42.0000000|Google Chrome|ManicTime/Applications
 1806|http://file///C:/Users/Estudiante/Desktop/FORMS/form.html|2017-02-17T23:47:37.0000000|2017-02-17T23:47:42.0000000|file|ManicTime/Documents
@@ -1820,6 +1820,16 @@
 1853|Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501 Setup|2017-02-18T01:11:20.0000000|2017-02-18T01:14:17.0000000|Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501|ManicTime/Applications
 1854|MySQL Installer|2017-02-18T01:14:17.0000000|2017-02-18T01:14:24.0000000|MySQL Installer|ManicTime/Applications
 1855|Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501 Setup|2017-02-18T01:14:24.0000000|2017-02-18T01:19:58.0000000|Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501|ManicTime/Applications
-1856|MySQL Installer|2017-02-18T01:19:58.0000000|2017-02-18T01:28:43.0000000|MySQL Installer|ManicTime/Applications
+1856|MySQL Installer|2017-02-18T01:19:58.0000000|2017-02-18T01:35:38.0000000|MySQL Installer|ManicTime/Applications
+1857|Windows Activation Client|2017-02-18T01:35:38.0000000|2017-02-18T01:35:44.0000000|Windows Activation Client|ManicTime/Applications
+1858|MySQL Installer|2017-02-18T01:35:44.0000000|2017-02-18T01:37:29.0000000|MySQL Installer|ManicTime/Applications
+1859|MySQL  Installer|2017-02-18T01:37:29.0000000|2017-02-18T01:37:51.0000000|MySQL Installer|ManicTime/Applications
+1860|MySQL Installer|2017-02-18T01:37:51.0000000|2017-02-18T01:41:42.0000000|MySQL Installer|ManicTime/Applications
+1861|C:\Windows\system32\cmd.exe|2017-02-18T01:41:42.0000000|2017-02-18T01:41:53.0000000|Windows Command Processor|ManicTime/Applications
+1862|Angular 2 In 60 Minutes - YouTube - Google Chrome|2017-02-18T01:41:53.0000000|2017-02-18T01:41:59.0000000|Google Chrome|ManicTime/Applications
+1863|Libraries|2017-02-18T01:41:59.0000000|2017-02-18T01:42:04.0000000|Windows Explorer|ManicTime/Applications
+1864|Windows Explorer|2017-02-18T01:42:04.0000000|2017-02-18T01:42:11.0000000|Windows Explorer|ManicTime/Applications
+1865|Windows PowerShell|2017-02-18T01:42:11.0000000|2017-02-18T01:42:45.0000000|Windows PowerShell|ManicTime/Applications
+1866|https://www.youtube.com/watch?v=-zW1zHqsdyc|2017-02-18T01:41:53.0000000|2017-02-18T01:41:59.0000000|www.youtube.com|ManicTime/Documents
 
-(1823 rows affected)
+(1833 rows affected)
