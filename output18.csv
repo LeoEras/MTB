@@ -1924,7 +1924,7 @@
 1959|MySQL Notifier|2017-02-18T02:45:32.0000000|2017-02-18T02:45:36.0000000|MySQL Notifier|ManicTime/Applications
 1960|https://nodejs.org/es/|2017-02-18T02:45:16.0000000|2017-02-18T02:45:25.0000000|nodejs.org|ManicTime/Documents
 1961|Program Manager|2017-02-18T12:47:35.0000000|2017-02-18T12:51:34.0000000|Windows Explorer|ManicTime/Applications
-1962||2017-02-18T12:47:32.0000000|2017-02-18T13:12:38.0000000||ManicTime/ComputerUsage
+1962||2017-02-18T12:47:32.0000000|2017-02-18T13:28:31.0000000||ManicTime/ComputerUsage
 1963|MySQL Notifier|2017-02-18T12:51:34.0000000|2017-02-18T12:51:51.0000000|MySQL Notifier|ManicTime/Applications
 1964|Escuela Superior Politécnica del Litoral - Google Chrome|2017-02-18T12:51:51.0000000|2017-02-18T12:53:14.0000000|Google Chrome|ManicTime/Applications
 1965|http://file///C:/Users/Estudiante/Desktop/FORMS/form.html|2017-02-18T12:51:51.0000000|2017-02-18T12:53:14.0000000|file|ManicTime/Documents
@@ -1940,8 +1940,79 @@
 1975|Nueva pestaña - Google Chrome|2017-02-18T13:11:51.0000000|2017-02-18T13:12:00.0000000|Google Chrome|ManicTime/Applications
 1976|Start menu|2017-02-18T13:12:00.0000000|2017-02-18T13:12:23.0000000|Windows Explorer|ManicTime/Applications
 1977|Nueva pestaña - Google Chrome|2017-02-18T13:12:23.0000000|2017-02-18T13:12:32.0000000|Google Chrome|ManicTime/Applications
-1978|software installation - How do I uninstall Mysql? - Ask Ubuntu - Google Chrome|2017-02-18T13:12:32.0000000|2017-02-18T13:12:38.0000000|Google Chrome|ManicTime/Applications
+1978|software installation - How do I uninstall Mysql? - Ask Ubuntu - Google Chrome|2017-02-18T13:12:32.0000000|2017-02-18T13:13:11.0000000|Google Chrome|ManicTime/Applications
 1979|https://www.google.com.ec/search?q=unistall+mysql&oq=unistall+mysql&aqs=chrome..69i57j0l5.3542j0j7&sourceid=chrome&ie=UTF-8|2017-02-18T13:12:23.0000000|2017-02-18T13:12:32.0000000|www.google.com.ec|ManicTime/Documents
-1980|http://askubuntu.com/questions/172514/how-do-i-uninstall-mysql|2017-02-18T13:12:32.0000000|2017-02-18T13:12:38.0000000|askubuntu.com|ManicTime/Documents
+1980|http://askubuntu.com/questions/172514/how-do-i-uninstall-mysql|2017-02-18T13:12:32.0000000|2017-02-18T13:13:11.0000000|askubuntu.com|ManicTime/Documents
+1981|software installation - How do I uninstall Mysql? - Ask Ubuntu - Google Chrome|2017-02-18T13:13:11.0000000|2017-02-18T13:13:23.0000000|Google Chrome|ManicTime/Applications
+1982|install mysql windows - Buscar con Google - Google Chrome|2017-02-18T13:13:23.0000000|2017-02-18T13:13:28.0000000|Google Chrome|ManicTime/Applications
+1983|uninstall mysql windows - Buscar con Google - Google Chrome|2017-02-18T13:13:28.0000000|2017-02-18T13:13:33.0000000|Google Chrome|ManicTime/Applications
+1984|XAMPP Installers and Downloads for Apache Friends - Google Chrome|2017-02-18T13:13:33.0000000|2017-02-18T13:13:41.0000000|Google Chrome|ManicTime/Applications
+1985|https://www.google.com.ec/search?q=install+mysql+windows&oq=unistall+mysql+win&aqs=chrome.1.69i57j0l5.7046j0j4&sourceid=chrome&ie=UTF-8|2017-02-18T13:13:23.0000000|2017-02-18T13:13:28.0000000|www.google.com.ec|ManicTime/Documents
+1986|https://www.google.com.ec/search?q=install+mysql+windows&oq=unistall+mysql+win&aqs=chrome.1.69i57j0l5.7046j0j4&sourceid=chrome&ie=UTF-8#q=uninstall+mysql+windows|2017-02-18T13:13:28.0000000|2017-02-18T13:13:33.0000000|www.google.com.ec|ManicTime/Documents
+1987|https://www.apachefriends.org/es/index.html|2017-02-18T13:13:33.0000000|2017-02-18T13:13:41.0000000|www.apachefriends.org|ManicTime/Documents
+1988|How to Uninstall/Clean MySQL from Windows completely - Google Chrome|2017-02-18T13:13:41.0000000|2017-02-18T13:13:55.0000000|Google Chrome|ManicTime/Applications
+1989|Nueva pestaña - Google Chrome|2017-02-18T13:13:55.0000000|2017-02-18T13:14:06.0000000|Google Chrome|ManicTime/Applications
+1990|Nueva pestaña - Google Chrome|2017-02-18T13:14:06.0000000|2017-02-18T13:14:13.0000000|Google Chrome|ManicTime/Applications
+1991|How to Uninstall/Clean MySQL from Windows completely - Google Chrome|2017-02-18T13:14:13.0000000|2017-02-18T13:15:35.0000000|Google Chrome|ManicTime/Applications
+1992|http://old.windowsvalley.com/uninstall-mysql-from-windows/|2017-02-18T13:13:41.0000000|2017-02-18T13:13:55.0000000|old.windowsvalley.com|ManicTime/Documents
+1993|https://www.google.com.ec/search?q=uninstalling+mysql+windows+7&oq=unistall+mysql+wino&aqs=chrome.1.69i57j0.6608j0j7&sourceid=chrome&ie=UTF-8|2017-02-18T13:14:06.0000000|2017-02-18T13:14:13.0000000|www.google.com.ec|ManicTime/Documents
+1994|http://old.windowsvalley.com/uninstall-mysql-from-windows/|2017-02-18T13:14:13.0000000|2017-02-18T13:15:35.0000000|old.windowsvalley.com|ManicTime/Documents
+1995|Libraries|2017-02-18T13:15:35.0000000|2017-02-18T13:15:40.0000000|Windows Explorer|ManicTime/Applications
+1996|MySQL|2017-02-18T13:15:40.0000000|2017-02-18T13:15:53.0000000|Windows Explorer|ManicTime/Applications
+1997|MySQL Workbench 6.3 CE|2017-02-18T13:15:53.0000000|2017-02-18T13:16:16.0000000|Windows Explorer|ManicTime/Applications
+1998|How to Uninstall/Clean MySQL from Windows completely - Google Chrome|2017-02-18T13:16:16.0000000|2017-02-18T13:16:28.0000000|Google Chrome|ManicTime/Applications
+1999|Start menu|2017-02-18T13:16:28.0000000|2017-02-18T13:16:35.0000000|Windows Explorer|ManicTime/Applications
+2000|Programs|2017-02-18T13:16:35.0000000|2017-02-18T13:16:41.0000000|Windows Explorer|ManicTime/Applications
+2001|Programs and Features|2017-02-18T13:16:41.0000000|2017-02-18T13:18:29.0000000|Windows Explorer|ManicTime/Applications
+2002|http://old.windowsvalley.com/uninstall-mysql-from-windows/|2017-02-18T13:16:16.0000000|2017-02-18T13:16:28.0000000|old.windowsvalley.com|ManicTime/Documents
+2003|Nueva pestaña - Google Chrome|2017-02-18T13:18:29.0000000|2017-02-18T13:18:40.0000000|Google Chrome|ManicTime/Applications
+2004|Sin título - Google Chrome|2017-02-18T13:18:40.0000000|2017-02-18T13:18:45.0000000|Google Chrome|ManicTime/Applications
+2005|Start menu|2017-02-18T13:18:45.0000000|2017-02-18T13:18:53.0000000|Windows Explorer|ManicTime/Applications
+2006|active services windows - Buscar con Google - Google Chrome|2017-02-18T13:18:53.0000000|2017-02-18T13:19:13.0000000|Google Chrome|ManicTime/Applications
+2007|running services windows command line - Buscar con Google - Google Chrome|2017-02-18T13:19:13.0000000|2017-02-18T13:19:25.0000000|Google Chrome|ManicTime/Applications
+2008|Display a list of Started Services from the Command Line (Windows) - Google Chrome|2017-02-18T13:19:25.0000000|2017-02-18T13:19:38.0000000|Google Chrome|ManicTime/Applications
+2009|https://www.google.com.ec/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwjA0db7oJrSAhUCLSYKHbL3AtIQFggbMAA&url=https:%2F%2Fmsdn.microsoft.com%2Fen-us%2Flibrary%2Faa362244(v%3Dvs.85).aspx&usg=AFQjCNHh_wYKZcmPwOWic_iwXSqyOC5m3A&bvm=bv.147448319,d.eWE&cad=rja|2017-02-18T13:18:40.0000000|2017-02-18T13:18:45.0000000|www.google.com.ec|ManicTime/Documents
+2010|https://www.google.com.ec/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=active+services+windows|2017-02-18T13:18:53.0000000|2017-02-18T13:19:13.0000000|www.google.com.ec|ManicTime/Documents
+2011|https://www.google.com.ec/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=running+services+windows+command+line|2017-02-18T13:19:13.0000000|2017-02-18T13:19:25.0000000|www.google.com.ec|ManicTime/Documents
+2012|https://www.howtogeek.com/howto/windows/display-a-list-of-started-services-from-the-command-line-windows/|2017-02-18T13:19:25.0000000|2017-02-18T13:19:38.0000000|www.howtogeek.com|ManicTime/Documents
+2013|Administrator: Command Prompt|2017-02-18T13:19:38.0000000|2017-02-18T13:20:05.0000000|Windows Command Processor|ManicTime/Applications
+2014|How to Uninstall/Clean MySQL from Windows completely - Google Chrome|2017-02-18T13:20:05.0000000|2017-02-18T13:20:37.0000000|Google Chrome|ManicTime/Applications
+2015|http://old.windowsvalley.com/uninstall-mysql-from-windows/|2017-02-18T13:20:05.0000000|2017-02-18T13:20:37.0000000|old.windowsvalley.com|ManicTime/Documents
+2016|running services windows command line - Buscar con Google - Google Chrome|2017-02-18T13:20:37.0000000|2017-02-18T13:21:04.0000000|Google Chrome|ManicTime/Applications
+2017|Command Prompt|2017-02-18T13:21:04.0000000|2017-02-18T13:21:10.0000000|Windows Command Processor|ManicTime/Applications
+2018|Start menu|2017-02-18T13:21:10.0000000|2017-02-18T13:21:33.0000000|Windows Explorer|ManicTime/Applications
+2019|Administrator: Command Prompt|2017-02-18T13:21:33.0000000|2017-02-18T13:21:42.0000000|Windows Command Processor|ManicTime/Applications
+2020|https://www.google.com.ec/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=running+services+windows+command+line|2017-02-18T13:20:37.0000000|2017-02-18T13:21:04.0000000|www.google.com.ec|ManicTime/Documents
+2021|How to Uninstall/Clean MySQL from Windows completely - Google Chrome|2017-02-18T13:21:42.0000000|2017-02-18T13:21:53.0000000|Google Chrome|ManicTime/Applications
+2022|Administrator: Command Prompt|2017-02-18T13:21:53.0000000|2017-02-18T13:23:40.0000000|Windows Command Processor|ManicTime/Applications
+2023|http://old.windowsvalley.com/uninstall-mysql-from-windows/|2017-02-18T13:21:42.0000000|2017-02-18T13:21:53.0000000|old.windowsvalley.com|ManicTime/Documents
+2024|Administrator: Command Prompt - net  stop MySQL57|2017-02-18T13:23:40.0000000|2017-02-18T13:23:46.0000000|Windows Command Processor|ManicTime/Applications
+2025|Administrator: Command Prompt|2017-02-18T13:23:46.0000000|2017-02-18T13:23:52.0000000|Windows Command Processor|ManicTime/Applications
+2026|running services windows command line - Buscar con Google - Google Chrome|2017-02-18T13:23:52.0000000|2017-02-18T13:24:24.0000000|Google Chrome|ManicTime/Applications
+2027|Display a list of Started Services from the Command Line (Windows) - Google Chrome|2017-02-18T13:24:24.0000000|2017-02-18T13:24:33.0000000|Google Chrome|ManicTime/Applications
+2028|https://www.google.com.ec/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=running+services+windows+command+line|2017-02-18T13:23:52.0000000|2017-02-18T13:24:24.0000000|www.google.com.ec|ManicTime/Documents
+2029|https://www.howtogeek.com/howto/windows/display-a-list-of-started-services-from-the-command-line-windows/|2017-02-18T13:24:24.0000000|2017-02-18T13:24:33.0000000|www.howtogeek.com|ManicTime/Documents
+2030|Nueva pestaña - Google Chrome|2017-02-18T13:24:33.0000000|2017-02-18T13:24:39.0000000|Google Chrome|ManicTime/Applications
+2031|Descargas - Google Chrome|2017-02-18T13:24:39.0000000|2017-02-18T13:24:45.0000000|Google Chrome|ManicTime/Applications
+2032|YouTube - Google Chrome|2017-02-18T13:24:45.0000000|2017-02-18T13:24:59.0000000|Google Chrome|ManicTime/Applications
+2033|Programs and Features|2017-02-18T13:24:59.0000000|2017-02-18T13:25:06.0000000|Windows Explorer|ManicTime/Applications
+2034|Start menu|2017-02-18T13:25:06.0000000|2017-02-18T13:25:18.0000000|Windows Explorer|ManicTime/Applications
+2035|Libraries|2017-02-18T13:25:18.0000000|2017-02-18T13:25:24.0000000|Windows Explorer|ManicTime/Applications
+2036|Documents|2017-02-18T13:25:24.0000000|2017-02-18T13:25:41.0000000|Windows Explorer|ManicTime/Applications
+2037|chrome://downloads/|2017-02-18T13:24:39.0000000|2017-02-18T13:24:45.0000000|downloads|ManicTime/Documents
+2038|https://www.youtube.com/|2017-02-18T13:24:45.0000000|2017-02-18T13:24:59.0000000|www.youtube.com|ManicTime/Documents
+2039|YouTube - Google Chrome|2017-02-18T13:25:41.0000000|2017-02-18T13:25:49.0000000|Google Chrome|ManicTime/Applications
+2040|Documents (Not Responding)|2017-02-18T13:25:49.0000000|2017-02-18T13:26:20.0000000|Desktop Window Manager|ManicTime/Applications
+2041|Downloads|2017-02-18T13:26:20.0000000|2017-02-18T13:26:34.0000000|Windows Explorer|ManicTime/Applications
+2043|https://www.youtube.com/|2017-02-18T13:25:41.0000000|2017-02-18T13:25:49.0000000|www.youtube.com|ManicTime/Documents
+2045|YouTube - Google Chrome|2017-02-18T13:26:34.0000000|2017-02-18T13:26:44.0000000|Google Chrome|ManicTime/Applications
+2046|Warning|2017-02-18T13:26:44.0000000|2017-02-18T13:27:03.0000000|XAMPP|ManicTime/Applications
+2047|Setup|2017-02-18T13:27:03.0000000|2017-02-18T13:27:16.0000000|XAMPP|ManicTime/Applications
+2048|Sin título - Google Chrome|2017-02-18T13:27:16.0000000|2017-02-18T13:27:22.0000000|Google Chrome|ManicTime/Applications
+2049|Setup|2017-02-18T13:27:22.0000000|2017-02-18T13:27:31.0000000|XAMPP|ManicTime/Applications
+2050|Bitnami for XAMPP Application Modules - Google Chrome|2017-02-18T13:27:31.0000000|2017-02-18T13:28:31.0000000|Google Chrome|ManicTime/Applications
+2051|https://www.youtube.com/|2017-02-18T13:26:34.0000000|2017-02-18T13:26:44.0000000|www.youtube.com|ManicTime/Documents
+2052|https://bitnami.com/stack/xampp?utm_source=bitnami&utm_medium=installer&utm_campaign=XAMPP%2BInstaller|2017-02-18T13:27:16.0000000|2017-02-18T13:27:22.0000000|bitnami.com|ManicTime/Documents
+2053|https://bitnami.com/stack/xampp?utm_source=bitnami&utm_medium=installer&utm_campaign=XAMPP%2BInstaller|2017-02-18T13:27:31.0000000|2017-02-18T13:28:31.0000000|bitnami.com|ManicTime/Documents
 
-(1945 rows affected)
+(2016 rows affected)
