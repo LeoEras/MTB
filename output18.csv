@@ -1924,7 +1924,7 @@
 1959|MySQL Notifier|2017-02-18T02:45:32.0000000|2017-02-18T02:45:36.0000000|MySQL Notifier|ManicTime/Applications
 1960|https://nodejs.org/es/|2017-02-18T02:45:16.0000000|2017-02-18T02:45:25.0000000|nodejs.org|ManicTime/Documents
 1961|Program Manager|2017-02-18T12:47:35.0000000|2017-02-18T12:51:34.0000000|Windows Explorer|ManicTime/Applications
-1962||2017-02-18T12:47:32.0000000|2017-02-18T14:12:35.0000000||ManicTime/ComputerUsage
+1962||2017-02-18T12:47:32.0000000|2017-02-18T14:27:13.0000000||ManicTime/ComputerUsage
 1963|MySQL Notifier|2017-02-18T12:51:34.0000000|2017-02-18T12:51:51.0000000|MySQL Notifier|ManicTime/Applications
 1964|Escuela Superior Politécnica del Litoral - Google Chrome|2017-02-18T12:51:51.0000000|2017-02-18T12:53:14.0000000|Google Chrome|ManicTime/Applications
 1965|http://file///C:/Users/Estudiante/Desktop/FORMS/form.html|2017-02-18T12:51:51.0000000|2017-02-18T12:53:14.0000000|file|ManicTime/Documents
@@ -2136,7 +2136,60 @@
 2177|Nueva pestaña - Google Chrome|2017-02-18T14:00:52.0000000|2017-02-18T14:00:57.0000000|Google Chrome|ManicTime/Applications
 2178|proyectoDAWIIparcial|2017-02-18T14:00:57.0000000|2017-02-18T14:07:02.0000000|Windows Explorer|ManicTime/Applications
 2179|http://file///C:/Users/Estudiante/Desktop/FORMS/form.html|2017-02-18T14:00:52.0000000|2017-02-18T14:00:57.0000000|file|ManicTime/Documents
-2180|Nueva pestaña - Google Chrome|2017-02-18T14:07:02.0000000|2017-02-18T14:12:35.0000000|Google Chrome|ManicTime/Applications
-2181|http://file///C:/Users/Estudiante/Desktop/FORMS/form.html|2017-02-18T14:07:02.0000000|2017-02-18T14:12:35.0000000|file|ManicTime/Documents
+2180|Nueva pestaña - Google Chrome|2017-02-18T14:07:02.0000000|2017-02-18T14:15:30.0000000|Google Chrome|ManicTime/Applications
+2181|http://file///C:/Users/Estudiante/Desktop/FORMS/form.html|2017-02-18T14:07:02.0000000|2017-02-18T14:15:30.0000000|file|ManicTime/Documents
+2182|Windows Explorer|2017-02-18T14:15:30.0000000|2017-02-18T14:15:35.0000000|Windows Explorer|ManicTime/Applications
+2183|untitled - Sublime Text (UNREGISTERED)|2017-02-18T14:15:35.0000000|2017-02-18T14:15:44.0000000|Sublime Text|ManicTime/Applications
+2184|Select Folder|2017-02-18T14:15:44.0000000|2017-02-18T14:15:56.0000000|Sublime Text|ManicTime/Applications
+2185|MINGW64:/c/Users/Estudiante/nodeProyects/proyectoDAWIIparcial|2017-02-18T14:15:56.0000000|2017-02-18T14:16:02.0000000|mintty|ManicTime/Applications
+2186|Sublime Text: The text editor you'll fall in love with - Google Chrome|2017-02-18T14:16:02.0000000|2017-02-18T14:16:07.0000000|Google Chrome|ManicTime/Applications
+2187|running services windows command line - Buscar con Google - Google Chrome|2017-02-18T14:16:07.0000000|2017-02-18T14:16:14.0000000|Google Chrome|ManicTime/Applications
+2188|untitled - Sublime Text (UNREGISTERED) (Not Responding)|2017-02-18T14:16:14.0000000|2017-02-18T14:16:24.0000000|Desktop Window Manager|ManicTime/Applications
+2189|YouTube - Google Chrome|2017-02-18T14:16:24.0000000|2017-02-18T14:16:29.0000000|Google Chrome|ManicTime/Applications
+2190|javiteri95/proyectoDAWIIparcial-node: aplicacion hecha en express y node.js para el proyecto de DAW II parcial - Google Chrome|2017-02-18T14:16:29.0000000|2017-02-18T14:16:34.0000000|Google Chrome|ManicTime/Applications
+2192|untitled|2017-02-18T14:15:35.0000000|2017-02-18T14:15:44.0000000|Untitled|ManicTime/Documents
+2193|https://www.sublimetext.com/|2017-02-18T14:16:02.0000000|2017-02-18T14:16:07.0000000|www.sublimetext.com|ManicTime/Documents
+2194|https://www.google.com.ec/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=running+services+windows+command+line|2017-02-18T14:16:07.0000000|2017-02-18T14:16:14.0000000|www.google.com.ec|ManicTime/Documents
+2195|https://www.youtube.com/|2017-02-18T14:16:24.0000000|2017-02-18T14:16:29.0000000|www.youtube.com|ManicTime/Documents
+2196|https://github.com/javiteri95/proyectoDAWIIparcial-node|2017-02-18T14:16:29.0000000|2017-02-18T14:16:34.0000000|github.com|ManicTime/Documents
+2197|Select Folder|2017-02-18T14:16:34.0000000|2017-02-18T14:17:06.0000000|Sublime Text|ManicTime/Applications
+2198|YouTube - Google Chrome|2017-02-18T14:17:06.0000000|2017-02-18T14:17:14.0000000|Google Chrome|ManicTime/Applications
+2199|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\app.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-18T14:17:14.0000000|2017-02-18T14:17:32.0000000|Sublime Text|ManicTime/Applications
+2200|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\package.json (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-18T14:17:32.0000000|2017-02-18T14:17:41.0000000|Sublime Text|ManicTime/Applications
+2201|https://www.youtube.com/|2017-02-18T14:17:06.0000000|2017-02-18T14:17:14.0000000|www.youtube.com|ManicTime/Documents
+2202|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\app.js|2017-02-18T14:17:14.0000000|2017-02-18T14:17:32.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\app.js|ManicTime/Documents
+2203|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\package.json|2017-02-18T14:17:32.0000000|2017-02-18T14:17:41.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\package.json|ManicTime/Documents
+2204|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\app.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-18T14:17:41.0000000|2017-02-18T14:17:50.0000000|Sublime Text|ManicTime/Applications
+2205|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\index.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-18T14:17:50.0000000|2017-02-18T14:18:20.0000000|Sublime Text|ManicTime/Applications
+2206|YouTube - Google Chrome|2017-02-18T14:18:20.0000000|2017-02-18T14:18:29.0000000|Google Chrome|ManicTime/Applications
+2207|ESPOL | Servicio de Autenticación - Google Chrome|2017-02-18T14:18:29.0000000|2017-02-18T14:18:38.0000000|Google Chrome|ManicTime/Applications
+2208|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\app.js|2017-02-18T14:17:41.0000000|2017-02-18T14:17:50.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\app.js|ManicTime/Documents
+2209|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\index.js|2017-02-18T14:17:50.0000000|2017-02-18T14:18:20.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\index.js|ManicTime/Documents
+2210|https://www.youtube.com/|2017-02-18T14:18:20.0000000|2017-02-18T14:18:29.0000000|www.youtube.com|ManicTime/Documents
+2211|https://auth.espol.edu.ec/login?service=https:%2F%2Fwww.sidweb.espol.edu.ec%2Flogin|2017-02-18T14:18:29.0000000|2017-02-18T14:18:38.0000000|auth.espol.edu.ec|ManicTime/Documents
+2212|Nueva pestaña - Google Chrome|2017-02-18T14:18:38.0000000|2017-02-18T14:18:45.0000000|Google Chrome|ManicTime/Applications
+2213|ESPOL | Servicio de Autenticación - Google Chrome|2017-02-18T14:18:45.0000000|2017-02-18T14:19:03.0000000|Google Chrome|ManicTime/Applications
+2214|Actividad reciente - Google Chrome|2017-02-18T14:19:03.0000000|2017-02-18T14:19:14.0000000|Google Chrome|ManicTime/Applications
+2215|DESARROLLO DE APLICACIONES WEB - Google Chrome|2017-02-18T14:19:14.0000000|2017-02-18T14:19:30.0000000|Google Chrome|ManicTime/Applications
+2216|Proyecto Final: DESARROLLO DE APLICACIONES WEB - Google Chrome|2017-02-18T14:19:30.0000000|2017-02-18T14:19:37.0000000|Google Chrome|ManicTime/Applications
+2217|http://sidweb.espol.edu.ec/|2017-02-18T14:18:38.0000000|2017-02-18T14:18:45.0000000|sidweb.espol.edu.ec|ManicTime/Documents
+2218|https://auth.espol.edu.ec/login?service=https:%2F%2Fwww.sidweb.espol.edu.ec%2Flogin|2017-02-18T14:18:45.0000000|2017-02-18T14:19:03.0000000|auth.espol.edu.ec|ManicTime/Documents
+2219|https://www.sidweb.espol.edu.ec/|2017-02-18T14:19:03.0000000|2017-02-18T14:19:14.0000000|www.sidweb.espol.edu.ec|ManicTime/Documents
+2220|https://www.sidweb.espol.edu.ec/courses/37728|2017-02-18T14:19:14.0000000|2017-02-18T14:19:30.0000000|www.sidweb.espol.edu.ec|ManicTime/Documents
+2221|https://www.sidweb.espol.edu.ec/courses/37728/assignments/145201|2017-02-18T14:19:30.0000000|2017-02-18T14:19:37.0000000|www.sidweb.espol.edu.ec|ManicTime/Documents
+2222|Sin título - Google Chrome|2017-02-18T14:19:37.0000000|2017-02-18T14:19:42.0000000|Google Chrome|ManicTime/Applications
+2223|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\index.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-18T14:19:42.0000000|2017-02-18T14:20:52.0000000|Sublime Text|ManicTime/Applications
+2224|http://file///C:/Users/Estudiante/Downloads/1485795174_727__ProyectoFinalDAW2016-2T.pdf|2017-02-18T14:19:37.0000000|2017-02-18T14:19:42.0000000|file|ManicTime/Documents
+2225|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\index.js|2017-02-18T14:19:42.0000000|2017-02-18T14:20:52.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\index.js|ManicTime/Documents
+2226|YouTube - Google Chrome|2017-02-18T14:20:52.0000000|2017-02-18T14:20:57.0000000|Google Chrome|ManicTime/Applications
+2227|Microsoft Word - ProyectoFinalDAW2016-2T.docx - Google Chrome|2017-02-18T14:20:57.0000000|2017-02-18T14:27:13.0000000|Google Chrome|ManicTime/Applications
+2228|https://www.youtube.com/|2017-02-18T14:20:52.0000000|2017-02-18T14:20:57.0000000|www.youtube.com|ManicTime/Documents
+2229|http://file///C:/Users/Estudiante/Downloads/1485795174_727__ProyectoFinalDAW2016-2T.pdf|2017-02-18T14:20:57.0000000|2017-02-18T14:27:13.0000000|file|ManicTime/Documents
+2230|Microsoft Word - ProyectoFinalDAW2016-2T.docx - Google Chrome|2017-02-18T15:08:56.0000000|2017-02-18T15:08:57.0000000|Google Chrome|ManicTime/Applications
+2231|Microsoft Word - ProyectoFinalDAW2016-2T.docx - Google Chrome|2017-02-18T15:08:58.0000000|2017-02-18T15:12:24.0000000|Google Chrome|ManicTime/Applications
+2232||2017-02-18T15:08:56.0000000|2017-02-18T15:08:57.0000000||ManicTime/ComputerUsage
+2233||2017-02-18T15:08:58.0000000|2017-02-18T15:12:24.0000000||ManicTime/ComputerUsage
+2234|http://file///C:/Users/Estudiante/Downloads/1485795174_727__ProyectoFinalDAW2016-2T.pdf|2017-02-18T15:08:56.0000000|2017-02-18T15:08:57.0000000|file|ManicTime/Documents
+2235|http://file///C:/Users/Estudiante/Downloads/1485795174_727__ProyectoFinalDAW2016-2T.pdf|2017-02-18T15:08:58.0000000|2017-02-18T15:12:24.0000000|file|ManicTime/Documents
 
-(2140 rows affected)
+(2193 rows affected)
