@@ -1769,7 +1769,7 @@
 1800|Node.js Setup|2017-02-17T22:58:24.0000000|2017-02-17T22:58:26.0000000|Windows Installer - Unicode|ManicTime/Applications
 1801|Node.js Setup|2017-02-17T22:58:27.0000000|2017-02-17T23:20:32.0000000|Windows Installer - Unicode|ManicTime/Applications
 1802||2017-02-17T22:58:24.0000000|2017-02-17T22:58:26.0000000||ManicTime/ComputerUsage
-1803||2017-02-17T22:58:27.0000000|2017-02-18T01:12:36.0000000||ManicTime/ComputerUsage
+1803||2017-02-17T22:58:27.0000000|2017-02-18T01:28:43.0000000||ManicTime/ComputerUsage
 1804|Windows Activation Client|2017-02-17T23:20:32.0000000|2017-02-17T23:47:37.0000000|Windows Activation Client|ManicTime/Applications
 1805|Nueva pestaña - Google Chrome|2017-02-17T23:47:37.0000000|2017-02-17T23:47:42.0000000|Google Chrome|ManicTime/Applications
 1806|http://file///C:/Users/Estudiante/Desktop/FORMS/form.html|2017-02-17T23:47:37.0000000|2017-02-17T23:47:42.0000000|file|ManicTime/Documents
@@ -1817,6 +1817,9 @@
 1850|MySQL Installer|2017-02-18T01:10:32.0000000|2017-02-18T01:11:02.0000000|MySQL Installer|ManicTime/Applications
 1851|Confirm|2017-02-18T01:11:02.0000000|2017-02-18T01:11:12.0000000|MySQL Installer|ManicTime/Applications
 1852|MySQL Installer|2017-02-18T01:11:12.0000000|2017-02-18T01:11:20.0000000|MySQL Installer|ManicTime/Applications
-1853|Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501 Setup|2017-02-18T01:11:20.0000000|2017-02-18T01:12:36.0000000|Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501|ManicTime/Applications
+1853|Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501 Setup|2017-02-18T01:11:20.0000000|2017-02-18T01:14:17.0000000|Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501|ManicTime/Applications
+1854|MySQL Installer|2017-02-18T01:14:17.0000000|2017-02-18T01:14:24.0000000|MySQL Installer|ManicTime/Applications
+1855|Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501 Setup|2017-02-18T01:14:24.0000000|2017-02-18T01:19:58.0000000|Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501|ManicTime/Applications
+1856|MySQL Installer|2017-02-18T01:19:58.0000000|2017-02-18T01:28:43.0000000|MySQL Installer|ManicTime/Applications
 
-(1820 rows affected)
+(1823 rows affected)
