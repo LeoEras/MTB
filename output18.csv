@@ -1769,7 +1769,7 @@
 1800|Node.js Setup|2017-02-17T22:58:24.0000000|2017-02-17T22:58:26.0000000|Windows Installer - Unicode|ManicTime/Applications
 1801|Node.js Setup|2017-02-17T22:58:27.0000000|2017-02-17T23:20:32.0000000|Windows Installer - Unicode|ManicTime/Applications
 1802||2017-02-17T22:58:24.0000000|2017-02-17T22:58:26.0000000||ManicTime/ComputerUsage
-1803||2017-02-17T22:58:27.0000000|2017-02-17T23:57:35.0000000||ManicTime/ComputerUsage
+1803||2017-02-17T22:58:27.0000000|2017-02-18T00:13:29.0000000||ManicTime/ComputerUsage
 1804|Windows Activation Client|2017-02-17T23:20:32.0000000|2017-02-17T23:47:37.0000000|Windows Activation Client|ManicTime/Applications
 1805|Nueva pestaña - Google Chrome|2017-02-17T23:47:37.0000000|2017-02-17T23:47:42.0000000|Google Chrome|ManicTime/Applications
 1806|http://file///C:/Users/Estudiante/Desktop/FORMS/form.html|2017-02-17T23:47:37.0000000|2017-02-17T23:47:42.0000000|file|ManicTime/Documents
@@ -1787,8 +1787,26 @@
 1818|Nueva pestaña - Google Chrome|2017-02-17T23:49:50.0000000|2017-02-17T23:49:57.0000000|Google Chrome|ManicTime/Applications
 1819|Sin título - Google Chrome|2017-02-17T23:49:57.0000000|2017-02-17T23:50:02.0000000|Google Chrome|ManicTime/Applications
 1820|adblock - Buscar con Google - Google Chrome|2017-02-17T23:50:02.0000000|2017-02-17T23:50:19.0000000|Google Chrome|ManicTime/Applications
-1821|AdBlock - Chrome Web Store - Google Chrome|2017-02-17T23:50:19.0000000|2017-02-17T23:57:35.0000000|Google Chrome|ManicTime/Applications
+1821|AdBlock - Chrome Web Store - Google Chrome|2017-02-17T23:50:19.0000000|2017-02-18T00:02:40.0000000|Google Chrome|ManicTime/Applications
 1822|https://www.google.com.ec/search?q=adblock&oq=adblock&aqs=chrome..69i57j0l5.1936j0j7&sourceid=chrome&ie=UTF-8|2017-02-17T23:50:02.0000000|2017-02-17T23:50:19.0000000|www.google.com.ec|ManicTime/Documents
-1823|https://chrome.google.com/webstore/detail/adblock/gighmmpiobklfepjocnamgkkbiglidom?hl=es-419|2017-02-17T23:50:19.0000000|2017-02-17T23:57:35.0000000|chrome.google.com|ManicTime/Documents
+1823|https://chrome.google.com/webstore/detail/adblock/gighmmpiobklfepjocnamgkkbiglidom?hl=es-419|2017-02-17T23:50:19.0000000|2017-02-18T00:02:40.0000000|chrome.google.com|ManicTime/Documents
+1824|Node.js - Google Chrome|2017-02-18T00:02:40.0000000|2017-02-18T00:02:48.0000000|Google Chrome|ManicTime/Applications
+1825|C:\Windows\system32\cmd.exe|2017-02-18T00:02:48.0000000|2017-02-18T00:03:23.0000000|Windows Command Processor|ManicTime/Applications
+1826|Libraries|2017-02-18T00:03:23.0000000|2017-02-18T00:03:30.0000000|Windows Explorer|ManicTime/Applications
+1827|https://nodejs.org/es/|2017-02-18T00:02:40.0000000|2017-02-18T00:02:48.0000000|nodejs.org|ManicTime/Documents
+1828|Documents|2017-02-18T00:03:30.0000000|2017-02-18T00:03:35.0000000|Windows Explorer|ManicTime/Applications
+1829|Chrome Web Store - Extensiones - Google Chrome|2017-02-18T00:03:35.0000000|2017-02-18T00:03:46.0000000|Google Chrome|ManicTime/Applications
+1830|Computer|2017-02-18T00:03:46.0000000|2017-02-18T00:03:58.0000000|Windows Explorer|ManicTime/Applications
+1831|Users|2017-02-18T00:03:58.0000000|2017-02-18T00:04:04.0000000|Windows Explorer|ManicTime/Applications
+1832|Estudiante|2017-02-18T00:04:04.0000000|2017-02-18T00:04:10.0000000|Windows Explorer|ManicTime/Applications
+1833|MySQL Installer - Community|2017-02-18T00:04:10.0000000|2017-02-18T00:04:16.0000000|Windows Installer - Unicode|ManicTime/Applications
+1834|Users|2017-02-18T00:04:16.0000000|2017-02-18T00:06:22.0000000|Windows Explorer|ManicTime/Applications
+1835|https://chrome.google.com/webstore/category/extensions?hl=es-419|2017-02-18T00:03:35.0000000|2017-02-18T00:03:46.0000000|chrome.google.com|ManicTime/Documents
+1836|Shortcut|2017-02-18T00:06:22.0000000|2017-02-18T00:06:27.0000000|Windows Explorer|ManicTime/Applications
+1837|Users|2017-02-18T00:06:27.0000000|2017-02-18T00:06:45.0000000|Windows Explorer|ManicTime/Applications
+1838|Windows Explorer|2017-02-18T00:06:45.0000000|2017-02-18T00:07:22.0000000|Windows Explorer|ManicTime/Applications
+1839|Angular 2 In 60 Minutes - YouTube - Google Chrome|2017-02-18T00:07:22.0000000|2017-02-18T00:08:24.0000000|Google Chrome|ManicTime/Applications
+1840|https://www.youtube.com/watch?v=-zW1zHqsdyc|2017-02-18T00:07:22.0000000|2017-02-18T00:08:24.0000000|www.youtube.com|ManicTime/Documents
+1841|MySQL Installer|2017-02-18T00:08:24.0000000|2017-02-18T00:13:29.0000000|MySQL Installer|ManicTime/Applications
 
-(1792 rows affected)
+(1810 rows affected)
