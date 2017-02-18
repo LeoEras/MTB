@@ -1,1 +1,1 @@
-false,false,false,false,,instalando lo necesario  y comenzando,,
+false,true,false,false,,programando o que hace,,
