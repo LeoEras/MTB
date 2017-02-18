@@ -2212,7 +2212,7 @@
 2254|Nueva pestaña - Google Chrome|2017-02-18T15:40:30.0000000|2017-02-18T15:40:35.0000000|Google Chrome|ManicTime/Applications
 2255|Start|2017-02-18T15:40:35.0000000|2017-02-18T15:40:40.0000000|Windows Explorer|ManicTime/Applications
 2256|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\index.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-18T15:40:40.0000000|2017-02-18T15:40:52.0000000|Sublime Text|ManicTime/Applications
-2257||2017-02-18T15:39:36.0000000|2017-02-18T15:57:42.0000000||ManicTime/ComputerUsage
+2257||2017-02-18T15:39:36.0000000|2017-02-18T16:11:52.0000000||ManicTime/ComputerUsage
 2258|http://file///C:/Users/Estudiante/Desktop/FORMS/form.html|2017-02-18T15:39:37.0000000|2017-02-18T15:40:30.0000000|file|ManicTime/Documents
 2259|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\index.js|2017-02-18T15:40:40.0000000|2017-02-18T15:40:52.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\index.js|ManicTime/Documents
 2260|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\package.json (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-18T15:40:52.0000000|2017-02-18T15:41:33.0000000|Sublime Text|ManicTime/Applications
@@ -2345,6 +2345,65 @@
 2391|untitled|2017-02-18T15:56:18.0000000|2017-02-18T15:56:25.0000000|Untitled|ManicTime/Documents
 2392|untitled|2017-02-18T15:56:25.0000000|2017-02-18T15:56:32.0000000|Untitled|ManicTime/Documents
 2393|Program Manager|2017-02-18T15:57:05.0000000|2017-02-18T15:57:23.0000000|Windows Explorer|ManicTime/Applications
-2394|Navegador por defecto|2017-02-18T15:57:23.0000000|2017-02-18T15:57:42.0000000|Firefox|ManicTime/Applications
+2394|Navegador por defecto|2017-02-18T15:57:23.0000000|2017-02-18T15:58:47.0000000|Firefox|ManicTime/Applications
+2395|Pestaña nueva - Mozilla Firefox|2017-02-18T15:58:47.0000000|2017-02-18T15:59:00.0000000|Firefox|ManicTime/Applications
+2396|Google - Mozilla Firefox|2017-02-18T15:59:00.0000000|2017-02-18T15:59:08.0000000|Firefox|ManicTime/Applications
+2397|Pestaña nueva - Mozilla Firefox|2017-02-18T15:59:08.0000000|2017-02-18T15:59:14.0000000|Firefox|ManicTime/Applications
+2398|ESPOL | Servicio de Autenticación - Mozilla Firefox|2017-02-18T15:59:14.0000000|2017-02-18T15:59:27.0000000|Firefox|ManicTime/Applications
+2399|ESPOL | Servicio de Autenticación - Mozilla Firefox|2017-02-18T15:59:27.0000000|2017-02-18T15:59:35.0000000|Firefox|ManicTime/Applications
+2400|ESPOL | Servicio de Autenticación - Mozilla Firefox|2017-02-18T15:59:35.0000000|2017-02-18T15:59:45.0000000|Firefox|ManicTime/Applications
+2401|https://www.google.com.ec/?gfe_rd=cr&ei=lrWoWKW4LvGWjgX24aSoAw&gws_rd=ssl|2017-02-18T15:59:00.0000000|2017-02-18T15:59:08.0000000|www.google.com.ec|ManicTime/Documents
+2402|https://auth.espol.edu.ec/login?service=https:%2F%2Fwww.sidweb.espol.edu.ec%2Flogin|2017-02-18T15:59:14.0000000|2017-02-18T15:59:27.0000000|auth.espol.edu.ec|ManicTime/Documents
+2403|https://auth.espol.edu.ec/login?service=https:%2F%2Fwww.sidweb.espol.edu.ec%2Flogin|2017-02-18T15:59:35.0000000|2017-02-18T15:59:45.0000000|auth.espol.edu.ec|ManicTime/Documents
+2404|ESPOL | Servicio de Autenticación - Mozilla Firefox|2017-02-18T15:59:45.0000000|2017-02-18T15:59:54.0000000|Firefox|ManicTime/Applications
+2405|Pestaña nueva - Mozilla Firefox|2017-02-18T15:59:54.0000000|2017-02-18T16:00:01.0000000|Firefox|ManicTime/Applications
+2406|¡Cuánta razón! Era necesario plasmarlo en un cartel - Mozilla Firefox|2017-02-18T16:00:01.0000000|2017-02-18T16:00:10.0000000|Firefox|ManicTime/Applications
+2407|untitled • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-18T16:00:10.0000000|2017-02-18T16:00:20.0000000|Sublime Text|ManicTime/Applications
+2408|Pestaña nueva - Mozilla Firefox|2017-02-18T16:00:20.0000000|2017-02-18T16:00:34.0000000|Firefox|ManicTime/Applications
+2409|mlab - Buscar con Google - Mozilla Firefox|2017-02-18T16:00:34.0000000|2017-02-18T16:00:39.0000000|Firefox|ManicTime/Applications
+2410|untitled • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-18T16:00:39.0000000|2017-02-18T16:01:12.0000000|Sublime Text|ManicTime/Applications
+2411|https://auth.espol.edu.ec/login;jsessionid=04953F2F7A43DBD9A8C2009B7E0ACD6D?service=https:%2F%2Fwww.sidweb.espol.edu.ec%2Flogin|2017-02-18T15:59:45.0000000|2017-02-18T15:59:54.0000000|auth.espol.edu.ec|ManicTime/Documents
+2412|http://www.cuantarazon.com/|2017-02-18T16:00:01.0000000|2017-02-18T16:00:10.0000000|www.cuantarazon.com|ManicTime/Documents
+2413|untitled|2017-02-18T16:00:10.0000000|2017-02-18T16:00:20.0000000|Untitled|ManicTime/Documents
+2414|https://www.google.com/search?q=mlab&ie=utf-8&oe=utf-8&client=firefox-b-ab&gfe_rd=cr&ei=6LWoWMCUBNS--wWO06yQCQ|2017-02-18T16:00:34.0000000|2017-02-18T16:00:39.0000000|www.google.com|ManicTime/Documents
+2415|untitled|2017-02-18T16:00:39.0000000|2017-02-18T16:01:12.0000000|Untitled|ManicTime/Documents
+2416|Descarga de Adobe Acrobat Reader DC | Visor de PDF gratuito para Windows, Mac OS y Android - Mozilla Firefox|2017-02-18T16:01:12.0000000|2017-02-18T16:01:22.0000000|Firefox|ManicTime/Applications
+2417|mlab - Buscar con Google - Mozilla Firefox|2017-02-18T16:01:22.0000000|2017-02-18T16:01:31.0000000|Firefox|ManicTime/Applications
+2418|Login | mLab - Mozilla Firefox|2017-02-18T16:01:31.0000000|2017-02-18T16:01:50.0000000|Firefox|ManicTime/Applications
+2419|https://get.adobe.com/es/reader/|2017-02-18T16:01:12.0000000|2017-02-18T16:01:22.0000000|get.adobe.com|ManicTime/Documents
+2420|https://www.google.com/search?q=mlab&ie=utf-8&oe=utf-8&client=firefox-b-ab&gfe_rd=cr&ei=6LWoWMCUBNS--wWO06yQCQ|2017-02-18T16:01:22.0000000|2017-02-18T16:01:31.0000000|www.google.com|ManicTime/Documents
+2421|https://mlab.com/login/|2017-02-18T16:01:31.0000000|2017-02-18T16:01:50.0000000|mlab.com|ManicTime/Documents
+2422|mLab: Cloud-hosted MongoDB - Mozilla Firefox|2017-02-18T16:01:50.0000000|2017-02-18T16:02:00.0000000|Firefox|ManicTime/Applications
+2423|mLab: Cloud-hosted MongoDB - Mozilla Firefox|2017-02-18T16:02:00.0000000|2017-02-18T16:02:10.0000000|Firefox|ManicTime/Applications
+2424|untitled • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-18T16:02:10.0000000|2017-02-18T16:02:17.0000000|Sublime Text|ManicTime/Applications
+2425|mLab: Cloud-hosted MongoDB - Mozilla Firefox|2017-02-18T16:02:17.0000000|2017-02-18T16:02:32.0000000|Firefox|ManicTime/Applications
+2426|untitled • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-18T16:02:32.0000000|2017-02-18T16:03:38.0000000|Sublime Text|ManicTime/Applications
+2427|https://mlab.com/home?newLogin=1|2017-02-18T16:01:50.0000000|2017-02-18T16:02:00.0000000|mlab.com|ManicTime/Documents
+2428|https://mlab.com/databases/proyecto_daw|2017-02-18T16:02:00.0000000|2017-02-18T16:02:10.0000000|mlab.com|ManicTime/Documents
+2429|untitled|2017-02-18T16:02:10.0000000|2017-02-18T16:02:17.0000000|Untitled|ManicTime/Documents
+2430|https://mlab.com/databases/proyecto_daw|2017-02-18T16:02:17.0000000|2017-02-18T16:02:32.0000000|mlab.com|ManicTime/Documents
+2431|untitled|2017-02-18T16:02:32.0000000|2017-02-18T16:03:38.0000000|Untitled|ManicTime/Documents
+2432|Pestaña nueva - Mozilla Firefox|2017-02-18T16:03:38.0000000|2017-02-18T16:03:45.0000000|Firefox|ManicTime/Applications
+2433|Pestaña nueva - Mozilla Firefox|2017-02-18T16:03:45.0000000|2017-02-18T16:03:55.0000000|Firefox|ManicTime/Applications
+2434|https://get.adobe.com/es/reader/|2017-02-18T16:03:45.0000000|2017-02-18T16:03:55.0000000|get.adobe.com|ManicTime/Documents
+2435|untitled • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-18T16:03:55.0000000|2017-02-18T16:04:08.0000000|Sublime Text|ManicTime/Applications
+2436|Descarga de Adobe Acrobat Reader DC | Visor de PDF gratuito para Windows, Mac OS y Android - Mozilla Firefox|2017-02-18T16:04:08.0000000|2017-02-18T16:05:43.0000000|Firefox|ManicTime/Applications
+2437|untitled|2017-02-18T16:03:55.0000000|2017-02-18T16:04:08.0000000|Untitled|ManicTime/Documents
+2438|https://get.adobe.com/es/reader/|2017-02-18T16:04:08.0000000|2017-02-18T16:05:43.0000000|get.adobe.com|ManicTime/Documents
+2439|Pestaña nueva - Mozilla Firefox|2017-02-18T16:05:43.0000000|2017-02-18T16:05:48.0000000|Firefox|ManicTime/Applications
+2440|untitled • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-18T16:05:48.0000000|2017-02-18T16:07:38.0000000|Sublime Text|ManicTime/Applications
+2441|untitled|2017-02-18T16:05:48.0000000|2017-02-18T16:07:38.0000000|Untitled|ManicTime/Documents
+2442|Pestaña nueva - Mozilla Firefox|2017-02-18T16:07:38.0000000|2017-02-18T16:07:58.0000000|Firefox|ManicTime/Applications
+2443|untitled • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-18T16:07:58.0000000|2017-02-18T16:08:23.0000000|Sublime Text|ManicTime/Applications
+2444|mongoose express - Buscar con Google - Mozilla Firefox|2017-02-18T16:08:23.0000000|2017-02-18T16:08:35.0000000|Firefox|ManicTime/Applications
+2445|Build a RESTful API Using Node and Express 4 | Scotch - Mozilla Firefox|2017-02-18T16:08:35.0000000|2017-02-18T16:11:14.0000000|Firefox|ManicTime/Applications
+2446|untitled|2017-02-18T16:07:58.0000000|2017-02-18T16:08:23.0000000|Untitled|ManicTime/Documents
+2447|https://www.google.com/search?q=mongoose+express&ie=utf-8&oe=utf-8&client=firefox-b-ab&gfe_rd=cr&ei=uLeoWM6dGZK_-wWx6YSQBw|2017-02-18T16:08:23.0000000|2017-02-18T16:08:35.0000000|www.google.com|ManicTime/Documents
+2448|https://scotch.io/tutorials/build-a-restful-api-using-node-and-express-4|2017-02-18T16:08:35.0000000|2017-02-18T16:11:14.0000000|scotch.io|ManicTime/Documents
+2449|Descarga de Adobe Acrobat Reader DC | Visor de PDF gratuito para Windows, Mac OS y Android - Mozilla Firefox|2017-02-18T16:11:14.0000000|2017-02-18T16:11:19.0000000|Firefox|ManicTime/Applications
+2450|mongoose express mlab - Buscar con Google - Mozilla Firefox|2017-02-18T16:11:19.0000000|2017-02-18T16:11:39.0000000|Firefox|ManicTime/Applications
+2451|Abriendo readerdc_es_ka_install.exe|2017-02-18T16:11:39.0000000|2017-02-18T16:11:52.0000000|Firefox|ManicTime/Applications
+2452|https://get.adobe.com/es/reader/|2017-02-18T16:11:14.0000000|2017-02-18T16:11:19.0000000|get.adobe.com|ManicTime/Documents
+2453|https://www.google.com/search?sclient=psy-ab&client=firefox-b-ab&q=mongoose+express+mlab&oq=mongoose+express+mlab&gs_l=serp.3..33i160k1l2.22792.23879.0.24584.5.5.0.0.0.0.1217.2858.5-1j0j2.3.0....0...1c.1.64.psy-ab..2.3.2845...0j0i22i30k1.egseNw6EZwQ&pbx=1&bav=on.2,or.&bvm=bv.147448319,d.eWE&biw=1920&bih=939&ech=1&psi=uLeoWM2TNsXKmwGB1pGACA.1487452088656.3&ei=uLeoWM2TNsXKmwGB1pGACA&emsg=NCSR&noj=1&gfe_rd=cr|2017-02-18T16:11:19.0000000|2017-02-18T16:11:39.0000000|www.google.com|ManicTime/Documents
 
-(2348 rows affected)
+(2407 rows affected)
