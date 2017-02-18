@@ -1884,7 +1884,44 @@
 1919|npm|2017-02-18T01:55:42.0000000|2017-02-18T01:55:49.0000000|Windows Command Processor|ManicTime/Applications
 1920|Command Prompt|2017-02-18T01:55:49.0000000|2017-02-18T02:03:42.0000000|Windows Command Processor|ManicTime/Applications
 1921|Command Prompt|2017-02-18T01:58:12.0000000|2017-02-18T02:08:38.0000000|Windows Command Processor|ManicTime/Applications
-1922||2017-02-18T01:58:12.0000000|2017-02-18T02:27:26.0000000||ManicTime/ComputerUsage
-1923|nodejs|2017-02-18T02:08:38.0000000|2017-02-18T02:27:26.0000000|Windows Explorer|ManicTime/Applications
+1922||2017-02-18T01:58:12.0000000|2017-02-18T02:45:36.0000000||ManicTime/ComputerUsage
+1923|nodejs|2017-02-18T02:08:38.0000000|2017-02-18T02:32:11.0000000|Windows Explorer|ManicTime/Applications
+1924|Windows Explorer|2017-02-18T02:32:11.0000000|2017-02-18T02:32:41.0000000|Windows Explorer|ManicTime/Applications
+1925|Estudiante|2017-02-18T02:32:41.0000000|2017-02-18T02:32:47.0000000|Windows Explorer|ManicTime/Applications
+1926|Windows Explorer|2017-02-18T02:32:47.0000000|2017-02-18T02:32:52.0000000|Windows Explorer|ManicTime/Applications
+1927|Windows PowerShell|2017-02-18T02:32:52.0000000|2017-02-18T02:33:04.0000000|Windows PowerShell|ManicTime/Applications
+1928|Nueva pestaña - Google Chrome|2017-02-18T02:33:04.0000000|2017-02-18T02:33:11.0000000|Google Chrome|ManicTime/Applications
+1929|Generador de aplicaciones Express - Google Chrome|2017-02-18T02:33:11.0000000|2017-02-18T02:33:24.0000000|Google Chrome|ManicTime/Applications
+1930|Windows PowerShell|2017-02-18T02:33:24.0000000|2017-02-18T02:34:14.0000000|Windows PowerShell|ManicTime/Applications
+1931|https://www.google.com.ec/search?q=express+generator&oq=express+generator&aqs=chrome..69i57j0l5.4003j0j7&sourceid=chrome&ie=UTF-8|2017-02-18T02:33:04.0000000|2017-02-18T02:33:11.0000000|www.google.com.ec|ManicTime/Documents
+1932|http://expressjs.com/es/starter/generator.html|2017-02-18T02:33:11.0000000|2017-02-18T02:33:24.0000000|expressjs.com|ManicTime/Documents
+1933|08 - Installing npm packages globally | npm Documentation - Google Chrome|2017-02-18T02:34:14.0000000|2017-02-18T02:34:20.0000000|Google Chrome|ManicTime/Applications
+1934|Generador de aplicaciones Express - Google Chrome|2017-02-18T02:34:20.0000000|2017-02-18T02:34:31.0000000|Google Chrome|ManicTime/Applications
+1935|https://docs.npmjs.com/getting-started/installing-npm-packages-globally|2017-02-18T02:34:14.0000000|2017-02-18T02:34:20.0000000|docs.npmjs.com|ManicTime/Documents
+1936|http://expressjs.com/es/starter/generator.html|2017-02-18T02:34:20.0000000|2017-02-18T02:34:31.0000000|expressjs.com|ManicTime/Documents
+1937|Windows PowerShell|2017-02-18T02:34:31.0000000|2017-02-18T02:36:02.0000000|Windows PowerShell|ManicTime/Applications
+1938|npm|2017-02-18T02:36:02.0000000|2017-02-18T02:36:13.0000000|Windows PowerShell|ManicTime/Applications
+1939|Windows PowerShell|2017-02-18T02:36:13.0000000|2017-02-18T02:36:35.0000000|Windows PowerShell|ManicTime/Applications
+1940|Descargas - Google Chrome|2017-02-18T02:36:35.0000000|2017-02-18T02:36:41.0000000|Google Chrome|ManicTime/Applications
+1941|Generador de aplicaciones Express - Google Chrome|2017-02-18T02:36:41.0000000|2017-02-18T02:36:49.0000000|Google Chrome|ManicTime/Applications
+1942|Nueva pestaña - Google Chrome|2017-02-18T02:36:49.0000000|2017-02-18T02:36:55.0000000|Google Chrome|ManicTime/Applications
+1943|Nueva pestaña - Google Chrome|2017-02-18T02:36:55.0000000|2017-02-18T02:37:00.0000000|Google Chrome|ManicTime/Applications
+1944|save npm - Buscar con Google - Google Chrome|2017-02-18T02:37:00.0000000|2017-02-18T02:37:11.0000000|Google Chrome|ManicTime/Applications
+1945|Windows PowerShell|2017-02-18T02:37:11.0000000|2017-02-18T02:37:30.0000000|Windows PowerShell|ManicTime/Applications
+1946|chrome://downloads/|2017-02-18T02:36:35.0000000|2017-02-18T02:36:41.0000000|downloads|ManicTime/Documents
+1947|http://expressjs.com/es/starter/generator.html|2017-02-18T02:36:41.0000000|2017-02-18T02:36:49.0000000|expressjs.com|ManicTime/Documents
+1948|https://www.google.com.ec/search?q=save+npm&oq=save+npm&aqs=chrome..69i57j0l5.5745j0j7&sourceid=chrome&ie=UTF-8|2017-02-18T02:36:55.0000000|2017-02-18T02:37:00.0000000|www.google.com.ec|ManicTime/Documents
+1949|https://www.google.com.ec/search?q=save+npm&oq=save+npm&aqs=chrome..69i57j0l5.5745j0j7&sourceid=chrome&ie=UTF-8|2017-02-18T02:37:00.0000000|2017-02-18T02:37:11.0000000|www.google.com.ec|ManicTime/Documents
+1950|node.js - What is the --save option for npm install? - Stack Overflow - Google Chrome|2017-02-18T02:37:30.0000000|2017-02-18T02:37:39.0000000|Google Chrome|ManicTime/Applications
+1951|Windows PowerShell|2017-02-18T02:37:39.0000000|2017-02-18T02:37:46.0000000|Windows PowerShell|ManicTime/Applications
+1952|npm|2017-02-18T02:37:46.0000000|2017-02-18T02:38:13.0000000|Windows PowerShell|ManicTime/Applications
+1953|Windows PowerShell|2017-02-18T02:38:13.0000000|2017-02-18T02:38:30.0000000|Windows PowerShell|ManicTime/Applications
+1954|npm|2017-02-18T02:38:30.0000000|2017-02-18T02:38:42.0000000|Windows PowerShell|ManicTime/Applications
+1955|Windows PowerShell|2017-02-18T02:38:42.0000000|2017-02-18T02:45:16.0000000|Windows PowerShell|ManicTime/Applications
+1956|http://stackoverflow.com/questions/19578796/what-is-the-save-option-for-npm-install|2017-02-18T02:37:30.0000000|2017-02-18T02:37:39.0000000|stackoverflow.com|ManicTime/Documents
+1957|Node.js - Google Chrome|2017-02-18T02:45:16.0000000|2017-02-18T02:45:25.0000000|Google Chrome|ManicTime/Applications
+1958|Start menu|2017-02-18T02:45:25.0000000|2017-02-18T02:45:32.0000000|Windows Explorer|ManicTime/Applications
+1959|MySQL Notifier|2017-02-18T02:45:32.0000000|2017-02-18T02:45:36.0000000|MySQL Notifier|ManicTime/Applications
+1960|https://nodejs.org/es/|2017-02-18T02:45:16.0000000|2017-02-18T02:45:25.0000000|nodejs.org|ManicTime/Documents
 
-(1888 rows affected)
+(1925 rows affected)
