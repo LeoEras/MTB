@@ -1690,7 +1690,7 @@
 1716|Start menu|2017-02-12T00:34:57.0000000|2017-02-12T00:35:03.0000000|Windows Explorer|ManicTime/Applications
 1717|Sin título - Google Chrome|2017-02-17T19:01:57.0000000|2017-02-17T19:02:03.0000000|Google Chrome|ManicTime/Applications
 1718|Escuela Superior Politécnica del Litoral - Google Chrome|2017-02-17T19:02:03.0000000|2017-02-17T19:06:58.0000000|Google Chrome|ManicTime/Applications
-1719||2017-02-17T19:01:55.0000000|2017-02-17T20:57:13.0000000||ManicTime/ComputerUsage
+1719||2017-02-17T19:01:55.0000000|2017-02-17T21:12:11.0000000||ManicTime/ComputerUsage
 1720|http://file///C:/Users/Estudiante/Desktop/FORMS/form.html|2017-02-17T19:01:57.0000000|2017-02-17T19:02:03.0000000|file|ManicTime/Documents
 1721|http://file///C:/Users/Estudiante/Desktop/FORMS/form.html|2017-02-17T19:02:03.0000000|2017-02-17T19:06:58.0000000|file|ManicTime/Documents
 1722|Escuela Superior Politécnica del Litoral - Google Chrome|2017-02-17T19:06:58.0000000|2017-02-17T19:07:07.0000000|Google Chrome|ManicTime/Applications
@@ -1755,6 +1755,14 @@
 1786|https://dev.mysql.com/downloads/installer/|2017-02-17T20:41:15.0000000|2017-02-17T20:42:11.0000000|dev.mysql.com|ManicTime/Documents
 1787|MySQL :: Begin Your Download - mysql-installer-community-5.7.17.0.msi - Google Chrome|2017-02-17T20:42:11.0000000|2017-02-17T20:51:37.0000000|Google Chrome|ManicTime/Applications
 1788|https://dev.mysql.com/downloads/file/?id=467606|2017-02-17T20:42:11.0000000|2017-02-17T20:51:37.0000000|dev.mysql.com|ManicTime/Documents
-1789|Windows Activation Client|2017-02-17T20:51:37.0000000|2017-02-17T20:57:13.0000000|Windows Activation Client|ManicTime/Applications
+1789|Windows Activation Client|2017-02-17T20:51:37.0000000|2017-02-17T21:03:56.0000000|Windows Activation Client|ManicTime/Applications
+1790|Nueva pestaña - Google Chrome|2017-02-17T21:03:56.0000000|2017-02-17T21:04:01.0000000|Google Chrome|ManicTime/Applications
+1791|Nueva pestaña - Google Chrome|2017-02-17T21:04:01.0000000|2017-02-17T21:04:07.0000000|Google Chrome|ManicTime/Applications
+1792|Node.js - Google Chrome|2017-02-17T21:04:07.0000000|2017-02-17T21:04:20.0000000|Google Chrome|ManicTime/Applications
+1793|https://www.google.com.ec/search?q=node+js&oq=node+&aqs=chrome.1.69i57j0l5.4816j0j7&sourceid=chrome&ie=UTF-8|2017-02-17T21:04:01.0000000|2017-02-17T21:04:07.0000000|www.google.com.ec|ManicTime/Documents
+1794|https://nodejs.org/es/|2017-02-17T21:04:07.0000000|2017-02-17T21:04:20.0000000|nodejs.org|ManicTime/Documents
+1795|Programs and Features|2017-02-17T21:04:20.0000000|2017-02-17T21:04:29.0000000|Windows Explorer|ManicTime/Applications
+1796|Nueva pestaña - Google Chrome|2017-02-17T21:04:29.0000000|2017-02-17T21:12:11.0000000|Google Chrome|ManicTime/Applications
+1797|http://file///C:/Users/Estudiante/Desktop/FORMS/form.html|2017-02-17T21:04:29.0000000|2017-02-17T21:12:11.0000000|file|ManicTime/Documents
 
-(1758 rows affected)
+(1766 rows affected)
