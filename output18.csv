@@ -2649,7 +2649,7 @@
 2696|Program Manager|2017-02-19T16:07:54.0000000|2017-02-19T16:23:15.0000000|Windows Explorer|ManicTime/Applications
 2697||2017-02-19T16:07:54.0000000|2017-02-19T16:23:15.0000000||ManicTime/ComputerUsage
 2698|Program Manager|2017-02-19T16:43:20.0000000|2017-02-19T16:58:22.0000000|Windows Explorer|ManicTime/Applications
-2699||2017-02-19T16:43:20.0000000|2017-02-19T18:13:26.0000000||ManicTime/ComputerUsage
+2699||2017-02-19T16:43:20.0000000|2017-02-19T18:09:26.0000000||ManicTime/ComputerUsage
 2700|Estudiante|2017-02-19T16:58:22.0000000|2017-02-19T16:58:41.0000000|Windows Explorer|ManicTime/Applications
 2701|nodeProyects|2017-02-19T16:58:41.0000000|2017-02-19T16:59:11.0000000|Windows Explorer|ManicTime/Applications
 2702|proyectoDAWIIparcial|2017-02-19T16:59:11.0000000|2017-02-19T16:59:20.0000000|Windows Explorer|ManicTime/Applications
@@ -2786,7 +2786,8 @@
 2833|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|2017-02-19T18:04:38.0000000|2017-02-19T18:04:50.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|ManicTime/Documents
 2834|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js|2017-02-19T18:04:50.0000000|2017-02-19T18:05:20.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js|ManicTime/Documents
 2835|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\models\usuario.js|2017-02-19T18:05:20.0000000|2017-02-19T18:05:38.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\models\usuario.js|ManicTime/Documents
-2836|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-19T18:05:38.0000000|2017-02-19T18:13:26.0000000|Sublime Text|ManicTime/Applications
-2837|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|2017-02-19T18:05:38.0000000|2017-02-19T18:13:26.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|ManicTime/Documents
+2836|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-19T18:05:38.0000000|2017-02-19T18:09:26.0000000|Sublime Text|ManicTime/Applications
+2837|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|2017-02-19T18:05:38.0000000|2017-02-19T18:09:26.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|ManicTime/Documents
+2838||2017-02-19T18:09:26.0000000|2017-02-19T18:27:26.0000000||ManicTime/ComputerUsage
 
-(2790 rows affected)
+(2791 rows affected)
