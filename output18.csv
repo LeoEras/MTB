@@ -2649,7 +2649,14 @@
 2696|Program Manager|2017-02-19T16:07:54.0000000|2017-02-19T16:23:15.0000000|Windows Explorer|ManicTime/Applications
 2697||2017-02-19T16:07:54.0000000|2017-02-19T16:23:15.0000000||ManicTime/ComputerUsage
 2698|Program Manager|2017-02-19T16:43:20.0000000|2017-02-19T16:58:22.0000000|Windows Explorer|ManicTime/Applications
-2699||2017-02-19T16:43:20.0000000|2017-02-19T16:58:26.0000000||ManicTime/ComputerUsage
-2700|Estudiante|2017-02-19T16:58:22.0000000|2017-02-19T16:58:26.0000000|Windows Explorer|ManicTime/Applications
+2699||2017-02-19T16:43:20.0000000|2017-02-19T17:12:27.0000000||ManicTime/ComputerUsage
+2700|Estudiante|2017-02-19T16:58:22.0000000|2017-02-19T16:58:41.0000000|Windows Explorer|ManicTime/Applications
+2701|nodeProyects|2017-02-19T16:58:41.0000000|2017-02-19T16:59:11.0000000|Windows Explorer|ManicTime/Applications
+2702|proyectoDAWIIparcial|2017-02-19T16:59:11.0000000|2017-02-19T16:59:20.0000000|Windows Explorer|ManicTime/Applications
+2703|/usr/bin/bash --login -i|2017-02-19T16:59:20.0000000|2017-02-19T16:59:31.0000000|mintty|ManicTime/Applications
+2704|MINGW64:/c/Users/Estudiante/nodeProyects/proyectoDAWIIparcial|2017-02-19T16:59:31.0000000|2017-02-19T17:07:13.0000000|mintty|ManicTime/Applications
+2705|Start menu|2017-02-19T17:07:13.0000000|2017-02-19T17:07:22.0000000|Windows Explorer|ManicTime/Applications
+2706|C:\Users\Estudiante\nodeProyects\Proyecto-DAW\codigo crear-editar ejercicios.txt (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-19T17:07:22.0000000|2017-02-19T17:12:27.0000000|Sublime Text|ManicTime/Applications
+2707|C:\Users\Estudiante\nodeProyects\Proyecto-DAW\codigo crear-editar ejercicios.txt|2017-02-19T17:07:22.0000000|2017-02-19T17:12:27.0000000|C:\Users\Estudiante\nodeProyects\Proyecto-DAW\codigo crear-editar ejercicios.txt|ManicTime/Documents
 
-(2653 rows affected)
+(2660 rows affected)
