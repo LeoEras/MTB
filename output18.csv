@@ -2862,7 +2862,7 @@
 2911||2017-02-21T13:57:57.0000000|2017-02-21T14:58:15.0000000||ManicTime/ComputerUsage
 2915|Windows Activation Client|2017-02-21T14:58:15.0000000|2017-02-21T14:58:24.0000000|Windows Activation Client|ManicTime/Applications
 2916|C:\Users\Estudiante\nodeProyects\practica-express\public\js\script.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-21T14:58:24.0000000|2017-02-21T15:00:20.0000000|Sublime Text|ManicTime/Applications
-2917||2017-02-21T14:58:15.0000000|2017-02-21T15:14:29.0000000||ManicTime/ComputerUsage
+2917||2017-02-21T14:58:15.0000000|2017-02-21T15:29:30.0000000||ManicTime/ComputerUsage
 2918|C:\Users\Estudiante\nodeProyects\practica-express\public\js\script.js|2017-02-21T14:58:24.0000000|2017-02-21T15:00:20.0000000|C:\Users\Estudiante\nodeProyects\practica-express\public\js\script.js|ManicTime/Documents
 2919|npm|2017-02-21T15:00:20.0000000|2017-02-21T15:00:57.0000000|Windows PowerShell|ManicTime/Applications
 2920|Windows PowerShell|2017-02-21T15:00:57.0000000|2017-02-21T15:01:24.0000000|Windows PowerShell|ManicTime/Applications
@@ -2888,7 +2888,26 @@
 2940|Copy File|2017-02-21T15:11:22.0000000|2017-02-21T15:11:40.0000000|Windows Explorer|ManicTime/Applications
 2941|Copying 3.788 items (161 MB)|2017-02-21T15:11:40.0000000|2017-02-21T15:11:52.0000000|Windows Explorer|ManicTime/Applications
 2942|nodeProyects|2017-02-21T15:11:52.0000000|2017-02-21T15:13:20.0000000|Windows Explorer|ManicTime/Applications
-2943|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-21T15:13:20.0000000|2017-02-21T15:14:29.0000000|Sublime Text|ManicTime/Applications
-2944|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|2017-02-21T15:13:20.0000000|2017-02-21T15:14:29.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|ManicTime/Documents
+2943|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-21T15:13:20.0000000|2017-02-21T15:16:31.0000000|Sublime Text|ManicTime/Applications
+2944|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|2017-02-21T15:13:20.0000000|2017-02-21T15:16:31.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|ManicTime/Documents
+2945|Documents|2017-02-21T15:16:31.0000000|2017-02-21T15:16:37.0000000|Windows Explorer|ManicTime/Applications
+2946|Downloads|2017-02-21T15:16:37.0000000|2017-02-21T15:20:01.0000000|Windows Explorer|ManicTime/Applications
+2947|nodeProyects|2017-02-21T15:20:01.0000000|2017-02-21T15:20:14.0000000|Windows Explorer|ManicTime/Applications
+2948|Adobe Acrobat Reader DC|2017-02-21T15:20:14.0000000|2017-02-21T15:20:22.0000000|Adobe Acrobat Reader DC|ManicTime/Applications
+2949|1485795174_727__ProyectoFinalDAW2016-2T.pdf - Adobe Acrobat Reader DC|2017-02-21T15:20:22.0000000|2017-02-21T15:20:41.0000000|Adobe Acrobat Reader DC|ManicTime/Applications
+2950|1485795174_727__ProyectoFinalDAW2016-2T.pdf|2017-02-21T15:20:22.0000000|2017-02-21T15:20:41.0000000|1485795174_727__ProyectoFinalDAW2016-2T.pdf|ManicTime/Documents
+2951|Le damos la bienvenida a Adobe Acrobat Reader DC|2017-02-21T15:20:41.0000000|2017-02-21T15:21:38.0000000|Adobe Acrobat Reader DC|ManicTime/Applications
+2952|1485795174_727__ProyectoFinalDAW2016-2T.pdf - Adobe Acrobat Reader DC|2017-02-21T15:21:38.0000000|2017-02-21T15:21:58.0000000|Adobe Acrobat Reader DC|ManicTime/Applications
+2954|1485795174_727__ProyectoFinalDAW2016-2T.pdf|2017-02-21T15:21:38.0000000|2017-02-21T15:21:58.0000000|1485795174_727__ProyectoFinalDAW2016-2T.pdf|ManicTime/Documents
+2955|Login form shake effect - Google Chrome|2017-02-21T15:21:58.0000000|2017-02-21T15:22:04.0000000|Google Chrome|ManicTime/Applications
+2956|Bootstrap - Google Chrome|2017-02-21T15:22:04.0000000|2017-02-21T15:23:44.0000000|Google Chrome|ManicTime/Applications
+2957|http://localhost:3000/usuario|2017-02-21T15:21:58.0000000|2017-02-21T15:22:04.0000000|localhost|ManicTime/Documents
+2958|https://datatables.net/manual/styling/bootstrap|2017-02-21T15:22:04.0000000|2017-02-21T15:23:44.0000000|datatables.net|ManicTime/Documents
+2959|Manual - Google Chrome|2017-02-21T15:23:44.0000000|2017-02-21T15:24:17.0000000|Google Chrome|ManicTime/Applications
+2960|DataTables examples - Examples index - Google Chrome|2017-02-21T15:24:17.0000000|2017-02-21T15:24:22.0000000|Google Chrome|ManicTime/Applications
+2961|DataTables | Table plug-in for jQuery - Google Chrome|2017-02-21T15:24:22.0000000|2017-02-21T15:29:30.0000000|Google Chrome|ManicTime/Applications
+2962|https://datatables.net/manual/index|2017-02-21T15:23:44.0000000|2017-02-21T15:24:17.0000000|datatables.net|ManicTime/Documents
+2963|https://datatables.net/examples/index|2017-02-21T15:24:17.0000000|2017-02-21T15:24:22.0000000|datatables.net|ManicTime/Documents
+2964|https://datatables.net/|2017-02-21T15:24:22.0000000|2017-02-21T15:29:30.0000000|datatables.net|ManicTime/Documents
 
-(2892 rows affected)
+(2911 rows affected)
