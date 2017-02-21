@@ -1,1 +1,1 @@
-false,true,false,true,,programando o que hace (parte login),,cambiando ram a 6
+false,true,false,false,,probando con mas procesadores,,

@@ -2846,13 +2846,22 @@
 2895|Estudiante|2017-02-21T13:53:45.0000000|2017-02-21T13:54:05.0000000|Windows Explorer|ManicTime/Applications
 2896|proyectoDAWIIparcial|2017-02-21T13:54:05.0000000|2017-02-21T13:54:13.0000000|Windows Explorer|ManicTime/Applications
 2897|MINGW64:/c/Users/Estudiante/nodeProyects/proyectoDAWIIparcial|2017-02-21T13:54:13.0000000|2017-02-21T13:54:48.0000000|mintty|ManicTime/Applications
-2898||2017-02-21T13:53:45.0000000|2017-02-21T13:56:45.0000000||ManicTime/ComputerUsage
+2898||2017-02-21T13:53:45.0000000|2017-02-21T13:57:57.0000000||ManicTime/ComputerUsage
 2899|proyectoDAWIIparcial|2017-02-21T13:54:48.0000000|2017-02-21T13:55:03.0000000|Windows Explorer|ManicTime/Applications
 2900|Windows PowerShell|2017-02-21T13:55:03.0000000|2017-02-21T13:55:46.0000000|Windows PowerShell|ManicTime/Applications
 2901|npm|2017-02-21T13:55:46.0000000|2017-02-21T13:55:56.0000000|Windows PowerShell|ManicTime/Applications
 2902|Windows PowerShell|2017-02-21T13:55:56.0000000|2017-02-21T13:56:01.0000000|Windows PowerShell|ManicTime/Applications
 2903|Nueva pestaña - Google Chrome|2017-02-21T13:56:01.0000000|2017-02-21T13:56:09.0000000|Google Chrome|ManicTime/Applications
-2904|Login form shake effect - Google Chrome|2017-02-21T13:56:09.0000000|2017-02-21T13:56:45.0000000|Google Chrome|ManicTime/Applications
-2905|http://localhost:3000/|2017-02-21T13:56:09.0000000|2017-02-21T13:56:45.0000000|localhost|ManicTime/Documents
+2904|Login form shake effect - Google Chrome|2017-02-21T13:56:09.0000000|2017-02-21T13:56:55.0000000|Google Chrome|ManicTime/Applications
+2905|http://localhost:3000/|2017-02-21T13:56:09.0000000|2017-02-21T13:56:55.0000000|localhost|ManicTime/Documents
+2906|npm|2017-02-21T13:56:55.0000000|2017-02-21T13:57:17.0000000|Windows PowerShell|ManicTime/Applications
+2907|Windows PowerShell|2017-02-21T13:57:17.0000000|2017-02-21T13:57:22.0000000|Windows PowerShell|ManicTime/Applications
+2908|npm|2017-02-21T13:57:22.0000000|2017-02-21T13:57:40.0000000|Windows PowerShell|ManicTime/Applications
+2909|C:\Users\Estudiante\nodeProyects\practica-express\public\js\script.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-21T13:57:40.0000000|2017-02-21T13:57:57.0000000|Sublime Text|ManicTime/Applications
+2910|C:\Users\Estudiante\nodeProyects\practica-express\public\js\script.js|2017-02-21T13:57:40.0000000|2017-02-21T13:57:57.0000000|C:\Users\Estudiante\nodeProyects\practica-express\public\js\script.js|ManicTime/Documents
+2911||2017-02-21T13:57:57.0000000|2017-02-21T14:08:20.0000000||ManicTime/ComputerUsage
+2912|C:\Users\Estudiante\nodeProyects\practica-express\public\js\script.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-21T14:08:20.0000000|2017-02-21T14:12:03.0000000|Sublime Text|ManicTime/Applications
+2913||2017-02-21T14:08:20.0000000|2017-02-21T14:12:03.0000000||ManicTime/ComputerUsage
+2914|C:\Users\Estudiante\nodeProyects\practica-express\public\js\script.js|2017-02-21T14:08:20.0000000|2017-02-21T14:12:03.0000000|C:\Users\Estudiante\nodeProyects\practica-express\public\js\script.js|ManicTime/Documents
 
-(2856 rows affected)
+(2865 rows affected)
