@@ -3545,7 +3545,7 @@
 3616|Start menu|2017-02-22T10:00:29.0000000|2017-02-22T10:00:34.0000000|Windows Explorer|ManicTime/Applications
 3617|Sin título - Google Chrome|2017-02-22T11:15:50.0000000|2017-02-22T11:16:01.0000000|Google Chrome|ManicTime/Applications
 3618|Escuela Superior Politécnica del Litoral - Google Chrome|2017-02-22T11:16:01.0000000|2017-02-22T11:20:51.0000000|Google Chrome|ManicTime/Applications
-3619||2017-02-22T11:15:48.0000000|2017-02-22T11:56:42.0000000||ManicTime/ComputerUsage
+3619||2017-02-22T11:15:48.0000000|2017-02-22T11:57:10.0000000||ManicTime/ComputerUsage
 3620|http://file///C:/Users/Estudiante/Desktop/FORMS/form.html|2017-02-22T11:15:50.0000000|2017-02-22T11:16:01.0000000|file|ManicTime/Documents
 3621|http://file///C:/Users/Estudiante/Desktop/FORMS/form.html|2017-02-22T11:16:01.0000000|2017-02-22T11:20:51.0000000|file|ManicTime/Documents
 3622|Start|2017-02-22T11:20:51.0000000|2017-02-22T11:21:19.0000000|Windows Explorer|ManicTime/Applications
@@ -3627,8 +3627,13 @@
 3700|javascript - How do I update/upsert a document in Mongoose? - Stack Overflow - Google Chrome|2017-02-22T11:54:47.0000000|2017-02-22T11:55:55.0000000|Google Chrome|ManicTime/Applications
 3701|http://stackoverflow.com/questions/7267102/how-do-i-update-upsert-a-document-in-mongoose|2017-02-22T11:54:47.0000000|2017-02-22T11:55:55.0000000|stackoverflow.com|ManicTime/Documents
 3702|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\models\usuario.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-22T11:55:55.0000000|2017-02-22T11:56:04.0000000|Sublime Text|ManicTime/Applications
-3703|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-22T11:56:04.0000000|2017-02-22T11:56:42.0000000|Sublime Text|ManicTime/Applications
+3703|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-22T11:56:04.0000000|2017-02-22T11:57:04.0000000|Sublime Text|ManicTime/Applications
 3704|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\models\usuario.js|2017-02-22T11:55:55.0000000|2017-02-22T11:56:04.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\models\usuario.js|ManicTime/Documents
-3705|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js|2017-02-22T11:56:04.0000000|2017-02-22T11:56:42.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js|ManicTime/Documents
+3705|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js|2017-02-22T11:56:04.0000000|2017-02-22T11:57:04.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js|ManicTime/Documents
+3706|Nueva pestaña - Google Chrome|2017-02-22T11:57:04.0000000|2017-02-22T11:57:10.0000000|Google Chrome|ManicTime/Applications
+3707||2017-02-22T11:57:10.0000000|2017-02-22T12:08:24.0000000||ManicTime/ComputerUsage
+3708|Nueva pestaña - Google Chrome|2017-02-22T12:40:13.0000000|2017-02-22T12:41:57.0000000|Google Chrome|ManicTime/Applications
+3709||2017-02-22T12:40:11.0000000|2017-02-22T12:40:12.0000000||ManicTime/ComputerUsage
+3710||2017-02-22T12:40:13.0000000|2017-02-22T12:41:57.0000000||ManicTime/ComputerUsage
 
-(3632 rows affected)
+(3637 rows affected)
