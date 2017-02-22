@@ -3400,7 +3400,7 @@
 3464|Node.js Login System With Passport - Part 2 - YouTube - Google Chrome|2017-02-22T07:39:08.0000000|2017-02-22T07:39:16.0000000|Google Chrome|ManicTime/Applications
 3465|MINGW64:/c/Users/Estudiante/nodeProyects/proyectoDAWIIparcial|2017-02-22T07:39:16.0000000|2017-02-22T07:40:00.0000000|mintty|ManicTime/Applications
 3466|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-22T07:40:00.0000000|2017-02-22T07:40:09.0000000|Sublime Text|ManicTime/Applications
-3467||2017-02-22T07:39:08.0000000|2017-02-22T07:43:09.0000000||ManicTime/ComputerUsage
+3467||2017-02-22T07:39:08.0000000|2017-02-22T07:58:10.0000000||ManicTime/ComputerUsage
 3468|https://www.youtube.com/watch?v=OnuC3VtEQks|2017-02-22T07:39:08.0000000|2017-02-22T07:39:16.0000000|www.youtube.com|ManicTime/Documents
 3469|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|2017-02-22T07:40:00.0000000|2017-02-22T07:40:09.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|ManicTime/Documents
 3470|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-22T07:40:09.0000000|2017-02-22T07:40:27.0000000|Sublime Text|ManicTime/Applications
@@ -3416,9 +3416,33 @@
 3480|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js|2017-02-22T07:41:30.0000000|2017-02-22T07:41:45.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js|ManicTime/Documents
 3481|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-22T07:41:45.0000000|2017-02-22T07:42:01.0000000|Sublime Text|ManicTime/Applications
 3482|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-22T07:42:01.0000000|2017-02-22T07:42:15.0000000|Sublime Text|ManicTime/Applications
-3483|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-22T07:42:15.0000000|2017-02-22T07:43:09.0000000|Sublime Text|ManicTime/Applications
+3483|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-22T07:42:15.0000000|2017-02-22T07:43:28.0000000|Sublime Text|ManicTime/Applications
 3484|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|2017-02-22T07:41:45.0000000|2017-02-22T07:42:01.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|ManicTime/Documents
 3485|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|2017-02-22T07:42:01.0000000|2017-02-22T07:42:15.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|ManicTime/Documents
-3486|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|2017-02-22T07:42:15.0000000|2017-02-22T07:43:09.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|ManicTime/Documents
+3486|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|2017-02-22T07:42:15.0000000|2017-02-22T07:43:28.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|ManicTime/Documents
+3487|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-22T07:43:28.0000000|2017-02-22T07:43:34.0000000|Sublime Text|ManicTime/Applications
+3488|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-22T07:43:34.0000000|2017-02-22T07:45:46.0000000|Sublime Text|ManicTime/Applications
+3489|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|2017-02-22T07:43:28.0000000|2017-02-22T07:43:34.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|ManicTime/Documents
+3490|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|2017-02-22T07:43:34.0000000|2017-02-22T07:45:46.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|ManicTime/Documents
+3491|C:\Users\Estudiante\nodeProyects\practica-express\views\index.ejs (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-22T07:45:46.0000000|2017-02-22T07:46:42.0000000|Sublime Text|ManicTime/Applications
+3492|C:\Users\Estudiante\nodeProyects\practica-express\views\index.ejs|2017-02-22T07:45:46.0000000|2017-02-22T07:46:42.0000000|C:\Users\Estudiante\nodeProyects\practica-express\views\index.ejs|ManicTime/Documents
+3493|C:\Users\Estudiante\nodeProyects\practica-express\routes\index.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-22T07:46:42.0000000|2017-02-22T07:46:52.0000000|Sublime Text|ManicTime/Applications
+3494|C:\Users\Estudiante\nodeProyects\practica-express\views\index.ejs (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-22T07:46:52.0000000|2017-02-22T07:46:57.0000000|Sublime Text|ManicTime/Applications
+3495|C:\Users\Estudiante\nodeProyects\practica-express\app.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-22T07:46:57.0000000|2017-02-22T07:47:16.0000000|Sublime Text|ManicTime/Applications
+3496|C:\Users\Estudiante\nodeProyects\practica-express\views\index.ejs (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-22T07:47:16.0000000|2017-02-22T07:47:24.0000000|Sublime Text|ManicTime/Applications
+3497|C:\Users\Estudiante\nodeProyects\practica-express\routes\index.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-22T07:47:24.0000000|2017-02-22T07:47:34.0000000|Sublime Text|ManicTime/Applications
+3498|C:\Users\Estudiante\nodeProyects\practica-express\views\index.ejs (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-22T07:47:34.0000000|2017-02-22T07:53:26.0000000|Sublime Text|ManicTime/Applications
+3499|C:\Users\Estudiante\nodeProyects\practica-express\routes\index.js|2017-02-22T07:46:42.0000000|2017-02-22T07:46:52.0000000|C:\Users\Estudiante\nodeProyects\practica-express\routes\index.js|ManicTime/Documents
+3500|C:\Users\Estudiante\nodeProyects\practica-express\views\index.ejs|2017-02-22T07:46:52.0000000|2017-02-22T07:46:57.0000000|C:\Users\Estudiante\nodeProyects\practica-express\views\index.ejs|ManicTime/Documents
+3501|C:\Users\Estudiante\nodeProyects\practica-express\app.js|2017-02-22T07:46:57.0000000|2017-02-22T07:47:16.0000000|C:\Users\Estudiante\nodeProyects\practica-express\app.js|ManicTime/Documents
+3502|C:\Users\Estudiante\nodeProyects\practica-express\views\index.ejs|2017-02-22T07:47:16.0000000|2017-02-22T07:47:24.0000000|C:\Users\Estudiante\nodeProyects\practica-express\views\index.ejs|ManicTime/Documents
+3503|C:\Users\Estudiante\nodeProyects\practica-express\routes\index.js|2017-02-22T07:47:24.0000000|2017-02-22T07:47:34.0000000|C:\Users\Estudiante\nodeProyects\practica-express\routes\index.js|ManicTime/Documents
+3504|C:\Users\Estudiante\nodeProyects\practica-express\views\index.ejs|2017-02-22T07:47:34.0000000|2017-02-22T07:53:26.0000000|C:\Users\Estudiante\nodeProyects\practica-express\views\index.ejs|ManicTime/Documents
+3505|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-22T07:53:26.0000000|2017-02-22T07:53:42.0000000|Sublime Text|ManicTime/Applications
+3506|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|2017-02-22T07:53:26.0000000|2017-02-22T07:53:42.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|ManicTime/Documents
+3507|C:\Users\Estudiante\nodeProyects\practica-express\views\index.ejs (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-22T07:53:42.0000000|2017-02-22T07:54:27.0000000|Sublime Text|ManicTime/Applications
+3508|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-22T07:54:27.0000000|2017-02-22T07:58:10.0000000|Sublime Text|ManicTime/Applications
+3509|C:\Users\Estudiante\nodeProyects\practica-express\views\index.ejs|2017-02-22T07:53:42.0000000|2017-02-22T07:54:27.0000000|C:\Users\Estudiante\nodeProyects\practica-express\views\index.ejs|ManicTime/Documents
+3510|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|2017-02-22T07:54:27.0000000|2017-02-22T07:58:10.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|ManicTime/Documents
 
-(3422 rows affected)
+(3446 rows affected)
