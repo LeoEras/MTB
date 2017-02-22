@@ -3037,7 +3037,7 @@
 3092|Program Manager|2017-02-21T20:00:23.0000000|2017-02-21T20:01:08.0000000|Windows Explorer|ManicTime/Applications
 3093|Sin título - Google Chrome|2017-02-21T20:01:08.0000000|2017-02-21T20:01:18.0000000|Google Chrome|ManicTime/Applications
 3094|Escuela Superior Politécnica del Litoral - Google Chrome|2017-02-21T20:01:18.0000000|2017-02-21T20:04:42.0000000|Google Chrome|ManicTime/Applications
-3095||2017-02-21T20:00:21.0000000|2017-02-21T20:57:09.0000000||ManicTime/ComputerUsage
+3095||2017-02-21T20:00:21.0000000|2017-02-21T21:12:04.0000000||ManicTime/ComputerUsage
 3096|http://file///C:/Users/Estudiante/Desktop/FORMS/form.html|2017-02-21T20:01:08.0000000|2017-02-21T20:01:18.0000000|file|ManicTime/Documents
 3097|http://file///C:/Users/Estudiante/Desktop/FORMS/form.html|2017-02-21T20:01:18.0000000|2017-02-21T20:04:42.0000000|file|ManicTime/Documents
 3098|Historial - Google Chrome|2017-02-21T20:04:42.0000000|2017-02-21T20:04:52.0000000|Google Chrome|ManicTime/Applications
@@ -3190,8 +3190,38 @@
 3247|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|2017-02-21T20:56:04.0000000|2017-02-21T20:56:12.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|ManicTime/Documents
 3248|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-21T20:56:12.0000000|2017-02-21T20:56:47.0000000|Sublime Text|ManicTime/Applications
 3249|npm|2017-02-21T20:56:47.0000000|2017-02-21T20:57:05.0000000|Windows PowerShell|ManicTime/Applications
-3250|Login form shake effect - Google Chrome|2017-02-21T20:57:05.0000000|2017-02-21T20:57:09.0000000|Google Chrome|ManicTime/Applications
 3251|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|2017-02-21T20:56:12.0000000|2017-02-21T20:56:47.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|ManicTime/Documents
-3252|http://localhost:3000/|2017-02-21T20:57:05.0000000|2017-02-21T20:57:09.0000000|localhost|ManicTime/Documents
+3253|localhost:3000/usuario - Google Chrome|2017-02-21T20:57:05.0000000|2017-02-21T20:57:28.0000000|Google Chrome|ManicTime/Applications
+3254|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-21T20:57:28.0000000|2017-02-21T20:58:05.0000000|Sublime Text|ManicTime/Applications
+3255|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-21T20:58:05.0000000|2017-02-21T20:58:53.0000000|Sublime Text|ManicTime/Applications
+3256|http://localhost:3000/usuario|2017-02-21T20:57:05.0000000|2017-02-21T20:57:28.0000000|localhost|ManicTime/Documents
+3257|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js|2017-02-21T20:57:28.0000000|2017-02-21T20:58:05.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js|ManicTime/Documents
+3258|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js|2017-02-21T20:58:05.0000000|2017-02-21T20:58:53.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js|ManicTime/Documents
+3259|npm|2017-02-21T20:58:53.0000000|2017-02-21T20:59:13.0000000|Windows PowerShell|ManicTime/Applications
+3260|Login form shake effect - Google Chrome|2017-02-21T20:59:13.0000000|2017-02-21T20:59:18.0000000|Google Chrome|ManicTime/Applications
+3261|localhost:3000/usuario - Google Chrome|2017-02-21T20:59:18.0000000|2017-02-21T20:59:45.0000000|Google Chrome|ManicTime/Applications
+3262|npm|2017-02-21T20:59:45.0000000|2017-02-21T20:59:53.0000000|Windows PowerShell|ManicTime/Applications
+3263|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-21T20:59:53.0000000|2017-02-21T21:00:12.0000000|Sublime Text|ManicTime/Applications
+3264|http://localhost:3000/|2017-02-21T20:59:13.0000000|2017-02-21T20:59:18.0000000|localhost|ManicTime/Documents
+3265|http://localhost:3000/usuario|2017-02-21T20:59:18.0000000|2017-02-21T20:59:45.0000000|localhost|ManicTime/Documents
+3266|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js|2017-02-21T20:59:53.0000000|2017-02-21T21:00:12.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js|ManicTime/Documents
+3267|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-21T21:00:12.0000000|2017-02-21T21:00:23.0000000|Sublime Text|ManicTime/Applications
+3268|Nueva pestaña - Google Chrome|2017-02-21T21:00:23.0000000|2017-02-21T21:00:38.0000000|Google Chrome|ManicTime/Applications
+3269|node.js - Passing Variable with EJS Templating - Stack Overflow - Google Chrome|2017-02-21T21:00:38.0000000|2017-02-21T21:02:21.0000000|Google Chrome|ManicTime/Applications
+3270|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js|2017-02-21T21:00:12.0000000|2017-02-21T21:00:23.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js|ManicTime/Documents
+3271|http://stackoverflow.com/questions/25596615/passing-variable-with-ejs-templating|2017-02-21T21:00:38.0000000|2017-02-21T21:02:21.0000000|stackoverflow.com|ManicTime/Documents
+3272|localhost:3000/usuario - Google Chrome|2017-02-21T21:02:21.0000000|2017-02-21T21:02:49.0000000|Google Chrome|ManicTime/Applications
+3273|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-21T21:02:49.0000000|2017-02-21T21:02:55.0000000|Sublime Text|ManicTime/Applications
+3274|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-21T21:02:55.0000000|2017-02-21T21:03:14.0000000|Sublime Text|ManicTime/Applications
+3275|http://localhost:3000/usuario|2017-02-21T21:02:21.0000000|2017-02-21T21:02:49.0000000|localhost|ManicTime/Documents
+3276|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js|2017-02-21T21:02:49.0000000|2017-02-21T21:02:55.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js|ManicTime/Documents
+3277|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|2017-02-21T21:02:55.0000000|2017-02-21T21:03:14.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|ManicTime/Documents
+3278|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-21T21:03:14.0000000|2017-02-21T21:04:06.0000000|Sublime Text|ManicTime/Applications
+3279|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js|2017-02-21T21:03:14.0000000|2017-02-21T21:04:06.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js|ManicTime/Documents
+3280|npm|2017-02-21T21:04:06.0000000|2017-02-21T21:04:13.0000000|Windows PowerShell|ManicTime/Applications
+3281|Login form shake effect - Google Chrome|2017-02-21T21:04:13.0000000|2017-02-21T21:04:21.0000000|Google Chrome|ManicTime/Applications
+3282|Login form shake effect - Google Chrome|2017-02-21T21:04:21.0000000|2017-02-21T21:12:04.0000000|Google Chrome|ManicTime/Applications
+3283|http://localhost:3000/|2017-02-21T21:04:13.0000000|2017-02-21T21:04:21.0000000|localhost|ManicTime/Documents
+3284|http://localhost:3000/usuario|2017-02-21T21:04:21.0000000|2017-02-21T21:12:04.0000000|localhost|ManicTime/Documents
 
-(3195 rows affected)
+(3225 rows affected)
