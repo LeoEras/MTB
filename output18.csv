@@ -3447,7 +3447,7 @@
 3512||2017-02-22T08:02:53.0000000|2017-02-22T08:12:59.0000000||ManicTime/ComputerUsage
 3513|Windows Activation Client|2017-02-22T08:12:59.0000000|2017-02-22T08:13:09.0000000|Windows Activation Client|ManicTime/Applications
 3514|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-22T08:13:09.0000000|2017-02-22T08:19:23.0000000|Sublime Text|ManicTime/Applications
-3515||2017-02-22T08:12:59.0000000|2017-02-22T08:42:11.0000000||ManicTime/ComputerUsage
+3515||2017-02-22T08:12:59.0000000|2017-02-22T08:56:59.0000000||ManicTime/ComputerUsage
 3516|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|2017-02-22T08:13:09.0000000|2017-02-22T08:19:23.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|ManicTime/Documents
 3517|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-22T08:19:23.0000000|2017-02-22T08:24:06.0000000|Sublime Text|ManicTime/Applications
 3518|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js|2017-02-22T08:19:23.0000000|2017-02-22T08:24:06.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js|ManicTime/Documents
@@ -3477,7 +3477,25 @@
 3542|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-22T08:39:16.0000000|2017-02-22T08:41:25.0000000|Sublime Text|ManicTime/Applications
 3543|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js|2017-02-22T08:39:08.0000000|2017-02-22T08:39:16.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js|ManicTime/Documents
 3544|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js|2017-02-22T08:39:16.0000000|2017-02-22T08:41:25.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js|ManicTime/Documents
-3545|jquery - How to pass parameters in $ajax POST? - Stack Overflow - Google Chrome|2017-02-22T08:41:25.0000000|2017-02-22T08:42:11.0000000|Google Chrome|ManicTime/Applications
-3546|http://stackoverflow.com/questions/18697034/how-to-pass-parameters-in-ajax-post|2017-02-22T08:41:25.0000000|2017-02-22T08:42:11.0000000|stackoverflow.com|ManicTime/Documents
+3545|jquery - How to pass parameters in $ajax POST? - Stack Overflow - Google Chrome|2017-02-22T08:41:25.0000000|2017-02-22T08:51:32.0000000|Google Chrome|ManicTime/Applications
+3546|http://stackoverflow.com/questions/18697034/how-to-pass-parameters-in-ajax-post|2017-02-22T08:41:25.0000000|2017-02-22T08:51:32.0000000|stackoverflow.com|ManicTime/Documents
+3547|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-22T08:51:32.0000000|2017-02-22T08:51:51.0000000|Sublime Text|ManicTime/Applications
+3548|C:\Users\Estudiante\nodeProyects\practica-express\public\js\script.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-22T08:51:51.0000000|2017-02-22T08:52:00.0000000|Sublime Text|ManicTime/Applications
+3549|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js|2017-02-22T08:51:32.0000000|2017-02-22T08:51:51.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js|ManicTime/Documents
+3550|C:\Users\Estudiante\nodeProyects\practica-express\public\js\script.js|2017-02-22T08:51:51.0000000|2017-02-22T08:52:00.0000000|C:\Users\Estudiante\nodeProyects\practica-express\public\js\script.js|ManicTime/Documents
+3551|C:\Users\Estudiante\nodeProyects\practica-express\routes\tareas.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-22T08:52:00.0000000|2017-02-22T08:53:03.0000000|Sublime Text|ManicTime/Applications
+3552|C:\Users\Estudiante\nodeProyects\practica-express\routes\tareas.js|2017-02-22T08:52:00.0000000|2017-02-22T08:53:03.0000000|C:\Users\Estudiante\nodeProyects\practica-express\routes\tareas.js|ManicTime/Documents
+3553|a referencing to a modal - Buscar con Google - Google Chrome|2017-02-22T08:53:03.0000000|2017-02-22T08:53:08.0000000|Google Chrome|ManicTime/Applications
+3554|jquery - How to pass parameters in $ajax POST? - Stack Overflow - Google Chrome|2017-02-22T08:53:08.0000000|2017-02-22T08:54:16.0000000|Google Chrome|ManicTime/Applications
+3555|https://www.google.com.ec/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=a+referencing+to+a+modal|2017-02-22T08:53:03.0000000|2017-02-22T08:53:08.0000000|www.google.com.ec|ManicTime/Documents
+3556|http://stackoverflow.com/questions/18697034/how-to-pass-parameters-in-ajax-post|2017-02-22T08:53:08.0000000|2017-02-22T08:54:16.0000000|stackoverflow.com|ManicTime/Documents
+3557|C:\Users\Estudiante\nodeProyects\practica-express\routes\tareas.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-22T08:54:16.0000000|2017-02-22T08:54:42.0000000|Sublime Text|ManicTime/Applications
+3558|C:\Users\Estudiante\nodeProyects\practica-express\public\js\script.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-22T08:54:42.0000000|2017-02-22T08:55:25.0000000|Sublime Text|ManicTime/Applications
+3559|C:\Users\Estudiante\nodeProyects\practica-express\routes\tareas.js|2017-02-22T08:54:16.0000000|2017-02-22T08:54:42.0000000|C:\Users\Estudiante\nodeProyects\practica-express\routes\tareas.js|ManicTime/Documents
+3560|C:\Users\Estudiante\nodeProyects\practica-express\public\js\script.js|2017-02-22T08:54:42.0000000|2017-02-22T08:55:25.0000000|C:\Users\Estudiante\nodeProyects\practica-express\public\js\script.js|ManicTime/Documents
+3561|C:\Users\Estudiante\nodeProyects\practica-express\routes\tareas.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-22T08:55:25.0000000|2017-02-22T08:55:41.0000000|Sublime Text|ManicTime/Applications
+3562|C:\Users\Estudiante\nodeProyects\practica-express\public\js\script.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-22T08:55:41.0000000|2017-02-22T08:56:59.0000000|Sublime Text|ManicTime/Applications
+3563|C:\Users\Estudiante\nodeProyects\practica-express\routes\tareas.js|2017-02-22T08:55:25.0000000|2017-02-22T08:55:41.0000000|C:\Users\Estudiante\nodeProyects\practica-express\routes\tareas.js|ManicTime/Documents
+3564|C:\Users\Estudiante\nodeProyects\practica-express\public\js\script.js|2017-02-22T08:55:41.0000000|2017-02-22T08:56:59.0000000|C:\Users\Estudiante\nodeProyects\practica-express\public\js\script.js|ManicTime/Documents
 
-(3481 rows affected)
+(3499 rows affected)
