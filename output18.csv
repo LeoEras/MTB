@@ -3447,7 +3447,7 @@
 3512||2017-02-22T08:02:53.0000000|2017-02-22T08:12:59.0000000||ManicTime/ComputerUsage
 3513|Windows Activation Client|2017-02-22T08:12:59.0000000|2017-02-22T08:13:09.0000000|Windows Activation Client|ManicTime/Applications
 3514|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-22T08:13:09.0000000|2017-02-22T08:19:23.0000000|Sublime Text|ManicTime/Applications
-3515||2017-02-22T08:12:59.0000000|2017-02-22T08:56:59.0000000||ManicTime/ComputerUsage
+3515||2017-02-22T08:12:59.0000000|2017-02-22T09:11:56.0000000||ManicTime/ComputerUsage
 3516|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|2017-02-22T08:13:09.0000000|2017-02-22T08:19:23.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|ManicTime/Documents
 3517|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-22T08:19:23.0000000|2017-02-22T08:24:06.0000000|Sublime Text|ManicTime/Applications
 3518|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js|2017-02-22T08:19:23.0000000|2017-02-22T08:24:06.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js|ManicTime/Documents
@@ -3494,8 +3494,16 @@
 3559|C:\Users\Estudiante\nodeProyects\practica-express\routes\tareas.js|2017-02-22T08:54:16.0000000|2017-02-22T08:54:42.0000000|C:\Users\Estudiante\nodeProyects\practica-express\routes\tareas.js|ManicTime/Documents
 3560|C:\Users\Estudiante\nodeProyects\practica-express\public\js\script.js|2017-02-22T08:54:42.0000000|2017-02-22T08:55:25.0000000|C:\Users\Estudiante\nodeProyects\practica-express\public\js\script.js|ManicTime/Documents
 3561|C:\Users\Estudiante\nodeProyects\practica-express\routes\tareas.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-22T08:55:25.0000000|2017-02-22T08:55:41.0000000|Sublime Text|ManicTime/Applications
-3562|C:\Users\Estudiante\nodeProyects\practica-express\public\js\script.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-22T08:55:41.0000000|2017-02-22T08:56:59.0000000|Sublime Text|ManicTime/Applications
+3562|C:\Users\Estudiante\nodeProyects\practica-express\public\js\script.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-22T08:55:41.0000000|2017-02-22T09:03:32.0000000|Sublime Text|ManicTime/Applications
 3563|C:\Users\Estudiante\nodeProyects\practica-express\routes\tareas.js|2017-02-22T08:55:25.0000000|2017-02-22T08:55:41.0000000|C:\Users\Estudiante\nodeProyects\practica-express\routes\tareas.js|ManicTime/Documents
-3564|C:\Users\Estudiante\nodeProyects\practica-express\public\js\script.js|2017-02-22T08:55:41.0000000|2017-02-22T08:56:59.0000000|C:\Users\Estudiante\nodeProyects\practica-express\public\js\script.js|ManicTime/Documents
+3564|C:\Users\Estudiante\nodeProyects\practica-express\public\js\script.js|2017-02-22T08:55:41.0000000|2017-02-22T09:03:32.0000000|C:\Users\Estudiante\nodeProyects\practica-express\public\js\script.js|ManicTime/Documents
+3565|C:\Users\Estudiante\nodeProyects\practica-express\routes\tareas.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-22T09:03:32.0000000|2017-02-22T09:03:48.0000000|Sublime Text|ManicTime/Applications
+3566|C:\Users\Estudiante\nodeProyects\practica-express\public\js\script.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-22T09:03:48.0000000|2017-02-22T09:03:57.0000000|Sublime Text|ManicTime/Applications
+3567|C:\Users\Estudiante\nodeProyects\practica-express\routes\tareas.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-22T09:03:57.0000000|2017-02-22T09:04:38.0000000|Sublime Text|ManicTime/Applications
+3568|C:\Users\Estudiante\nodeProyects\practica-express\routes\tareas.js|2017-02-22T09:03:32.0000000|2017-02-22T09:03:48.0000000|C:\Users\Estudiante\nodeProyects\practica-express\routes\tareas.js|ManicTime/Documents
+3569|C:\Users\Estudiante\nodeProyects\practica-express\public\js\script.js|2017-02-22T09:03:48.0000000|2017-02-22T09:03:57.0000000|C:\Users\Estudiante\nodeProyects\practica-express\public\js\script.js|ManicTime/Documents
+3570|C:\Users\Estudiante\nodeProyects\practica-express\routes\tareas.js|2017-02-22T09:03:57.0000000|2017-02-22T09:04:38.0000000|C:\Users\Estudiante\nodeProyects\practica-express\routes\tareas.js|ManicTime/Documents
+3571|jquery - How to pass parameters in $ajax POST? - Stack Overflow - Google Chrome|2017-02-22T09:04:38.0000000|2017-02-22T09:11:56.0000000|Google Chrome|ManicTime/Applications
+3572|http://stackoverflow.com/questions/18697034/how-to-pass-parameters-in-ajax-post|2017-02-22T09:04:38.0000000|2017-02-22T09:11:56.0000000|stackoverflow.com|ManicTime/Documents
 
-(3499 rows affected)
+(3507 rows affected)
