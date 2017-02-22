@@ -3037,7 +3037,7 @@
 3092|Program Manager|2017-02-21T20:00:23.0000000|2017-02-21T20:01:08.0000000|Windows Explorer|ManicTime/Applications
 3093|Sin título - Google Chrome|2017-02-21T20:01:08.0000000|2017-02-21T20:01:18.0000000|Google Chrome|ManicTime/Applications
 3094|Escuela Superior Politécnica del Litoral - Google Chrome|2017-02-21T20:01:18.0000000|2017-02-21T20:04:42.0000000|Google Chrome|ManicTime/Applications
-3095||2017-02-21T20:00:21.0000000|2017-02-21T20:26:20.0000000||ManicTime/ComputerUsage
+3095||2017-02-21T20:00:21.0000000|2017-02-21T20:42:16.0000000||ManicTime/ComputerUsage
 3096|http://file///C:/Users/Estudiante/Desktop/FORMS/form.html|2017-02-21T20:01:08.0000000|2017-02-21T20:01:18.0000000|file|ManicTime/Documents
 3097|http://file///C:/Users/Estudiante/Desktop/FORMS/form.html|2017-02-21T20:01:18.0000000|2017-02-21T20:04:42.0000000|file|ManicTime/Documents
 3098|Historial - Google Chrome|2017-02-21T20:04:42.0000000|2017-02-21T20:04:52.0000000|Google Chrome|ManicTime/Applications
@@ -3088,9 +3088,68 @@
 3143|http://stackoverflow.com/questions/16174182/typescript-looping-through-a-dictionary|2017-02-21T20:22:30.0000000|2017-02-21T20:23:03.0000000|stackoverflow.com|ManicTime/Documents
 3144|Nueva pestaña - Google Chrome|2017-02-21T20:25:33.0000000|2017-02-21T20:25:38.0000000|Google Chrome|ManicTime/Applications
 3145|Google - Google Chrome|2017-02-21T20:25:38.0000000|2017-02-21T20:25:43.0000000|Google Chrome|ManicTime/Applications
-3146|.find() | jQuery API Documentation - Google Chrome|2017-02-21T20:25:43.0000000|2017-02-21T20:26:20.0000000|Google Chrome|ManicTime/Applications
+3146|.find() | jQuery API Documentation - Google Chrome|2017-02-21T20:25:43.0000000|2017-02-21T20:27:15.0000000|Google Chrome|ManicTime/Applications
 3147|http://getadblock.com/|2017-02-21T20:25:33.0000000|2017-02-21T20:25:38.0000000|getadblock.com|ManicTime/Documents
 3148|https://www.google.com.ec/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8|2017-02-21T20:25:38.0000000|2017-02-21T20:25:43.0000000|www.google.com.ec|ManicTime/Documents
-3149|https://api.jquery.com/find/|2017-02-21T20:25:43.0000000|2017-02-21T20:26:20.0000000|api.jquery.com|ManicTime/Documents
+3149|https://api.jquery.com/find/|2017-02-21T20:25:43.0000000|2017-02-21T20:27:15.0000000|api.jquery.com|ManicTime/Documents
+3150|Selecting Elements | jQuery Learning Center - Google Chrome|2017-02-21T20:27:15.0000000|2017-02-21T20:27:54.0000000|Google Chrome|ManicTime/Applications
+3151|https://learn.jquery.com/using-jquery-core/selecting-elements/|2017-02-21T20:27:15.0000000|2017-02-21T20:27:54.0000000|learn.jquery.com|ManicTime/Documents
+3152|jquery - Get a specific tag - Stack Overflow - Google Chrome|2017-02-21T20:27:54.0000000|2017-02-21T20:29:31.0000000|Google Chrome|ManicTime/Applications
+3153|http://stackoverflow.com/questions/36384305/get-a-specific-tag|2017-02-21T20:27:54.0000000|2017-02-21T20:29:31.0000000|stackoverflow.com|ManicTime/Documents
+3154|Nueva pestaña - Google Chrome|2017-02-21T20:29:31.0000000|2017-02-21T20:29:47.0000000|Google Chrome|ManicTime/Applications
+3155|ejs iterate over an dict - Buscar con Google - Google Chrome|2017-02-21T20:29:47.0000000|2017-02-21T20:29:56.0000000|Google Chrome|ManicTime/Applications
+3156|node.js - Inside Express/EJS templates, what is cleanest way to loop through an array? - Stack Overflow - Google Chrome|2017-02-21T20:29:56.0000000|2017-02-21T20:30:18.0000000|Google Chrome|ManicTime/Applications
+3157|https://www.google.com.ec/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=ejs+iterate+over+an+dict|2017-02-21T20:29:47.0000000|2017-02-21T20:29:56.0000000|www.google.com.ec|ManicTime/Documents
+3158|http://stackoverflow.com/questions/16153384/inside-express-ejs-templates-what-is-cleanest-way-to-loop-through-an-array|2017-02-21T20:29:56.0000000|2017-02-21T20:30:18.0000000|stackoverflow.com|ManicTime/Documents
+3159|javascript - TypeScript, Looping through a dictionary - Stack Overflow - Google Chrome|2017-02-21T20:30:18.0000000|2017-02-21T20:30:29.0000000|Google Chrome|ManicTime/Applications
+3160|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\models\usuario.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-21T20:30:29.0000000|2017-02-21T20:30:35.0000000|Sublime Text|ManicTime/Applications
+3161|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-21T20:30:35.0000000|2017-02-21T20:30:46.0000000|Sublime Text|ManicTime/Applications
+3162|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-21T20:30:46.0000000|2017-02-21T20:31:52.0000000|Sublime Text|ManicTime/Applications
+3163|http://stackoverflow.com/questions/16174182/typescript-looping-through-a-dictionary|2017-02-21T20:30:18.0000000|2017-02-21T20:30:29.0000000|stackoverflow.com|ManicTime/Documents
+3164|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\models\usuario.js|2017-02-21T20:30:29.0000000|2017-02-21T20:30:35.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\models\usuario.js|ManicTime/Documents
+3165|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|2017-02-21T20:30:35.0000000|2017-02-21T20:30:46.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|ManicTime/Documents
+3166|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|2017-02-21T20:30:46.0000000|2017-02-21T20:31:52.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|ManicTime/Documents
+3167|javascript - TypeScript, Looping through a dictionary - Stack Overflow - Google Chrome|2017-02-21T20:31:52.0000000|2017-02-21T20:32:01.0000000|Google Chrome|ManicTime/Applications
+3168|ejs - Buscar con Google - Google Chrome|2017-02-21T20:32:01.0000000|2017-02-21T20:32:10.0000000|Google Chrome|ManicTime/Applications
+3169|EJS - JavaScript Templates - Google Chrome|2017-02-21T20:32:10.0000000|2017-02-21T20:32:39.0000000|Google Chrome|ManicTime/Applications
+3170|http://stackoverflow.com/questions/16174182/typescript-looping-through-a-dictionary|2017-02-21T20:31:52.0000000|2017-02-21T20:32:01.0000000|stackoverflow.com|ManicTime/Documents
+3171|https://www.google.com.ec/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=ejs|2017-02-21T20:32:01.0000000|2017-02-21T20:32:10.0000000|www.google.com.ec|ManicTime/Documents
+3172|http://www.embeddedjs.com/|2017-02-21T20:32:10.0000000|2017-02-21T20:32:39.0000000|www.embeddedjs.com|ManicTime/Documents
+3173|return all from a document mongoose - Buscar con Google - Google Chrome|2017-02-21T20:32:39.0000000|2017-02-21T20:32:46.0000000|Google Chrome|ManicTime/Applications
+3174|DataTables | Table plug-in for jQuery - Google Chrome|2017-02-21T20:32:46.0000000|2017-02-21T20:33:13.0000000|Google Chrome|ManicTime/Applications
+3175|Data - Google Chrome|2017-02-21T20:33:13.0000000|2017-02-21T20:33:21.0000000|Google Chrome|ManicTime/Applications
+3176|https://www.google.com.ec/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=return+all+from+a+document+mongoose|2017-02-21T20:32:39.0000000|2017-02-21T20:32:46.0000000|www.google.com.ec|ManicTime/Documents
+3177|https://datatables.net/|2017-02-21T20:32:46.0000000|2017-02-21T20:33:13.0000000|datatables.net|ManicTime/Documents
+3178|https://datatables.net/manual/data/|2017-02-21T20:33:13.0000000|2017-02-21T20:33:21.0000000|datatables.net|ManicTime/Documents
+3179|Installation - Google Chrome|2017-02-21T20:33:21.0000000|2017-02-21T20:33:30.0000000|Google Chrome|ManicTime/Applications
+3180|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-21T20:33:30.0000000|2017-02-21T20:33:49.0000000|Sublime Text|ManicTime/Applications
+3181|EJS - JavaScript Templates - Google Chrome|2017-02-21T20:33:49.0000000|2017-02-21T20:33:58.0000000|Google Chrome|ManicTime/Applications
+3182|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-21T20:33:58.0000000|2017-02-21T20:36:38.0000000|Sublime Text|ManicTime/Applications
+3183|https://datatables.net/manual/installation|2017-02-21T20:33:21.0000000|2017-02-21T20:33:30.0000000|datatables.net|ManicTime/Documents
+3184|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|2017-02-21T20:33:30.0000000|2017-02-21T20:33:49.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|ManicTime/Documents
+3185|http://www.embeddedjs.com/|2017-02-21T20:33:49.0000000|2017-02-21T20:33:58.0000000|www.embeddedjs.com|ManicTime/Documents
+3186|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|2017-02-21T20:33:58.0000000|2017-02-21T20:36:38.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|ManicTime/Documents
+3187|Installation - Google Chrome|2017-02-21T20:36:38.0000000|2017-02-21T20:36:46.0000000|Google Chrome|ManicTime/Applications
+3188|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-21T20:36:46.0000000|2017-02-21T20:37:59.0000000|Sublime Text|ManicTime/Applications
+3189|https://datatables.net/manual/installation|2017-02-21T20:36:38.0000000|2017-02-21T20:36:46.0000000|datatables.net|ManicTime/Documents
+3190|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|2017-02-21T20:36:46.0000000|2017-02-21T20:37:59.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|ManicTime/Documents
+3191|mlab - Buscar con Google - Google Chrome|2017-02-21T20:37:59.0000000|2017-02-21T20:38:04.0000000|Google Chrome|ManicTime/Applications
+3192|Login | mLab - Google Chrome|2017-02-21T20:38:04.0000000|2017-02-21T20:38:24.0000000|Google Chrome|ManicTime/Applications
+3193|https://www.google.com.ec/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=mlab|2017-02-21T20:37:59.0000000|2017-02-21T20:38:04.0000000|www.google.com.ec|ManicTime/Documents
+3194|https://mlab.com/login/|2017-02-21T20:38:04.0000000|2017-02-21T20:38:24.0000000|mlab.com|ManicTime/Documents
+3195|Nueva pestaña - Google Chrome|2017-02-21T20:38:24.0000000|2017-02-21T20:38:30.0000000|Google Chrome|ManicTime/Applications
+3196|mLab: Cloud-hosted MongoDB - Google Chrome|2017-02-21T20:38:30.0000000|2017-02-21T20:38:40.0000000|Google Chrome|ManicTime/Applications
+3197|mLab: Cloud-hosted MongoDB - Google Chrome|2017-02-21T20:38:40.0000000|2017-02-21T20:38:49.0000000|Google Chrome|ManicTime/Applications
+3198|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-21T20:38:49.0000000|2017-02-21T20:41:20.0000000|Sublime Text|ManicTime/Applications
+3199|http://youtube.com/|2017-02-21T20:38:24.0000000|2017-02-21T20:38:30.0000000|youtube.com|ManicTime/Documents
+3200|https://mlab.com/databases/proyecto_daw|2017-02-21T20:38:30.0000000|2017-02-21T20:38:40.0000000|mlab.com|ManicTime/Documents
+3201|https://mlab.com/databases/proyecto_daw/collections/usuarios|2017-02-21T20:38:40.0000000|2017-02-21T20:38:49.0000000|mlab.com|ManicTime/Documents
+3202|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|2017-02-21T20:38:49.0000000|2017-02-21T20:41:20.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|ManicTime/Documents
+3203|mLab: Cloud-hosted MongoDB - Google Chrome|2017-02-21T20:41:20.0000000|2017-02-21T20:41:29.0000000|Google Chrome|ManicTime/Applications
+3204|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-21T20:41:29.0000000|2017-02-21T20:41:56.0000000|Sublime Text|ManicTime/Applications
+3205|mLab: Cloud-hosted MongoDB - Google Chrome|2017-02-21T20:41:56.0000000|2017-02-21T20:42:16.0000000|Google Chrome|ManicTime/Applications
+3206|https://mlab.com/databases/proyecto_daw/collections/usuarios|2017-02-21T20:41:20.0000000|2017-02-21T20:41:29.0000000|mlab.com|ManicTime/Documents
+3207|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|2017-02-21T20:41:29.0000000|2017-02-21T20:41:56.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|ManicTime/Documents
+3208|https://mlab.com/databases/proyecto_daw/collections/usuarios|2017-02-21T20:41:56.0000000|2017-02-21T20:42:16.0000000|mlab.com|ManicTime/Documents
 
-(3094 rows affected)
+(3153 rows affected)
