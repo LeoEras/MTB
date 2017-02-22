@@ -3231,7 +3231,7 @@
 3290|Login form shake effect - Google Chrome|2017-02-21T21:30:37.0000000|2017-02-21T21:30:46.0000000|Google Chrome|ManicTime/Applications
 3291|npm|2017-02-21T21:30:46.0000000|2017-02-21T21:30:51.0000000|Windows PowerShell|ManicTime/Applications
 3292|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\models\usuario.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-21T21:30:51.0000000|2017-02-21T21:30:59.0000000|Sublime Text|ManicTime/Applications
-3293||2017-02-21T21:30:37.0000000|2017-02-21T21:56:43.0000000||ManicTime/ComputerUsage
+3293||2017-02-21T21:30:37.0000000|2017-02-21T21:52:01.0000000||ManicTime/ComputerUsage
 3294|http://localhost:3000/usuario|2017-02-21T21:30:37.0000000|2017-02-21T21:30:46.0000000|localhost|ManicTime/Documents
 3295|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\models\usuario.js|2017-02-21T21:30:51.0000000|2017-02-21T21:30:59.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\models\usuario.js|ManicTime/Documents
 3296|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-21T21:30:59.0000000|2017-02-21T21:31:25.0000000|Sublime Text|ManicTime/Applications
@@ -3326,7 +3326,12 @@
 3386|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|2017-02-21T21:45:42.0000000|2017-02-21T21:45:48.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|ManicTime/Documents
 3387|npm|2017-02-21T21:45:48.0000000|2017-02-21T21:45:56.0000000|Windows PowerShell|ManicTime/Applications
 3388|Windows PowerShell|2017-02-21T21:45:56.0000000|2017-02-21T21:46:01.0000000|Windows PowerShell|ManicTime/Applications
-3389|Login form shake effect - Google Chrome|2017-02-21T21:46:01.0000000|2017-02-21T21:56:43.0000000|Google Chrome|ManicTime/Applications
-3390|http://localhost:3000/usuario|2017-02-21T21:46:01.0000000|2017-02-21T21:56:43.0000000|localhost|ManicTime/Documents
+3389|Login form shake effect - Google Chrome|2017-02-21T21:46:01.0000000|2017-02-21T21:52:01.0000000|Google Chrome|ManicTime/Applications
+3390|http://localhost:3000/usuario|2017-02-21T21:46:01.0000000|2017-02-21T21:52:01.0000000|localhost|ManicTime/Documents
+3392||2017-02-21T21:52:01.0000000|2017-02-21T22:11:38.0000000||ManicTime/ComputerUsage
+3393|Windows Activation Client|2017-02-21T22:11:38.0000000|2017-02-21T22:11:47.0000000|Windows Activation Client|ManicTime/Applications
+3394|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-21T22:11:47.0000000|2017-02-21T22:11:54.0000000|Sublime Text|ManicTime/Applications
+3395||2017-02-21T22:11:38.0000000|2017-02-21T22:11:54.0000000||ManicTime/ComputerUsage
+3396|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|2017-02-21T22:11:47.0000000|2017-02-21T22:11:54.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|ManicTime/Documents
 
-(3330 rows affected)
+(3335 rows affected)
