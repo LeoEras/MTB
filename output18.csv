@@ -3330,8 +3330,46 @@
 3390|http://localhost:3000/usuario|2017-02-21T21:46:01.0000000|2017-02-21T21:52:01.0000000|localhost|ManicTime/Documents
 3392||2017-02-21T21:52:01.0000000|2017-02-21T22:11:38.0000000||ManicTime/ComputerUsage
 3393|Windows Activation Client|2017-02-21T22:11:38.0000000|2017-02-21T22:11:47.0000000|Windows Activation Client|ManicTime/Applications
-3394|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-21T22:11:47.0000000|2017-02-21T22:11:54.0000000|Sublime Text|ManicTime/Applications
-3395||2017-02-21T22:11:38.0000000|2017-02-21T22:11:54.0000000||ManicTime/ComputerUsage
-3396|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|2017-02-21T22:11:47.0000000|2017-02-21T22:11:54.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|ManicTime/Documents
+3394|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-21T22:11:47.0000000|2017-02-21T22:13:03.0000000|Sublime Text|ManicTime/Applications
+3395||2017-02-21T22:11:38.0000000|2017-02-21T22:26:47.0000000||ManicTime/ComputerUsage
+3396|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|2017-02-21T22:11:47.0000000|2017-02-21T22:13:03.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|ManicTime/Documents
+3397|node.js - Passing Variable with EJS Templating - Stack Overflow - Google Chrome|2017-02-21T22:13:03.0000000|2017-02-21T22:13:08.0000000|Google Chrome|ManicTime/Applications
+3398|GitHub - Google Chrome|2017-02-21T22:13:08.0000000|2017-02-21T22:13:21.0000000|Google Chrome|ManicTime/Applications
+3399|tahtty/proyectoDAW-ParcialII - Google Chrome|2017-02-21T22:13:21.0000000|2017-02-21T22:13:28.0000000|Google Chrome|ManicTime/Applications
+3400|javiteri95/proyectoDAWIIparcial-node: aplicacion hecha en express y node.js para el proyecto de DAW II parcial - Google Chrome|2017-02-21T22:13:28.0000000|2017-02-21T22:13:37.0000000|Google Chrome|ManicTime/Applications
+3401|http://stackoverflow.com/questions/25596615/passing-variable-with-ejs-templating|2017-02-21T22:13:03.0000000|2017-02-21T22:13:08.0000000|stackoverflow.com|ManicTime/Documents
+3402|https://github.com/|2017-02-21T22:13:08.0000000|2017-02-21T22:13:21.0000000|github.com|ManicTime/Documents
+3403|https://github.com/tahtty/proyectoDAW-ParcialII|2017-02-21T22:13:21.0000000|2017-02-21T22:13:28.0000000|github.com|ManicTime/Documents
+3404|https://github.com/javiteri95/proyectoDAWIIparcial-node|2017-02-21T22:13:28.0000000|2017-02-21T22:13:37.0000000|github.com|ManicTime/Documents
+3405|ESTUDIANTE-PC|2017-02-21T22:13:37.0000000|2017-02-21T22:13:45.0000000|Windows Explorer|ManicTime/Applications
+3406|Windows Explorer|2017-02-21T22:13:45.0000000|2017-02-21T22:13:50.0000000|Windows Explorer|ManicTime/Applications
+3407|npm|2017-02-21T22:13:50.0000000|2017-02-21T22:14:07.0000000|Windows PowerShell|ManicTime/Applications
+3408|Program Manager|2017-02-21T22:14:07.0000000|2017-02-21T22:14:14.0000000|Windows Explorer|ManicTime/Applications
+3409|javiteri95/proyectoDAWIIparcial-node: aplicacion hecha en express y node.js para el proyecto de DAW II parcial - Google Chrome|2017-02-21T22:14:14.0000000|2017-02-21T22:14:22.0000000|Google Chrome|ManicTime/Applications
+3410|Estudiante|2017-02-21T22:14:22.0000000|2017-02-21T22:14:30.0000000|Windows Explorer|ManicTime/Applications
+3411|proyectoDAWIIparcial|2017-02-21T22:14:30.0000000|2017-02-21T22:14:36.0000000|Windows Explorer|ManicTime/Applications
+3412|MINGW64:/c/Users/Estudiante/nodeProyects/proyectoDAWIIparcial|2017-02-21T22:14:36.0000000|2017-02-21T22:16:16.0000000|mintty|ManicTime/Applications
+3413|https://github.com/javiteri95/proyectoDAWIIparcial-node|2017-02-21T22:14:14.0000000|2017-02-21T22:14:22.0000000|github.com|ManicTime/Documents
+3414|OpenSSH|2017-02-21T22:16:16.0000000|2017-02-21T22:16:21.0000000|Tk 8.6 for Windows|ManicTime/Applications
+3415|MINGW64:/c/Users/Estudiante/nodeProyects/proyectoDAWIIparcial|2017-02-21T22:16:21.0000000|2017-02-21T22:19:16.0000000|mintty|ManicTime/Applications
+3416|Login form shake effect - Google Chrome|2017-02-21T22:19:16.0000000|2017-02-21T22:20:13.0000000|Google Chrome|ManicTime/Applications
+3417|http://localhost:3000/usuario|2017-02-21T22:19:16.0000000|2017-02-21T22:20:13.0000000|localhost|ManicTime/Documents
+3418|Windows PowerShell|2017-02-21T22:20:13.0000000|2017-02-21T22:20:18.0000000|Windows PowerShell|ManicTime/Applications
+3419|Login form shake effect - Google Chrome|2017-02-21T22:20:18.0000000|2017-02-21T22:21:47.0000000|Google Chrome|ManicTime/Applications
+3420|http://localhost:3000/usuario|2017-02-21T22:20:18.0000000|2017-02-21T22:21:47.0000000|localhost|ManicTime/Documents
+3421|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-21T22:21:47.0000000|2017-02-21T22:21:55.0000000|Sublime Text|ManicTime/Applications
+3422|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|2017-02-21T22:21:47.0000000|2017-02-21T22:21:55.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|ManicTime/Documents
+3423|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-21T22:21:55.0000000|2017-02-21T22:22:00.0000000|Sublime Text|ManicTime/Applications
+3424|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\models\usuario.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-21T22:22:00.0000000|2017-02-21T22:22:10.0000000|Sublime Text|ManicTime/Applications
+3425|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-21T22:22:10.0000000|2017-02-21T22:22:36.0000000|Sublime Text|ManicTime/Applications
+3426|localhost:3000/usuario - Google Chrome|2017-02-21T22:22:36.0000000|2017-02-21T22:22:42.0000000|Google Chrome|ManicTime/Applications
+3428|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|2017-02-21T22:21:55.0000000|2017-02-21T22:22:00.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|ManicTime/Documents
+3429|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\models\usuario.js|2017-02-21T22:22:00.0000000|2017-02-21T22:22:10.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\models\usuario.js|ManicTime/Documents
+3430|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|2017-02-21T22:22:10.0000000|2017-02-21T22:22:36.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|ManicTime/Documents
+3431|http://localhost:3000/usuario|2017-02-21T22:22:36.0000000|2017-02-21T22:22:42.0000000|localhost|ManicTime/Documents
+3432|localhost - Google Chrome|2017-02-21T22:22:42.0000000|2017-02-21T22:22:47.0000000|Google Chrome|ManicTime/Applications
+3433|Login form shake effect - Google Chrome|2017-02-21T22:22:47.0000000|2017-02-21T22:26:47.0000000|Google Chrome|ManicTime/Applications
+3434|http://localhost:3000/usuario|2017-02-21T22:22:42.0000000|2017-02-21T22:22:47.0000000|localhost|ManicTime/Documents
+3435|http://localhost:3000/usuario|2017-02-21T22:22:47.0000000|2017-02-21T22:26:47.0000000|localhost|ManicTime/Documents
 
-(3335 rows affected)
+(3373 rows affected)
