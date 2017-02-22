@@ -3037,7 +3037,7 @@
 3092|Program Manager|2017-02-21T20:00:23.0000000|2017-02-21T20:01:08.0000000|Windows Explorer|ManicTime/Applications
 3093|Sin título - Google Chrome|2017-02-21T20:01:08.0000000|2017-02-21T20:01:18.0000000|Google Chrome|ManicTime/Applications
 3094|Escuela Superior Politécnica del Litoral - Google Chrome|2017-02-21T20:01:18.0000000|2017-02-21T20:04:42.0000000|Google Chrome|ManicTime/Applications
-3095||2017-02-21T20:00:21.0000000|2017-02-21T21:12:04.0000000||ManicTime/ComputerUsage
+3095||2017-02-21T20:00:21.0000000|2017-02-21T21:05:07.0000000||ManicTime/ComputerUsage
 3096|http://file///C:/Users/Estudiante/Desktop/FORMS/form.html|2017-02-21T20:01:08.0000000|2017-02-21T20:01:18.0000000|file|ManicTime/Documents
 3097|http://file///C:/Users/Estudiante/Desktop/FORMS/form.html|2017-02-21T20:01:18.0000000|2017-02-21T20:04:42.0000000|file|ManicTime/Documents
 3098|Historial - Google Chrome|2017-02-21T20:04:42.0000000|2017-02-21T20:04:52.0000000|Google Chrome|ManicTime/Applications
@@ -3220,8 +3220,13 @@
 3279|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js|2017-02-21T21:03:14.0000000|2017-02-21T21:04:06.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js|ManicTime/Documents
 3280|npm|2017-02-21T21:04:06.0000000|2017-02-21T21:04:13.0000000|Windows PowerShell|ManicTime/Applications
 3281|Login form shake effect - Google Chrome|2017-02-21T21:04:13.0000000|2017-02-21T21:04:21.0000000|Google Chrome|ManicTime/Applications
-3282|Login form shake effect - Google Chrome|2017-02-21T21:04:21.0000000|2017-02-21T21:12:04.0000000|Google Chrome|ManicTime/Applications
+3282|Login form shake effect - Google Chrome|2017-02-21T21:04:21.0000000|2017-02-21T21:05:07.0000000|Google Chrome|ManicTime/Applications
 3283|http://localhost:3000/|2017-02-21T21:04:13.0000000|2017-02-21T21:04:21.0000000|localhost|ManicTime/Documents
-3284|http://localhost:3000/usuario|2017-02-21T21:04:21.0000000|2017-02-21T21:12:04.0000000|localhost|ManicTime/Documents
+3284|http://localhost:3000/usuario|2017-02-21T21:04:21.0000000|2017-02-21T21:05:07.0000000|localhost|ManicTime/Documents
+3285||2017-02-21T21:05:07.0000000|2017-02-21T21:15:54.0000000||ManicTime/ComputerUsage
+3286|Login form shake effect - Google Chrome|2017-02-21T21:15:54.0000000|2017-02-21T21:16:03.0000000|Google Chrome|ManicTime/Applications
+3287||2017-02-21T21:15:54.0000000|2017-02-21T21:16:03.0000000||ManicTime/ComputerUsage
+3288|http://localhost:3000/usuario|2017-02-21T21:15:54.0000000|2017-02-21T21:16:03.0000000|localhost|ManicTime/Documents
+3289||2017-02-21T21:16:03.0000000|2017-02-21T21:27:00.0000000||ManicTime/ComputerUsage
 
-(3225 rows affected)
+(3230 rows affected)
