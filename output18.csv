@@ -3382,7 +3382,7 @@
 3446||2017-02-22T07:08:59.0000000|2017-02-22T07:09:02.0000000||ManicTime/ComputerUsage
 3447|Windows Activation Client|2017-02-22T07:09:00.0000000|2017-02-22T07:09:02.0000000|Windows Activation Client|ManicTime/Applications
 3448|javiteri95/proyectoDAWIIparcial-node: aplicacion hecha en express y node.js para el proyecto de DAW II parcial - Google Chrome|2017-02-22T07:09:03.0000000|2017-02-22T07:17:56.0000000|Google Chrome|ManicTime/Applications
-3449||2017-02-22T07:09:03.0000000|2017-02-22T07:27:05.0000000||ManicTime/ComputerUsage
+3449||2017-02-22T07:09:03.0000000|2017-02-22T07:23:32.0000000||ManicTime/ComputerUsage
 3450|https://github.com/javiteri95/proyectoDAWIIparcial-node|2017-02-22T07:09:03.0000000|2017-02-22T07:17:56.0000000|github.com|ManicTime/Documents
 3451|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-22T07:17:56.0000000|2017-02-22T07:19:03.0000000|Sublime Text|ManicTime/Applications
 3452|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|2017-02-22T07:17:56.0000000|2017-02-22T07:19:03.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|ManicTime/Documents
@@ -3393,8 +3393,32 @@
 3457|GitHub - Google Chrome|2017-02-22T07:20:49.0000000|2017-02-22T07:21:07.0000000|Google Chrome|ManicTime/Applications
 3458|https://github.com/|2017-02-22T07:20:49.0000000|2017-02-22T07:21:07.0000000|github.com|ManicTime/Documents
 3459|Node.js Login System With Passport - Part 1 - YouTube - Google Chrome|2017-02-22T07:21:07.0000000|2017-02-22T07:21:26.0000000|Google Chrome|ManicTime/Applications
-3460|Node.js Login System With Passport - Part 2 - YouTube - Google Chrome|2017-02-22T07:21:26.0000000|2017-02-22T07:27:05.0000000|Google Chrome|ManicTime/Applications
+3460|Node.js Login System With Passport - Part 2 - YouTube - Google Chrome|2017-02-22T07:21:26.0000000|2017-02-22T07:23:32.0000000|Google Chrome|ManicTime/Applications
 3461|https://www.youtube.com/watch?v=Z1ktxiqyiLA|2017-02-22T07:21:07.0000000|2017-02-22T07:21:26.0000000|www.youtube.com|ManicTime/Documents
-3462|https://www.youtube.com/watch?v=OnuC3VtEQks|2017-02-22T07:21:26.0000000|2017-02-22T07:27:05.0000000|www.youtube.com|ManicTime/Documents
+3462|https://www.youtube.com/watch?v=OnuC3VtEQks|2017-02-22T07:21:26.0000000|2017-02-22T07:23:32.0000000|www.youtube.com|ManicTime/Documents
+3463||2017-02-22T07:23:32.0000000|2017-02-22T07:39:08.0000000||ManicTime/ComputerUsage
+3464|Node.js Login System With Passport - Part 2 - YouTube - Google Chrome|2017-02-22T07:39:08.0000000|2017-02-22T07:39:16.0000000|Google Chrome|ManicTime/Applications
+3465|MINGW64:/c/Users/Estudiante/nodeProyects/proyectoDAWIIparcial|2017-02-22T07:39:16.0000000|2017-02-22T07:40:00.0000000|mintty|ManicTime/Applications
+3466|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-22T07:40:00.0000000|2017-02-22T07:40:09.0000000|Sublime Text|ManicTime/Applications
+3467||2017-02-22T07:39:08.0000000|2017-02-22T07:43:09.0000000||ManicTime/ComputerUsage
+3468|https://www.youtube.com/watch?v=OnuC3VtEQks|2017-02-22T07:39:08.0000000|2017-02-22T07:39:16.0000000|www.youtube.com|ManicTime/Documents
+3469|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|2017-02-22T07:40:00.0000000|2017-02-22T07:40:09.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|ManicTime/Documents
+3470|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-22T07:40:09.0000000|2017-02-22T07:40:27.0000000|Sublime Text|ManicTime/Applications
+3471|Nueva pestaña - Google Chrome|2017-02-22T07:40:27.0000000|2017-02-22T07:40:51.0000000|Google Chrome|ManicTime/Applications
+3472|a referencing to a modal - Buscar con Google - Google Chrome|2017-02-22T07:40:51.0000000|2017-02-22T07:40:57.0000000|Google Chrome|ManicTime/Applications
+3473|Bootstrap JS Modal Reference - Google Chrome|2017-02-22T07:40:57.0000000|2017-02-22T07:41:24.0000000|Google Chrome|ManicTime/Applications
+3474|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-22T07:41:24.0000000|2017-02-22T07:41:30.0000000|Sublime Text|ManicTime/Applications
+3475|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-22T07:41:30.0000000|2017-02-22T07:41:45.0000000|Sublime Text|ManicTime/Applications
+3476|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|2017-02-22T07:40:09.0000000|2017-02-22T07:40:27.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|ManicTime/Documents
+3477|https://www.google.com.ec/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=a+referencing+to+a+modal|2017-02-22T07:40:51.0000000|2017-02-22T07:40:57.0000000|www.google.com.ec|ManicTime/Documents
+3478|https://www.w3schools.com/bootstrap/bootstrap_ref_js_modal.asp|2017-02-22T07:40:57.0000000|2017-02-22T07:41:24.0000000|www.w3schools.com|ManicTime/Documents
+3479|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|2017-02-22T07:41:24.0000000|2017-02-22T07:41:30.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|ManicTime/Documents
+3480|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js|2017-02-22T07:41:30.0000000|2017-02-22T07:41:45.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js|ManicTime/Documents
+3481|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-22T07:41:45.0000000|2017-02-22T07:42:01.0000000|Sublime Text|ManicTime/Applications
+3482|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-22T07:42:01.0000000|2017-02-22T07:42:15.0000000|Sublime Text|ManicTime/Applications
+3483|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-22T07:42:15.0000000|2017-02-22T07:43:09.0000000|Sublime Text|ManicTime/Applications
+3484|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|2017-02-22T07:41:45.0000000|2017-02-22T07:42:01.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|ManicTime/Documents
+3485|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|2017-02-22T07:42:01.0000000|2017-02-22T07:42:15.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|ManicTime/Documents
+3486|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|2017-02-22T07:42:15.0000000|2017-02-22T07:43:09.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|ManicTime/Documents
 
-(3398 rows affected)
+(3422 rows affected)
