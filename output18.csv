@@ -3507,7 +3507,7 @@
 3578||2017-02-22T09:22:10.0000000|2017-02-22T09:29:09.0000000||ManicTime/ComputerUsage
 3579||2017-02-22T09:12:10.0000000|2017-02-22T09:27:51.0000000||ManicTime/ComputerUsage
 3580|jquery - How to pass parameters in $ajax POST? - Stack Overflow - Google Chrome|2017-02-22T09:27:51.0000000|2017-02-22T09:28:15.0000000|Google Chrome|ManicTime/Applications
-3581||2017-02-22T09:27:51.0000000|2017-02-22T09:44:32.0000000||ManicTime/ComputerUsage
+3581||2017-02-22T09:27:51.0000000|2017-02-22T10:00:34.0000000||ManicTime/ComputerUsage
 3582|http://stackoverflow.com/questions/18697034/how-to-pass-parameters-in-ajax-post|2017-02-22T09:27:51.0000000|2017-02-22T09:28:15.0000000|stackoverflow.com|ManicTime/Documents
 3583|C:\Users\Estudiante\nodeProyects\practica-express\routes\tareas.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-22T09:28:15.0000000|2017-02-22T09:29:24.0000000|Sublime Text|ManicTime/Applications
 3584|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-22T09:29:24.0000000|2017-02-22T09:29:30.0000000|Sublime Text|ManicTime/Applications
@@ -3520,8 +3520,28 @@
 3591|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-22T09:31:59.0000000|2017-02-22T09:33:22.0000000|Sublime Text|ManicTime/Applications
 3592|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js|2017-02-22T09:31:59.0000000|2017-02-22T09:33:22.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js|ManicTime/Documents
 3593|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-22T09:33:22.0000000|2017-02-22T09:33:38.0000000|Sublime Text|ManicTime/Applications
-3594|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-22T09:33:38.0000000|2017-02-22T09:44:32.0000000|Sublime Text|ManicTime/Applications
+3594|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-22T09:33:38.0000000|2017-02-22T09:44:56.0000000|Sublime Text|ManicTime/Applications
 3595|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js|2017-02-22T09:33:22.0000000|2017-02-22T09:33:38.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js|ManicTime/Documents
-3596|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js|2017-02-22T09:33:38.0000000|2017-02-22T09:44:32.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js|ManicTime/Documents
+3596|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js|2017-02-22T09:33:38.0000000|2017-02-22T09:44:56.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js|ManicTime/Documents
+3597|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\models\usuario.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-22T09:44:56.0000000|2017-02-22T09:45:28.0000000|Sublime Text|ManicTime/Applications
+3598|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-22T09:45:28.0000000|2017-02-22T09:53:26.0000000|Sublime Text|ManicTime/Applications
+3599|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\models\usuario.js|2017-02-22T09:44:56.0000000|2017-02-22T09:45:28.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\models\usuario.js|ManicTime/Documents
+3600|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js|2017-02-22T09:45:28.0000000|2017-02-22T09:53:26.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js|ManicTime/Documents
+3601|C:\Users\Estudiante\nodeProyects\practica-express\routes\tareas.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-22T09:53:26.0000000|2017-02-22T09:54:07.0000000|Sublime Text|ManicTime/Applications
+3602|C:\Users\Estudiante\nodeProyects\practica-express\routes\tareas.js|2017-02-22T09:53:26.0000000|2017-02-22T09:54:07.0000000|C:\Users\Estudiante\nodeProyects\practica-express\routes\tareas.js|ManicTime/Documents
+3603|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-22T09:54:07.0000000|2017-02-22T09:54:16.0000000|Sublime Text|ManicTime/Applications
+3604|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-22T09:54:16.0000000|2017-02-22T09:54:23.0000000|Sublime Text|ManicTime/Applications
+3605|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-22T09:54:23.0000000|2017-02-22T09:54:30.0000000|Sublime Text|ManicTime/Applications
+3606|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-22T09:54:30.0000000|2017-02-22T09:54:39.0000000|Sublime Text|ManicTime/Applications
+3607|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\models\usuario.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-22T09:54:39.0000000|2017-02-22T09:54:44.0000000|Sublime Text|ManicTime/Applications
+3608|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-22T09:54:44.0000000|2017-02-22T10:00:23.0000000|Sublime Text|ManicTime/Applications
+3609|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js|2017-02-22T09:54:07.0000000|2017-02-22T09:54:16.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js|ManicTime/Documents
+3610|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|2017-02-22T09:54:16.0000000|2017-02-22T09:54:23.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|ManicTime/Documents
+3611|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js|2017-02-22T09:54:23.0000000|2017-02-22T09:54:30.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js|ManicTime/Documents
+3612|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js|2017-02-22T09:54:30.0000000|2017-02-22T09:54:39.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js|ManicTime/Documents
+3613|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\models\usuario.js|2017-02-22T09:54:39.0000000|2017-02-22T09:54:44.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\models\usuario.js|ManicTime/Documents
+3614|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js|2017-02-22T09:54:44.0000000|2017-02-22T10:00:23.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js|ManicTime/Documents
+3615|Windows PowerShell|2017-02-22T10:00:23.0000000|2017-02-22T10:00:29.0000000|Windows PowerShell|ManicTime/Applications
+3616|Start menu|2017-02-22T10:00:29.0000000|2017-02-22T10:00:34.0000000|Windows Explorer|ManicTime/Applications
 
-(3525 rows affected)
+(3545 rows affected)
