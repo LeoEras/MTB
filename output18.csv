@@ -3545,7 +3545,7 @@
 3616|Start menu|2017-02-22T10:00:29.0000000|2017-02-22T10:00:34.0000000|Windows Explorer|ManicTime/Applications
 3617|Sin título - Google Chrome|2017-02-22T11:15:50.0000000|2017-02-22T11:16:01.0000000|Google Chrome|ManicTime/Applications
 3618|Escuela Superior Politécnica del Litoral - Google Chrome|2017-02-22T11:16:01.0000000|2017-02-22T11:20:51.0000000|Google Chrome|ManicTime/Applications
-3619||2017-02-22T11:15:48.0000000|2017-02-22T11:41:51.0000000||ManicTime/ComputerUsage
+3619||2017-02-22T11:15:48.0000000|2017-02-22T11:56:42.0000000||ManicTime/ComputerUsage
 3620|http://file///C:/Users/Estudiante/Desktop/FORMS/form.html|2017-02-22T11:15:50.0000000|2017-02-22T11:16:01.0000000|file|ManicTime/Documents
 3621|http://file///C:/Users/Estudiante/Desktop/FORMS/form.html|2017-02-22T11:16:01.0000000|2017-02-22T11:20:51.0000000|file|ManicTime/Documents
 3622|Start|2017-02-22T11:20:51.0000000|2017-02-22T11:21:19.0000000|Windows Explorer|ManicTime/Applications
@@ -3572,10 +3572,63 @@
 3643|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-22T11:33:51.0000000|2017-02-22T11:33:58.0000000|Sublime Text|ManicTime/Applications
 3644|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\models\usuario.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-22T11:33:58.0000000|2017-02-22T11:34:10.0000000|Sublime Text|ManicTime/Applications
 3645|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-22T11:34:10.0000000|2017-02-22T11:34:30.0000000|Sublime Text|ManicTime/Applications
-3646|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-22T11:34:30.0000000|2017-02-22T11:41:51.0000000|Sublime Text|ManicTime/Applications
+3646|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-22T11:34:30.0000000|2017-02-22T11:43:53.0000000|Sublime Text|ManicTime/Applications
 3647|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js|2017-02-22T11:33:51.0000000|2017-02-22T11:33:58.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js|ManicTime/Documents
 3648|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\models\usuario.js|2017-02-22T11:33:58.0000000|2017-02-22T11:34:10.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\models\usuario.js|ManicTime/Documents
 3649|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js|2017-02-22T11:34:10.0000000|2017-02-22T11:34:30.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js|ManicTime/Documents
-3650|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js|2017-02-22T11:34:30.0000000|2017-02-22T11:41:51.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js|ManicTime/Documents
+3650|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js|2017-02-22T11:34:30.0000000|2017-02-22T11:43:53.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js|ManicTime/Documents
+3651|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\models\usuario.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-22T11:43:53.0000000|2017-02-22T11:44:12.0000000|Sublime Text|ManicTime/Applications
+3652|Nueva pestaña - Google Chrome|2017-02-22T11:44:12.0000000|2017-02-22T11:44:25.0000000|Google Chrome|ManicTime/Applications
+3653|bcrypt - Buscar con Google - Google Chrome|2017-02-22T11:44:25.0000000|2017-02-22T11:44:31.0000000|Google Chrome|ManicTime/Applications
+3654|bcrypt-nodejs - Google Chrome|2017-02-22T11:44:31.0000000|2017-02-22T11:45:33.0000000|Google Chrome|ManicTime/Applications
+3655|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\models\usuario.js|2017-02-22T11:43:53.0000000|2017-02-22T11:44:12.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\models\usuario.js|ManicTime/Documents
+3656|https://www.google.com.ec/search?q=bcrypt&oq=bcrypt&aqs=chrome..69i57j69i59j69i60l3.1797j0j7&sourceid=chrome&ie=UTF-8|2017-02-22T11:44:12.0000000|2017-02-22T11:44:25.0000000|www.google.com.ec|ManicTime/Documents
+3657|https://www.google.com.ec/search?q=bcrypt&oq=bcrypt&aqs=chrome..69i57j69i59j69i60l3.1797j0j7&sourceid=chrome&ie=UTF-8|2017-02-22T11:44:25.0000000|2017-02-22T11:44:31.0000000|www.google.com.ec|ManicTime/Documents
+3658|https://www.npmjs.com/package/bcrypt-nodejs|2017-02-22T11:44:31.0000000|2017-02-22T11:45:33.0000000|www.npmjs.com|ManicTime/Documents
+3659|bcrypt - Google Chrome|2017-02-22T11:45:33.0000000|2017-02-22T11:46:23.0000000|Google Chrome|ManicTime/Applications
+3660|https://www.npmjs.com/package/bcrypt|2017-02-22T11:45:33.0000000|2017-02-22T11:46:23.0000000|www.npmjs.com|ManicTime/Documents
+3661|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\models\usuario.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-22T11:46:23.0000000|2017-02-22T11:47:03.0000000|Sublime Text|ManicTime/Applications
+3662|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\models\usuario.js|2017-02-22T11:46:23.0000000|2017-02-22T11:47:03.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\models\usuario.js|ManicTime/Documents
+3663|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-22T11:47:03.0000000|2017-02-22T11:47:26.0000000|Sublime Text|ManicTime/Applications
+3664|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\models\usuario.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-22T11:47:26.0000000|2017-02-22T11:47:32.0000000|Sublime Text|ManicTime/Applications
+3665|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-22T11:47:32.0000000|2017-02-22T11:47:46.0000000|Sublime Text|ManicTime/Applications
+3666|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-22T11:47:46.0000000|2017-02-22T11:48:02.0000000|Sublime Text|ManicTime/Applications
+3667|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js|2017-02-22T11:47:03.0000000|2017-02-22T11:47:26.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js|ManicTime/Documents
+3668|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\models\usuario.js|2017-02-22T11:47:26.0000000|2017-02-22T11:47:32.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\models\usuario.js|ManicTime/Documents
+3669|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js|2017-02-22T11:47:32.0000000|2017-02-22T11:47:46.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js|ManicTime/Documents
+3670|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js|2017-02-22T11:47:46.0000000|2017-02-22T11:48:02.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js|ManicTime/Documents
+3671|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\models\usuario.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-22T11:48:02.0000000|2017-02-22T11:48:28.0000000|Sublime Text|ManicTime/Applications
+3672|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-22T11:48:28.0000000|2017-02-22T11:48:34.0000000|Sublime Text|ManicTime/Applications
+3673|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\models\usuario.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-22T11:48:34.0000000|2017-02-22T11:48:41.0000000|Sublime Text|ManicTime/Applications
+3674|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-22T11:48:41.0000000|2017-02-22T11:48:47.0000000|Sublime Text|ManicTime/Applications
+3675|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\models\usuario.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-22T11:48:47.0000000|2017-02-22T11:49:09.0000000|Sublime Text|ManicTime/Applications
+3676|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\models\usuario.js|2017-02-22T11:48:02.0000000|2017-02-22T11:48:28.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\models\usuario.js|ManicTime/Documents
+3677|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js|2017-02-22T11:48:28.0000000|2017-02-22T11:48:34.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js|ManicTime/Documents
+3678|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\models\usuario.js|2017-02-22T11:48:34.0000000|2017-02-22T11:48:41.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\models\usuario.js|ManicTime/Documents
+3679|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js|2017-02-22T11:48:41.0000000|2017-02-22T11:48:47.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js|ManicTime/Documents
+3680|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\models\usuario.js|2017-02-22T11:48:47.0000000|2017-02-22T11:49:09.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\models\usuario.js|ManicTime/Documents
+3681|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-22T11:49:09.0000000|2017-02-22T11:50:12.0000000|Sublime Text|ManicTime/Applications
+3682|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js|2017-02-22T11:49:09.0000000|2017-02-22T11:50:12.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js|ManicTime/Documents
+3683|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\models\usuario.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-22T11:50:12.0000000|2017-02-22T11:51:46.0000000|Sublime Text|ManicTime/Applications
+3684|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\models\usuario.js|2017-02-22T11:50:12.0000000|2017-02-22T11:51:46.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\models\usuario.js|ManicTime/Documents
+3687|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-22T11:51:46.0000000|2017-02-22T11:52:07.0000000|Sublime Text|ManicTime/Applications
+3688|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-22T11:52:07.0000000|2017-02-22T11:52:16.0000000|Sublime Text|ManicTime/Applications
+3689|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\models\usuario.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-22T11:52:16.0000000|2017-02-22T11:53:12.0000000|Sublime Text|ManicTime/Applications
+3690|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js|2017-02-22T11:51:46.0000000|2017-02-22T11:52:07.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js|ManicTime/Documents
+3691|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js|2017-02-22T11:52:07.0000000|2017-02-22T11:52:16.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js|ManicTime/Documents
+3692|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\models\usuario.js|2017-02-22T11:52:16.0000000|2017-02-22T11:53:12.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\models\usuario.js|ManicTime/Documents
+3693|Nueva pestaña - Google Chrome|2017-02-22T11:53:12.0000000|2017-02-22T11:53:28.0000000|Google Chrome|ManicTime/Applications
+3694|update mongoose - Buscar con Google - Google Chrome|2017-02-22T11:53:28.0000000|2017-02-22T11:53:39.0000000|Google Chrome|ManicTime/Applications
+3695|Mongoose Documents v4.8.4 - Google Chrome|2017-02-22T11:53:39.0000000|2017-02-22T11:54:42.0000000|Google Chrome|ManicTime/Applications
+3696|https://www.google.com.ec/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=update+mongoose|2017-02-22T11:53:28.0000000|2017-02-22T11:53:39.0000000|www.google.com.ec|ManicTime/Documents
+3697|http://mongoosejs.com/docs/documents.html|2017-02-22T11:53:39.0000000|2017-02-22T11:54:42.0000000|mongoosejs.com|ManicTime/Documents
+3698|update mongoose - Buscar con Google - Google Chrome|2017-02-22T11:54:42.0000000|2017-02-22T11:54:47.0000000|Google Chrome|ManicTime/Applications
+3699|https://www.google.com.ec/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=update+mongoose|2017-02-22T11:54:42.0000000|2017-02-22T11:54:47.0000000|www.google.com.ec|ManicTime/Documents
+3700|javascript - How do I update/upsert a document in Mongoose? - Stack Overflow - Google Chrome|2017-02-22T11:54:47.0000000|2017-02-22T11:55:55.0000000|Google Chrome|ManicTime/Applications
+3701|http://stackoverflow.com/questions/7267102/how-do-i-update-upsert-a-document-in-mongoose|2017-02-22T11:54:47.0000000|2017-02-22T11:55:55.0000000|stackoverflow.com|ManicTime/Documents
+3702|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\models\usuario.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-22T11:55:55.0000000|2017-02-22T11:56:04.0000000|Sublime Text|ManicTime/Applications
+3703|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-22T11:56:04.0000000|2017-02-22T11:56:42.0000000|Sublime Text|ManicTime/Applications
+3704|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\models\usuario.js|2017-02-22T11:55:55.0000000|2017-02-22T11:56:04.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\models\usuario.js|ManicTime/Documents
+3705|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js|2017-02-22T11:56:04.0000000|2017-02-22T11:56:42.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js|ManicTime/Documents
 
-(3579 rows affected)
+(3632 rows affected)
