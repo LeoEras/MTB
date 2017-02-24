@@ -3824,6 +3824,40 @@
 3923||2017-02-23T22:18:14.0000000|2017-02-23T22:32:07.0000000||ManicTime/ComputerUsage
 3924|Windows PowerShell|2017-02-23T22:32:07.0000000|2017-02-23T22:32:16.0000000|Windows PowerShell|ManicTime/Applications
 3925||2017-02-23T22:32:07.0000000|2017-02-23T22:32:16.0000000||ManicTime/ComputerUsage
-3926||2017-02-23T22:32:16.0000000|2017-02-23T23:57:03.0000000||ManicTime/ComputerUsage
+3926||2017-02-23T22:32:16.0000000|2017-02-24T00:08:20.0000000||ManicTime/ComputerUsage
+3927|Windows Activation Client|2017-02-24T00:08:20.0000000|2017-02-24T00:08:26.0000000|Windows Activation Client|ManicTime/Applications
+3928|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-24T00:08:26.0000000|2017-02-24T00:08:49.0000000|Sublime Text|ManicTime/Applications
+3929|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\partials\header.ejs (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-24T00:08:49.0000000|2017-02-24T00:09:09.0000000|Sublime Text|ManicTime/Applications
+3930||2017-02-24T00:08:20.0000000|2017-02-24T00:12:01.0000000||ManicTime/ComputerUsage
+3931|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|2017-02-24T00:08:26.0000000|2017-02-24T00:08:49.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|ManicTime/Documents
+3932|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\partials\header.ejs|2017-02-24T00:08:49.0000000|2017-02-24T00:09:09.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\partials\header.ejs|ManicTime/Documents
+3933|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-24T00:09:09.0000000|2017-02-24T00:09:20.0000000|Sublime Text|ManicTime/Applications
+3934|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\models\curso.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-24T00:09:20.0000000|2017-02-24T00:09:25.0000000|Sublime Text|ManicTime/Applications
+3935|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\partials\header.ejs (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-24T00:09:25.0000000|2017-02-24T00:09:31.0000000|Sublime Text|ManicTime/Applications
+3936|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-24T00:09:31.0000000|2017-02-24T00:09:36.0000000|Sublime Text|ManicTime/Applications
+3937|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-24T00:09:36.0000000|2017-02-24T00:09:42.0000000|Sublime Text|ManicTime/Applications
+3938|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-24T00:09:42.0000000|2017-02-24T00:10:12.0000000|Sublime Text|ManicTime/Applications
+3939|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|2017-02-24T00:09:09.0000000|2017-02-24T00:09:20.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|ManicTime/Documents
+3940|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\models\curso.js|2017-02-24T00:09:20.0000000|2017-02-24T00:09:25.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\models\curso.js|ManicTime/Documents
+3941|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\partials\header.ejs|2017-02-24T00:09:25.0000000|2017-02-24T00:09:31.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\partials\header.ejs|ManicTime/Documents
+3942|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js|2017-02-24T00:09:31.0000000|2017-02-24T00:09:36.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js|ManicTime/Documents
+3943|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js|2017-02-24T00:09:36.0000000|2017-02-24T00:09:42.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js|ManicTime/Documents
+3944|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|2017-02-24T00:09:42.0000000|2017-02-24T00:10:12.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|ManicTime/Documents
+3945|Nueva pestaña - Google Chrome|2017-02-24T00:10:12.0000000|2017-02-24T00:10:21.0000000|Google Chrome|ManicTime/Applications
+3946|put a modal to a tag - Buscar con Google - Google Chrome|2017-02-24T00:10:21.0000000|2017-02-24T00:10:29.0000000|Google Chrome|ManicTime/Applications
+3947|put a modal to a a tag - Buscar con Google - Google Chrome|2017-02-24T00:10:29.0000000|2017-02-24T00:10:38.0000000|Google Chrome|ManicTime/Applications
+3948|modals bootstrap - Buscar con Google - Google Chrome|2017-02-24T00:10:38.0000000|2017-02-24T00:10:47.0000000|Google Chrome|ManicTime/Applications
+3949|jquery - Bootstrap modal link - Stack Overflow - Google Chrome|2017-02-24T00:10:47.0000000|2017-02-24T00:11:10.0000000|Google Chrome|ManicTime/Applications
+3950|https://www.google.com.ec/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=put+a+modal+to+a+tag&*|2017-02-24T00:10:21.0000000|2017-02-24T00:10:29.0000000|www.google.com.ec|ManicTime/Documents
+3951|https://www.google.com.ec/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=put+a+modal+to+a+a+tag&*|2017-02-24T00:10:29.0000000|2017-02-24T00:10:38.0000000|www.google.com.ec|ManicTime/Documents
+3952|https://www.google.com.ec/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=put+a+modal+to+a+a+tag&*|2017-02-24T00:10:38.0000000|2017-02-24T00:10:47.0000000|www.google.com.ec|ManicTime/Documents
+3953|http://stackoverflow.com/questions/22565247/bootstrap-modal-link|2017-02-24T00:10:47.0000000|2017-02-24T00:11:10.0000000|stackoverflow.com|ManicTime/Documents
+3954|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-24T00:11:10.0000000|2017-02-24T00:11:41.0000000|Sublime Text|ManicTime/Applications
+3955|Windows PowerShell|2017-02-24T00:11:41.0000000|2017-02-24T00:11:46.0000000|Windows PowerShell|ManicTime/Applications
+3956|Nueva pestaña - Google Chrome|2017-02-24T00:11:46.0000000|2017-02-24T00:11:51.0000000|Google Chrome|ManicTime/Applications
+3957|Login form shake effect - Google Chrome|2017-02-24T00:11:51.0000000|2017-02-24T00:12:00.0000000|Google Chrome|ManicTime/Applications
+3958|npm|2017-02-24T00:12:00.0000000|2017-02-24T00:12:01.0000000|Windows PowerShell|ManicTime/Applications
+3959|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|2017-02-24T00:11:10.0000000|2017-02-24T00:11:41.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|ManicTime/Documents
+3960|http://localhost:3000/|2017-02-24T00:11:51.0000000|2017-02-24T00:12:00.0000000|localhost|ManicTime/Documents
 
-(3827 rows affected)
+(3861 rows affected)
