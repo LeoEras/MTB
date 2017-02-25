@@ -4169,7 +4169,7 @@
 4284||2017-02-25T13:43:45.0000000|2017-02-25T13:43:46.0000000||ManicTime/ComputerUsage
 4287||2017-02-25T13:43:46.0000000|2017-02-25T15:09:27.0000000||ManicTime/ComputerUsage
 4288|Windows PowerShell|2017-02-25T15:04:33.0000000|2017-02-25T15:10:49.0000000|Windows PowerShell|ManicTime/Applications
-4289||2017-02-25T15:04:33.0000000|2017-02-25T15:27:21.0000000||ManicTime/ComputerUsage
+4289||2017-02-25T15:04:33.0000000|2017-02-25T15:42:15.0000000||ManicTime/ComputerUsage
 4290|Nueva pestaña - Google Chrome|2017-02-25T15:10:49.0000000|2017-02-25T15:10:55.0000000|Google Chrome|ManicTime/Applications
 4291|Login - Google Chrome|2017-02-25T15:10:55.0000000|2017-02-25T15:12:50.0000000|Google Chrome|ManicTime/Applications
 4292|http://localhost:3000/|2017-02-25T15:10:55.0000000|2017-02-25T15:12:50.0000000|localhost|ManicTime/Documents
@@ -4237,8 +4237,74 @@
 4354|https://www.google.com.ec/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=kill+all+the+sons+of+a+specific+tag&*|2017-02-25T15:25:48.0000000|2017-02-25T15:26:07.0000000|www.google.com.ec|ManicTime/Documents
 4355|https://www.google.com.ec/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=javascript+delete+inner+tags&*|2017-02-25T15:26:07.0000000|2017-02-25T15:26:24.0000000|www.google.com.ec|ManicTime/Documents
 4356|.empty() | jQuery API Documentation - Google Chrome|2017-02-25T15:26:24.0000000|2017-02-25T15:27:17.0000000|Google Chrome|ManicTime/Applications
-4357|javascript - How do I clear the contents of a div without innerHTML = ""; - Stack Overflow - Google Chrome|2017-02-25T15:27:17.0000000|2017-02-25T15:27:21.0000000|Google Chrome|ManicTime/Applications
+4357|javascript - How do I clear the contents of a div without innerHTML = ""; - Stack Overflow - Google Chrome|2017-02-25T15:27:17.0000000|2017-02-25T15:27:24.0000000|Google Chrome|ManicTime/Applications
 4358|https://api.jquery.com/empty/|2017-02-25T15:26:24.0000000|2017-02-25T15:27:17.0000000|api.jquery.com|ManicTime/Documents
-4359|http://stackoverflow.com/questions/5057759/how-do-i-clear-the-contents-of-a-div-without-innerhtml|2017-02-25T15:27:17.0000000|2017-02-25T15:27:21.0000000|stackoverflow.com|ManicTime/Documents
+4359|http://stackoverflow.com/questions/5057759/how-do-i-clear-the-contents-of-a-div-without-innerhtml|2017-02-25T15:27:17.0000000|2017-02-25T15:27:24.0000000|stackoverflow.com|ManicTime/Documents
+4360|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-25T15:27:24.0000000|2017-02-25T15:27:31.0000000|Sublime Text|ManicTime/Applications
+4361|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-25T15:27:31.0000000|2017-02-25T15:27:53.0000000|Sublime Text|ManicTime/Applications
+4362|npm|2017-02-25T15:27:53.0000000|2017-02-25T15:27:58.0000000|Windows PowerShell|ManicTime/Applications
+4363|Login - Google Chrome|2017-02-25T15:27:58.0000000|2017-02-25T15:28:10.0000000|Google Chrome|ManicTime/Applications
+4364|Login form shake effect - Google Chrome|2017-02-25T15:28:10.0000000|2017-02-25T15:28:15.0000000|Google Chrome|ManicTime/Applications
+4365|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|2017-02-25T15:27:24.0000000|2017-02-25T15:27:31.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|ManicTime/Documents
+4366|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js|2017-02-25T15:27:31.0000000|2017-02-25T15:27:53.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js|ManicTime/Documents
+4367|http://localhost:3000/|2017-02-25T15:27:58.0000000|2017-02-25T15:28:10.0000000|localhost|ManicTime/Documents
+4368|http://localhost:3000/usuario|2017-02-25T15:28:10.0000000|2017-02-25T15:28:15.0000000|localhost|ManicTime/Documents
+4369|Login - Google Chrome|2017-02-25T15:28:15.0000000|2017-02-25T15:28:40.0000000|Google Chrome|ManicTime/Applications
+4370|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-25T15:28:40.0000000|2017-02-25T15:29:11.0000000|Sublime Text|ManicTime/Applications
+4371|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\stylesheets\loginStyle2.css (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-25T15:29:11.0000000|2017-02-25T15:29:19.0000000|Sublime Text|ManicTime/Applications
+4372|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-25T15:29:19.0000000|2017-02-25T15:29:27.0000000|Sublime Text|ManicTime/Applications
+4373|http://localhost:3000/|2017-02-25T15:28:15.0000000|2017-02-25T15:28:40.0000000|localhost|ManicTime/Documents
+4374|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js|2017-02-25T15:28:40.0000000|2017-02-25T15:29:11.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js|ManicTime/Documents
+4375|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\stylesheets\loginStyle2.css|2017-02-25T15:29:11.0000000|2017-02-25T15:29:19.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\stylesheets\loginStyle2.css|ManicTime/Documents
+4376|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|2017-02-25T15:29:19.0000000|2017-02-25T15:29:27.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|ManicTime/Documents
+4377|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\stylesheets\loginStyle2.css (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-25T15:29:27.0000000|2017-02-25T15:29:40.0000000|Sublime Text|ManicTime/Applications
+4378|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\models\curso.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-25T15:29:40.0000000|2017-02-25T15:29:47.0000000|Sublime Text|ManicTime/Applications
+4379|npm|2017-02-25T15:29:47.0000000|2017-02-25T15:29:53.0000000|Windows PowerShell|ManicTime/Applications
+4380|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\stylesheets\loginStyle2.css (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-25T15:29:53.0000000|2017-02-25T15:30:02.0000000|Sublime Text|ManicTime/Applications
+4381|npm|2017-02-25T15:30:02.0000000|2017-02-25T15:30:07.0000000|Windows PowerShell|ManicTime/Applications
+4382|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-25T15:30:07.0000000|2017-02-25T15:30:14.0000000|Sublime Text|ManicTime/Applications
+4383|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\stylesheets\loginStyle2.css|2017-02-25T15:29:27.0000000|2017-02-25T15:29:40.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\stylesheets\loginStyle2.css|ManicTime/Documents
+4384|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\models\curso.js|2017-02-25T15:29:40.0000000|2017-02-25T15:29:47.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\models\curso.js|ManicTime/Documents
+4385|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\stylesheets\loginStyle2.css|2017-02-25T15:29:53.0000000|2017-02-25T15:30:02.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\stylesheets\loginStyle2.css|ManicTime/Documents
+4386|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js|2017-02-25T15:30:07.0000000|2017-02-25T15:30:14.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js|ManicTime/Documents
+4387|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\stylesheets\loginStyle2.css (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-25T15:30:14.0000000|2017-02-25T15:30:19.0000000|Sublime Text|ManicTime/Applications
+4388|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-25T15:30:19.0000000|2017-02-25T15:30:27.0000000|Sublime Text|ManicTime/Applications
+4389|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-25T15:30:27.0000000|2017-02-25T15:30:35.0000000|Sublime Text|ManicTime/Applications
+4390|Windows PowerShell|2017-02-25T15:30:35.0000000|2017-02-25T15:30:40.0000000|Windows PowerShell|ManicTime/Applications
+4391|Login form shake effect - Google Chrome|2017-02-25T15:30:40.0000000|2017-02-25T15:30:48.0000000|Google Chrome|ManicTime/Applications
+4392|Login - Google Chrome|2017-02-25T15:30:48.0000000|2017-02-25T15:31:25.0000000|Google Chrome|ManicTime/Applications
+4393|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\stylesheets\loginStyle2.css|2017-02-25T15:30:14.0000000|2017-02-25T15:30:19.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\stylesheets\loginStyle2.css|ManicTime/Documents
+4394|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js|2017-02-25T15:30:19.0000000|2017-02-25T15:30:27.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js|ManicTime/Documents
+4395|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js|2017-02-25T15:30:27.0000000|2017-02-25T15:30:35.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js|ManicTime/Documents
+4396|http://localhost:3000/usuario|2017-02-25T15:30:40.0000000|2017-02-25T15:30:48.0000000|localhost|ManicTime/Documents
+4397|http://localhost:3000/|2017-02-25T15:30:48.0000000|2017-02-25T15:31:25.0000000|localhost|ManicTime/Documents
+4398|Login - Google Chrome|2017-02-25T15:31:25.0000000|2017-02-25T15:31:37.0000000|Google Chrome|ManicTime/Applications
+4399|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-25T15:31:37.0000000|2017-02-25T15:31:48.0000000|Sublime Text|ManicTime/Applications
+4400|Login - Google Chrome|2017-02-25T15:31:48.0000000|2017-02-25T15:32:22.0000000|Google Chrome|ManicTime/Applications
+4401|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js|2017-02-25T15:31:37.0000000|2017-02-25T15:31:48.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js|ManicTime/Documents
+4402|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-25T15:32:22.0000000|2017-02-25T15:32:54.0000000|Sublime Text|ManicTime/Applications
+4403|npm|2017-02-25T15:32:54.0000000|2017-02-25T15:32:59.0000000|Windows PowerShell|ManicTime/Applications
+4404|Login - Google Chrome|2017-02-25T15:32:59.0000000|2017-02-25T15:33:12.0000000|Google Chrome|ManicTime/Applications
+4405|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js|2017-02-25T15:32:22.0000000|2017-02-25T15:32:54.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js|ManicTime/Documents
+4406|Login - Google Chrome|2017-02-25T15:33:12.0000000|2017-02-25T15:34:08.0000000|Google Chrome|ManicTime/Applications
+4407|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-25T15:34:08.0000000|2017-02-25T15:34:28.0000000|Sublime Text|ManicTime/Applications
+4408|http://localhost:3000/|2017-02-25T15:33:12.0000000|2017-02-25T15:34:08.0000000|localhost|ManicTime/Documents
+4409|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js|2017-02-25T15:34:08.0000000|2017-02-25T15:34:28.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js|ManicTime/Documents
+4410|jquerydelete inner tags - Buscar con Google - Google Chrome|2017-02-25T15:34:28.0000000|2017-02-25T15:34:34.0000000|Google Chrome|ManicTime/Applications
+4411|.remove() | jQuery API Documentation - Google Chrome|2017-02-25T15:34:34.0000000|2017-02-25T15:34:54.0000000|Google Chrome|ManicTime/Applications
+4412|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-25T15:34:54.0000000|2017-02-25T15:35:05.0000000|Sublime Text|ManicTime/Applications
+4413|Windows PowerShell|2017-02-25T15:35:05.0000000|2017-02-25T15:35:10.0000000|Windows PowerShell|ManicTime/Applications
+4414|Login - Google Chrome|2017-02-25T15:35:10.0000000|2017-02-25T15:35:18.0000000|Google Chrome|ManicTime/Applications
+4415|https://www.google.com.ec/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=jquerydelete+inner+tags&*|2017-02-25T15:34:28.0000000|2017-02-25T15:34:34.0000000|www.google.com.ec|ManicTime/Documents
+4416|https://api.jquery.com/remove/|2017-02-25T15:34:34.0000000|2017-02-25T15:34:54.0000000|api.jquery.com|ManicTime/Documents
+4417|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js|2017-02-25T15:34:54.0000000|2017-02-25T15:35:05.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js|ManicTime/Documents
+4418|http://localhost:3000/|2017-02-25T15:35:10.0000000|2017-02-25T15:35:18.0000000|localhost|ManicTime/Documents
+4419|npm|2017-02-25T15:35:18.0000000|2017-02-25T15:35:24.0000000|Windows PowerShell|ManicTime/Applications
+4420|localhost:3000 - Google Chrome|2017-02-25T15:35:24.0000000|2017-02-25T15:35:29.0000000|Google Chrome|ManicTime/Applications
+4421|Login - Google Chrome|2017-02-25T15:35:29.0000000|2017-02-25T15:35:57.0000000|Google Chrome|ManicTime/Applications
+4422|Login form shake effect - Google Chrome|2017-02-25T15:35:57.0000000|2017-02-25T15:42:15.0000000|Google Chrome|ManicTime/Applications
+4423|http://localhost:3000/|2017-02-25T15:35:24.0000000|2017-02-25T15:35:29.0000000|localhost|ManicTime/Documents
+4424|http://localhost:3000/|2017-02-25T15:35:29.0000000|2017-02-25T15:35:57.0000000|localhost|ManicTime/Documents
+4425|http://localhost:3000/usuario|2017-02-25T15:35:57.0000000|2017-02-25T15:42:15.0000000|localhost|ManicTime/Documents
 
-(4242 rows affected)
+(4308 rows affected)
