@@ -4375,7 +4375,7 @@
 4495|https://github.com/javiteri95/proyectoDAWIIparcial-node/blob/master/views/login.ejs|2017-02-25T17:02:53.0000000|2017-02-25T17:02:59.0000000|github.com|ManicTime/Documents
 4497||2017-02-25T17:03:01.0000000|2017-02-25T17:21:15.0000000||ManicTime/ComputerUsage
 4498|proyectoDAWIIparcial-node/login.ejs at master · javiteri95/proyectoDAWIIparcial-node - Google Chrome|2017-02-25T17:21:15.0000000|2017-02-25T17:25:53.0000000|Google Chrome|ManicTime/Applications
-4499||2017-02-25T17:21:15.0000000|2017-02-25T17:41:37.0000000||ManicTime/ComputerUsage
+4499||2017-02-25T17:21:15.0000000|2017-02-25T17:33:04.0000000||ManicTime/ComputerUsage
 4500|http://file///C:/Users/Estudiante/Desktop/FORMS/form.html|2017-02-25T17:21:15.0000000|2017-02-25T17:25:53.0000000|file|ManicTime/Documents
 4501|npm|2017-02-25T17:25:53.0000000|2017-02-25T17:26:00.0000000|Windows PowerShell|ManicTime/Applications
 4502|proyectoDAWIIparcial-node/login.ejs at master · javiteri95/proyectoDAWIIparcial-node - Google Chrome|2017-02-25T17:26:00.0000000|2017-02-25T17:26:42.0000000|Google Chrome|ManicTime/Applications
@@ -4387,7 +4387,25 @@
 4508|npm|2017-02-25T17:32:06.0000000|2017-02-25T17:32:18.0000000|Windows PowerShell|ManicTime/Applications
 4509|Login - Google Chrome|2017-02-25T17:32:18.0000000|2017-02-25T17:33:03.0000000|Google Chrome|ManicTime/Applications
 4510|http://localhost:3000/|2017-02-25T17:32:18.0000000|2017-02-25T17:33:03.0000000|localhost|ManicTime/Documents
-4511|Login form shake effect - Google Chrome|2017-02-25T17:33:03.0000000|2017-02-25T17:41:37.0000000|Google Chrome|ManicTime/Applications
-4512|http://localhost:3000/usuario|2017-02-25T17:33:03.0000000|2017-02-25T17:41:37.0000000|localhost|ManicTime/Documents
+4513||2017-02-25T17:33:04.0000000|2017-02-25T17:45:06.0000000||ManicTime/ComputerUsage
+4514|Login form shake effect - Google Chrome|2017-02-25T17:45:06.0000000|2017-02-25T17:55:28.0000000|Google Chrome|ManicTime/Applications
+4515||2017-02-25T17:45:06.0000000|2017-02-25T17:56:35.0000000||ManicTime/ComputerUsage
+4516|http://localhost:3000/usuario|2017-02-25T17:45:06.0000000|2017-02-25T17:55:28.0000000|localhost|ManicTime/Documents
+4517|nax3t/angular-express-passport-tutorial: A quick source code tutorial for adding passport authentication to a MEAN stack app (Facebook integration included) - Google Chrome|2017-02-25T17:55:28.0000000|2017-02-25T17:55:35.0000000|Google Chrome|ManicTime/Applications
+4518|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-25T17:55:35.0000000|2017-02-25T17:55:45.0000000|Sublime Text|ManicTime/Applications
+4519|https://github.com/nax3t/angular-express-passport-tutorial|2017-02-25T17:55:28.0000000|2017-02-25T17:55:35.0000000|github.com|ManicTime/Documents
+4520|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js|2017-02-25T17:55:35.0000000|2017-02-25T17:55:45.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js|ManicTime/Documents
+4521|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-25T17:55:45.0000000|2017-02-25T17:55:50.0000000|Sublime Text|ManicTime/Applications
+4522|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\models\usuario.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-25T17:55:50.0000000|2017-02-25T17:55:57.0000000|Sublime Text|ManicTime/Applications
+4523|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-25T17:55:57.0000000|2017-02-25T17:56:02.0000000|Sublime Text|ManicTime/Applications
+4524|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-25T17:56:02.0000000|2017-02-25T17:56:19.0000000|Sublime Text|ManicTime/Applications
+4525|nax3t/angular-express-passport-tutorial: A quick source code tutorial for adding passport authentication to a MEAN stack app (Facebook integration included) - Google Chrome|2017-02-25T17:56:19.0000000|2017-02-25T17:56:26.0000000|Google Chrome|ManicTime/Applications
+4526|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-25T17:56:26.0000000|2017-02-25T17:56:35.0000000|Sublime Text|ManicTime/Applications
+4527|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|2017-02-25T17:55:45.0000000|2017-02-25T17:55:50.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|ManicTime/Documents
+4528|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\models\usuario.js|2017-02-25T17:55:50.0000000|2017-02-25T17:55:57.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\models\usuario.js|ManicTime/Documents
+4529|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|2017-02-25T17:55:57.0000000|2017-02-25T17:56:02.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|ManicTime/Documents
+4530|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js|2017-02-25T17:56:02.0000000|2017-02-25T17:56:19.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js|ManicTime/Documents
+4531|https://github.com/nax3t/angular-express-passport-tutorial|2017-02-25T17:56:19.0000000|2017-02-25T17:56:26.0000000|github.com|ManicTime/Documents
+4532|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js|2017-02-25T17:56:26.0000000|2017-02-25T17:56:35.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js|ManicTime/Documents
 
-(4391 rows affected)
+(4409 rows affected)
