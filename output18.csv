@@ -3957,18 +3957,56 @@
 4061||2017-02-24T22:25:05.0000000|2017-02-24T23:08:46.0000000||ManicTime/ComputerUsage
 4065|Windows Activation Client|2017-02-24T23:08:46.0000000|2017-02-24T23:08:53.0000000|Windows Activation Client|ManicTime/Applications
 4066|Start menu|2017-02-24T23:08:53.0000000|2017-02-24T23:08:59.0000000|Windows Explorer|ManicTime/Applications
-4067||2017-02-24T23:08:46.0000000|2017-02-24T23:12:00.0000000||ManicTime/ComputerUsage
+4067||2017-02-24T23:08:46.0000000|2017-02-24T23:26:59.0000000||ManicTime/ComputerUsage
 4068|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-24T23:08:59.0000000|2017-02-24T23:10:21.0000000|Sublime Text|ManicTime/Applications
 4069|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|2017-02-24T23:08:59.0000000|2017-02-24T23:10:21.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|ManicTime/Documents
 4070|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-24T23:10:21.0000000|2017-02-24T23:10:28.0000000|Sublime Text|ManicTime/Applications
 4071|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-24T23:10:28.0000000|2017-02-24T23:10:46.0000000|Sublime Text|ManicTime/Applications
 4072|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-24T23:10:46.0000000|2017-02-24T23:10:51.0000000|Sublime Text|ManicTime/Applications
 4073|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-24T23:10:51.0000000|2017-02-24T23:10:56.0000000|Sublime Text|ManicTime/Applications
-4074|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-24T23:10:56.0000000|2017-02-24T23:12:00.0000000|Sublime Text|ManicTime/Applications
+4074|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-24T23:10:56.0000000|2017-02-24T23:12:39.0000000|Sublime Text|ManicTime/Applications
 4075|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js|2017-02-24T23:10:21.0000000|2017-02-24T23:10:28.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js|ManicTime/Documents
 4076|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js|2017-02-24T23:10:28.0000000|2017-02-24T23:10:46.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js|ManicTime/Documents
 4077|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js|2017-02-24T23:10:46.0000000|2017-02-24T23:10:51.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js|ManicTime/Documents
 4078|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js|2017-02-24T23:10:51.0000000|2017-02-24T23:10:56.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js|ManicTime/Documents
-4079|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js|2017-02-24T23:10:56.0000000|2017-02-24T23:12:00.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js|ManicTime/Documents
+4079|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js|2017-02-24T23:10:56.0000000|2017-02-24T23:12:39.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js|ManicTime/Documents
+4080|Start menu|2017-02-24T23:12:39.0000000|2017-02-24T23:12:48.0000000|Windows Explorer|ManicTime/Applications
+4081|Windows PowerShell|2017-02-24T23:12:48.0000000|2017-02-24T23:13:15.0000000|Windows PowerShell|ManicTime/Applications
+4082|Nueva pestaña - Google Chrome|2017-02-24T23:13:15.0000000|2017-02-24T23:13:20.0000000|Google Chrome|ManicTime/Applications
+4083|Login - Google Chrome|2017-02-24T23:13:20.0000000|2017-02-24T23:14:17.0000000|Google Chrome|ManicTime/Applications
+4084|http://localhost:3000/|2017-02-24T23:13:20.0000000|2017-02-24T23:14:17.0000000|localhost|ManicTime/Documents
+4085|Windows PowerShell|2017-02-24T23:14:17.0000000|2017-02-24T23:14:49.0000000|Windows PowerShell|ManicTime/Applications
+4086|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-24T23:14:49.0000000|2017-02-24T23:15:06.0000000|Sublime Text|ManicTime/Applications
+4087|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js|2017-02-24T23:14:49.0000000|2017-02-24T23:15:06.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js|ManicTime/Documents
+4088|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-24T23:15:06.0000000|2017-02-24T23:15:11.0000000|Sublime Text|ManicTime/Applications
+4089|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-24T23:15:11.0000000|2017-02-24T23:15:18.0000000|Sublime Text|ManicTime/Applications
+4090|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-24T23:15:18.0000000|2017-02-24T23:15:29.0000000|Sublime Text|ManicTime/Applications
+4091|npm|2017-02-24T23:15:29.0000000|2017-02-24T23:15:36.0000000|Windows PowerShell|ManicTime/Applications
+4092|Login - Google Chrome|2017-02-24T23:15:36.0000000|2017-02-24T23:16:02.0000000|Google Chrome|ManicTime/Applications
+4093|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js|2017-02-24T23:15:06.0000000|2017-02-24T23:15:11.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js|ManicTime/Documents
+4094|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js|2017-02-24T23:15:11.0000000|2017-02-24T23:15:18.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js|ManicTime/Documents
+4095|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js|2017-02-24T23:15:18.0000000|2017-02-24T23:15:29.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js|ManicTime/Documents
+4096|http://localhost:3000/|2017-02-24T23:15:36.0000000|2017-02-24T23:16:02.0000000|localhost|ManicTime/Documents
+4097|Windows PowerShell|2017-02-24T23:16:02.0000000|2017-02-24T23:16:14.0000000|Windows PowerShell|ManicTime/Applications
+4098|Select Windows PowerShell|2017-02-24T23:16:14.0000000|2017-02-24T23:16:33.0000000|Windows PowerShell|ManicTime/Applications
+4099|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-24T23:16:33.0000000|2017-02-24T23:16:40.0000000|Sublime Text|ManicTime/Applications
+4100|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-24T23:16:40.0000000|2017-02-24T23:16:48.0000000|Sublime Text|ManicTime/Applications
+4101|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-24T23:16:48.0000000|2017-02-24T23:16:54.0000000|Sublime Text|ManicTime/Applications
+4102|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-24T23:16:54.0000000|2017-02-24T23:16:59.0000000|Sublime Text|ManicTime/Applications
+4103|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js|2017-02-24T23:16:33.0000000|2017-02-24T23:16:40.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js|ManicTime/Documents
+4104|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js|2017-02-24T23:16:40.0000000|2017-02-24T23:16:48.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js|ManicTime/Documents
+4105|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|2017-02-24T23:16:48.0000000|2017-02-24T23:16:54.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|ManicTime/Documents
+4106|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js|2017-02-24T23:16:54.0000000|2017-02-24T23:16:59.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js|ManicTime/Documents
+4107|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-24T23:16:59.0000000|2017-02-24T23:17:11.0000000|Sublime Text|ManicTime/Applications
+4108|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-24T23:17:11.0000000|2017-02-24T23:18:09.0000000|Sublime Text|ManicTime/Applications
+4109|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|2017-02-24T23:16:59.0000000|2017-02-24T23:17:11.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|ManicTime/Documents
+4110|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|2017-02-24T23:17:11.0000000|2017-02-24T23:18:09.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|ManicTime/Documents
+4111|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-24T23:18:09.0000000|2017-02-24T23:18:30.0000000|Sublime Text|ManicTime/Applications
+4112|npm|2017-02-24T23:18:30.0000000|2017-02-24T23:18:36.0000000|Windows PowerShell|ManicTime/Applications
+4113|Login - Google Chrome|2017-02-24T23:18:36.0000000|2017-02-24T23:19:16.0000000|Google Chrome|ManicTime/Applications
+4114|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js|2017-02-24T23:18:09.0000000|2017-02-24T23:18:30.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js|ManicTime/Documents
+4115|http://localhost:3000/|2017-02-24T23:18:36.0000000|2017-02-24T23:19:16.0000000|localhost|ManicTime/Documents
+4116|Login form shake effect - Google Chrome|2017-02-24T23:19:16.0000000|2017-02-24T23:26:59.0000000|Google Chrome|ManicTime/Applications
+4117|http://localhost:3000/usuario|2017-02-24T23:19:16.0000000|2017-02-24T23:26:59.0000000|localhost|ManicTime/Documents
 
-(3972 rows affected)
+(4010 rows affected)
