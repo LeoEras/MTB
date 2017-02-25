@@ -3957,7 +3957,7 @@
 4061||2017-02-24T22:25:05.0000000|2017-02-24T23:08:46.0000000||ManicTime/ComputerUsage
 4065|Windows Activation Client|2017-02-24T23:08:46.0000000|2017-02-24T23:08:53.0000000|Windows Activation Client|ManicTime/Applications
 4066|Start menu|2017-02-24T23:08:53.0000000|2017-02-24T23:08:59.0000000|Windows Explorer|ManicTime/Applications
-4067||2017-02-24T23:08:46.0000000|2017-02-24T23:26:59.0000000||ManicTime/ComputerUsage
+4067||2017-02-24T23:08:46.0000000|2017-02-24T23:19:16.0000000||ManicTime/ComputerUsage
 4068|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-24T23:08:59.0000000|2017-02-24T23:10:21.0000000|Sublime Text|ManicTime/Applications
 4069|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|2017-02-24T23:08:59.0000000|2017-02-24T23:10:21.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|ManicTime/Documents
 4070|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-24T23:10:21.0000000|2017-02-24T23:10:28.0000000|Sublime Text|ManicTime/Applications
@@ -4006,7 +4006,11 @@
 4113|Login - Google Chrome|2017-02-24T23:18:36.0000000|2017-02-24T23:19:16.0000000|Google Chrome|ManicTime/Applications
 4114|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js|2017-02-24T23:18:09.0000000|2017-02-24T23:18:30.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js|ManicTime/Documents
 4115|http://localhost:3000/|2017-02-24T23:18:36.0000000|2017-02-24T23:19:16.0000000|localhost|ManicTime/Documents
-4116|Login form shake effect - Google Chrome|2017-02-24T23:19:16.0000000|2017-02-24T23:26:59.0000000|Google Chrome|ManicTime/Applications
-4117|http://localhost:3000/usuario|2017-02-24T23:19:16.0000000|2017-02-24T23:26:59.0000000|localhost|ManicTime/Documents
+4118||2017-02-24T23:19:16.0000000|2017-02-24T23:32:37.0000000||ManicTime/ComputerUsage
+4119|Login form shake effect - Google Chrome|2017-02-24T23:32:37.0000000|2017-02-24T23:36:35.0000000|Google Chrome|ManicTime/Applications
+4120||2017-02-24T23:32:37.0000000|2017-02-24T23:41:58.0000000||ManicTime/ComputerUsage
+4121|http://localhost:3000/usuario|2017-02-24T23:32:37.0000000|2017-02-24T23:36:35.0000000|localhost|ManicTime/Documents
+4122|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-24T23:36:35.0000000|2017-02-24T23:41:58.0000000|Sublime Text|ManicTime/Applications
+4123|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js|2017-02-24T23:36:35.0000000|2017-02-24T23:41:58.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js|ManicTime/Documents
 
-(4010 rows affected)
+(4014 rows affected)
