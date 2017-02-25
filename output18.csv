@@ -4169,7 +4169,7 @@
 4284||2017-02-25T13:43:45.0000000|2017-02-25T13:43:46.0000000||ManicTime/ComputerUsage
 4287||2017-02-25T13:43:46.0000000|2017-02-25T15:09:27.0000000||ManicTime/ComputerUsage
 4288|Windows PowerShell|2017-02-25T15:04:33.0000000|2017-02-25T15:10:49.0000000|Windows PowerShell|ManicTime/Applications
-4289||2017-02-25T15:04:33.0000000|2017-02-25T15:42:15.0000000||ManicTime/ComputerUsage
+4289||2017-02-25T15:04:33.0000000|2017-02-25T15:35:58.0000000||ManicTime/ComputerUsage
 4290|Nueva pestaña - Google Chrome|2017-02-25T15:10:49.0000000|2017-02-25T15:10:55.0000000|Google Chrome|ManicTime/Applications
 4291|Login - Google Chrome|2017-02-25T15:10:55.0000000|2017-02-25T15:12:50.0000000|Google Chrome|ManicTime/Applications
 4292|http://localhost:3000/|2017-02-25T15:10:55.0000000|2017-02-25T15:12:50.0000000|localhost|ManicTime/Documents
@@ -4302,9 +4302,29 @@
 4419|npm|2017-02-25T15:35:18.0000000|2017-02-25T15:35:24.0000000|Windows PowerShell|ManicTime/Applications
 4420|localhost:3000 - Google Chrome|2017-02-25T15:35:24.0000000|2017-02-25T15:35:29.0000000|Google Chrome|ManicTime/Applications
 4421|Login - Google Chrome|2017-02-25T15:35:29.0000000|2017-02-25T15:35:57.0000000|Google Chrome|ManicTime/Applications
-4422|Login form shake effect - Google Chrome|2017-02-25T15:35:57.0000000|2017-02-25T15:42:15.0000000|Google Chrome|ManicTime/Applications
 4423|http://localhost:3000/|2017-02-25T15:35:24.0000000|2017-02-25T15:35:29.0000000|localhost|ManicTime/Documents
 4424|http://localhost:3000/|2017-02-25T15:35:29.0000000|2017-02-25T15:35:57.0000000|localhost|ManicTime/Documents
-4425|http://localhost:3000/usuario|2017-02-25T15:35:57.0000000|2017-02-25T15:42:15.0000000|localhost|ManicTime/Documents
+4426||2017-02-25T15:35:58.0000000|2017-02-25T15:46:51.0000000||ManicTime/ComputerUsage
+4427|Login form shake effect - Google Chrome|2017-02-25T15:46:51.0000000|2017-02-25T15:46:59.0000000|Google Chrome|ManicTime/Applications
+4428|.empty() | jQuery API Documentation - Google Chrome|2017-02-25T15:46:59.0000000|2017-02-25T15:47:04.0000000|Google Chrome|ManicTime/Applications
+4429|.empty() | jQuery API Documentation - Google Chrome|2017-02-25T15:47:04.0000000|2017-02-25T15:52:26.0000000|Google Chrome|ManicTime/Applications
+4430||2017-02-25T15:46:51.0000000|2017-02-25T15:57:08.0000000||ManicTime/ComputerUsage
+4431|http://localhost:3000/usuario|2017-02-25T15:46:51.0000000|2017-02-25T15:46:59.0000000|localhost|ManicTime/Documents
+4432|https://api.jquery.com/empty/|2017-02-25T15:46:59.0000000|2017-02-25T15:47:04.0000000|api.jquery.com|ManicTime/Documents
+4433|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-25T15:52:26.0000000|2017-02-25T15:52:49.0000000|Sublime Text|ManicTime/Applications
+4434|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-25T15:52:49.0000000|2017-02-25T15:52:56.0000000|Sublime Text|ManicTime/Applications
+4435|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-25T15:52:56.0000000|2017-02-25T15:53:46.0000000|Sublime Text|ManicTime/Applications
+4436|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js|2017-02-25T15:52:26.0000000|2017-02-25T15:52:49.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js|ManicTime/Documents
+4437|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|2017-02-25T15:52:49.0000000|2017-02-25T15:52:56.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|ManicTime/Documents
+4438|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js|2017-02-25T15:52:56.0000000|2017-02-25T15:53:46.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js|ManicTime/Documents
+4439|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-25T15:53:46.0000000|2017-02-25T15:55:29.0000000|Sublime Text|ManicTime/Applications
+4440|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js|2017-02-25T15:53:46.0000000|2017-02-25T15:55:29.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js|ManicTime/Documents
+4441|Nueva pestaña - Google Chrome|2017-02-25T15:55:29.0000000|2017-02-25T15:55:34.0000000|Google Chrome|ManicTime/Applications
+4442|.fadeOut() | jQuery API Documentation - Google Chrome|2017-02-25T15:55:34.0000000|2017-02-25T15:56:00.0000000|Google Chrome|ManicTime/Applications
+4443|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-25T15:56:00.0000000|2017-02-25T15:56:34.0000000|Sublime Text|ManicTime/Applications
+4444|http://api.jquery.com/fadeout/|2017-02-25T15:55:34.0000000|2017-02-25T15:56:00.0000000|api.jquery.com|ManicTime/Documents
+4445|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js|2017-02-25T15:56:00.0000000|2017-02-25T15:56:34.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js|ManicTime/Documents
+4446|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-25T15:56:34.0000000|2017-02-25T15:57:08.0000000|Sublime Text|ManicTime/Applications
+4447|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js|2017-02-25T15:56:34.0000000|2017-02-25T15:57:08.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js|ManicTime/Documents
 
-(4308 rows affected)
+(4328 rows affected)
