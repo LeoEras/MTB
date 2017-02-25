@@ -3937,6 +3937,10 @@
 4038|http://localhost:3000/|2017-02-24T00:43:51.0000000|2017-02-24T00:43:57.0000000|localhost|ManicTime/Documents
 4039|Login - Google Chrome|2017-02-24T00:43:57.0000000|2017-02-24T01:00:55.0000000|Google Chrome|ManicTime/Applications
 4040|http://localhost:3000/|2017-02-24T00:43:57.0000000|2017-02-24T01:00:55.0000000|localhost|ManicTime/Documents
-4041||2017-02-24T01:00:55.0000000|2017-02-24T01:11:40.0000000||ManicTime/ComputerUsage
+4041||2017-02-24T01:00:55.0000000|2017-02-24T01:33:09.0000000||ManicTime/ComputerUsage
+4042||2017-02-24T07:40:36.0000000|2017-02-24T07:40:37.0000000||ManicTime/ComputerUsage
+4043|Login - Google Chrome|2017-02-24T07:40:39.0000000|2017-02-24T07:42:06.0000000|Google Chrome|ManicTime/Applications
+4044||2017-02-24T07:40:39.0000000|2017-02-24T07:42:06.0000000||ManicTime/ComputerUsage
+4045|http://localhost:3000/|2017-02-24T07:40:39.0000000|2017-02-24T07:42:06.0000000|localhost|ManicTime/Documents
 
-(3940 rows affected)
+(3944 rows affected)
