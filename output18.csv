@@ -4169,7 +4169,7 @@
 4284||2017-02-25T13:43:45.0000000|2017-02-25T13:43:46.0000000||ManicTime/ComputerUsage
 4287||2017-02-25T13:43:46.0000000|2017-02-25T15:09:27.0000000||ManicTime/ComputerUsage
 4288|Windows PowerShell|2017-02-25T15:04:33.0000000|2017-02-25T15:10:49.0000000|Windows PowerShell|ManicTime/Applications
-4289||2017-02-25T15:04:33.0000000|2017-02-25T15:14:43.0000000||ManicTime/ComputerUsage
+4289||2017-02-25T15:04:33.0000000|2017-02-25T15:27:21.0000000||ManicTime/ComputerUsage
 4290|Nueva pestaña - Google Chrome|2017-02-25T15:10:49.0000000|2017-02-25T15:10:55.0000000|Google Chrome|ManicTime/Applications
 4291|Login - Google Chrome|2017-02-25T15:10:55.0000000|2017-02-25T15:12:50.0000000|Google Chrome|ManicTime/Applications
 4292|http://localhost:3000/|2017-02-25T15:10:55.0000000|2017-02-25T15:12:50.0000000|localhost|ManicTime/Documents
@@ -4181,9 +4181,64 @@
 4298|Login - Google Chrome|2017-02-25T15:13:39.0000000|2017-02-25T15:13:53.0000000|Google Chrome|ManicTime/Applications
 4299|Nueva pestaña - Google Chrome|2017-02-25T15:13:53.0000000|2017-02-25T15:14:02.0000000|Google Chrome|ManicTime/Applications
 4300|alert message in a modal - Buscar con Google - Google Chrome|2017-02-25T15:14:02.0000000|2017-02-25T15:14:11.0000000|Google Chrome|ManicTime/Applications
-4301|javascript - How to display an Alert in Bootstrap Modal - Stack Overflow - Google Chrome|2017-02-25T15:14:11.0000000|2017-02-25T15:14:43.0000000|Google Chrome|ManicTime/Applications
+4301|javascript - How to display an Alert in Bootstrap Modal - Stack Overflow - Google Chrome|2017-02-25T15:14:11.0000000|2017-02-25T15:15:45.0000000|Google Chrome|ManicTime/Applications
 4302|http://localhost:3000/|2017-02-25T15:13:39.0000000|2017-02-25T15:13:53.0000000|localhost|ManicTime/Documents
 4303|https://www.google.com.ec/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=alert+message+in+a+modal&*|2017-02-25T15:14:02.0000000|2017-02-25T15:14:11.0000000|www.google.com.ec|ManicTime/Documents
-4304|http://stackoverflow.com/questions/36803865/how-to-display-an-alert-in-bootstrap-modal|2017-02-25T15:14:11.0000000|2017-02-25T15:14:43.0000000|stackoverflow.com|ManicTime/Documents
+4304|http://stackoverflow.com/questions/36803865/how-to-display-an-alert-in-bootstrap-modal|2017-02-25T15:14:11.0000000|2017-02-25T15:15:45.0000000|stackoverflow.com|ManicTime/Documents
+4305|Showing messages in a modal - FormValidation - Google Chrome|2017-02-25T15:15:45.0000000|2017-02-25T15:17:03.0000000|Google Chrome|ManicTime/Applications
+4306|http://formvalidation.io/examples/showing-messages-modal/|2017-02-25T15:15:45.0000000|2017-02-25T15:17:03.0000000|formvalidation.io|ManicTime/Documents
+4307|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-25T15:17:03.0000000|2017-02-25T15:17:18.0000000|Sublime Text|ManicTime/Applications
+4308|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-25T15:17:18.0000000|2017-02-25T15:18:05.0000000|Sublime Text|ManicTime/Applications
+4309|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|2017-02-25T15:17:03.0000000|2017-02-25T15:17:18.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|ManicTime/Documents
+4310|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|2017-02-25T15:17:18.0000000|2017-02-25T15:18:05.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|ManicTime/Documents
+4311|npm|2017-02-25T15:18:05.0000000|2017-02-25T15:18:18.0000000|Windows PowerShell|ManicTime/Applications
+4312|Nueva pestaña - Google Chrome|2017-02-25T15:18:18.0000000|2017-02-25T15:18:23.0000000|Google Chrome|ManicTime/Applications
+4313|Login - Google Chrome|2017-02-25T15:18:23.0000000|2017-02-25T15:19:21.0000000|Google Chrome|ManicTime/Applications
+4314|http://localhost:3000/|2017-02-25T15:18:18.0000000|2017-02-25T15:18:23.0000000|localhost|ManicTime/Documents
+4315|http://localhost:3000/|2017-02-25T15:18:23.0000000|2017-02-25T15:19:21.0000000|localhost|ManicTime/Documents
+4316|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-25T15:19:21.0000000|2017-02-25T15:19:35.0000000|Sublime Text|ManicTime/Applications
+4317|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-25T15:19:35.0000000|2017-02-25T15:20:04.0000000|Sublime Text|ManicTime/Applications
+4318|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-25T15:20:04.0000000|2017-02-25T15:20:20.0000000|Sublime Text|ManicTime/Applications
+4319|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-25T15:20:20.0000000|2017-02-25T15:21:03.0000000|Sublime Text|ManicTime/Applications
+4320|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|2017-02-25T15:19:21.0000000|2017-02-25T15:19:35.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|ManicTime/Documents
+4321|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|2017-02-25T15:19:35.0000000|2017-02-25T15:20:04.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|ManicTime/Documents
+4322|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js|2017-02-25T15:20:04.0000000|2017-02-25T15:20:20.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js|ManicTime/Documents
+4323|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js|2017-02-25T15:20:20.0000000|2017-02-25T15:21:03.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js|ManicTime/Documents
+4324|Nueva pestaña - Google Chrome|2017-02-25T15:21:03.0000000|2017-02-25T15:21:08.0000000|Google Chrome|ManicTime/Applications
+4325|CSS: centering things - Google Chrome|2017-02-25T15:21:08.0000000|2017-02-25T15:21:39.0000000|Google Chrome|ManicTime/Applications
+4326|https://www.w3.org/Style/Examples/007/center.en.html|2017-02-25T15:21:08.0000000|2017-02-25T15:21:39.0000000|www.w3.org|ManicTime/Documents
+4327|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-25T15:21:39.0000000|2017-02-25T15:21:49.0000000|Sublime Text|ManicTime/Applications
+4328|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\stylesheets\loginStyle2.css (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-25T15:21:49.0000000|2017-02-25T15:21:55.0000000|Sublime Text|ManicTime/Applications
+4329|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\stylesheets\loginStyle2.css • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-25T15:21:55.0000000|2017-02-25T15:23:15.0000000|Sublime Text|ManicTime/Applications
+4330|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js|2017-02-25T15:21:39.0000000|2017-02-25T15:21:49.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js|ManicTime/Documents
+4331|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\stylesheets\loginStyle2.css|2017-02-25T15:21:49.0000000|2017-02-25T15:21:55.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\stylesheets\loginStyle2.css|ManicTime/Documents
+4332|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\stylesheets\loginStyle2.css|2017-02-25T15:21:55.0000000|2017-02-25T15:23:15.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\stylesheets\loginStyle2.css|ManicTime/Documents
+4333|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-25T15:23:15.0000000|2017-02-25T15:23:28.0000000|Sublime Text|ManicTime/Applications
+4334|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js|2017-02-25T15:23:15.0000000|2017-02-25T15:23:28.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js|ManicTime/Documents
+4335|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-25T15:23:28.0000000|2017-02-25T15:23:34.0000000|Sublime Text|ManicTime/Applications
+4336|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-25T15:23:34.0000000|2017-02-25T15:23:40.0000000|Sublime Text|ManicTime/Applications
+4337|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-25T15:23:40.0000000|2017-02-25T15:23:50.0000000|Sublime Text|ManicTime/Applications
+4338|npm|2017-02-25T15:23:50.0000000|2017-02-25T15:23:58.0000000|Windows PowerShell|ManicTime/Applications
+4339|Windows PowerShell|2017-02-25T15:23:58.0000000|2017-02-25T15:24:03.0000000|Windows PowerShell|ManicTime/Applications
+4340|javascript - How to display an Alert in Bootstrap Modal - Stack Overflow - Google Chrome|2017-02-25T15:24:03.0000000|2017-02-25T15:24:08.0000000|Google Chrome|ManicTime/Applications
+4341|Login - Google Chrome|2017-02-25T15:24:08.0000000|2017-02-25T15:25:10.0000000|Google Chrome|ManicTime/Applications
+4342|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|2017-02-25T15:23:28.0000000|2017-02-25T15:23:34.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|ManicTime/Documents
+4343|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|2017-02-25T15:23:34.0000000|2017-02-25T15:23:40.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|ManicTime/Documents
+4344|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|2017-02-25T15:23:40.0000000|2017-02-25T15:23:50.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|ManicTime/Documents
+4345|http://stackoverflow.com/questions/36803865/how-to-display-an-alert-in-bootstrap-modal|2017-02-25T15:24:03.0000000|2017-02-25T15:24:08.0000000|stackoverflow.com|ManicTime/Documents
+4346|http://localhost:3000/|2017-02-25T15:24:08.0000000|2017-02-25T15:25:10.0000000|localhost|ManicTime/Documents
+4347|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\stylesheets\loginStyle2.css (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-25T15:25:10.0000000|2017-02-25T15:25:19.0000000|Sublime Text|ManicTime/Applications
+4348|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\stylesheets\loginStyle2.css|2017-02-25T15:25:10.0000000|2017-02-25T15:25:19.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\stylesheets\loginStyle2.css|ManicTime/Documents
+4349|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-25T15:25:19.0000000|2017-02-25T15:25:35.0000000|Sublime Text|ManicTime/Applications
+4350|Nueva pestaña - Google Chrome|2017-02-25T15:25:35.0000000|2017-02-25T15:25:48.0000000|Google Chrome|ManicTime/Applications
+4351|kill all the sons of a specific tag - Buscar con Google - Google Chrome|2017-02-25T15:25:48.0000000|2017-02-25T15:26:07.0000000|Google Chrome|ManicTime/Applications
+4352|javascript delete inner tags - Buscar con Google - Google Chrome|2017-02-25T15:26:07.0000000|2017-02-25T15:26:24.0000000|Google Chrome|ManicTime/Applications
+4353|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js|2017-02-25T15:25:19.0000000|2017-02-25T15:25:35.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js|ManicTime/Documents
+4354|https://www.google.com.ec/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=kill+all+the+sons+of+a+specific+tag&*|2017-02-25T15:25:48.0000000|2017-02-25T15:26:07.0000000|www.google.com.ec|ManicTime/Documents
+4355|https://www.google.com.ec/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=javascript+delete+inner+tags&*|2017-02-25T15:26:07.0000000|2017-02-25T15:26:24.0000000|www.google.com.ec|ManicTime/Documents
+4356|.empty() | jQuery API Documentation - Google Chrome|2017-02-25T15:26:24.0000000|2017-02-25T15:27:17.0000000|Google Chrome|ManicTime/Applications
+4357|javascript - How do I clear the contents of a div without innerHTML = ""; - Stack Overflow - Google Chrome|2017-02-25T15:27:17.0000000|2017-02-25T15:27:21.0000000|Google Chrome|ManicTime/Applications
+4358|https://api.jquery.com/empty/|2017-02-25T15:26:24.0000000|2017-02-25T15:27:17.0000000|api.jquery.com|ManicTime/Documents
+4359|http://stackoverflow.com/questions/5057759/how-do-i-clear-the-contents-of-a-div-without-innerhtml|2017-02-25T15:27:17.0000000|2017-02-25T15:27:21.0000000|stackoverflow.com|ManicTime/Documents
 
-(4187 rows affected)
+(4242 rows affected)
