@@ -4167,6 +4167,23 @@
 4280|Windows PowerShell|2017-02-25T12:02:28.0000000|2017-02-25T12:02:36.0000000|Windows PowerShell|ManicTime/Applications
 4282||2017-02-25T12:02:36.0000000|2017-02-25T12:47:42.0000000||ManicTime/ComputerUsage
 4284||2017-02-25T13:43:45.0000000|2017-02-25T13:43:46.0000000||ManicTime/ComputerUsage
-4287||2017-02-25T13:43:46.0000000|2017-02-25T14:56:22.0000000||ManicTime/ComputerUsage
+4287||2017-02-25T13:43:46.0000000|2017-02-25T15:09:27.0000000||ManicTime/ComputerUsage
+4288|Windows PowerShell|2017-02-25T15:04:33.0000000|2017-02-25T15:10:49.0000000|Windows PowerShell|ManicTime/Applications
+4289||2017-02-25T15:04:33.0000000|2017-02-25T15:14:43.0000000||ManicTime/ComputerUsage
+4290|Nueva pestaña - Google Chrome|2017-02-25T15:10:49.0000000|2017-02-25T15:10:55.0000000|Google Chrome|ManicTime/Applications
+4291|Login - Google Chrome|2017-02-25T15:10:55.0000000|2017-02-25T15:12:50.0000000|Google Chrome|ManicTime/Applications
+4292|http://localhost:3000/|2017-02-25T15:10:55.0000000|2017-02-25T15:12:50.0000000|localhost|ManicTime/Documents
+4293|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-25T15:12:50.0000000|2017-02-25T15:13:03.0000000|Sublime Text|ManicTime/Applications
+4294|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-25T15:13:03.0000000|2017-02-25T15:13:29.0000000|Sublime Text|ManicTime/Applications
+4295|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|2017-02-25T15:12:50.0000000|2017-02-25T15:13:03.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|ManicTime/Documents
+4296|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|2017-02-25T15:13:03.0000000|2017-02-25T15:13:29.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|ManicTime/Documents
+4297|npm|2017-02-25T15:13:29.0000000|2017-02-25T15:13:39.0000000|Windows PowerShell|ManicTime/Applications
+4298|Login - Google Chrome|2017-02-25T15:13:39.0000000|2017-02-25T15:13:53.0000000|Google Chrome|ManicTime/Applications
+4299|Nueva pestaña - Google Chrome|2017-02-25T15:13:53.0000000|2017-02-25T15:14:02.0000000|Google Chrome|ManicTime/Applications
+4300|alert message in a modal - Buscar con Google - Google Chrome|2017-02-25T15:14:02.0000000|2017-02-25T15:14:11.0000000|Google Chrome|ManicTime/Applications
+4301|javascript - How to display an Alert in Bootstrap Modal - Stack Overflow - Google Chrome|2017-02-25T15:14:11.0000000|2017-02-25T15:14:43.0000000|Google Chrome|ManicTime/Applications
+4302|http://localhost:3000/|2017-02-25T15:13:39.0000000|2017-02-25T15:13:53.0000000|localhost|ManicTime/Documents
+4303|https://www.google.com.ec/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=alert+message+in+a+modal&*|2017-02-25T15:14:02.0000000|2017-02-25T15:14:11.0000000|www.google.com.ec|ManicTime/Documents
+4304|http://stackoverflow.com/questions/36803865/how-to-display-an-alert-in-bootstrap-modal|2017-02-25T15:14:11.0000000|2017-02-25T15:14:43.0000000|stackoverflow.com|ManicTime/Documents
 
-(4170 rows affected)
+(4187 rows affected)
