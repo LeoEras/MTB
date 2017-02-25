@@ -4012,8 +4012,9 @@
 4121|http://localhost:3000/usuario|2017-02-24T23:32:37.0000000|2017-02-24T23:36:35.0000000|localhost|ManicTime/Documents
 4124||2017-02-24T23:36:37.0000000|2017-02-25T01:07:35.0000000||ManicTime/ComputerUsage
 4125|Windows Activation Client|2017-02-25T01:07:35.0000000|2017-02-25T01:07:42.0000000|Windows Activation Client|ManicTime/Applications
-4126|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-25T01:07:42.0000000|2017-02-25T01:26:56.0000000|Sublime Text|ManicTime/Applications
-4127||2017-02-25T01:07:35.0000000|2017-02-25T01:26:56.0000000||ManicTime/ComputerUsage
-4128|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js|2017-02-25T01:07:42.0000000|2017-02-25T01:26:56.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js|ManicTime/Documents
+4126|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-25T01:07:42.0000000|2017-02-25T01:37:57.0000000|Sublime Text|ManicTime/Applications
+4127||2017-02-25T01:07:35.0000000|2017-02-25T01:41:56.0000000||ManicTime/ComputerUsage
+4128|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js|2017-02-25T01:07:42.0000000|2017-02-25T01:37:57.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js|ManicTime/Documents
+4129|Windows Activation Client|2017-02-25T01:37:57.0000000|2017-02-25T01:41:56.0000000|Windows Activation Client|ManicTime/Applications
 
-(4017 rows affected)
+(4018 rows affected)
