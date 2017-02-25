@@ -3954,6 +3954,21 @@
 4056|Start menu|2017-02-24T07:45:13.0000000|2017-02-24T07:45:17.0000000|Windows Explorer|ManicTime/Applications
 4057|Program Manager|2017-02-24T22:24:09.0000000|2017-02-24T22:25:01.0000000|Windows Explorer|ManicTime/Applications
 4058||2017-02-24T22:24:09.0000000|2017-02-24T22:25:05.0000000||ManicTime/ComputerUsage
-4061||2017-02-24T22:25:05.0000000|2017-02-24T22:57:00.0000000||ManicTime/ComputerUsage
+4061||2017-02-24T22:25:05.0000000|2017-02-24T23:08:46.0000000||ManicTime/ComputerUsage
+4065|Windows Activation Client|2017-02-24T23:08:46.0000000|2017-02-24T23:08:53.0000000|Windows Activation Client|ManicTime/Applications
+4066|Start menu|2017-02-24T23:08:53.0000000|2017-02-24T23:08:59.0000000|Windows Explorer|ManicTime/Applications
+4067||2017-02-24T23:08:46.0000000|2017-02-24T23:12:00.0000000||ManicTime/ComputerUsage
+4068|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-24T23:08:59.0000000|2017-02-24T23:10:21.0000000|Sublime Text|ManicTime/Applications
+4069|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|2017-02-24T23:08:59.0000000|2017-02-24T23:10:21.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|ManicTime/Documents
+4070|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-24T23:10:21.0000000|2017-02-24T23:10:28.0000000|Sublime Text|ManicTime/Applications
+4071|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-24T23:10:28.0000000|2017-02-24T23:10:46.0000000|Sublime Text|ManicTime/Applications
+4072|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-24T23:10:46.0000000|2017-02-24T23:10:51.0000000|Sublime Text|ManicTime/Applications
+4073|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-24T23:10:51.0000000|2017-02-24T23:10:56.0000000|Sublime Text|ManicTime/Applications
+4074|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-24T23:10:56.0000000|2017-02-24T23:12:00.0000000|Sublime Text|ManicTime/Applications
+4075|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js|2017-02-24T23:10:21.0000000|2017-02-24T23:10:28.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js|ManicTime/Documents
+4076|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js|2017-02-24T23:10:28.0000000|2017-02-24T23:10:46.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js|ManicTime/Documents
+4077|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js|2017-02-24T23:10:46.0000000|2017-02-24T23:10:51.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js|ManicTime/Documents
+4078|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js|2017-02-24T23:10:51.0000000|2017-02-24T23:10:56.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js|ManicTime/Documents
+4079|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js|2017-02-24T23:10:56.0000000|2017-02-24T23:12:00.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js|ManicTime/Documents
 
-(3957 rows affected)
+(3972 rows affected)
