@@ -4308,7 +4308,7 @@
 4427|Login form shake effect - Google Chrome|2017-02-25T15:46:51.0000000|2017-02-25T15:46:59.0000000|Google Chrome|ManicTime/Applications
 4428|.empty() | jQuery API Documentation - Google Chrome|2017-02-25T15:46:59.0000000|2017-02-25T15:47:04.0000000|Google Chrome|ManicTime/Applications
 4429|.empty() | jQuery API Documentation - Google Chrome|2017-02-25T15:47:04.0000000|2017-02-25T15:52:26.0000000|Google Chrome|ManicTime/Applications
-4430||2017-02-25T15:46:51.0000000|2017-02-25T15:57:08.0000000||ManicTime/ComputerUsage
+4430||2017-02-25T15:46:51.0000000|2017-02-25T16:07:54.0000000||ManicTime/ComputerUsage
 4431|http://localhost:3000/usuario|2017-02-25T15:46:51.0000000|2017-02-25T15:46:59.0000000|localhost|ManicTime/Documents
 4432|https://api.jquery.com/empty/|2017-02-25T15:46:59.0000000|2017-02-25T15:47:04.0000000|api.jquery.com|ManicTime/Documents
 4433|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-25T15:52:26.0000000|2017-02-25T15:52:49.0000000|Sublime Text|ManicTime/Applications
@@ -4324,7 +4324,25 @@
 4443|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-25T15:56:00.0000000|2017-02-25T15:56:34.0000000|Sublime Text|ManicTime/Applications
 4444|http://api.jquery.com/fadeout/|2017-02-25T15:55:34.0000000|2017-02-25T15:56:00.0000000|api.jquery.com|ManicTime/Documents
 4445|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js|2017-02-25T15:56:00.0000000|2017-02-25T15:56:34.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js|ManicTime/Documents
-4446|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-25T15:56:34.0000000|2017-02-25T15:57:08.0000000|Sublime Text|ManicTime/Applications
-4447|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js|2017-02-25T15:56:34.0000000|2017-02-25T15:57:08.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js|ManicTime/Documents
+4446|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-25T15:56:34.0000000|2017-02-25T15:57:14.0000000|Sublime Text|ManicTime/Applications
+4447|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js|2017-02-25T15:56:34.0000000|2017-02-25T15:57:14.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js|ManicTime/Documents
+4448|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-25T15:57:14.0000000|2017-02-25T15:57:29.0000000|Sublime Text|ManicTime/Applications
+4449|npm|2017-02-25T15:57:29.0000000|2017-02-25T15:57:34.0000000|Windows PowerShell|ManicTime/Applications
+4450|Login - Google Chrome|2017-02-25T15:57:34.0000000|2017-02-25T15:59:01.0000000|Google Chrome|ManicTime/Applications
+4451|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|2017-02-25T15:57:14.0000000|2017-02-25T15:57:29.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|ManicTime/Documents
+4452|http://localhost:3000/|2017-02-25T15:57:34.0000000|2017-02-25T15:59:01.0000000|localhost|ManicTime/Documents
+4453|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-25T15:59:01.0000000|2017-02-25T16:02:10.0000000|Sublime Text|ManicTime/Applications
+4454|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|2017-02-25T15:59:01.0000000|2017-02-25T16:02:10.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|ManicTime/Documents
+4455|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-25T16:02:10.0000000|2017-02-25T16:07:54.0000000|Sublime Text|ManicTime/Applications
+4456|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js|2017-02-25T16:02:10.0000000|2017-02-25T16:07:54.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js|ManicTime/Documents
+4457|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-25T16:54:28.0000000|2017-02-25T16:55:42.0000000|Sublime Text|ManicTime/Applications
+4458||2017-02-25T16:54:28.0000000|2017-02-25T16:56:41.0000000||ManicTime/ComputerUsage
+4459|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js|2017-02-25T16:54:28.0000000|2017-02-25T16:55:42.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js|ManicTime/Documents
+4460|ESTUDIANTE-PC|2017-02-25T16:55:42.0000000|2017-02-25T16:55:48.0000000|Windows Explorer|ManicTime/Applications
+4461|Login form shake effect - Google Chrome|2017-02-25T16:55:48.0000000|2017-02-25T16:55:53.0000000|Google Chrome|ManicTime/Applications
+4462|Estudiante|2017-02-25T16:55:53.0000000|2017-02-25T16:56:00.0000000|Windows Explorer|ManicTime/Applications
+4463|nodeProyects|2017-02-25T16:56:00.0000000|2017-02-25T16:56:05.0000000|Windows Explorer|ManicTime/Applications
+4464|MINGW64:/c/Users/Estudiante/nodeProyects/proyectoDAWIIparcial|2017-02-25T16:56:05.0000000|2017-02-25T16:56:41.0000000|mintty|ManicTime/Applications
+4465|http://localhost:3000/usuario|2017-02-25T16:55:48.0000000|2017-02-25T16:55:53.0000000|localhost|ManicTime/Documents
 
-(4328 rows affected)
+(4346 rows affected)
