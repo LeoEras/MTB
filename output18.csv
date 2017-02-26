@@ -4483,7 +4483,7 @@
 4606|https://www.youtube.com/watch?v=jtaSRzP0i30&feature=youtu.be|2017-02-25T21:26:17.0000000|2017-02-25T21:44:30.0000000|www.youtube.com|ManicTime/Documents
 4607||2017-02-25T21:44:30.0000000|2017-02-25T22:21:48.0000000||ManicTime/ComputerUsage
 4608|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-25T22:21:48.0000000|2017-02-25T22:22:00.0000000|Sublime Text|ManicTime/Applications
-4609||2017-02-25T22:21:48.0000000|2017-02-25T23:41:36.0000000||ManicTime/ComputerUsage
+4609||2017-02-25T22:21:48.0000000|2017-02-25T23:56:37.0000000||ManicTime/ComputerUsage
 4610|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js|2017-02-25T22:21:48.0000000|2017-02-25T22:22:00.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js|ManicTime/Documents
 4611|untitled (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-25T22:22:00.0000000|2017-02-25T22:22:05.0000000|Sublime Text|ManicTime/Applications
 4612|Windows Explorer|2017-02-25T22:22:05.0000000|2017-02-25T22:22:11.0000000|Windows Explorer|ManicTime/Applications
@@ -4802,12 +4802,33 @@
 4934|Windows PowerShell|2017-02-25T23:39:55.0000000|2017-02-25T23:40:04.0000000|Windows PowerShell|ManicTime/Applications
 4935|Login - Google Chrome|2017-02-25T23:40:04.0000000|2017-02-25T23:40:12.0000000|Google Chrome|ManicTime/Applications
 4936|Login - Google Chrome|2017-02-25T23:40:12.0000000|2017-02-25T23:40:18.0000000|Google Chrome|ManicTime/Applications
-4937|Login form shake effect - Google Chrome|2017-02-25T23:40:18.0000000|2017-02-25T23:41:36.0000000|Google Chrome|ManicTime/Applications
+4937|Login form shake effect - Google Chrome|2017-02-25T23:40:18.0000000|2017-02-25T23:43:26.0000000|Google Chrome|ManicTime/Applications
 4938|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\angularL.js|2017-02-25T23:39:33.0000000|2017-02-25T23:39:41.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\angularL.js|ManicTime/Documents
 4939|http://localhost:3000/usuario|2017-02-25T23:39:41.0000000|2017-02-25T23:39:49.0000000|localhost|ManicTime/Documents
 4940|http://localhost:3000/#!/usuario|2017-02-25T23:39:49.0000000|2017-02-25T23:39:55.0000000|localhost|ManicTime/Documents
 4941|http://localhost:3000/|2017-02-25T23:40:04.0000000|2017-02-25T23:40:12.0000000|localhost|ManicTime/Documents
 4942|http://localhost:3000/#!|2017-02-25T23:40:12.0000000|2017-02-25T23:40:18.0000000|localhost|ManicTime/Documents
-4943|http://localhost:3000/usuario|2017-02-25T23:40:18.0000000|2017-02-25T23:41:36.0000000|localhost|ManicTime/Documents
+4943|http://localhost:3000/usuario|2017-02-25T23:40:18.0000000|2017-02-25T23:43:26.0000000|localhost|ManicTime/Documents
+4944|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\angularL.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-25T23:43:26.0000000|2017-02-25T23:43:38.0000000|Sublime Text|ManicTime/Applications
+4945|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\angularL.js|2017-02-25T23:43:26.0000000|2017-02-25T23:43:38.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\angularL.js|ManicTime/Documents
+4946|Login - Google Chrome|2017-02-25T23:43:38.0000000|2017-02-25T23:43:48.0000000|Google Chrome|ManicTime/Applications
+4947|Login - Google Chrome|2017-02-25T23:43:48.0000000|2017-02-25T23:43:54.0000000|Google Chrome|ManicTime/Applications
+4948|Login - Google Chrome|2017-02-25T23:43:54.0000000|2017-02-25T23:44:05.0000000|Google Chrome|ManicTime/Applications
+4949|Login - Google Chrome|2017-02-25T23:44:05.0000000|2017-02-25T23:44:17.0000000|Google Chrome|ManicTime/Applications
+4950|Login - Google Chrome|2017-02-25T23:44:17.0000000|2017-02-25T23:44:24.0000000|Google Chrome|ManicTime/Applications
+4951|Login form shake effect - Google Chrome|2017-02-25T23:44:24.0000000|2017-02-25T23:44:32.0000000|Google Chrome|ManicTime/Applications
+4952|Web Dev - CS4550 - Introdunction to PassportJS - YouTube - Google Chrome|2017-02-25T23:44:32.0000000|2017-02-25T23:56:02.0000000|Google Chrome|ManicTime/Applications
+4953|http://localhost:3000/#!/|2017-02-25T23:43:38.0000000|2017-02-25T23:43:48.0000000|localhost|ManicTime/Documents
+4954|http://localhost:3000/#!/usuari|2017-02-25T23:43:48.0000000|2017-02-25T23:43:54.0000000|localhost|ManicTime/Documents
+4955|http://localhost:3000/#!/usuario|2017-02-25T23:43:54.0000000|2017-02-25T23:44:05.0000000|localhost|ManicTime/Documents
+4956|http://localhost:3000/#!/|2017-02-25T23:44:05.0000000|2017-02-25T23:44:17.0000000|localhost|ManicTime/Documents
+4957|http://localhost:3000/#!/usuario|2017-02-25T23:44:17.0000000|2017-02-25T23:44:24.0000000|localhost|ManicTime/Documents
+4958|http://localhost:3000/usuario|2017-02-25T23:44:24.0000000|2017-02-25T23:44:32.0000000|localhost|ManicTime/Documents
+4959|https://www.youtube.com/watch?v=jtaSRzP0i30&feature=youtu.be|2017-02-25T23:44:32.0000000|2017-02-25T23:56:02.0000000|www.youtube.com|ManicTime/Documents
+4960|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\angularL.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-25T23:56:02.0000000|2017-02-25T23:56:07.0000000|Sublime Text|ManicTime/Applications
+4961|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\angularL.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-25T23:56:07.0000000|2017-02-25T23:56:16.0000000|Sublime Text|ManicTime/Applications
+4962|npm|2017-02-25T23:56:16.0000000|2017-02-25T23:56:37.0000000|Windows PowerShell|ManicTime/Applications
+4963|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\angularL.js|2017-02-25T23:56:02.0000000|2017-02-25T23:56:07.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\angularL.js|ManicTime/Documents
+4964|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\angularL.js|2017-02-25T23:56:07.0000000|2017-02-25T23:56:16.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\angularL.js|ManicTime/Documents
 
-(4811 rows affected)
+(4832 rows affected)
