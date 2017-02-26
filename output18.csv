@@ -4873,6 +4873,10 @@
 5009|Windows Activation Client|2017-02-26T12:02:55.0000000|2017-02-26T12:03:06.0000000|Windows Activation Client|ManicTime/Applications
 5011||2017-02-26T12:02:42.0000000|2017-02-26T12:02:55.0000000||ManicTime/ComputerUsage
 5012||2017-02-26T12:02:55.0000000|2017-02-26T12:03:06.0000000||ManicTime/ComputerUsage
-5014||2017-02-26T12:03:06.0000000|2017-02-26T13:11:55.0000000||ManicTime/ComputerUsage
+5014||2017-02-26T12:03:06.0000000|2017-02-26T13:24:10.0000000||ManicTime/ComputerUsage
+5015|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\ejerciciosE.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-26T13:24:10.0000000|2017-02-26T13:24:15.0000000|Sublime Text|ManicTime/Applications
+5016|MINGW64:/c/Users/Estudiante/nodeProyects/proyectoDAWIIparcial|2017-02-26T13:24:15.0000000|2017-02-26T13:26:54.0000000|mintty|ManicTime/Applications
+5017||2017-02-26T13:24:10.0000000|2017-02-26T13:26:54.0000000||ManicTime/ComputerUsage
+5018|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\ejerciciosE.js|2017-02-26T13:24:10.0000000|2017-02-26T13:24:15.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\ejerciciosE.js|ManicTime/Documents
 
-(4876 rows affected)
+(4880 rows affected)
