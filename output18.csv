@@ -4483,7 +4483,7 @@
 4606|https://www.youtube.com/watch?v=jtaSRzP0i30&feature=youtu.be|2017-02-25T21:26:17.0000000|2017-02-25T21:44:30.0000000|www.youtube.com|ManicTime/Documents
 4607||2017-02-25T21:44:30.0000000|2017-02-25T22:21:48.0000000||ManicTime/ComputerUsage
 4608|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-25T22:21:48.0000000|2017-02-25T22:22:00.0000000|Sublime Text|ManicTime/Applications
-4609||2017-02-25T22:21:48.0000000|2017-02-25T23:11:44.0000000||ManicTime/ComputerUsage
+4609||2017-02-25T22:21:48.0000000|2017-02-25T23:26:41.0000000||ManicTime/ComputerUsage
 4610|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js|2017-02-25T22:21:48.0000000|2017-02-25T22:22:00.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js|ManicTime/Documents
 4611|untitled (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-25T22:22:00.0000000|2017-02-25T22:22:05.0000000|Sublime Text|ManicTime/Applications
 4612|Windows Explorer|2017-02-25T22:22:05.0000000|2017-02-25T22:22:11.0000000|Windows Explorer|ManicTime/Applications
@@ -4648,9 +4648,94 @@
 4776|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-25T23:11:05.0000000|2017-02-25T23:11:23.0000000|Sublime Text|ManicTime/Applications
 4777|MINGW64:/c/Users/Estudiante/nodeProyects/proyectoDAWIIparcial|2017-02-25T23:11:23.0000000|2017-02-25T23:11:28.0000000|mintty|ManicTime/Applications
 4778|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-25T23:11:28.0000000|2017-02-25T23:11:40.0000000|Sublime Text|ManicTime/Applications
-4779|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\angularL.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-25T23:11:40.0000000|2017-02-25T23:11:44.0000000|Sublime Text|ManicTime/Applications
+4779|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\angularL.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-25T23:11:40.0000000|2017-02-25T23:11:48.0000000|Sublime Text|ManicTime/Applications
 4780|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|2017-02-25T23:11:05.0000000|2017-02-25T23:11:23.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|ManicTime/Documents
 4781|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|2017-02-25T23:11:28.0000000|2017-02-25T23:11:40.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|ManicTime/Documents
-4782|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\angularL.js|2017-02-25T23:11:40.0000000|2017-02-25T23:11:44.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\angularL.js|ManicTime/Documents
+4782|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\angularL.js|2017-02-25T23:11:40.0000000|2017-02-25T23:11:48.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\angularL.js|ManicTime/Documents
+4783|angular.js - cdnjs.com - The best FOSS CDN for web related libraries to speed up your websites! - Google Chrome|2017-02-25T23:11:48.0000000|2017-02-25T23:12:02.0000000|Google Chrome|ManicTime/Applications
+4784|nax3t/angular-express-passport-tutorial: A quick source code tutorial for adding passport authentication to a MEAN stack app (Facebook integration included) - Google Chrome|2017-02-25T23:12:02.0000000|2017-02-25T23:12:09.0000000|Google Chrome|ManicTime/Applications
+4785|angular.js - cdnjs.com - The best FOSS CDN for web related libraries to speed up your websites! - Google Chrome|2017-02-25T23:12:09.0000000|2017-02-25T23:12:17.0000000|Google Chrome|ManicTime/Applications
+4786|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\angularL.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-25T23:12:17.0000000|2017-02-25T23:12:24.0000000|Sublime Text|ManicTime/Applications
+4787|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-25T23:12:24.0000000|2017-02-25T23:13:18.0000000|Sublime Text|ManicTime/Applications
+4788|https://cdnjs.com/libraries/angular.js/|2017-02-25T23:11:48.0000000|2017-02-25T23:12:02.0000000|cdnjs.com|ManicTime/Documents
+4789|https://github.com/nax3t/angular-express-passport-tutorial|2017-02-25T23:12:02.0000000|2017-02-25T23:12:09.0000000|github.com|ManicTime/Documents
+4790|https://cdnjs.com/libraries/angular.js/|2017-02-25T23:12:09.0000000|2017-02-25T23:12:17.0000000|cdnjs.com|ManicTime/Documents
+4791|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\angularL.js|2017-02-25T23:12:17.0000000|2017-02-25T23:12:24.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\angularL.js|ManicTime/Documents
+4792|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|2017-02-25T23:12:24.0000000|2017-02-25T23:13:18.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|ManicTime/Documents
+4793|bower|2017-02-25T23:13:18.0000000|2017-02-25T23:13:25.0000000|Windows PowerShell|ManicTime/Applications
+4794|Windows PowerShell|2017-02-25T23:13:25.0000000|2017-02-25T23:13:34.0000000|Windows PowerShell|ManicTime/Applications
+4795|npm|2017-02-25T23:13:34.0000000|2017-02-25T23:13:46.0000000|Windows PowerShell|ManicTime/Applications
+4796|MINGW64:/c/Users/Estudiante/nodeProyects/proyectoDAWIIparcial|2017-02-25T23:13:46.0000000|2017-02-25T23:13:52.0000000|mintty|ManicTime/Applications
+4797|npm|2017-02-25T23:13:52.0000000|2017-02-25T23:14:02.0000000|Windows PowerShell|ManicTime/Applications
+4798|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-25T23:14:02.0000000|2017-02-25T23:14:16.0000000|Sublime Text|ManicTime/Applications
+4799|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\cursos.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-25T23:14:16.0000000|2017-02-25T23:14:21.0000000|Sublime Text|ManicTime/Applications
+4800|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\models\curso.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-25T23:14:21.0000000|2017-02-25T23:14:31.0000000|Sublime Text|ManicTime/Applications
+4801|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\models\curso.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-25T23:14:31.0000000|2017-02-25T23:14:39.0000000|Sublime Text|ManicTime/Applications
+4802|npm|2017-02-25T23:14:39.0000000|2017-02-25T23:14:47.0000000|Windows PowerShell|ManicTime/Applications
+4803|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|2017-02-25T23:14:02.0000000|2017-02-25T23:14:16.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|ManicTime/Documents
+4804|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\cursos.js|2017-02-25T23:14:16.0000000|2017-02-25T23:14:21.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\cursos.js|ManicTime/Documents
+4805|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\models\curso.js|2017-02-25T23:14:21.0000000|2017-02-25T23:14:31.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\models\curso.js|ManicTime/Documents
+4806|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\models\curso.js|2017-02-25T23:14:31.0000000|2017-02-25T23:14:39.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\models\curso.js|ManicTime/Documents
+4807|Login - Google Chrome|2017-02-25T23:14:47.0000000|2017-02-25T23:14:55.0000000|Google Chrome|ManicTime/Applications
+4808|Login - Google Chrome|2017-02-25T23:14:55.0000000|2017-02-25T23:15:23.0000000|Google Chrome|ManicTime/Applications
+4809|npm|2017-02-25T23:15:23.0000000|2017-02-25T23:15:33.0000000|Windows PowerShell|ManicTime/Applications
+4810|Login - Google Chrome|2017-02-25T23:15:33.0000000|2017-02-25T23:16:27.0000000|Google Chrome|ManicTime/Applications
+4811|http://localhost:3000/|2017-02-25T23:14:47.0000000|2017-02-25T23:14:55.0000000|localhost|ManicTime/Documents
+4812|http://localhost:3000/#!/|2017-02-25T23:14:55.0000000|2017-02-25T23:15:23.0000000|localhost|ManicTime/Documents
+4813|http://localhost:3000/#!/|2017-02-25T23:15:33.0000000|2017-02-25T23:16:27.0000000|localhost|ManicTime/Documents
+4814|MINGW64:/c/Users/Estudiante/nodeProyects/proyectoDAWIIparcial|2017-02-25T23:16:27.0000000|2017-02-25T23:16:33.0000000|mintty|ManicTime/Applications
+4815|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\models\curso.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-25T23:16:33.0000000|2017-02-25T23:16:58.0000000|Sublime Text|ManicTime/Applications
+4816|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\models\curso.js|2017-02-25T23:16:33.0000000|2017-02-25T23:16:58.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\models\curso.js|ManicTime/Documents
+4817|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\angularL.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-25T23:16:58.0000000|2017-02-25T23:17:06.0000000|Sublime Text|ManicTime/Applications
+4818|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\angularL.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-25T23:17:06.0000000|2017-02-25T23:17:18.0000000|Sublime Text|ManicTime/Applications
+4819|Windows PowerShell|2017-02-25T23:17:18.0000000|2017-02-25T23:17:24.0000000|Windows PowerShell|ManicTime/Applications
+4820|Login - Google Chrome|2017-02-25T23:17:24.0000000|2017-02-25T23:17:47.0000000|Google Chrome|ManicTime/Applications
+4821|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\angularL.js|2017-02-25T23:16:58.0000000|2017-02-25T23:17:06.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\angularL.js|ManicTime/Documents
+4822|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\angularL.js|2017-02-25T23:17:06.0000000|2017-02-25T23:17:18.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\angularL.js|ManicTime/Documents
+4823|http://localhost:3000/#!/|2017-02-25T23:17:24.0000000|2017-02-25T23:17:47.0000000|localhost|ManicTime/Documents
+4824|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\angularL.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-25T23:17:47.0000000|2017-02-25T23:18:27.0000000|Sublime Text|ManicTime/Applications
+4825|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\angularL.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-25T23:18:27.0000000|2017-02-25T23:18:47.0000000|Sublime Text|ManicTime/Applications
+4826|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\angularL.js|2017-02-25T23:17:47.0000000|2017-02-25T23:18:27.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\angularL.js|ManicTime/Documents
+4827|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\angularL.js|2017-02-25T23:18:27.0000000|2017-02-25T23:18:47.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\angularL.js|ManicTime/Documents
+4828|npm|2017-02-25T23:18:47.0000000|2017-02-25T23:18:57.0000000|Windows PowerShell|ManicTime/Applications
+4829|Login - Google Chrome|2017-02-25T23:18:57.0000000|2017-02-25T23:19:09.0000000|Google Chrome|ManicTime/Applications
+4830|Login - Google Chrome|2017-02-25T23:19:09.0000000|2017-02-25T23:19:15.0000000|Google Chrome|ManicTime/Applications
+4831|Login - Google Chrome|2017-02-25T23:19:15.0000000|2017-02-25T23:19:43.0000000|Google Chrome|ManicTime/Applications
+4832|http://localhost:3000/#!/|2017-02-25T23:18:57.0000000|2017-02-25T23:19:09.0000000|localhost|ManicTime/Documents
+4833|http://localhost:3000/|2017-02-25T23:19:09.0000000|2017-02-25T23:19:15.0000000|localhost|ManicTime/Documents
+4834|http://localhost:3000/#!/|2017-02-25T23:19:15.0000000|2017-02-25T23:19:43.0000000|localhost|ManicTime/Documents
+4835|Login - Google Chrome|2017-02-25T23:19:43.0000000|2017-02-25T23:19:50.0000000|Google Chrome|ManicTime/Applications
+4836|localhost:3000/login - Google Chrome|2017-02-25T23:19:50.0000000|2017-02-25T23:19:57.0000000|Google Chrome|ManicTime/Applications
+4837|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\angularL.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-25T23:19:57.0000000|2017-02-25T23:20:19.0000000|Sublime Text|ManicTime/Applications
+4838|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\angularL.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-25T23:20:19.0000000|2017-02-25T23:23:03.0000000|Sublime Text|ManicTime/Applications
+4839|http://localhost:3000/login|2017-02-25T23:19:43.0000000|2017-02-25T23:19:50.0000000|localhost|ManicTime/Documents
+4840|http://localhost:3000/login|2017-02-25T23:19:50.0000000|2017-02-25T23:19:57.0000000|localhost|ManicTime/Documents
+4841|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\angularL.js|2017-02-25T23:19:57.0000000|2017-02-25T23:20:19.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\angularL.js|ManicTime/Documents
+4842|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\angularL.js|2017-02-25T23:20:19.0000000|2017-02-25T23:23:03.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\angularL.js|ManicTime/Documents
+4843|npm|2017-02-25T23:23:03.0000000|2017-02-25T23:23:12.0000000|Windows PowerShell|ManicTime/Applications
+4844|Login - Google Chrome|2017-02-25T23:23:12.0000000|2017-02-25T23:23:41.0000000|Google Chrome|ManicTime/Applications
+4845|localhost:3000 - Google Chrome|2017-02-25T23:23:41.0000000|2017-02-25T23:24:24.0000000|Google Chrome|ManicTime/Applications
+4846|http://localhost:3000/#!/|2017-02-25T23:23:12.0000000|2017-02-25T23:23:41.0000000|localhost|ManicTime/Documents
+4847|http://localhost:3000/|2017-02-25T23:23:41.0000000|2017-02-25T23:24:24.0000000|localhost|ManicTime/Documents
+4848|Login - Google Chrome|2017-02-25T23:24:24.0000000|2017-02-25T23:24:43.0000000|Google Chrome|ManicTime/Applications
+4849|http://localhost:3000/#!/|2017-02-25T23:24:24.0000000|2017-02-25T23:24:43.0000000|localhost|ManicTime/Documents
+4850|localhost:3000 - Google Chrome|2017-02-25T23:24:43.0000000|2017-02-25T23:24:53.0000000|Google Chrome|ManicTime/Applications
+4851|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\angularL.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-25T23:24:53.0000000|2017-02-25T23:25:26.0000000|Sublime Text|ManicTime/Applications
+4852|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-25T23:25:26.0000000|2017-02-25T23:25:33.0000000|Sublime Text|ManicTime/Applications
+4853|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-25T23:25:33.0000000|2017-02-25T23:25:52.0000000|Sublime Text|ManicTime/Applications
+4854|http://localhost:3000/|2017-02-25T23:24:43.0000000|2017-02-25T23:24:53.0000000|localhost|ManicTime/Documents
+4855|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\angularL.js|2017-02-25T23:24:53.0000000|2017-02-25T23:25:26.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\angularL.js|ManicTime/Documents
+4856|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js|2017-02-25T23:25:26.0000000|2017-02-25T23:25:33.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js|ManicTime/Documents
+4857|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js|2017-02-25T23:25:33.0000000|2017-02-25T23:25:52.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\login.js|ManicTime/Documents
+4858|localhost:3000 - Google Chrome|2017-02-25T23:25:52.0000000|2017-02-25T23:26:05.0000000|Google Chrome|ManicTime/Applications
+4859|Login - Google Chrome|2017-02-25T23:26:05.0000000|2017-02-25T23:26:17.0000000|Google Chrome|ManicTime/Applications
+4860|localhost:3000 - Google Chrome|2017-02-25T23:26:17.0000000|2017-02-25T23:26:22.0000000|Google Chrome|ManicTime/Applications
+4861|Login - Google Chrome|2017-02-25T23:26:22.0000000|2017-02-25T23:26:29.0000000|Google Chrome|ManicTime/Applications
+4862|localhost:3000 - Google Chrome|2017-02-25T23:26:29.0000000|2017-02-25T23:26:41.0000000|Google Chrome|ManicTime/Applications
+4863|http://localhost:3000/|2017-02-25T23:25:52.0000000|2017-02-25T23:26:05.0000000|localhost|ManicTime/Documents
+4864|http://localhost:3000/#!/|2017-02-25T23:26:05.0000000|2017-02-25T23:26:17.0000000|localhost|ManicTime/Documents
+4865|http://localhost:3000/|2017-02-25T23:26:17.0000000|2017-02-25T23:26:22.0000000|localhost|ManicTime/Documents
+4866|http://localhost:3000/#!/|2017-02-25T23:26:22.0000000|2017-02-25T23:26:29.0000000|localhost|ManicTime/Documents
+4867|http://localhost:3000/|2017-02-25T23:26:29.0000000|2017-02-25T23:26:41.0000000|localhost|ManicTime/Documents
 
-(4654 rows affected)
+(4739 rows affected)
