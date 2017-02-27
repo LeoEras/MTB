@@ -5502,7 +5502,7 @@
 5696|https://www.google.com.ec/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=jquery+ajax&*|2017-02-27T00:19:58.0000000|2017-02-27T00:28:28.0000000|www.google.com.ec|ManicTime/Documents
 5697||2017-02-27T00:28:28.0000000|2017-02-27T00:45:05.0000000||ManicTime/ComputerUsage
 5698|jquery ajax - Buscar con Google - Google Chrome|2017-02-27T00:45:05.0000000|2017-02-27T00:46:02.0000000|Google Chrome|ManicTime/Applications
-5699||2017-02-27T00:45:05.0000000|2017-02-27T00:56:46.0000000||ManicTime/ComputerUsage
+5699||2017-02-27T00:45:05.0000000|2017-02-27T01:11:41.0000000||ManicTime/ComputerUsage
 5700|http://localhost:3000/|2017-02-27T00:45:05.0000000|2017-02-27T00:46:02.0000000|localhost|ManicTime/Documents
 5701|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T00:46:02.0000000|2017-02-27T00:46:10.0000000|Sublime Text|ManicTime/Applications
 5702|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T00:46:10.0000000|2017-02-27T00:46:20.0000000|Sublime Text|ManicTime/Applications
@@ -5551,9 +5551,99 @@
 5745|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|2017-02-27T00:55:41.0000000|2017-02-27T00:55:57.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|ManicTime/Documents
 5746|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T00:55:57.0000000|2017-02-27T00:56:03.0000000|Sublime Text|ManicTime/Applications
 5747|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T00:56:03.0000000|2017-02-27T00:56:44.0000000|Sublime Text|ManicTime/Applications
-5748|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T00:56:44.0000000|2017-02-27T00:56:46.0000000|Sublime Text|ManicTime/Applications
+5748|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T00:56:44.0000000|2017-02-27T00:56:50.0000000|Sublime Text|ManicTime/Applications
 5749|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|2017-02-27T00:55:57.0000000|2017-02-27T00:56:03.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|ManicTime/Documents
 5750|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|2017-02-27T00:56:03.0000000|2017-02-27T00:56:44.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|ManicTime/Documents
-5751|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|2017-02-27T00:56:44.0000000|2017-02-27T00:56:46.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|ManicTime/Documents
+5751|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|2017-02-27T00:56:44.0000000|2017-02-27T00:56:50.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|ManicTime/Documents
+5752|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T00:56:50.0000000|2017-02-27T00:57:26.0000000|Sublime Text|ManicTime/Applications
+5753|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T00:57:26.0000000|2017-02-27T00:57:32.0000000|Sublime Text|ManicTime/Applications
+5754|npm|2017-02-27T00:57:32.0000000|2017-02-27T00:57:37.0000000|Windows PowerShell|ManicTime/Applications
+5755|JavaScript · Bootstrap - Google Chrome|2017-02-27T00:57:37.0000000|2017-02-27T00:57:42.0000000|Google Chrome|ManicTime/Applications
+5756|Login - Google Chrome|2017-02-27T00:57:42.0000000|2017-02-27T00:57:52.0000000|Google Chrome|ManicTime/Applications
+5757|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|2017-02-27T00:56:50.0000000|2017-02-27T00:57:26.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|ManicTime/Documents
+5758|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|2017-02-27T00:57:26.0000000|2017-02-27T00:57:32.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|ManicTime/Documents
+5759|http://getbootstrap.com/javascript/#modals|2017-02-27T00:57:37.0000000|2017-02-27T00:57:42.0000000|getbootstrap.com|ManicTime/Documents
+5760|http://localhost:3000/#!/|2017-02-27T00:57:42.0000000|2017-02-27T00:57:52.0000000|localhost|ManicTime/Documents
+5761|Login form shake effect - Google Chrome|2017-02-27T00:57:52.0000000|2017-02-27T00:58:04.0000000|Google Chrome|ManicTime/Applications
+5762|Login form shake effect - Google Chrome|2017-02-27T00:58:04.0000000|2017-02-27T00:58:23.0000000|Google Chrome|ManicTime/Applications
+5763|npm|2017-02-27T00:58:23.0000000|2017-02-27T00:58:35.0000000|Windows PowerShell|ManicTime/Applications
+5764|Login form shake effect - Google Chrome|2017-02-27T00:58:35.0000000|2017-02-27T00:59:10.0000000|Google Chrome|ManicTime/Applications
+5765|http://localhost:3000/usuario|2017-02-27T00:57:52.0000000|2017-02-27T00:58:04.0000000|localhost|ManicTime/Documents
+5766|http://localhost:3000/usuario#|2017-02-27T00:58:04.0000000|2017-02-27T00:58:23.0000000|localhost|ManicTime/Documents
+5767|http://localhost:3000/usuario#|2017-02-27T00:58:35.0000000|2017-02-27T00:59:10.0000000|localhost|ManicTime/Documents
+5768|val jquery - Buscar con Google - Google Chrome|2017-02-27T00:59:10.0000000|2017-02-27T00:59:16.0000000|Google Chrome|ManicTime/Applications
+5769|.val() | jQuery API Documentation - Google Chrome|2017-02-27T00:59:16.0000000|2017-02-27T00:59:47.0000000|Google Chrome|ManicTime/Applications
+5770|https://www.google.com.ec/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=val+jquery&*|2017-02-27T00:59:10.0000000|2017-02-27T00:59:16.0000000|www.google.com.ec|ManicTime/Documents
+5771|http://api.jquery.com/val/|2017-02-27T00:59:16.0000000|2017-02-27T00:59:47.0000000|api.jquery.com|ManicTime/Documents
+5772|val jquery - Buscar con Google - Google Chrome|2017-02-27T00:59:47.0000000|2017-02-27T00:59:59.0000000|Google Chrome|ManicTime/Applications
+5773|assign a tag a value jquery - Buscar con Google - Google Chrome|2017-02-27T00:59:59.0000000|2017-02-27T01:00:08.0000000|Google Chrome|ManicTime/Applications
+5774|html - Use jquery to set value of div tag - Stack Overflow - Google Chrome|2017-02-27T01:00:08.0000000|2017-02-27T01:00:24.0000000|Google Chrome|ManicTime/Applications
+5775|Windows PowerShell|2017-02-27T01:00:24.0000000|2017-02-27T01:00:30.0000000|Windows PowerShell|ManicTime/Applications
+5776|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T01:00:30.0000000|2017-02-27T01:00:37.0000000|Sublime Text|ManicTime/Applications
+5777|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T01:00:37.0000000|2017-02-27T01:01:22.0000000|Sublime Text|ManicTime/Applications
+5778|https://www.google.com.ec/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=val+jquery&*|2017-02-27T00:59:47.0000000|2017-02-27T00:59:59.0000000|www.google.com.ec|ManicTime/Documents
+5779|https://www.google.com.ec/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=assign+a+tag+a+value+jquery&*|2017-02-27T00:59:59.0000000|2017-02-27T01:00:08.0000000|www.google.com.ec|ManicTime/Documents
+5780|http://stackoverflow.com/questions/1570905/use-jquery-to-set-value-of-div-tag|2017-02-27T01:00:08.0000000|2017-02-27T01:00:24.0000000|stackoverflow.com|ManicTime/Documents
+5781|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js|2017-02-27T01:00:30.0000000|2017-02-27T01:00:37.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js|ManicTime/Documents
+5782|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|2017-02-27T01:00:37.0000000|2017-02-27T01:01:22.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|ManicTime/Documents
+5783|npm|2017-02-27T01:01:22.0000000|2017-02-27T01:01:29.0000000|Windows PowerShell|ManicTime/Applications
+5784|Login form shake effect - Google Chrome|2017-02-27T01:01:29.0000000|2017-02-27T01:01:34.0000000|Google Chrome|ManicTime/Applications
+5785|Login form shake effect - Google Chrome|2017-02-27T01:01:34.0000000|2017-02-27T01:01:49.0000000|Google Chrome|ManicTime/Applications
+5786|http://localhost:3000/usuario#|2017-02-27T01:01:29.0000000|2017-02-27T01:01:34.0000000|localhost|ManicTime/Documents
+5787|http://localhost:3000/usuario|2017-02-27T01:01:34.0000000|2017-02-27T01:01:49.0000000|localhost|ManicTime/Documents
+5788|Login form shake effect - Google Chrome|2017-02-27T01:01:49.0000000|2017-02-27T01:02:39.0000000|Google Chrome|ManicTime/Applications
+5789|Login form shake effect - Google Chrome|2017-02-27T01:02:39.0000000|2017-02-27T01:02:51.0000000|Google Chrome|ManicTime/Applications
+5790|http://localhost:3000/usuario#|2017-02-27T01:01:49.0000000|2017-02-27T01:02:39.0000000|localhost|ManicTime/Documents
+5791|http://localhost:3000/usuario|2017-02-27T01:02:39.0000000|2017-02-27T01:02:51.0000000|localhost|ManicTime/Documents
+5792|Login form shake effect - Google Chrome|2017-02-27T01:02:51.0000000|2017-02-27T01:02:56.0000000|Google Chrome|ManicTime/Applications
+5793|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T01:02:56.0000000|2017-02-27T01:03:09.0000000|Sublime Text|ManicTime/Applications
+5794|Login form shake effect - Google Chrome|2017-02-27T01:03:09.0000000|2017-02-27T01:04:02.0000000|Google Chrome|ManicTime/Applications
+5795|http://localhost:3000/usuario#|2017-02-27T01:02:51.0000000|2017-02-27T01:02:56.0000000|localhost|ManicTime/Documents
+5796|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|2017-02-27T01:02:56.0000000|2017-02-27T01:03:09.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|ManicTime/Documents
+5797|http://localhost:3000/usuario#|2017-02-27T01:03:09.0000000|2017-02-27T01:04:02.0000000|localhost|ManicTime/Documents
+5798|.val() | jQuery API Documentation - Google Chrome|2017-02-27T01:04:02.0000000|2017-02-27T01:04:14.0000000|Google Chrome|ManicTime/Applications
+5799|.val() | jQuery API Documentation - Google Chrome|2017-02-27T01:04:14.0000000|2017-02-27T01:05:23.0000000|Google Chrome|ManicTime/Applications
+5800|http://api.jquery.com/val/|2017-02-27T01:04:02.0000000|2017-02-27T01:04:14.0000000|api.jquery.com|ManicTime/Documents
+5801|http://api.jquery.com/val/#val2|2017-02-27T01:04:14.0000000|2017-02-27T01:05:23.0000000|api.jquery.com|ManicTime/Documents
+5802|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T01:05:23.0000000|2017-02-27T01:05:37.0000000|Sublime Text|ManicTime/Applications
+5803|Nueva pestaña - Google Chrome|2017-02-27T01:05:37.0000000|2017-02-27T01:05:43.0000000|Google Chrome|ManicTime/Applications
+5804|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|2017-02-27T01:05:23.0000000|2017-02-27T01:05:37.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|ManicTime/Documents
+5805|.on() | jQuery API Documentation - Google Chrome|2017-02-27T01:05:43.0000000|2017-02-27T01:05:49.0000000|Google Chrome|ManicTime/Applications
+5806|jQuery on() Method - Google Chrome|2017-02-27T01:05:49.0000000|2017-02-27T01:06:18.0000000|Google Chrome|ManicTime/Applications
+5807|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T01:06:18.0000000|2017-02-27T01:06:46.0000000|Sublime Text|ManicTime/Applications
+5808|http://api.jquery.com/on/|2017-02-27T01:05:43.0000000|2017-02-27T01:05:49.0000000|api.jquery.com|ManicTime/Documents
+5809|https://www.w3schools.com/jquery/event_on.asp|2017-02-27T01:05:49.0000000|2017-02-27T01:06:18.0000000|www.w3schools.com|ManicTime/Documents
+5810|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|2017-02-27T01:06:18.0000000|2017-02-27T01:06:46.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|ManicTime/Documents
+5811|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T01:06:46.0000000|2017-02-27T01:06:57.0000000|Sublime Text|ManicTime/Applications
+5812|Windows PowerShell|2017-02-27T01:06:57.0000000|2017-02-27T01:07:02.0000000|Windows PowerShell|ManicTime/Applications
+5813|jQuery on() Method - Google Chrome|2017-02-27T01:07:02.0000000|2017-02-27T01:07:10.0000000|Google Chrome|ManicTime/Applications
+5814|html - Use jquery to set value of div tag - Stack Overflow - Google Chrome|2017-02-27T01:07:10.0000000|2017-02-27T01:07:15.0000000|Google Chrome|ManicTime/Applications
+5815|Login - Google Chrome|2017-02-27T01:07:15.0000000|2017-02-27T01:07:20.0000000|Google Chrome|ManicTime/Applications
+5816|Login form shake effect - Google Chrome|2017-02-27T01:07:20.0000000|2017-02-27T01:07:48.0000000|Google Chrome|ManicTime/Applications
+5817|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|2017-02-27T01:06:46.0000000|2017-02-27T01:06:57.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|ManicTime/Documents
+5818|https://www.w3schools.com/jquery/event_on.asp|2017-02-27T01:07:02.0000000|2017-02-27T01:07:10.0000000|www.w3schools.com|ManicTime/Documents
+5819|http://stackoverflow.com/questions/1570905/use-jquery-to-set-value-of-div-tag|2017-02-27T01:07:10.0000000|2017-02-27T01:07:15.0000000|stackoverflow.com|ManicTime/Documents
+5820|http://localhost:3000/#!/|2017-02-27T01:07:15.0000000|2017-02-27T01:07:20.0000000|localhost|ManicTime/Documents
+5821|http://localhost:3000/usuario|2017-02-27T01:07:20.0000000|2017-02-27T01:07:48.0000000|localhost|ManicTime/Documents
+5822|view-source:localhost:3000/usuario# - Google Chrome|2017-02-27T01:07:48.0000000|2017-02-27T01:07:56.0000000|Google Chrome|ManicTime/Applications
+5823|Login form shake effect - Google Chrome|2017-02-27T01:07:56.0000000|2017-02-27T01:08:01.0000000|Google Chrome|ManicTime/Applications
+5824|view-source:localhost:3000/usuario# - Google Chrome|2017-02-27T01:08:01.0000000|2017-02-27T01:08:22.0000000|Google Chrome|ManicTime/Applications
+5825|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T01:08:22.0000000|2017-02-27T01:08:28.0000000|Sublime Text|ManicTime/Applications
+5826|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T01:08:28.0000000|2017-02-27T01:08:37.0000000|Sublime Text|ManicTime/Applications
+5827|http://localhost:3000/usuario#|2017-02-27T01:07:56.0000000|2017-02-27T01:08:01.0000000|localhost|ManicTime/Documents
+5828|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|2017-02-27T01:08:22.0000000|2017-02-27T01:08:28.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|ManicTime/Documents
+5829|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|2017-02-27T01:08:28.0000000|2017-02-27T01:08:37.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|ManicTime/Documents
+5830|view-source:localhost:3000/usuario# - Google Chrome|2017-02-27T01:08:37.0000000|2017-02-27T01:09:31.0000000|Google Chrome|ManicTime/Applications
+5831|Login form shake effect - Google Chrome|2017-02-27T01:09:31.0000000|2017-02-27T01:10:03.0000000|Google Chrome|ManicTime/Applications
+5832|http://localhost:3000/usuario#|2017-02-27T01:09:31.0000000|2017-02-27T01:10:03.0000000|localhost|ManicTime/Documents
+5833|npm|2017-02-27T01:10:03.0000000|2017-02-27T01:10:08.0000000|Windows PowerShell|ManicTime/Applications
+5834|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T01:10:08.0000000|2017-02-27T01:10:23.0000000|Sublime Text|ManicTime/Applications
+5835|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T01:10:23.0000000|2017-02-27T01:10:41.0000000|Sublime Text|ManicTime/Applications
+5836|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|2017-02-27T01:10:08.0000000|2017-02-27T01:10:23.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|ManicTime/Documents
+5837|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|2017-02-27T01:10:23.0000000|2017-02-27T01:10:41.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|ManicTime/Documents
+5838|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T01:10:41.0000000|2017-02-27T01:10:51.0000000|Sublime Text|ManicTime/Applications
+5839|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T01:10:51.0000000|2017-02-27T01:11:41.0000000|Sublime Text|ManicTime/Applications
+5840|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|2017-02-27T01:10:41.0000000|2017-02-27T01:10:51.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|ManicTime/Documents
+5841|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|2017-02-27T01:10:51.0000000|2017-02-27T01:11:41.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|ManicTime/Documents
 
-(5557 rows affected)
+(5647 rows affected)
