@@ -6119,7 +6119,7 @@
 6323|Nueva pestaña - Google Chrome|2017-02-27T16:07:47.0000000|2017-02-27T16:07:53.0000000|Google Chrome|ManicTime/Applications
 6324|Login - Google Chrome|2017-02-27T16:07:53.0000000|2017-02-27T16:07:58.0000000|Google Chrome|ManicTime/Applications
 6325||2017-02-27T15:43:45.0000000|2017-02-27T15:43:47.0000000||ManicTime/ComputerUsage
-6326||2017-02-27T16:07:09.0000000|2017-02-27T16:11:54.0000000||ManicTime/ComputerUsage
+6326||2017-02-27T16:07:09.0000000|2017-02-27T16:26:50.0000000||ManicTime/ComputerUsage
 6327|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|2017-02-27T16:06:55.0000000|2017-02-27T16:07:01.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|ManicTime/Documents
 6328|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|2017-02-27T16:07:01.0000000|2017-02-27T16:07:06.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|ManicTime/Documents
 6329|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|2017-02-27T15:43:45.0000000|2017-02-27T15:43:47.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|ManicTime/Documents
@@ -6149,7 +6149,45 @@
 6353|http://localhost:3000/#!/|2017-02-27T16:10:30.0000000|2017-02-27T16:10:36.0000000|localhost|ManicTime/Documents
 6354|http://localhost:3000/usuario|2017-02-27T16:10:36.0000000|2017-02-27T16:10:42.0000000|localhost|ManicTime/Documents
 6355|http://localhost:3000/usuario#!/|2017-02-27T16:10:42.0000000|2017-02-27T16:11:50.0000000|localhost|ManicTime/Documents
-6356|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T16:11:50.0000000|2017-02-27T16:11:54.0000000|Sublime Text|ManicTime/Applications
-6357|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|2017-02-27T16:11:50.0000000|2017-02-27T16:11:54.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|ManicTime/Documents
+6356|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T16:11:50.0000000|2017-02-27T16:12:11.0000000|Sublime Text|ManicTime/Applications
+6357|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|2017-02-27T16:11:50.0000000|2017-02-27T16:12:11.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|ManicTime/Documents
+6358|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T16:12:11.0000000|2017-02-27T16:12:30.0000000|Sublime Text|ManicTime/Applications
+6359|Login form shake effect - Google Chrome|2017-02-27T16:12:30.0000000|2017-02-27T16:13:10.0000000|Google Chrome|ManicTime/Applications
+6360|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|2017-02-27T16:12:11.0000000|2017-02-27T16:12:30.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|ManicTime/Documents
+6361|http://localhost:3000/usuario#!/|2017-02-27T16:12:30.0000000|2017-02-27T16:13:10.0000000|localhost|ManicTime/Documents
+6362|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T16:13:10.0000000|2017-02-27T16:13:20.0000000|Sublime Text|ManicTime/Applications
+6363|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T16:13:20.0000000|2017-02-27T16:13:42.0000000|Sublime Text|ManicTime/Applications
+6364|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T16:13:42.0000000|2017-02-27T16:13:56.0000000|Sublime Text|ManicTime/Applications
+6365|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js|2017-02-27T16:13:10.0000000|2017-02-27T16:13:20.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js|ManicTime/Documents
+6366|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|2017-02-27T16:13:20.0000000|2017-02-27T16:13:42.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|ManicTime/Documents
+6367|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|2017-02-27T16:13:42.0000000|2017-02-27T16:13:56.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|ManicTime/Documents
+6368|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T16:13:56.0000000|2017-02-27T16:14:04.0000000|Sublime Text|ManicTime/Applications
+6369|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T16:14:04.0000000|2017-02-27T16:14:52.0000000|Sublime Text|ManicTime/Applications
+6370|npm|2017-02-27T16:14:52.0000000|2017-02-27T16:15:06.0000000|Windows PowerShell|ManicTime/Applications
+6371|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|2017-02-27T16:13:56.0000000|2017-02-27T16:14:04.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|ManicTime/Documents
+6372|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|2017-02-27T16:14:04.0000000|2017-02-27T16:14:52.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|ManicTime/Documents
+6373|Login form shake effect - Google Chrome|2017-02-27T16:15:06.0000000|2017-02-27T16:15:12.0000000|Google Chrome|ManicTime/Applications
+6374|Login - Google Chrome|2017-02-27T16:15:12.0000000|2017-02-27T16:15:17.0000000|Google Chrome|ManicTime/Applications
+6375|Login form shake effect - Google Chrome|2017-02-27T16:15:17.0000000|2017-02-27T16:15:44.0000000|Google Chrome|ManicTime/Applications
+6376|npm|2017-02-27T16:15:44.0000000|2017-02-27T16:15:50.0000000|Windows PowerShell|ManicTime/Applications
+6378|http://localhost:3000/usuario#!/|2017-02-27T16:15:06.0000000|2017-02-27T16:15:12.0000000|localhost|ManicTime/Documents
+6379|http://localhost:3000/#!/|2017-02-27T16:15:12.0000000|2017-02-27T16:15:17.0000000|localhost|ManicTime/Documents
+6380|http://localhost:3000/usuario#!/|2017-02-27T16:15:17.0000000|2017-02-27T16:15:44.0000000|localhost|ManicTime/Documents
+6382|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T16:15:50.0000000|2017-02-27T16:19:10.0000000|Sublime Text|ManicTime/Applications
+6383|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|2017-02-27T16:15:50.0000000|2017-02-27T16:19:10.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|ManicTime/Documents
+6384|Login form shake effect - Google Chrome|2017-02-27T16:19:10.0000000|2017-02-27T16:20:24.0000000|Google Chrome|ManicTime/Applications
+6385|http://localhost:3000/usuario#!/|2017-02-27T16:19:10.0000000|2017-02-27T16:20:24.0000000|localhost|ManicTime/Documents
+6386|Nueva pestaña - Google Chrome|2017-02-27T16:20:24.0000000|2017-02-27T16:20:30.0000000|Google Chrome|ManicTime/Applications
+6387|Nueva pestaña - Google Chrome|2017-02-27T16:20:30.0000000|2017-02-27T16:20:37.0000000|Google Chrome|ManicTime/Applications
+6388|javascript - Get value from input (AngularJS) - Stack Overflow - Google Chrome|2017-02-27T16:20:37.0000000|2017-02-27T16:21:37.0000000|Google Chrome|ManicTime/Applications
+6389|http://getbootstrap.com/|2017-02-27T16:20:24.0000000|2017-02-27T16:20:30.0000000|getbootstrap.com|ManicTime/Documents
+6390|http://stackoverflow.com/questions/21040454/get-value-from-input-angularjs|2017-02-27T16:20:37.0000000|2017-02-27T16:21:37.0000000|stackoverflow.com|ManicTime/Documents
+6391|Get value from HTML input element from Angularjs controller - Stack Overflow - Google Chrome|2017-02-27T16:21:37.0000000|2017-02-27T16:26:21.0000000|Google Chrome|ManicTime/Applications
+6392|http://stackoverflow.com/questions/31363613/get-value-from-html-input-element-from-angularjs-controller|2017-02-27T16:21:37.0000000|2017-02-27T16:26:21.0000000|stackoverflow.com|ManicTime/Documents
+6393|Libraries|2017-02-27T16:26:21.0000000|2017-02-27T16:26:28.0000000|Windows Explorer|ManicTime/Applications
+6394|Start|2017-02-27T16:26:28.0000000|2017-02-27T16:26:34.0000000|Windows Explorer|ManicTime/Applications
+6395|Estudiante|2017-02-27T16:26:34.0000000|2017-02-27T16:26:39.0000000|Windows Explorer|ManicTime/Applications
+6396|1485795174_727__ProyectoFinalDAW2016-2T.pdf - Adobe Acrobat Reader DC|2017-02-27T16:26:39.0000000|2017-02-27T16:26:50.0000000|Adobe Acrobat Reader DC|ManicTime/Applications
+6397|1485795174_727__ProyectoFinalDAW2016-2T.pdf|2017-02-27T16:26:39.0000000|2017-02-27T16:26:50.0000000|1485795174_727__ProyectoFinalDAW2016-2T.pdf|ManicTime/Documents
 
-(6153 rows affected)
+(6191 rows affected)
