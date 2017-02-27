@@ -5352,7 +5352,7 @@
 5538|Nueva pestaña - Google Chrome|2017-02-26T21:04:55.0000000|2017-02-26T21:05:03.0000000|Google Chrome|ManicTime/Applications
 5539||2017-02-26T21:05:03.0000000|2017-02-26T22:01:56.0000000||ManicTime/ComputerUsage
 5540|Windows Activation Client|2017-02-26T22:01:56.0000000|2017-02-26T22:02:03.0000000|Windows Activation Client|ManicTime/Applications
-5541||2017-02-26T22:01:56.0000000|2017-02-26T22:12:01.0000000||ManicTime/ComputerUsage
+5541||2017-02-26T22:01:56.0000000|2017-02-26T22:26:57.0000000||ManicTime/ComputerUsage
 5542|Nueva pestaña - Google Chrome|2017-02-26T22:02:03.0000000|2017-02-26T22:02:31.0000000|Google Chrome|ManicTime/Applications
 5543|Windows Explorer|2017-02-26T22:02:31.0000000|2017-02-26T22:02:37.0000000|Windows Explorer|ManicTime/Applications
 5544|MINGW64:/c/Users/Estudiante/nodeProyects/proyectoDAWIIparcial|2017-02-26T22:02:37.0000000|2017-02-26T22:03:17.0000000|mintty|ManicTime/Applications
@@ -5413,7 +5413,24 @@
 5599|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js|2017-02-26T22:09:16.0000000|2017-02-26T22:09:49.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js|ManicTime/Documents
 5600|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|2017-02-26T22:09:49.0000000|2017-02-26T22:09:56.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|ManicTime/Documents
 5601|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|2017-02-26T22:09:56.0000000|2017-02-26T22:11:54.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|ManicTime/Documents
-5602|Nueva pestaña - Google Chrome|2017-02-26T22:11:54.0000000|2017-02-26T22:12:01.0000000|Google Chrome|ManicTime/Applications
-5603|http://localhost:3000/|2017-02-26T22:11:54.0000000|2017-02-26T22:12:01.0000000|localhost|ManicTime/Documents
+5602|Nueva pestaña - Google Chrome|2017-02-26T22:11:54.0000000|2017-02-26T22:12:03.0000000|Google Chrome|ManicTime/Applications
+5603|http://localhost:3000/|2017-02-26T22:11:54.0000000|2017-02-26T22:12:03.0000000|localhost|ManicTime/Documents
+5604|Nueva pestaña - Google Chrome|2017-02-26T22:12:03.0000000|2017-02-26T22:12:13.0000000|Google Chrome|ManicTime/Applications
+5605|http angular - Buscar con Google - Google Chrome|2017-02-26T22:12:13.0000000|2017-02-26T22:12:20.0000000|Google Chrome|ManicTime/Applications
+5606|Angular Http - Google Chrome|2017-02-26T22:12:20.0000000|2017-02-26T22:12:42.0000000|Google Chrome|ManicTime/Applications
+5607|Tryit Editor v3.3 - Google Chrome|2017-02-26T22:12:42.0000000|2017-02-26T22:14:53.0000000|Google Chrome|ManicTime/Applications
+5608|https://www.google.com.ec/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=http+angular&*|2017-02-26T22:12:13.0000000|2017-02-26T22:12:20.0000000|www.google.com.ec|ManicTime/Documents
+5609|https://www.w3schools.com/angular/angular_http.asp|2017-02-26T22:12:20.0000000|2017-02-26T22:12:42.0000000|www.w3schools.com|ManicTime/Documents
+5610|https://www.w3schools.com/angular/tryit.asp?filename=try_ng_http_get|2017-02-26T22:12:42.0000000|2017-02-26T22:14:53.0000000|www.w3schools.com|ManicTime/Documents
+5611|http angular - Buscar con Google - Google Chrome|2017-02-26T22:14:53.0000000|2017-02-26T22:14:59.0000000|Google Chrome|ManicTime/Applications
+5613|https://www.google.com.ec/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=http+angular&*|2017-02-26T22:14:53.0000000|2017-02-26T22:14:59.0000000|www.google.com.ec|ManicTime/Documents
+5615|http angular put - Buscar con Google - Google Chrome|2017-02-26T22:14:59.0000000|2017-02-26T22:15:10.0000000|Google Chrome|ManicTime/Applications
+5616|http angular put json - Buscar con Google - Google Chrome|2017-02-26T22:15:10.0000000|2017-02-26T22:15:15.0000000|Google Chrome|ManicTime/Applications
+5617|AngularJS: API: $http - Google Chrome|2017-02-26T22:15:15.0000000|2017-02-26T22:25:12.0000000|Google Chrome|ManicTime/Applications
+5618|https://www.google.com.ec/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=http+angular+put&*|2017-02-26T22:14:59.0000000|2017-02-26T22:15:10.0000000|www.google.com.ec|ManicTime/Documents
+5619|https://www.google.com.ec/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=http+angular+put+json&*|2017-02-26T22:15:10.0000000|2017-02-26T22:15:15.0000000|www.google.com.ec|ManicTime/Documents
+5620|https://docs.angularjs.org/api/ng/service/$http|2017-02-26T22:15:15.0000000|2017-02-26T22:25:12.0000000|docs.angularjs.org|ManicTime/Documents
+5621|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-26T22:25:12.0000000|2017-02-26T22:26:57.0000000|Sublime Text|ManicTime/Applications
+5622|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|2017-02-26T22:25:12.0000000|2017-02-26T22:26:57.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|ManicTime/Documents
 
-(5417 rows affected)
+(5434 rows affected)
