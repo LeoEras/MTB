@@ -5500,6 +5500,60 @@
 5694||2017-02-27T00:19:52.0000000|2017-02-27T00:28:28.0000000||ManicTime/ComputerUsage
 5695|http://api.jquery.com/jquery.ajax/|2017-02-27T00:19:52.0000000|2017-02-27T00:19:58.0000000|api.jquery.com|ManicTime/Documents
 5696|https://www.google.com.ec/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=jquery+ajax&*|2017-02-27T00:19:58.0000000|2017-02-27T00:28:28.0000000|www.google.com.ec|ManicTime/Documents
-5697||2017-02-27T00:28:28.0000000|2017-02-27T00:41:48.0000000||ManicTime/ComputerUsage
+5697||2017-02-27T00:28:28.0000000|2017-02-27T00:45:05.0000000||ManicTime/ComputerUsage
+5698|jquery ajax - Buscar con Google - Google Chrome|2017-02-27T00:45:05.0000000|2017-02-27T00:46:02.0000000|Google Chrome|ManicTime/Applications
+5699||2017-02-27T00:45:05.0000000|2017-02-27T00:56:46.0000000||ManicTime/ComputerUsage
+5700|http://localhost:3000/|2017-02-27T00:45:05.0000000|2017-02-27T00:46:02.0000000|localhost|ManicTime/Documents
+5701|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T00:46:02.0000000|2017-02-27T00:46:10.0000000|Sublime Text|ManicTime/Applications
+5702|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T00:46:10.0000000|2017-02-27T00:46:20.0000000|Sublime Text|ManicTime/Applications
+5703|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T00:46:20.0000000|2017-02-27T00:48:57.0000000|Sublime Text|ManicTime/Applications
+5704|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|2017-02-27T00:46:02.0000000|2017-02-27T00:46:10.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|ManicTime/Documents
+5705|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|2017-02-27T00:46:10.0000000|2017-02-27T00:46:20.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|ManicTime/Documents
+5706|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|2017-02-27T00:46:20.0000000|2017-02-27T00:48:57.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|ManicTime/Documents
+5707|C:\Users\Estudiante\nodeProyects\practica-express\public\js\script.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T00:48:57.0000000|2017-02-27T00:49:04.0000000|Sublime Text|ManicTime/Applications
+5708|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T00:49:04.0000000|2017-02-27T00:49:21.0000000|Sublime Text|ManicTime/Applications
+5709|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T00:49:21.0000000|2017-02-27T00:49:27.0000000|Sublime Text|ManicTime/Applications
+5710|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T00:49:27.0000000|2017-02-27T00:49:50.0000000|Sublime Text|ManicTime/Applications
+5711|C:\Users\Estudiante\nodeProyects\practica-express\public\js\script.js|2017-02-27T00:48:57.0000000|2017-02-27T00:49:04.0000000|C:\Users\Estudiante\nodeProyects\practica-express\public\js\script.js|ManicTime/Documents
+5712|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|2017-02-27T00:49:04.0000000|2017-02-27T00:49:21.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|ManicTime/Documents
+5713|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|2017-02-27T00:49:21.0000000|2017-02-27T00:49:27.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|ManicTime/Documents
+5714|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|2017-02-27T00:49:27.0000000|2017-02-27T00:49:50.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|ManicTime/Documents
+5715|Nueva pestaña - Google Chrome|2017-02-27T00:49:50.0000000|2017-02-27T00:49:59.0000000|Google Chrome|ManicTime/Applications
+5716|HTML Global hidden Attribute - Google Chrome|2017-02-27T00:49:59.0000000|2017-02-27T00:50:17.0000000|Google Chrome|ManicTime/Applications
+5717|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T00:50:17.0000000|2017-02-27T00:50:48.0000000|Sublime Text|ManicTime/Applications
+5718|https://www.w3schools.com/tags/att_global_hidden.asp|2017-02-27T00:49:59.0000000|2017-02-27T00:50:17.0000000|www.w3schools.com|ManicTime/Documents
+5719|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|2017-02-27T00:50:17.0000000|2017-02-27T00:50:48.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|ManicTime/Documents
+5720|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T00:50:48.0000000|2017-02-27T00:51:09.0000000|Sublime Text|ManicTime/Applications
+5721|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T00:51:09.0000000|2017-02-27T00:51:14.0000000|Sublime Text|ManicTime/Applications
+5722|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T00:51:14.0000000|2017-02-27T00:51:43.0000000|Sublime Text|ManicTime/Applications
+5723|Nueva pestaña - Google Chrome|2017-02-27T00:51:43.0000000|2017-02-27T00:51:50.0000000|Google Chrome|ManicTime/Applications
+5724|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|2017-02-27T00:50:48.0000000|2017-02-27T00:51:09.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|ManicTime/Documents
+5725|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|2017-02-27T00:51:09.0000000|2017-02-27T00:51:14.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|ManicTime/Documents
+5726|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|2017-02-27T00:51:14.0000000|2017-02-27T00:51:43.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|ManicTime/Documents
+5727|javascript - How to open a Bootstrap modal window using jQuery? - Stack Overflow - Google Chrome|2017-02-27T00:51:50.0000000|2017-02-27T00:52:13.0000000|Google Chrome|ManicTime/Applications
+5728|JavaScript · Bootstrap - Google Chrome|2017-02-27T00:52:13.0000000|2017-02-27T00:53:07.0000000|Google Chrome|ManicTime/Applications
+5729|http://stackoverflow.com/questions/13183630/how-to-open-a-bootstrap-modal-window-using-jquery|2017-02-27T00:51:50.0000000|2017-02-27T00:52:13.0000000|stackoverflow.com|ManicTime/Documents
+5730|http://getbootstrap.com/javascript/#modals|2017-02-27T00:52:13.0000000|2017-02-27T00:53:07.0000000|getbootstrap.com|ManicTime/Documents
+5731|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T00:53:07.0000000|2017-02-27T00:54:04.0000000|Sublime Text|ManicTime/Applications
+5732|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|2017-02-27T00:53:07.0000000|2017-02-27T00:54:04.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|ManicTime/Documents
+5733|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T00:54:04.0000000|2017-02-27T00:54:15.0000000|Sublime Text|ManicTime/Applications
+5734|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T00:54:15.0000000|2017-02-27T00:54:24.0000000|Sublime Text|ManicTime/Applications
+5735|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T00:54:24.0000000|2017-02-27T00:54:33.0000000|Sublime Text|ManicTime/Applications
+5736|Save Changes?|2017-02-27T00:54:33.0000000|2017-02-27T00:54:43.0000000|Sublime Text|ManicTime/Applications
+5737|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T00:54:43.0000000|2017-02-27T00:55:01.0000000|Sublime Text|ManicTime/Applications
+5738|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|2017-02-27T00:54:04.0000000|2017-02-27T00:54:15.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|ManicTime/Documents
+5739|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js|2017-02-27T00:54:15.0000000|2017-02-27T00:54:24.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js|ManicTime/Documents
+5740|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|2017-02-27T00:54:24.0000000|2017-02-27T00:54:33.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|ManicTime/Documents
+5741|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|2017-02-27T00:54:43.0000000|2017-02-27T00:55:01.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|ManicTime/Documents
+5742|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T00:55:01.0000000|2017-02-27T00:55:41.0000000|Sublime Text|ManicTime/Applications
+5743|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T00:55:41.0000000|2017-02-27T00:55:57.0000000|Sublime Text|ManicTime/Applications
+5744|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|2017-02-27T00:55:01.0000000|2017-02-27T00:55:41.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|ManicTime/Documents
+5745|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|2017-02-27T00:55:41.0000000|2017-02-27T00:55:57.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|ManicTime/Documents
+5746|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T00:55:57.0000000|2017-02-27T00:56:03.0000000|Sublime Text|ManicTime/Applications
+5747|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T00:56:03.0000000|2017-02-27T00:56:44.0000000|Sublime Text|ManicTime/Applications
+5748|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T00:56:44.0000000|2017-02-27T00:56:46.0000000|Sublime Text|ManicTime/Applications
+5749|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|2017-02-27T00:55:57.0000000|2017-02-27T00:56:03.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|ManicTime/Documents
+5750|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|2017-02-27T00:56:03.0000000|2017-02-27T00:56:44.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|ManicTime/Documents
+5751|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|2017-02-27T00:56:44.0000000|2017-02-27T00:56:46.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|ManicTime/Documents
 
-(5503 rows affected)
+(5557 rows affected)
