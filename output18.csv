@@ -6119,7 +6119,7 @@
 6323|Nueva pestaña - Google Chrome|2017-02-27T16:07:47.0000000|2017-02-27T16:07:53.0000000|Google Chrome|ManicTime/Applications
 6324|Login - Google Chrome|2017-02-27T16:07:53.0000000|2017-02-27T16:07:58.0000000|Google Chrome|ManicTime/Applications
 6325||2017-02-27T15:43:45.0000000|2017-02-27T15:43:47.0000000||ManicTime/ComputerUsage
-6326||2017-02-27T16:07:09.0000000|2017-02-27T16:56:47.0000000||ManicTime/ComputerUsage
+6326||2017-02-27T16:07:09.0000000|2017-02-27T17:11:44.0000000||ManicTime/ComputerUsage
 6327|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|2017-02-27T16:06:55.0000000|2017-02-27T16:07:01.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|ManicTime/Documents
 6328|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|2017-02-27T16:07:01.0000000|2017-02-27T16:07:06.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|ManicTime/Documents
 6329|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|2017-02-27T15:43:45.0000000|2017-02-27T15:43:47.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|ManicTime/Documents
@@ -6231,8 +6231,26 @@
 6437|Setup SMTP – Nodemailer - Google Chrome|2017-02-27T16:51:50.0000000|2017-02-27T16:54:28.0000000|Google Chrome|ManicTime/Applications
 6438|https://community.nodemailer.com/2-0-0-beta/setup-smtp/|2017-02-27T16:51:50.0000000|2017-02-27T16:54:28.0000000|community.nodemailer.com|ManicTime/Documents
 6439|Nueva pestaña - Google Chrome|2017-02-27T16:54:28.0000000|2017-02-27T16:54:33.0000000|Google Chrome|ManicTime/Applications
-6440|GitHub - Google Chrome|2017-02-27T16:54:33.0000000|2017-02-27T16:56:47.0000000|Google Chrome|ManicTime/Applications
+6440|GitHub - Google Chrome|2017-02-27T16:54:33.0000000|2017-02-27T17:06:49.0000000|Google Chrome|ManicTime/Applications
 6441|http://github.com/|2017-02-27T16:54:28.0000000|2017-02-27T16:54:33.0000000|github.com|ManicTime/Documents
-6442|https://github.com/|2017-02-27T16:54:33.0000000|2017-02-27T16:56:47.0000000|github.com|ManicTime/Documents
+6442|https://github.com/|2017-02-27T16:54:33.0000000|2017-02-27T17:06:49.0000000|github.com|ManicTime/Documents
+6443|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\models\ejercicioEstudiante.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T17:06:49.0000000|2017-02-27T17:06:54.0000000|Sublime Text|ManicTime/Applications
+6444|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T17:06:54.0000000|2017-02-27T17:07:21.0000000|Sublime Text|ManicTime/Applications
+6445|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T17:07:21.0000000|2017-02-27T17:09:28.0000000|Sublime Text|ManicTime/Applications
+6446|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\models\ejercicioEstudiante.js|2017-02-27T17:06:49.0000000|2017-02-27T17:06:54.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\models\ejercicioEstudiante.js|ManicTime/Documents
+6447|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|2017-02-27T17:06:54.0000000|2017-02-27T17:07:21.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|ManicTime/Documents
+6448|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|2017-02-27T17:07:21.0000000|2017-02-27T17:09:28.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|ManicTime/Documents
+6449|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T17:09:28.0000000|2017-02-27T17:09:40.0000000|Sublime Text|ManicTime/Applications
+6450|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T17:09:40.0000000|2017-02-27T17:10:03.0000000|Sublime Text|ManicTime/Applications
+6451|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|2017-02-27T17:09:28.0000000|2017-02-27T17:09:40.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|ManicTime/Documents
+6452|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|2017-02-27T17:09:40.0000000|2017-02-27T17:10:03.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|ManicTime/Documents
+6453|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T17:10:03.0000000|2017-02-27T17:10:08.0000000|Sublime Text|ManicTime/Applications
+6454|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T17:10:08.0000000|2017-02-27T17:10:14.0000000|Sublime Text|ManicTime/Applications
+6455|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T17:10:14.0000000|2017-02-27T17:10:30.0000000|Sublime Text|ManicTime/Applications
+6456|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T17:10:30.0000000|2017-02-27T17:11:44.0000000|Sublime Text|ManicTime/Applications
+6457|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js|2017-02-27T17:10:03.0000000|2017-02-27T17:10:08.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js|ManicTime/Documents
+6458|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|2017-02-27T17:10:08.0000000|2017-02-27T17:10:14.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|ManicTime/Documents
+6459|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|2017-02-27T17:10:14.0000000|2017-02-27T17:10:30.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|ManicTime/Documents
+6460|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|2017-02-27T17:10:30.0000000|2017-02-27T17:11:44.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|ManicTime/Documents
 
-(6236 rows affected)
+(6254 rows affected)
