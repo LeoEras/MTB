@@ -5984,8 +5984,49 @@
 6186|http://localhost:3000/usuario#|2017-02-27T15:11:31.0000000|2017-02-27T15:11:44.0000000|localhost|ManicTime/Documents
 6187|http://file///C:/Users/Estudiante/Desktop/FORMS/form.html|2017-02-27T15:11:44.0000000|2017-02-27T15:11:52.0000000|file|ManicTime/Documents
 6188||2017-02-27T15:11:52.0000000|2017-02-27T15:25:21.0000000||ManicTime/ComputerUsage
-6189|Nueva pestaña - Google Chrome|2017-02-27T15:25:21.0000000|2017-02-27T15:28:54.0000000|Google Chrome|ManicTime/Applications
-6190||2017-02-27T15:25:21.0000000|2017-02-27T15:28:54.0000000||ManicTime/ComputerUsage
-6191|http://file///C:/Users/Estudiante/Desktop/FORMS/form.html|2017-02-27T15:25:21.0000000|2017-02-27T15:28:54.0000000|file|ManicTime/Documents
+6189|Nueva pestaña - Google Chrome|2017-02-27T15:25:21.0000000|2017-02-27T15:31:34.0000000|Google Chrome|ManicTime/Applications
+6190||2017-02-27T15:25:21.0000000|2017-02-27T15:41:57.0000000||ManicTime/ComputerUsage
+6191|http://file///C:/Users/Estudiante/Desktop/FORMS/form.html|2017-02-27T15:25:21.0000000|2017-02-27T15:31:34.0000000|file|ManicTime/Documents
+6192|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T15:31:34.0000000|2017-02-27T15:31:42.0000000|Sublime Text|ManicTime/Applications
+6193|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\models\usuario.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T15:31:42.0000000|2017-02-27T15:31:51.0000000|Sublime Text|ManicTime/Applications
+6195|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|2017-02-27T15:31:34.0000000|2017-02-27T15:31:42.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|ManicTime/Documents
+6196|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\models\usuario.js|2017-02-27T15:31:42.0000000|2017-02-27T15:31:51.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\models\usuario.js|ManicTime/Documents
+6198|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T15:31:51.0000000|2017-02-27T15:32:50.0000000|Sublime Text|ManicTime/Applications
+6199|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T15:32:50.0000000|2017-02-27T15:33:28.0000000|Sublime Text|ManicTime/Applications
+6200|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js|2017-02-27T15:31:51.0000000|2017-02-27T15:32:50.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js|ManicTime/Documents
+6201|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js|2017-02-27T15:32:50.0000000|2017-02-27T15:33:28.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js|ManicTime/Documents
+6202|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T15:33:28.0000000|2017-02-27T15:33:35.0000000|Sublime Text|ManicTime/Applications
+6203|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T15:33:35.0000000|2017-02-27T15:33:51.0000000|Sublime Text|ManicTime/Applications
+6204|C:\Users\Estudiante\nodeProyects\practica-express\public\js\script.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T15:33:51.0000000|2017-02-27T15:34:22.0000000|Sublime Text|ManicTime/Applications
+6205|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|2017-02-27T15:33:28.0000000|2017-02-27T15:33:35.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|ManicTime/Documents
+6206|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|2017-02-27T15:33:35.0000000|2017-02-27T15:33:51.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|ManicTime/Documents
+6207|C:\Users\Estudiante\nodeProyects\practica-express\public\js\script.js|2017-02-27T15:33:51.0000000|2017-02-27T15:34:22.0000000|C:\Users\Estudiante\nodeProyects\practica-express\public\js\script.js|ManicTime/Documents
+6208|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T15:34:22.0000000|2017-02-27T15:36:12.0000000|Sublime Text|ManicTime/Applications
+6209|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|2017-02-27T15:34:22.0000000|2017-02-27T15:36:12.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|ManicTime/Documents
+6210|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T15:36:12.0000000|2017-02-27T15:36:33.0000000|Sublime Text|ManicTime/Applications
+6211|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T15:36:33.0000000|2017-02-27T15:38:07.0000000|Sublime Text|ManicTime/Applications
+6212|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|2017-02-27T15:36:12.0000000|2017-02-27T15:36:33.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|ManicTime/Documents
+6213|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|2017-02-27T15:36:33.0000000|2017-02-27T15:38:07.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|ManicTime/Documents
+6214|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T15:38:07.0000000|2017-02-27T15:38:21.0000000|Sublime Text|ManicTime/Applications
+6215|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T15:38:21.0000000|2017-02-27T15:38:29.0000000|Sublime Text|ManicTime/Applications
+6216|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T15:38:29.0000000|2017-02-27T15:39:11.0000000|Sublime Text|ManicTime/Applications
+6217|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|2017-02-27T15:38:07.0000000|2017-02-27T15:38:21.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|ManicTime/Documents
+6218|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js|2017-02-27T15:38:21.0000000|2017-02-27T15:38:29.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\loginJS.js|ManicTime/Documents
+6219|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js|2017-02-27T15:38:29.0000000|2017-02-27T15:39:11.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js|ManicTime/Documents
+6220|Nueva pestaña - Google Chrome|2017-02-27T15:39:11.0000000|2017-02-27T15:39:17.0000000|Google Chrome|ManicTime/Applications
+6221|Nueva pestaña - Google Chrome|2017-02-27T15:39:17.0000000|2017-02-27T15:39:24.0000000|Google Chrome|ManicTime/Applications
+6222|put html json - Buscar con Google - Google Chrome|2017-02-27T15:39:24.0000000|2017-02-27T15:39:44.0000000|Google Chrome|ManicTime/Applications
+6223|java - Making PUT request with JSON data using HttpURLConnection is not working - Stack Overflow - Google Chrome|2017-02-27T15:39:44.0000000|2017-02-27T15:39:49.0000000|Google Chrome|ManicTime/Applications
+6224|put http json - Buscar con Google - Google Chrome|2017-02-27T15:39:49.0000000|2017-02-27T15:39:54.0000000|Google Chrome|ManicTime/Applications
+6225|javascript - How do I use JSON in the body of an http PUT in node.js? - Stack Overflow - Google Chrome|2017-02-27T15:39:54.0000000|2017-02-27T15:40:59.0000000|Google Chrome|ManicTime/Applications
+6226|http://file///C:/Users/Estudiante/Desktop/FORMS/form.html|2017-02-27T15:39:11.0000000|2017-02-27T15:39:17.0000000|file|ManicTime/Documents
+6227|https://www.google.com.ec/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=put+html+json&*|2017-02-27T15:39:24.0000000|2017-02-27T15:39:44.0000000|www.google.com.ec|ManicTime/Documents
+6228|http://stackoverflow.com/questions/15678208/making-put-request-with-json-data-using-httpurlconnection-is-not-working|2017-02-27T15:39:44.0000000|2017-02-27T15:39:49.0000000|stackoverflow.com|ManicTime/Documents
+6229|https://www.google.com.ec/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=put+http+json&*|2017-02-27T15:39:49.0000000|2017-02-27T15:39:54.0000000|www.google.com.ec|ManicTime/Documents
+6230|http://stackoverflow.com/questions/32321572/how-do-i-use-json-in-the-body-of-an-http-put-in-node-js|2017-02-27T15:39:54.0000000|2017-02-27T15:40:59.0000000|stackoverflow.com|ManicTime/Documents
+6231|put http json js - Buscar con Google - Google Chrome|2017-02-27T15:40:59.0000000|2017-02-27T15:41:10.0000000|Google Chrome|ManicTime/Applications
+6232|jQuery - How to PUT JSON via Ajax? - Stack Overflow - Google Chrome|2017-02-27T15:41:10.0000000|2017-02-27T15:41:57.0000000|Google Chrome|ManicTime/Applications
+6233|https://www.google.com.ec/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=put+http+json+js&*|2017-02-27T15:40:59.0000000|2017-02-27T15:41:10.0000000|www.google.com.ec|ManicTime/Documents
+6234|http://stackoverflow.com/questions/1749272/jquery-how-to-put-json-via-ajax|2017-02-27T15:41:10.0000000|2017-02-27T15:41:57.0000000|stackoverflow.com|ManicTime/Documents
 
-(5989 rows affected)
+(6030 rows affected)
