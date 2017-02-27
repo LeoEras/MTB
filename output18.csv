@@ -5352,7 +5352,7 @@
 5538|Nueva pestaña - Google Chrome|2017-02-26T21:04:55.0000000|2017-02-26T21:05:03.0000000|Google Chrome|ManicTime/Applications
 5539||2017-02-26T21:05:03.0000000|2017-02-26T22:01:56.0000000||ManicTime/ComputerUsage
 5540|Windows Activation Client|2017-02-26T22:01:56.0000000|2017-02-26T22:02:03.0000000|Windows Activation Client|ManicTime/Applications
-5541||2017-02-26T22:01:56.0000000|2017-02-26T22:26:57.0000000||ManicTime/ComputerUsage
+5541||2017-02-26T22:01:56.0000000|2017-02-26T22:41:55.0000000||ManicTime/ComputerUsage
 5542|Nueva pestaña - Google Chrome|2017-02-26T22:02:03.0000000|2017-02-26T22:02:31.0000000|Google Chrome|ManicTime/Applications
 5543|Windows Explorer|2017-02-26T22:02:31.0000000|2017-02-26T22:02:37.0000000|Windows Explorer|ManicTime/Applications
 5544|MINGW64:/c/Users/Estudiante/nodeProyects/proyectoDAWIIparcial|2017-02-26T22:02:37.0000000|2017-02-26T22:03:17.0000000|mintty|ManicTime/Applications
@@ -5430,7 +5430,10 @@
 5618|https://www.google.com.ec/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=http+angular+put&*|2017-02-26T22:14:59.0000000|2017-02-26T22:15:10.0000000|www.google.com.ec|ManicTime/Documents
 5619|https://www.google.com.ec/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=http+angular+put+json&*|2017-02-26T22:15:10.0000000|2017-02-26T22:15:15.0000000|www.google.com.ec|ManicTime/Documents
 5620|https://docs.angularjs.org/api/ng/service/$http|2017-02-26T22:15:15.0000000|2017-02-26T22:25:12.0000000|docs.angularjs.org|ManicTime/Documents
-5621|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-26T22:25:12.0000000|2017-02-26T22:26:57.0000000|Sublime Text|ManicTime/Applications
-5622|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|2017-02-26T22:25:12.0000000|2017-02-26T22:26:57.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|ManicTime/Documents
+5621|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-26T22:25:12.0000000|2017-02-26T22:29:46.0000000|Sublime Text|ManicTime/Applications
+5622|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|2017-02-26T22:25:12.0000000|2017-02-26T22:29:46.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|ManicTime/Documents
+5623|Windows Activation Client|2017-02-26T22:29:46.0000000|2017-02-26T22:31:50.0000000|Windows Activation Client|ManicTime/Applications
+5624|AngularJS: API: $http - Google Chrome|2017-02-26T22:31:50.0000000|2017-02-26T22:41:55.0000000|Google Chrome|ManicTime/Applications
+5625|https://docs.angularjs.org/api/ng/service/$http|2017-02-26T22:31:50.0000000|2017-02-26T22:41:55.0000000|docs.angularjs.org|ManicTime/Documents
 
-(5434 rows affected)
+(5437 rows affected)
