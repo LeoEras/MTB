@@ -5208,7 +5208,7 @@
 5388|1485795174_727__ProyectoFinalDAW2016-2T.pdf - Adobe Acrobat Reader DC|2017-02-26T18:19:10.0000000|2017-02-26T18:19:15.0000000|Adobe Acrobat Reader DC|ManicTime/Applications
 5389|Start|2017-02-26T18:19:15.0000000|2017-02-26T18:19:20.0000000|Windows Explorer|ManicTime/Applications
 5390|Recycle Bin|2017-02-26T18:19:20.0000000|2017-02-26T18:19:53.0000000|Windows Explorer|ManicTime/Applications
-5391||2017-02-26T18:18:14.0000000|2017-02-26T18:26:44.0000000||ManicTime/ComputerUsage
+5391||2017-02-26T18:18:14.0000000|2017-02-26T18:30:39.0000000||ManicTime/ComputerUsage
 5392|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\partials\nav.ejs|2017-02-26T18:18:14.0000000|2017-02-26T18:18:23.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\partials\nav.ejs|ManicTime/Documents
 5393|1485795174_727__ProyectoFinalDAW2016-2T.pdf|2017-02-26T18:19:10.0000000|2017-02-26T18:19:15.0000000|1485795174_727__ProyectoFinalDAW2016-2T.pdf|ManicTime/Documents
 5394|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\partials\nav.ejs (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-26T18:19:53.0000000|2017-02-26T18:20:06.0000000|Sublime Text|ManicTime/Applications
@@ -5246,8 +5246,36 @@
 5426|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\error.ejs|2017-02-26T18:25:25.0000000|2017-02-26T18:25:32.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\error.ejs|ManicTime/Documents
 5427|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\error.ejs (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-26T18:26:12.0000000|2017-02-26T18:26:18.0000000|Sublime Text|ManicTime/Applications
 5428|MINGW64:/c/Users/Estudiante/nodeProyects/proyectoDAWIIparcial|2017-02-26T18:26:18.0000000|2017-02-26T18:26:25.0000000|mintty|ManicTime/Applications
-5429|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\cursos.ejs (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-26T18:26:25.0000000|2017-02-26T18:26:44.0000000|Sublime Text|ManicTime/Applications
+5429|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\cursos.ejs (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-26T18:26:25.0000000|2017-02-26T18:26:52.0000000|Sublime Text|ManicTime/Applications
 5430|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\error.ejs|2017-02-26T18:26:12.0000000|2017-02-26T18:26:18.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\error.ejs|ManicTime/Documents
-5431|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\cursos.ejs|2017-02-26T18:26:25.0000000|2017-02-26T18:26:44.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\cursos.ejs|ManicTime/Documents
+5431|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\cursos.ejs|2017-02-26T18:26:25.0000000|2017-02-26T18:26:52.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\cursos.ejs|ManicTime/Documents
+5432|MINGW64:/c/Users/Estudiante/nodeProyects/proyectoDAWIIparcial|2017-02-26T18:26:52.0000000|2017-02-26T18:27:11.0000000|mintty|ManicTime/Applications
+5433|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\cursos.ejs (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-26T18:27:11.0000000|2017-02-26T18:27:36.0000000|Sublime Text|ManicTime/Applications
+5434|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\cursos.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-26T18:27:36.0000000|2017-02-26T18:27:50.0000000|Sublime Text|ManicTime/Applications
+5435|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\cursos.ejs|2017-02-26T18:27:11.0000000|2017-02-26T18:27:36.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\cursos.ejs|ManicTime/Documents
+5436|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\cursos.js|2017-02-26T18:27:36.0000000|2017-02-26T18:27:50.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\cursos.js|ManicTime/Documents
+5437|MINGW64:/c/Users/Estudiante/nodeProyects/proyectoDAWIIparcial|2017-02-26T18:27:50.0000000|2017-02-26T18:28:17.0000000|mintty|ManicTime/Applications
+5438|OpenSSH|2017-02-26T18:28:17.0000000|2017-02-26T18:28:23.0000000|Tk 8.6 for Windows|ManicTime/Applications
+5439|Comparing 795cb351e1...07dff4906c · javiteri95/proyectoDAWIIparcial-node - Google Chrome|2017-02-26T18:28:23.0000000|2017-02-26T18:28:41.0000000|Google Chrome|ManicTime/Applications
+5441|https://github.com/javiteri95/proyectoDAWIIparcial-node/compare/795cb351e1...07dff4906c|2017-02-26T18:28:23.0000000|2017-02-26T18:28:41.0000000|github.com|ManicTime/Documents
+5442|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\cursos.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-26T18:28:41.0000000|2017-02-26T18:28:49.0000000|Sublime Text|ManicTime/Applications
+5443|Comparing 795cb351e1...07dff4906c · javiteri95/proyectoDAWIIparcial-node - Google Chrome|2017-02-26T18:28:49.0000000|2017-02-26T18:28:55.0000000|Google Chrome|ManicTime/Applications
+5444|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\cursosV.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-26T18:28:55.0000000|2017-02-26T18:29:00.0000000|Sublime Text|ManicTime/Applications
+5445|Comparing 795cb351e1...07dff4906c · javiteri95/proyectoDAWIIparcial-node - Google Chrome|2017-02-26T18:29:00.0000000|2017-02-26T18:29:05.0000000|Google Chrome|ManicTime/Applications
+5446|javiteri95/proyectoDAWIIparcial-node: aplicacion hecha en express y node.js para el proyecto de DAW II parcial - Google Chrome|2017-02-26T18:29:05.0000000|2017-02-26T18:29:26.0000000|Google Chrome|ManicTime/Applications
+5447|proyectoDAWIIparcial-node/views at master · javiteri95/proyectoDAWIIparcial-node - Google Chrome|2017-02-26T18:29:26.0000000|2017-02-26T18:29:31.0000000|Google Chrome|ManicTime/Applications
+5448|proyectoDAWIIparcial-node/cursos.ejs at master · javiteri95/proyectoDAWIIparcial-node - Google Chrome|2017-02-26T18:29:31.0000000|2017-02-26T18:29:39.0000000|Google Chrome|ManicTime/Applications
+5449|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\cursos.js|2017-02-26T18:28:41.0000000|2017-02-26T18:28:49.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\cursos.js|ManicTime/Documents
+5450|https://github.com/javiteri95/proyectoDAWIIparcial-node/compare/795cb351e1...07dff4906c|2017-02-26T18:28:49.0000000|2017-02-26T18:28:55.0000000|github.com|ManicTime/Documents
+5451|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\cursosV.js|2017-02-26T18:28:55.0000000|2017-02-26T18:29:00.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\cursosV.js|ManicTime/Documents
+5452|https://github.com/javiteri95/proyectoDAWIIparcial-node/compare/795cb351e1...07dff4906c|2017-02-26T18:29:00.0000000|2017-02-26T18:29:05.0000000|github.com|ManicTime/Documents
+5453|https://github.com/javiteri95/proyectoDAWIIparcial-node/|2017-02-26T18:29:05.0000000|2017-02-26T18:29:26.0000000|github.com|ManicTime/Documents
+5454|https://github.com/javiteri95/proyectoDAWIIparcial-node/tree/master/views|2017-02-26T18:29:26.0000000|2017-02-26T18:29:31.0000000|github.com|ManicTime/Documents
+5455|https://github.com/javiteri95/proyectoDAWIIparcial-node/blob/master/views/cursos.ejs|2017-02-26T18:29:31.0000000|2017-02-26T18:29:39.0000000|github.com|ManicTime/Documents
+5456|proyectoDAWIIparcial-node/views at master · javiteri95/proyectoDAWIIparcial-node - Google Chrome|2017-02-26T18:29:39.0000000|2017-02-26T18:30:39.0000000|Google Chrome|ManicTime/Applications
+5457|proyectoDAWIIparcial-node/views at master · javiteri95/proyectoDAWIIparcial-node - Google Chrome|2017-02-26T19:47:35.0000000|2017-02-26T19:56:36.0000000|Google Chrome|ManicTime/Applications
+5458||2017-02-26T19:47:35.0000000|2017-02-26T19:56:36.0000000||ManicTime/ComputerUsage
+5459|https://github.com/javiteri95/proyectoDAWIIparcial-node/tree/master/views|2017-02-26T18:29:39.0000000|2017-02-26T18:30:39.0000000|github.com|ManicTime/Documents
+5460|https://github.com/javiteri95/proyectoDAWIIparcial-node/tree/master/views|2017-02-26T19:47:35.0000000|2017-02-26T19:56:36.0000000|github.com|ManicTime/Documents
 
-(5251 rows affected)
+(5279 rows affected)
