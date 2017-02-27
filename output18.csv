@@ -5296,7 +5296,7 @@
 5480|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-26T20:33:46.0000000|2017-02-26T20:33:51.0000000|Sublime Text|ManicTime/Applications
 5481|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-26T20:33:51.0000000|2017-02-26T20:33:56.0000000|Sublime Text|ManicTime/Applications
 5482|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-26T20:33:56.0000000|2017-02-26T20:35:49.0000000|Sublime Text|ManicTime/Applications
-5483||2017-02-26T20:33:38.0000000|2017-02-26T20:41:26.0000000||ManicTime/ComputerUsage
+5483||2017-02-26T20:33:38.0000000|2017-02-26T20:56:19.0000000||ManicTime/ComputerUsage
 5484|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\cursosV.js|2017-02-26T20:33:38.0000000|2017-02-26T20:33:46.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\cursosV.js|ManicTime/Documents
 5485|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js|2017-02-26T20:33:46.0000000|2017-02-26T20:33:51.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js|ManicTime/Documents
 5486|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|2017-02-26T20:33:51.0000000|2017-02-26T20:33:56.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|ManicTime/Documents
@@ -5331,10 +5331,23 @@
 5515|Login form shake effect - Google Chrome|2017-02-26T20:38:47.0000000|2017-02-26T20:38:52.0000000|Google Chrome|ManicTime/Applications
 5516|npm|2017-02-26T20:38:52.0000000|2017-02-26T20:39:03.0000000|Windows PowerShell|ManicTime/Applications
 5517|Login form shake effect - Google Chrome|2017-02-26T20:39:03.0000000|2017-02-26T20:39:08.0000000|Google Chrome|ManicTime/Applications
-5518|Login form shake effect - Google Chrome|2017-02-26T20:39:08.0000000|2017-02-26T20:41:26.0000000|Google Chrome|ManicTime/Applications
+5518|Login form shake effect - Google Chrome|2017-02-26T20:39:08.0000000|2017-02-26T20:49:12.0000000|Google Chrome|ManicTime/Applications
 5519|http://localhost:3000/|2017-02-26T20:38:41.0000000|2017-02-26T20:38:47.0000000|localhost|ManicTime/Documents
 5520|http://localhost:3000/usuario|2017-02-26T20:38:47.0000000|2017-02-26T20:38:52.0000000|localhost|ManicTime/Documents
 5521|http://localhost:3000/usuario|2017-02-26T20:39:03.0000000|2017-02-26T20:39:08.0000000|localhost|ManicTime/Documents
-5522|http://localhost:3000/usuario#|2017-02-26T20:39:08.0000000|2017-02-26T20:41:26.0000000|localhost|ManicTime/Documents
+5522|http://localhost:3000/usuario#|2017-02-26T20:39:08.0000000|2017-02-26T20:49:12.0000000|localhost|ManicTime/Documents
+5523|Nueva pestaña - Google Chrome|2017-02-26T20:49:12.0000000|2017-02-26T20:49:19.0000000|Google Chrome|ManicTime/Applications
+5526|.closest() | jQuery API Documentation - Google Chrome|2017-02-26T20:49:19.0000000|2017-02-26T20:51:55.0000000|Google Chrome|ManicTime/Applications
+5527|https://api.jquery.com/closest/|2017-02-26T20:49:19.0000000|2017-02-26T20:51:55.0000000|api.jquery.com|ManicTime/Documents
+5528|Google - Google Chrome|2017-02-26T20:51:55.0000000|2017-02-26T20:52:00.0000000|Google Chrome|ManicTime/Applications
+5529|datatables - Buscar con Google - Google Chrome|2017-02-26T20:52:00.0000000|2017-02-26T20:54:53.0000000|Google Chrome|ManicTime/Applications
+5530|https://www.google.com.ec/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8|2017-02-26T20:51:55.0000000|2017-02-26T20:52:00.0000000|www.google.com.ec|ManicTime/Documents
+5531|https://www.google.com.ec/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=datatables&*|2017-02-26T20:52:00.0000000|2017-02-26T20:54:53.0000000|www.google.com.ec|ManicTime/Documents
+5532|DataTables | Table plug-in for jQuery - Google Chrome|2017-02-26T20:54:53.0000000|2017-02-26T20:54:58.0000000|Google Chrome|ManicTime/Applications
+5533|Extensions - Google Chrome|2017-02-26T20:54:58.0000000|2017-02-26T20:55:14.0000000|Google Chrome|ManicTime/Applications
+5534|Buttons - Google Chrome|2017-02-26T20:55:14.0000000|2017-02-26T20:56:19.0000000|Google Chrome|ManicTime/Applications
+5535|https://datatables.net/|2017-02-26T20:54:53.0000000|2017-02-26T20:54:58.0000000|datatables.net|ManicTime/Documents
+5536|https://datatables.net/extensions/index|2017-02-26T20:54:58.0000000|2017-02-26T20:55:14.0000000|datatables.net|ManicTime/Documents
+5537|https://datatables.net/extensions/buttons/|2017-02-26T20:55:14.0000000|2017-02-26T20:56:19.0000000|datatables.net|ManicTime/Documents
 
-(5338 rows affected)
+(5351 rows affected)
