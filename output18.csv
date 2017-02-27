@@ -6119,7 +6119,7 @@
 6323|Nueva pestaña - Google Chrome|2017-02-27T16:07:47.0000000|2017-02-27T16:07:53.0000000|Google Chrome|ManicTime/Applications
 6324|Login - Google Chrome|2017-02-27T16:07:53.0000000|2017-02-27T16:07:58.0000000|Google Chrome|ManicTime/Applications
 6325||2017-02-27T15:43:45.0000000|2017-02-27T15:43:47.0000000||ManicTime/ComputerUsage
-6326||2017-02-27T16:07:09.0000000|2017-02-27T18:11:22.0000000||ManicTime/ComputerUsage
+6326||2017-02-27T16:07:09.0000000|2017-02-27T18:27:16.0000000||ManicTime/ComputerUsage
 6327|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|2017-02-27T16:06:55.0000000|2017-02-27T16:07:01.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|ManicTime/Documents
 6328|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|2017-02-27T16:07:01.0000000|2017-02-27T16:07:06.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|ManicTime/Documents
 6329|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|2017-02-27T15:43:45.0000000|2017-02-27T15:43:47.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|ManicTime/Documents
@@ -6451,11 +6451,82 @@
 6659|npm|2017-02-27T18:10:43.0000000|2017-02-27T18:10:51.0000000|Windows PowerShell|ManicTime/Applications
 6660|Login - Google Chrome|2017-02-27T18:10:51.0000000|2017-02-27T18:10:58.0000000|Google Chrome|ManicTime/Applications
 6661|Login form shake effect - Google Chrome|2017-02-27T18:10:58.0000000|2017-02-27T18:11:03.0000000|Google Chrome|ManicTime/Applications
-6662|Login form shake effect - Google Chrome|2017-02-27T18:11:03.0000000|2017-02-27T18:11:22.0000000|Google Chrome|ManicTime/Applications
+6662|Login form shake effect - Google Chrome|2017-02-27T18:11:03.0000000|2017-02-27T18:11:33.0000000|Google Chrome|ManicTime/Applications
 6663|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|2017-02-27T18:10:19.0000000|2017-02-27T18:10:37.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|ManicTime/Documents
 6664|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|2017-02-27T18:10:37.0000000|2017-02-27T18:10:43.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|ManicTime/Documents
 6665|http://localhost:3000/#!/|2017-02-27T18:10:51.0000000|2017-02-27T18:10:58.0000000|localhost|ManicTime/Documents
 6666|http://localhost:3000/usuario|2017-02-27T18:10:58.0000000|2017-02-27T18:11:03.0000000|localhost|ManicTime/Documents
-6667|http://localhost:3000/usuario#!/|2017-02-27T18:11:03.0000000|2017-02-27T18:11:22.0000000|localhost|ManicTime/Documents
+6667|http://localhost:3000/usuario#!/|2017-02-27T18:11:03.0000000|2017-02-27T18:11:33.0000000|localhost|ManicTime/Documents
+6668|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T18:11:33.0000000|2017-02-27T18:11:59.0000000|Sublime Text|ManicTime/Applications
+6669|Nueva pestaña - Google Chrome|2017-02-27T18:11:59.0000000|2017-02-27T18:12:18.0000000|Google Chrome|ManicTime/Applications
+6670|change the value of a td jquery - Buscar con Google - Google Chrome|2017-02-27T18:12:18.0000000|2017-02-27T18:12:23.0000000|Google Chrome|ManicTime/Applications
+6671|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|2017-02-27T18:11:33.0000000|2017-02-27T18:11:59.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|ManicTime/Documents
+6672|https://www.google.com.ec/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=change+the+value+of+a+td+jquery&*|2017-02-27T18:12:18.0000000|2017-02-27T18:12:23.0000000|www.google.com.ec|ManicTime/Documents
+6673|html - Replace text inside td using jQuery - Stack Overflow - Google Chrome|2017-02-27T18:12:23.0000000|2017-02-27T18:13:12.0000000|Google Chrome|ManicTime/Applications
+6674|AngularJS: API: ngBind - Google Chrome|2017-02-27T18:13:12.0000000|2017-02-27T18:13:18.0000000|Google Chrome|ManicTime/Applications
+6675|http://stackoverflow.com/questions/13816944/replace-text-inside-td-using-jquery|2017-02-27T18:12:23.0000000|2017-02-27T18:13:12.0000000|stackoverflow.com|ManicTime/Documents
+6676|https://docs.angularjs.org/api/ng/directive/ngBind|2017-02-27T18:13:12.0000000|2017-02-27T18:13:18.0000000|docs.angularjs.org|ManicTime/Documents
+6677|Login form shake effect - Google Chrome|2017-02-27T18:13:18.0000000|2017-02-27T18:14:17.0000000|Google Chrome|ManicTime/Applications
+6678|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T18:14:17.0000000|2017-02-27T18:14:35.0000000|Sublime Text|ManicTime/Applications
+6679|http://localhost:3000/usuario#!/|2017-02-27T18:13:18.0000000|2017-02-27T18:14:17.0000000|localhost|ManicTime/Documents
+6680|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|2017-02-27T18:14:17.0000000|2017-02-27T18:14:35.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|ManicTime/Documents
+6681|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T18:14:35.0000000|2017-02-27T18:14:57.0000000|Sublime Text|ManicTime/Applications
+6682|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T18:14:57.0000000|2017-02-27T18:15:04.0000000|Sublime Text|ManicTime/Applications
+6683|Login form shake effect - Google Chrome|2017-02-27T18:15:04.0000000|2017-02-27T18:15:30.0000000|Google Chrome|ManicTime/Applications
+6684|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|2017-02-27T18:14:35.0000000|2017-02-27T18:14:57.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|ManicTime/Documents
+6685|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|2017-02-27T18:14:57.0000000|2017-02-27T18:15:04.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|ManicTime/Documents
+6686|http://localhost:3000/usuario#!/|2017-02-27T18:15:04.0000000|2017-02-27T18:15:30.0000000|localhost|ManicTime/Documents
+6687|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T18:15:30.0000000|2017-02-27T18:15:38.0000000|Sublime Text|ManicTime/Applications
+6688|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T18:15:38.0000000|2017-02-27T18:16:17.0000000|Sublime Text|ManicTime/Applications
+6689|change the value of a td jquery - Buscar con Google - Google Chrome|2017-02-27T18:16:17.0000000|2017-02-27T18:16:23.0000000|Google Chrome|ManicTime/Applications
+6690|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|2017-02-27T18:15:30.0000000|2017-02-27T18:15:38.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|ManicTime/Documents
+6691|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|2017-02-27T18:15:38.0000000|2017-02-27T18:16:17.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|ManicTime/Documents
+6692|https://www.google.com.ec/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=change+the+value+of+a+td+jquery&*|2017-02-27T18:16:17.0000000|2017-02-27T18:16:23.0000000|www.google.com.ec|ManicTime/Documents
+6693|Jquery, set value of td in a table? - Stack Overflow - Google Chrome|2017-02-27T18:16:23.0000000|2017-02-27T18:16:46.0000000|Google Chrome|ManicTime/Applications
+6694|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T18:16:46.0000000|2017-02-27T18:16:51.0000000|Sublime Text|ManicTime/Applications
+6695|Jquery, set value of td in a table? - Stack Overflow - Google Chrome|2017-02-27T18:16:51.0000000|2017-02-27T18:16:58.0000000|Google Chrome|ManicTime/Applications
+6696|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T18:16:58.0000000|2017-02-27T18:17:03.0000000|Sublime Text|ManicTime/Applications
+6697|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T18:17:03.0000000|2017-02-27T18:17:28.0000000|Sublime Text|ManicTime/Applications
+6698|http://stackoverflow.com/questions/23013484/jquery-set-value-of-td-in-a-table|2017-02-27T18:16:23.0000000|2017-02-27T18:16:46.0000000|stackoverflow.com|ManicTime/Documents
+6699|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|2017-02-27T18:16:46.0000000|2017-02-27T18:16:51.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|ManicTime/Documents
+6700|http://stackoverflow.com/questions/23013484/jquery-set-value-of-td-in-a-table|2017-02-27T18:16:51.0000000|2017-02-27T18:16:58.0000000|stackoverflow.com|ManicTime/Documents
+6701|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|2017-02-27T18:16:58.0000000|2017-02-27T18:17:03.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|ManicTime/Documents
+6702|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|2017-02-27T18:17:03.0000000|2017-02-27T18:17:28.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|ManicTime/Documents
+6703|Windows PowerShell|2017-02-27T18:17:28.0000000|2017-02-27T18:17:33.0000000|Windows PowerShell|ManicTime/Applications
+6704|Jquery, set value of td in a table? - Stack Overflow - Google Chrome|2017-02-27T18:17:33.0000000|2017-02-27T18:17:38.0000000|Google Chrome|ManicTime/Applications
+6705|Login - Google Chrome|2017-02-27T18:17:38.0000000|2017-02-27T18:17:46.0000000|Google Chrome|ManicTime/Applications
+6706|Login form shake effect - Google Chrome|2017-02-27T18:17:46.0000000|2017-02-27T18:18:11.0000000|Google Chrome|ManicTime/Applications
+6707|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T18:18:11.0000000|2017-02-27T18:18:43.0000000|Sublime Text|ManicTime/Applications
+6708|http://stackoverflow.com/questions/23013484/jquery-set-value-of-td-in-a-table|2017-02-27T18:17:33.0000000|2017-02-27T18:17:38.0000000|stackoverflow.com|ManicTime/Documents
+6709|http://localhost:3000/|2017-02-27T18:17:38.0000000|2017-02-27T18:17:46.0000000|localhost|ManicTime/Documents
+6710|http://localhost:3000/usuario#!/|2017-02-27T18:17:46.0000000|2017-02-27T18:18:11.0000000|localhost|ManicTime/Documents
+6711|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js|2017-02-27T18:18:11.0000000|2017-02-27T18:18:43.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js|ManicTime/Documents
+6712|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T18:18:43.0000000|2017-02-27T18:19:04.0000000|Sublime Text|ManicTime/Applications
+6713|npm|2017-02-27T18:19:04.0000000|2017-02-27T18:19:10.0000000|Windows PowerShell|ManicTime/Applications
+6714|Windows PowerShell|2017-02-27T18:19:10.0000000|2017-02-27T18:19:20.0000000|Windows PowerShell|ManicTime/Applications
+6716|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js|2017-02-27T18:18:43.0000000|2017-02-27T18:19:04.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js|ManicTime/Documents
+6718|Login form shake effect - Google Chrome|2017-02-27T18:19:20.0000000|2017-02-27T18:19:47.0000000|Google Chrome|ManicTime/Applications
+6719|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T18:19:47.0000000|2017-02-27T18:19:55.0000000|Sublime Text|ManicTime/Applications
+6720|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T18:19:55.0000000|2017-02-27T18:20:08.0000000|Sublime Text|ManicTime/Applications
+6721|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T18:20:08.0000000|2017-02-27T18:20:26.0000000|Sublime Text|ManicTime/Applications
+6722|http://localhost:3000/usuario#!/|2017-02-27T18:19:20.0000000|2017-02-27T18:19:47.0000000|localhost|ManicTime/Documents
+6723|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js|2017-02-27T18:19:47.0000000|2017-02-27T18:19:55.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js|ManicTime/Documents
+6724|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|2017-02-27T18:19:55.0000000|2017-02-27T18:20:08.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|ManicTime/Documents
+6725|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|2017-02-27T18:20:08.0000000|2017-02-27T18:20:26.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|ManicTime/Documents
+6726|Windows PowerShell|2017-02-27T18:20:26.0000000|2017-02-27T18:20:32.0000000|Windows PowerShell|ManicTime/Applications
+6727|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T18:20:32.0000000|2017-02-27T18:20:37.0000000|Sublime Text|ManicTime/Applications
+6728|npm|2017-02-27T18:20:37.0000000|2017-02-27T18:20:43.0000000|Windows PowerShell|ManicTime/Applications
+6729|Login - Google Chrome|2017-02-27T18:20:43.0000000|2017-02-27T18:20:50.0000000|Google Chrome|ManicTime/Applications
+6730|Login form shake effect - Google Chrome|2017-02-27T18:20:50.0000000|2017-02-27T18:21:24.0000000|Google Chrome|ManicTime/Applications
+6731|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|2017-02-27T18:20:32.0000000|2017-02-27T18:20:37.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|ManicTime/Documents
+6732|http://localhost:3000/#!/|2017-02-27T18:20:43.0000000|2017-02-27T18:20:50.0000000|localhost|ManicTime/Documents
+6733|http://localhost:3000/usuario#!/|2017-02-27T18:20:50.0000000|2017-02-27T18:21:24.0000000|localhost|ManicTime/Documents
+6734|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T18:21:24.0000000|2017-02-27T18:21:42.0000000|Sublime Text|ManicTime/Applications
+6735|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T18:21:42.0000000|2017-02-27T18:22:07.0000000|Sublime Text|ManicTime/Applications
+6736|Windows PowerShell|2017-02-27T18:22:07.0000000|2017-02-27T18:22:12.0000000|Windows PowerShell|ManicTime/Applications
+6737|Login form shake effect - Google Chrome|2017-02-27T18:22:12.0000000|2017-02-27T18:27:16.0000000|Google Chrome|ManicTime/Applications
+6739|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|2017-02-27T18:21:24.0000000|2017-02-27T18:21:42.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|ManicTime/Documents
+6740|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|2017-02-27T18:21:42.0000000|2017-02-27T18:22:07.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|ManicTime/Documents
+6741|http://localhost:3000/usuario#!/|2017-02-27T18:22:12.0000000|2017-02-27T18:27:16.0000000|localhost|ManicTime/Documents
 
-(6459 rows affected)
+(6530 rows affected)
