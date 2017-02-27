@@ -5502,7 +5502,7 @@
 5696|https://www.google.com.ec/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=jquery+ajax&*|2017-02-27T00:19:58.0000000|2017-02-27T00:28:28.0000000|www.google.com.ec|ManicTime/Documents
 5697||2017-02-27T00:28:28.0000000|2017-02-27T00:45:05.0000000||ManicTime/ComputerUsage
 5698|jquery ajax - Buscar con Google - Google Chrome|2017-02-27T00:45:05.0000000|2017-02-27T00:46:02.0000000|Google Chrome|ManicTime/Applications
-5699||2017-02-27T00:45:05.0000000|2017-02-27T01:57:18.0000000||ManicTime/ComputerUsage
+5699||2017-02-27T00:45:05.0000000|2017-02-27T01:50:59.0000000||ManicTime/ComputerUsage
 5700|http://localhost:3000/|2017-02-27T00:45:05.0000000|2017-02-27T00:46:02.0000000|localhost|ManicTime/Documents
 5701|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T00:46:02.0000000|2017-02-27T00:46:10.0000000|Sublime Text|ManicTime/Applications
 5702|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T00:46:10.0000000|2017-02-27T00:46:20.0000000|Sublime Text|ManicTime/Applications
@@ -5825,10 +5825,20 @@
 6025|.attr() | jQuery API Documentation - Google Chrome|2017-02-27T01:50:39.0000000|2017-02-27T01:50:45.0000000|Google Chrome|ManicTime/Applications
 6026|Login - Google Chrome|2017-02-27T01:50:45.0000000|2017-02-27T01:50:53.0000000|Google Chrome|ManicTime/Applications
 6027|Login form shake effect - Google Chrome|2017-02-27T01:50:53.0000000|2017-02-27T01:50:58.0000000|Google Chrome|ManicTime/Applications
-6028|Login form shake effect - Google Chrome|2017-02-27T01:50:58.0000000|2017-02-27T01:57:18.0000000|Google Chrome|ManicTime/Applications
 6029|http://api.jquery.com/attr/|2017-02-27T01:50:39.0000000|2017-02-27T01:50:45.0000000|api.jquery.com|ManicTime/Documents
 6030|http://localhost:3000/|2017-02-27T01:50:45.0000000|2017-02-27T01:50:53.0000000|localhost|ManicTime/Documents
 6031|http://localhost:3000/usuario|2017-02-27T01:50:53.0000000|2017-02-27T01:50:58.0000000|localhost|ManicTime/Documents
-6032|http://localhost:3000/usuario#|2017-02-27T01:50:58.0000000|2017-02-27T01:57:18.0000000|localhost|ManicTime/Documents
+6033||2017-02-27T01:50:59.0000000|2017-02-27T02:06:35.0000000||ManicTime/ComputerUsage
+6034|Login form shake effect - Google Chrome|2017-02-27T02:06:35.0000000|2017-02-27T02:06:41.0000000|Google Chrome|ManicTime/Applications
+6035|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T02:06:41.0000000|2017-02-27T02:06:49.0000000|Sublime Text|ManicTime/Applications
+6036|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T02:06:49.0000000|2017-02-27T02:06:54.0000000|Sublime Text|ManicTime/Applications
+6037|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T02:06:54.0000000|2017-02-27T02:07:22.0000000|Sublime Text|ManicTime/Applications
+6038||2017-02-27T02:06:35.0000000|2017-02-27T02:12:14.0000000||ManicTime/ComputerUsage
+6039|http://localhost:3000/usuario#|2017-02-27T02:06:35.0000000|2017-02-27T02:06:41.0000000|localhost|ManicTime/Documents
+6040|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|2017-02-27T02:06:41.0000000|2017-02-27T02:06:49.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|ManicTime/Documents
+6041|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|2017-02-27T02:06:49.0000000|2017-02-27T02:06:54.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|ManicTime/Documents
+6042|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|2017-02-27T02:06:54.0000000|2017-02-27T02:07:22.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|ManicTime/Documents
+6043|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T02:07:22.0000000|2017-02-27T02:12:14.0000000|Sublime Text|ManicTime/Applications
+6044|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|2017-02-27T02:07:22.0000000|2017-02-27T02:12:14.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|ManicTime/Documents
 
-(5832 rows affected)
+(5842 rows affected)
