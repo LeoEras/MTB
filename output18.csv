@@ -6119,7 +6119,7 @@
 6323|Nueva pestaña - Google Chrome|2017-02-27T16:07:47.0000000|2017-02-27T16:07:53.0000000|Google Chrome|ManicTime/Applications
 6324|Login - Google Chrome|2017-02-27T16:07:53.0000000|2017-02-27T16:07:58.0000000|Google Chrome|ManicTime/Applications
 6325||2017-02-27T15:43:45.0000000|2017-02-27T15:43:47.0000000||ManicTime/ComputerUsage
-6326||2017-02-27T16:07:09.0000000|2017-02-27T16:41:47.0000000||ManicTime/ComputerUsage
+6326||2017-02-27T16:07:09.0000000|2017-02-27T16:56:47.0000000||ManicTime/ComputerUsage
 6327|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|2017-02-27T16:06:55.0000000|2017-02-27T16:07:01.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|ManicTime/Documents
 6328|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|2017-02-27T16:07:01.0000000|2017-02-27T16:07:06.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|ManicTime/Documents
 6329|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|2017-02-27T15:43:45.0000000|2017-02-27T15:43:47.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|ManicTime/Documents
@@ -6195,7 +6195,44 @@
 6401|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\models\badgesEstudiante.js|2017-02-27T16:32:43.0000000|2017-02-27T16:32:52.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\models\badgesEstudiante.js|ManicTime/Documents
 6402|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\models\ejercicioEstudiante.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T16:32:52.0000000|2017-02-27T16:35:56.0000000|Sublime Text|ManicTime/Applications
 6403|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\models\ejercicioEstudiante.js|2017-02-27T16:32:52.0000000|2017-02-27T16:35:56.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\models\ejercicioEstudiante.js|ManicTime/Documents
-6404|1485795174_727__ProyectoFinalDAW2016-2T.pdf - Adobe Acrobat Reader DC|2017-02-27T16:35:56.0000000|2017-02-27T16:41:47.0000000|Adobe Acrobat Reader DC|ManicTime/Applications
-6405|1485795174_727__ProyectoFinalDAW2016-2T.pdf|2017-02-27T16:35:56.0000000|2017-02-27T16:41:47.0000000|1485795174_727__ProyectoFinalDAW2016-2T.pdf|ManicTime/Documents
+6404|1485795174_727__ProyectoFinalDAW2016-2T.pdf - Adobe Acrobat Reader DC|2017-02-27T16:35:56.0000000|2017-02-27T16:43:37.0000000|Adobe Acrobat Reader DC|ManicTime/Applications
+6405|1485795174_727__ProyectoFinalDAW2016-2T.pdf|2017-02-27T16:35:56.0000000|2017-02-27T16:43:37.0000000|1485795174_727__ProyectoFinalDAW2016-2T.pdf|ManicTime/Documents
+6406|Nodemailer – Send e-mails with Node.JS - Google Chrome|2017-02-27T16:43:37.0000000|2017-02-27T16:44:59.0000000|Google Chrome|ManicTime/Applications
+6407|https://community.nodemailer.com/|2017-02-27T16:43:37.0000000|2017-02-27T16:44:59.0000000|community.nodemailer.com|ManicTime/Documents
+6408|Nodemailer - Google Chrome|2017-02-27T16:44:59.0000000|2017-02-27T16:45:31.0000000|Google Chrome|ManicTime/Applications
+6409|Nodemailer – Send e-mails with Node.JS - Google Chrome|2017-02-27T16:45:31.0000000|2017-02-27T16:45:50.0000000|Google Chrome|ManicTime/Applications
+6410|https://nodemailer.com/about/|2017-02-27T16:44:59.0000000|2017-02-27T16:45:31.0000000|nodemailer.com|ManicTime/Documents
+6411|https://community.nodemailer.com/|2017-02-27T16:45:31.0000000|2017-02-27T16:45:50.0000000|community.nodemailer.com|ManicTime/Documents
+6412|Usage - Google Chrome|2017-02-27T16:45:50.0000000|2017-02-27T16:45:59.0000000|Google Chrome|ManicTime/Applications
+6413|Nueva pestaña - Google Chrome|2017-02-27T16:45:59.0000000|2017-02-27T16:46:04.0000000|Google Chrome|ManicTime/Applications
+6414|node mailer example - Buscar con Google - Google Chrome|2017-02-27T16:46:04.0000000|2017-02-27T16:46:14.0000000|Google Chrome|ManicTime/Applications
+6415|node mailer youtube - Buscar con Google - Google Chrome|2017-02-27T16:46:14.0000000|2017-02-27T16:46:19.0000000|Google Chrome|ManicTime/Applications
+6416|nodemailer/nodemailer: ✉️ Send e-mails with Node.JS – easy as cake! - Google Chrome|2017-02-27T16:46:19.0000000|2017-02-27T16:46:40.0000000|Google Chrome|ManicTime/Applications
+6417|Enviar mail con NodeJS y el módulo nodemailer - YouTube - Google Chrome|2017-02-27T16:46:40.0000000|2017-02-27T16:47:38.0000000|Google Chrome|ManicTime/Applications
+6418|https://nodemailer.com/usage/|2017-02-27T16:45:50.0000000|2017-02-27T16:45:59.0000000|nodemailer.com|ManicTime/Documents
+6419|https://www.google.com.ec/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=node+mailer+example&*|2017-02-27T16:46:04.0000000|2017-02-27T16:46:14.0000000|www.google.com.ec|ManicTime/Documents
+6420|https://www.google.com.ec/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=node+mailer+youtube&*|2017-02-27T16:46:14.0000000|2017-02-27T16:46:19.0000000|www.google.com.ec|ManicTime/Documents
+6421|https://github.com/nodemailer/nodemailer|2017-02-27T16:46:19.0000000|2017-02-27T16:46:40.0000000|github.com|ManicTime/Documents
+6422|https://www.youtube.com/watch?v=qaAlPWudD5I|2017-02-27T16:46:40.0000000|2017-02-27T16:47:38.0000000|www.youtube.com|ManicTime/Documents
+6423|Send Email with Node.js - YouTube - Google Chrome|2017-02-27T16:47:38.0000000|2017-02-27T16:47:48.0000000|Google Chrome|ManicTime/Applications
+6424|https://www.youtube.com/watch?v=i3t14qRjAaw|2017-02-27T16:47:38.0000000|2017-02-27T16:47:48.0000000|www.youtube.com|ManicTime/Documents
+6425|Enviar mail con NodeJS y el módulo nodemailer - YouTube - Google Chrome|2017-02-27T16:47:48.0000000|2017-02-27T16:49:03.0000000|Google Chrome|ManicTime/Applications
+6426|https://www.youtube.com/watch?v=qaAlPWudD5I|2017-02-27T16:47:48.0000000|2017-02-27T16:49:03.0000000|www.youtube.com|ManicTime/Documents
+6427|node mailer youtube - Buscar con Google - Google Chrome|2017-02-27T16:49:03.0000000|2017-02-27T16:49:09.0000000|Google Chrome|ManicTime/Applications
+6428|YouTube - Google Chrome|2017-02-27T16:49:09.0000000|2017-02-27T16:49:15.0000000|Google Chrome|ManicTime/Applications
+6429|nodemailer - YouTube - Google Chrome|2017-02-27T16:49:15.0000000|2017-02-27T16:49:31.0000000|Google Chrome|ManicTime/Applications
+6430|node express - sending email with nodemailer, templates and variables - YouTube - Google Chrome|2017-02-27T16:49:31.0000000|2017-02-27T16:51:33.0000000|Google Chrome|ManicTime/Applications
+6431|https://www.google.com.ec/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=node+mailer+youtube&*|2017-02-27T16:49:03.0000000|2017-02-27T16:49:09.0000000|www.google.com.ec|ManicTime/Documents
+6432|https://www.youtube.com/|2017-02-27T16:49:09.0000000|2017-02-27T16:49:15.0000000|www.youtube.com|ManicTime/Documents
+6433|https://www.youtube.com/results?search_query=nodemailer|2017-02-27T16:49:15.0000000|2017-02-27T16:49:31.0000000|www.youtube.com|ManicTime/Documents
+6434|https://www.youtube.com/watch?v=3Z-YnINIJQ8|2017-02-27T16:49:31.0000000|2017-02-27T16:51:33.0000000|www.youtube.com|ManicTime/Documents
+6435|Nodemailer – Send e-mails with Node.JS - Google Chrome|2017-02-27T16:51:33.0000000|2017-02-27T16:51:50.0000000|Google Chrome|ManicTime/Applications
+6436|https://community.nodemailer.com/|2017-02-27T16:51:33.0000000|2017-02-27T16:51:50.0000000|community.nodemailer.com|ManicTime/Documents
+6437|Setup SMTP – Nodemailer - Google Chrome|2017-02-27T16:51:50.0000000|2017-02-27T16:54:28.0000000|Google Chrome|ManicTime/Applications
+6438|https://community.nodemailer.com/2-0-0-beta/setup-smtp/|2017-02-27T16:51:50.0000000|2017-02-27T16:54:28.0000000|community.nodemailer.com|ManicTime/Documents
+6439|Nueva pestaña - Google Chrome|2017-02-27T16:54:28.0000000|2017-02-27T16:54:33.0000000|Google Chrome|ManicTime/Applications
+6440|GitHub - Google Chrome|2017-02-27T16:54:33.0000000|2017-02-27T16:56:47.0000000|Google Chrome|ManicTime/Applications
+6441|http://github.com/|2017-02-27T16:54:28.0000000|2017-02-27T16:54:33.0000000|github.com|ManicTime/Documents
+6442|https://github.com/|2017-02-27T16:54:33.0000000|2017-02-27T16:56:47.0000000|github.com|ManicTime/Documents
 
-(6199 rows affected)
+(6236 rows affected)
