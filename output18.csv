@@ -7234,7 +7234,7 @@
 7465|MINGW64:/c/Users/Estudiante/nodeProyects/proyectoDAWIIparcial|2017-02-28T12:52:44.0000000|2017-02-28T12:52:50.0000000|mintty|ManicTime/Applications
 7466|Windows PowerShell|2017-02-28T12:52:50.0000000|2017-02-28T12:52:56.0000000|Windows PowerShell|ManicTime/Applications
 7467|MINGW64:/c/Users/Estudiante/nodeProyects/proyectoDAWIIparcial|2017-02-28T12:52:56.0000000|2017-02-28T12:54:30.0000000|mintty|ManicTime/Applications
-7468||2017-02-28T12:52:44.0000000|2017-02-28T13:12:14.0000000||ManicTime/ComputerUsage
+7468||2017-02-28T12:52:44.0000000|2017-02-28T13:27:08.0000000||ManicTime/ComputerUsage
 7469|OpenSSH|2017-02-28T12:54:30.0000000|2017-02-28T12:54:35.0000000|Tk 8.6 for Windows|ManicTime/Applications
 7470|MINGW64:/c/Users/Estudiante/nodeProyects/proyectoDAWIIparcial|2017-02-28T12:54:35.0000000|2017-02-28T12:54:40.0000000|mintty|ManicTime/Applications
 7471|Windows PowerShell|2017-02-28T12:54:40.0000000|2017-02-28T12:54:47.0000000|Windows PowerShell|ManicTime/Applications
@@ -7271,11 +7271,46 @@
 7502|Windows Explorer|2017-02-28T13:02:48.0000000|2017-02-28T13:02:54.0000000|Windows Explorer|ManicTime/Applications
 7503|1485795174_727__ProyectoFinalDAW2016-2T.pdf - Adobe Acrobat Reader DC|2017-02-28T13:02:54.0000000|2017-02-28T13:02:59.0000000|Adobe Acrobat Reader DC|ManicTime/Applications
 7504|Recibidos (2) - correoparadaw@gmail.com - Gmail - Google Chrome|2017-02-28T13:02:59.0000000|2017-02-28T13:03:04.0000000|Google Chrome|ManicTime/Applications
-7505|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-28T13:03:04.0000000|2017-02-28T13:12:14.0000000|Sublime Text|ManicTime/Applications
+7505|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-28T13:03:04.0000000|2017-02-28T13:15:25.0000000|Sublime Text|ManicTime/Applications
 7506|https://mail.google.com/mail/#inbox|2017-02-28T13:02:32.0000000|2017-02-28T13:02:39.0000000|mail.google.com|ManicTime/Documents
 7507|https://accounts.google.com/ServiceLogin?service=mail&passive=true&rm=false&continue=https://mail.google.com/mail/&ss=1&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1|2017-02-28T13:02:39.0000000|2017-02-28T13:02:48.0000000|accounts.google.com|ManicTime/Documents
 7508|1485795174_727__ProyectoFinalDAW2016-2T.pdf|2017-02-28T13:02:54.0000000|2017-02-28T13:02:59.0000000|1485795174_727__ProyectoFinalDAW2016-2T.pdf|ManicTime/Documents
 7509|https://mail.google.com/mail/#inbox|2017-02-28T13:02:59.0000000|2017-02-28T13:03:04.0000000|mail.google.com|ManicTime/Documents
-7510|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js|2017-02-28T13:03:04.0000000|2017-02-28T13:12:14.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js|ManicTime/Documents
+7510|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js|2017-02-28T13:03:04.0000000|2017-02-28T13:15:25.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js|ManicTime/Documents
+7511|Windows PowerShell|2017-02-28T13:15:25.0000000|2017-02-28T13:15:31.0000000|Windows PowerShell|ManicTime/Applications
+7512|Nodemailer – Send e-mails with Node.JS - Google Chrome|2017-02-28T13:15:31.0000000|2017-02-28T13:16:16.0000000|Google Chrome|ManicTime/Applications
+7513|https://community.nodemailer.com/|2017-02-28T13:15:31.0000000|2017-02-28T13:16:16.0000000|community.nodemailer.com|ManicTime/Documents
+7514|Windows PowerShell|2017-02-28T13:16:16.0000000|2017-02-28T13:16:23.0000000|Windows PowerShell|ManicTime/Applications
+7515|Select Windows PowerShell|2017-02-28T13:16:23.0000000|2017-02-28T13:16:28.0000000|Windows PowerShell|ManicTime/Applications
+7516|Windows PowerShell|2017-02-28T13:16:28.0000000|2017-02-28T13:16:33.0000000|Windows PowerShell|ManicTime/Applications
+7517|npm|2017-02-28T13:16:33.0000000|2017-02-28T13:17:03.0000000|Windows PowerShell|ManicTime/Applications
+7518|Windows PowerShell|2017-02-28T13:17:03.0000000|2017-02-28T13:18:17.0000000|Windows PowerShell|ManicTime/Applications
+7519|npm|2017-02-28T13:18:17.0000000|2017-02-28T13:18:22.0000000|Windows PowerShell|ManicTime/Applications
+7520|Windows PowerShell|2017-02-28T13:18:22.0000000|2017-02-28T13:19:19.0000000|Windows PowerShell|ManicTime/Applications
+7521|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-28T13:19:19.0000000|2017-02-28T13:19:24.0000000|Sublime Text|ManicTime/Applications
+7522|Windows PowerShell|2017-02-28T13:19:24.0000000|2017-02-28T13:19:29.0000000|Windows PowerShell|ManicTime/Applications
+7523|Windows Explorer|2017-02-28T13:19:29.0000000|2017-02-28T13:19:35.0000000|Windows Explorer|ManicTime/Applications
+7524|nodemailer example - Buscar con Google - Google Chrome|2017-02-28T13:19:35.0000000|2017-02-28T13:19:41.0000000|Google Chrome|ManicTime/Applications
+7525|Login - Google Chrome|2017-02-28T13:19:41.0000000|2017-02-28T13:19:46.0000000|Google Chrome|ManicTime/Applications
+7526|Login form shake effect - Google Chrome|2017-02-28T13:19:46.0000000|2017-02-28T13:21:11.0000000|Google Chrome|ManicTime/Applications
+7527|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js|2017-02-28T13:19:19.0000000|2017-02-28T13:19:24.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js|ManicTime/Documents
+7528|https://www.google.com.ec/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=nodemailer+example&*|2017-02-28T13:19:35.0000000|2017-02-28T13:19:41.0000000|www.google.com.ec|ManicTime/Documents
+7529|http://localhost:3000/#!/|2017-02-28T13:19:41.0000000|2017-02-28T13:19:46.0000000|localhost|ManicTime/Documents
+7530|http://localhost:3000/usuario#!/|2017-02-28T13:19:46.0000000|2017-02-28T13:21:11.0000000|localhost|ManicTime/Documents
+7531|npm|2017-02-28T13:21:11.0000000|2017-02-28T13:21:58.0000000|Windows PowerShell|ManicTime/Applications
+7532|Nueva pestaña - Google Chrome|2017-02-28T13:21:58.0000000|2017-02-28T13:22:08.0000000|Google Chrome|ManicTime/Applications
+7533|Nueva pestaña - Google Chrome|2017-02-28T13:22:08.0000000|2017-02-28T13:22:14.0000000|Google Chrome|ManicTime/Applications
+7534|http://sidweb.espol.edu.ec/|2017-02-28T13:21:58.0000000|2017-02-28T13:22:08.0000000|sidweb.espol.edu.ec|ManicTime/Documents
+7535|c - Openssl : error "self signed certificate in certificate chain" - Stack Overflow - Google Chrome|2017-02-28T13:22:14.0000000|2017-02-28T13:22:48.0000000|Google Chrome|ManicTime/Applications
+7536|Nueva pestaña - Google Chrome|2017-02-28T13:22:48.0000000|2017-02-28T13:25:29.0000000|Google Chrome|ManicTime/Applications
+7537|http://stackoverflow.com/questions/12180552/openssl-error-self-signed-certificate-in-certificate-chain|2017-02-28T13:22:14.0000000|2017-02-28T13:22:48.0000000|stackoverflow.com|ManicTime/Documents
+7538|npm|2017-02-28T13:25:29.0000000|2017-02-28T13:25:45.0000000|Windows PowerShell|ManicTime/Applications
+7539|Recibidos (2) - correoparadaw@gmail.com - Gmail - Google Chrome|2017-02-28T13:25:45.0000000|2017-02-28T13:25:54.0000000|Google Chrome|ManicTime/Applications
+7540|Nueva pestaña - Google Chrome|2017-02-28T13:25:54.0000000|2017-02-28T13:25:59.0000000|Google Chrome|ManicTime/Applications
+7542|https://mail.google.com/mail/#inbox|2017-02-28T13:25:45.0000000|2017-02-28T13:25:54.0000000|mail.google.com|ManicTime/Documents
+7543|1485795174_727__ProyectoFinalDAW2016-2T.pdf - Adobe Acrobat Reader DC|2017-02-28T13:25:59.0000000|2017-02-28T13:26:06.0000000|Adobe Acrobat Reader DC|ManicTime/Applications
+7544|Nodemailer – Send e-mails with Node.JS - Google Chrome|2017-02-28T13:26:06.0000000|2017-02-28T13:27:08.0000000|Google Chrome|ManicTime/Applications
+7545|1485795174_727__ProyectoFinalDAW2016-2T.pdf|2017-02-28T13:25:59.0000000|2017-02-28T13:26:06.0000000|1485795174_727__ProyectoFinalDAW2016-2T.pdf|ManicTime/Documents
+7546|https://community.nodemailer.com/|2017-02-28T13:26:06.0000000|2017-02-28T13:27:08.0000000|community.nodemailer.com|ManicTime/Documents
 
-(7279 rows affected)
+(7314 rows affected)
