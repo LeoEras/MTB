@@ -6119,7 +6119,7 @@
 6323|Nueva pestaña - Google Chrome|2017-02-27T16:07:47.0000000|2017-02-27T16:07:53.0000000|Google Chrome|ManicTime/Applications
 6324|Login - Google Chrome|2017-02-27T16:07:53.0000000|2017-02-27T16:07:58.0000000|Google Chrome|ManicTime/Applications
 6325||2017-02-27T15:43:45.0000000|2017-02-27T15:43:47.0000000||ManicTime/ComputerUsage
-6326||2017-02-27T16:07:09.0000000|2017-02-27T18:42:10.0000000||ManicTime/ComputerUsage
+6326||2017-02-27T16:07:09.0000000|2017-02-27T18:40:35.0000000||ManicTime/ComputerUsage
 6327|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|2017-02-27T16:06:55.0000000|2017-02-27T16:07:01.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\login.ejs|ManicTime/Documents
 6328|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|2017-02-27T16:07:01.0000000|2017-02-27T16:07:06.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|ManicTime/Documents
 6329|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|2017-02-27T15:43:45.0000000|2017-02-27T15:43:47.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|ManicTime/Documents
@@ -6581,6 +6581,6 @@
 6793|http://localhost:3000/usuario#!/|2017-02-27T18:38:46.0000000|2017-02-27T18:38:54.0000000|localhost|ManicTime/Documents
 6794|http://localhost:3000/#!/|2017-02-27T18:38:54.0000000|2017-02-27T18:38:59.0000000|localhost|ManicTime/Documents
 6795|http://localhost:3000/usuario#!/|2017-02-27T18:38:59.0000000|2017-02-27T18:40:32.0000000|localhost|ManicTime/Documents
-6796|Nueva pestaña - Google Chrome|2017-02-27T18:40:32.0000000|2017-02-27T18:42:10.0000000|Google Chrome|ManicTime/Applications
+6797||2017-02-27T18:40:35.0000000|2017-02-27T18:57:00.0000000||ManicTime/ComputerUsage
 
 (6584 rows affected)
