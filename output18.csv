@@ -6582,5 +6582,24 @@
 6794|http://localhost:3000/#!/|2017-02-27T18:38:54.0000000|2017-02-27T18:38:59.0000000|localhost|ManicTime/Documents
 6795|http://localhost:3000/usuario#!/|2017-02-27T18:38:59.0000000|2017-02-27T18:40:32.0000000|localhost|ManicTime/Documents
 6797||2017-02-27T18:40:35.0000000|2017-02-27T18:57:00.0000000||ManicTime/ComputerUsage
+6798|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T18:57:00.0000000|2017-02-27T18:57:06.0000000|Sublime Text|ManicTime/Applications
+6799|Windows Explorer|2017-02-27T18:57:06.0000000|2017-02-27T18:57:12.0000000|Windows Explorer|ManicTime/Applications
+6800|MINGW64:/c/Users/Estudiante/nodeProyects/proyectoDAWIIparcial|2017-02-27T18:57:12.0000000|2017-02-27T18:57:57.0000000|mintty|ManicTime/Applications
+6801||2017-02-27T18:57:00.0000000|2017-02-27T18:59:30.0000000||ManicTime/ComputerUsage
+6802|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|2017-02-27T18:57:00.0000000|2017-02-27T18:57:06.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|ManicTime/Documents
+6803|Windows PowerShell|2017-02-27T18:57:57.0000000|2017-02-27T18:58:38.0000000|Windows PowerShell|ManicTime/Applications
+6804|npm|2017-02-27T18:58:38.0000000|2017-02-27T18:58:45.0000000|Windows PowerShell|ManicTime/Applications
+6805|Windows PowerShell|2017-02-27T18:58:45.0000000|2017-02-27T18:58:52.0000000|Windows PowerShell|ManicTime/Applications
+6806|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-27T18:58:52.0000000|2017-02-27T18:58:57.0000000|Sublime Text|ManicTime/Applications
+6807|Login - Google Chrome|2017-02-27T18:58:57.0000000|2017-02-27T18:59:06.0000000|Google Chrome|ManicTime/Applications
+6808|Login form shake effect - Google Chrome|2017-02-27T18:59:06.0000000|2017-02-27T18:59:11.0000000|Google Chrome|ManicTime/Applications
+6809|Login form shake effect - Google Chrome|2017-02-27T18:59:11.0000000|2017-02-27T18:59:20.0000000|Google Chrome|ManicTime/Applications
+6810|Cursos - Google Chrome|2017-02-27T18:59:20.0000000|2017-02-27T18:59:28.0000000|Google Chrome|ManicTime/Applications
+6812|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|2017-02-27T18:58:52.0000000|2017-02-27T18:58:57.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\usuario.ejs|ManicTime/Documents
+6813|http://localhost:3000/#!/|2017-02-27T18:58:57.0000000|2017-02-27T18:59:06.0000000|localhost|ManicTime/Documents
+6814|http://localhost:3000/usuario#!/|2017-02-27T18:59:06.0000000|2017-02-27T18:59:11.0000000|localhost|ManicTime/Documents
+6815|http://localhost:3000/reportes|2017-02-27T18:59:11.0000000|2017-02-27T18:59:20.0000000|localhost|ManicTime/Documents
+6816|http://localhost:3000/cursos|2017-02-27T18:59:20.0000000|2017-02-27T18:59:28.0000000|localhost|ManicTime/Documents
+6818||2017-02-27T18:59:30.0000000|2017-02-27T19:11:51.0000000||ManicTime/ComputerUsage
 
-(6584 rows affected)
+(6603 rows affected)
