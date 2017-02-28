@@ -7733,7 +7733,7 @@
 7975|JavaScript quick start | Pusher - Google Chrome|2017-02-28T18:09:33.0000000|2017-02-28T18:09:49.0000000|Google Chrome|ManicTime/Applications
 7976|pusher - Buscar con Google - Google Chrome|2017-02-28T18:09:49.0000000|2017-02-28T18:10:02.0000000|Google Chrome|ManicTime/Applications
 7977|Pusher | Leader In Realtime Technologies - Google Chrome|2017-02-28T18:10:02.0000000|2017-02-28T18:10:27.0000000|Google Chrome|ManicTime/Applications
-7978||2017-02-28T18:09:33.0000000|2017-02-28T18:27:06.0000000||ManicTime/ComputerUsage
+7978||2017-02-28T18:09:33.0000000|2017-02-28T18:42:01.0000000||ManicTime/ComputerUsage
 7979|https://pusher.com/docs/javascript_quick_start|2017-02-28T18:09:33.0000000|2017-02-28T18:09:49.0000000|pusher.com|ManicTime/Documents
 7980|https://www.google.com.ec/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=pusher&*|2017-02-28T18:09:49.0000000|2017-02-28T18:10:02.0000000|www.google.com.ec|ManicTime/Documents
 7981|https://pusher.com/|2017-02-28T18:10:02.0000000|2017-02-28T18:10:27.0000000|pusher.com|ManicTime/Documents
@@ -7868,7 +7868,82 @@
 8110|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\models\usuario.js|2017-02-28T18:25:46.0000000|2017-02-28T18:25:54.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\models\usuario.js|ManicTime/Documents
 8111|http://localhost:3000/#!/|2017-02-28T18:25:59.0000000|2017-02-28T18:26:11.0000000|localhost|ManicTime/Documents
 8112|Login form shake effect - Google Chrome|2017-02-28T18:26:11.0000000|2017-02-28T18:26:16.0000000|Google Chrome|ManicTime/Applications
-8113|npm|2017-02-28T18:26:16.0000000|2017-02-28T18:27:06.0000000|Windows PowerShell|ManicTime/Applications
+8113|npm|2017-02-28T18:26:16.0000000|2017-02-28T18:27:22.0000000|Windows PowerShell|ManicTime/Applications
 8114|http://localhost:3000/usuario#!/|2017-02-28T18:26:11.0000000|2017-02-28T18:26:16.0000000|localhost|ManicTime/Documents
+8115|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-28T18:27:22.0000000|2017-02-28T18:27:29.0000000|Sublime Text|ManicTime/Applications
+8116|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\perfil.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-28T18:27:29.0000000|2017-02-28T18:27:34.0000000|Sublime Text|ManicTime/Applications
+8117|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\models\ejercicioEstudiante.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-28T18:27:34.0000000|2017-02-28T18:27:44.0000000|Sublime Text|ManicTime/Applications
+8118|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\perfil.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-28T18:27:44.0000000|2017-02-28T18:27:50.0000000|Sublime Text|ManicTime/Applications
+8119|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\perfil.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-28T18:27:50.0000000|2017-02-28T18:27:55.0000000|Sublime Text|ManicTime/Applications
+8120|Windows PowerShell|2017-02-28T18:27:55.0000000|2017-02-28T18:28:00.0000000|Windows PowerShell|ManicTime/Applications
+8121|Login - Google Chrome|2017-02-28T18:28:00.0000000|2017-02-28T18:28:10.0000000|Google Chrome|ManicTime/Applications
+8122|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js|2017-02-28T18:27:22.0000000|2017-02-28T18:27:29.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js|ManicTime/Documents
+8123|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\perfil.js|2017-02-28T18:27:29.0000000|2017-02-28T18:27:34.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\perfil.js|ManicTime/Documents
+8124|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\models\ejercicioEstudiante.js|2017-02-28T18:27:34.0000000|2017-02-28T18:27:44.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\models\ejercicioEstudiante.js|ManicTime/Documents
+8125|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\perfil.js|2017-02-28T18:27:44.0000000|2017-02-28T18:27:50.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\perfil.js|ManicTime/Documents
+8126|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\perfil.js|2017-02-28T18:27:50.0000000|2017-02-28T18:27:55.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\perfil.js|ManicTime/Documents
+8127|http://localhost:3000/|2017-02-28T18:28:00.0000000|2017-02-28T18:28:10.0000000|localhost|ManicTime/Documents
+8128|Login - Google Chrome|2017-02-28T18:28:10.0000000|2017-02-28T18:28:17.0000000|Google Chrome|ManicTime/Applications
+8129|Login form shake effect - Google Chrome|2017-02-28T18:28:17.0000000|2017-02-28T18:28:23.0000000|Google Chrome|ManicTime/Applications
+8130|npm|2017-02-28T18:28:23.0000000|2017-02-28T18:28:37.0000000|Windows PowerShell|ManicTime/Applications
+8131|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\perfil.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-28T18:28:37.0000000|2017-02-28T18:28:45.0000000|Sublime Text|ManicTime/Applications
+8132|Login form shake effect - Google Chrome|2017-02-28T18:28:45.0000000|2017-02-28T18:28:54.0000000|Google Chrome|ManicTime/Applications
+8133|Nueva pestaña - Google Chrome|2017-02-28T18:28:54.0000000|2017-02-28T18:28:59.0000000|Google Chrome|ManicTime/Applications
+8134|mLab: Cloud-hosted MongoDB - Google Chrome|2017-02-28T18:28:59.0000000|2017-02-28T18:29:09.0000000|Google Chrome|ManicTime/Applications
+8135|http://localhost:3000/#!/|2017-02-28T18:28:10.0000000|2017-02-28T18:28:17.0000000|localhost|ManicTime/Documents
+8136|http://localhost:3000/usuario#!/|2017-02-28T18:28:17.0000000|2017-02-28T18:28:23.0000000|localhost|ManicTime/Documents
+8137|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\perfil.js|2017-02-28T18:28:37.0000000|2017-02-28T18:28:45.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\perfil.js|ManicTime/Documents
+8138|http://localhost:3000/perfil|2017-02-28T18:28:45.0000000|2017-02-28T18:28:54.0000000|localhost|ManicTime/Documents
+8139|https://mlab.com/databases/proyecto_daw|2017-02-28T18:28:59.0000000|2017-02-28T18:29:09.0000000|mlab.com|ManicTime/Documents
+8140|mLab: Cloud-hosted MongoDB - Google Chrome|2017-02-28T18:29:09.0000000|2017-02-28T18:30:12.0000000|Google Chrome|ManicTime/Applications
+8141|https://mlab.com/databases/proyecto_daw/collections/ejercicioestudiantes|2017-02-28T18:29:09.0000000|2017-02-28T18:30:12.0000000|mlab.com|ManicTime/Documents
+8142|Nueva pestaña - Google Chrome|2017-02-28T18:30:12.0000000|2017-02-28T18:30:22.0000000|Google Chrome|ManicTime/Applications
+8143|node.js - mongodb/mongoose findMany - find all documents with IDs listed in array - Stack Overflow - Google Chrome|2017-02-28T18:30:22.0000000|2017-02-28T18:31:17.0000000|Google Chrome|ManicTime/Applications
+8144|http://stackoverflow.com/questions/8303900/mongodb-mongoose-findmany-find-all-documents-with-ids-listed-in-array|2017-02-28T18:30:22.0000000|2017-02-28T18:31:17.0000000|stackoverflow.com|ManicTime/Documents
+8145|obtain an array mongoose find - Buscar con Google - Google Chrome|2017-02-28T18:31:17.0000000|2017-02-28T18:31:33.0000000|Google Chrome|ManicTime/Applications
+8146|find mongoose - Buscar con Google - Google Chrome|2017-02-28T18:31:33.0000000|2017-02-28T18:31:38.0000000|Google Chrome|ManicTime/Applications
+8147|Mongoose Queries v4.8.5 - Google Chrome|2017-02-28T18:31:38.0000000|2017-02-28T18:32:21.0000000|Google Chrome|ManicTime/Applications
+8148|https://www.google.com.ec/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=obtain+an+array+mongoose+find&*|2017-02-28T18:31:17.0000000|2017-02-28T18:31:33.0000000|www.google.com.ec|ManicTime/Documents
+8149|https://www.google.com.ec/search?sclient=psy-ab&biw=1920&bih=970&q=find+mongoose&oq=find+mongoose&gs_l=hp.3...68781.73115.0.73287.15.12.0.0.0.0.0.0..0.0....0...1c.1.64.psy-ab..15.0.0.KB3In0PNVek&pbx=1&bav=on.2,or.&bvm=bv.148073327,d.eWE&ion=1&ech=1&psi=CAi2WKXGA8upmwHoxa6YAQ.1488324615280.7&ei=Dwi2WLGbNsiwjwOqvpKgAQ&emsg=NCSR&noj=1|2017-02-28T18:31:33.0000000|2017-02-28T18:31:38.0000000|www.google.com.ec|ManicTime/Documents
+8150|http://mongoosejs.com/docs/queries.html|2017-02-28T18:31:38.0000000|2017-02-28T18:32:21.0000000|mongoosejs.com|ManicTime/Documents
+8151|find mongoose - Buscar con Google - Google Chrome|2017-02-28T18:32:21.0000000|2017-02-28T18:32:30.0000000|Google Chrome|ManicTime/Applications
+8152|mongoose find return array - Buscar con Google - Google Chrome|2017-02-28T18:32:30.0000000|2017-02-28T18:32:35.0000000|Google Chrome|ManicTime/Applications
+8153|node.js - How to get array of json objects rather than mongoose documents - Stack Overflow - Google Chrome|2017-02-28T18:32:35.0000000|2017-02-28T18:33:12.0000000|Google Chrome|ManicTime/Applications
+8154|https://www.google.com.ec/search?sclient=psy-ab&biw=1920&bih=970&q=find+mongoose&oq=find+mongoose&gs_l=hp.3...68781.73115.0.73287.15.12.0.0.0.0.0.0..0.0....0...1c.1.64.psy-ab..15.0.0.KB3In0PNVek&pbx=1&bav=on.2,or.&bvm=bv.148073327,d.eWE&ion=1&ech=1&psi=CAi2WKXGA8upmwHoxa6YAQ.1488324615280.7&ei=Dwi2WLGbNsiwjwOqvpKgAQ&emsg=NCSR&noj=1|2017-02-28T18:32:21.0000000|2017-02-28T18:32:30.0000000|www.google.com.ec|ManicTime/Documents
+8155|https://www.google.com.ec/search?sclient=psy-ab&biw=1920&bih=970&noj=1&q=mongoose+find+return+array&oq=find+mongoose+retun+a&gs_l=serp.1.0.0i22i30k1l2.51752.54279.1.56490.8.8.0.0.0.0.162.788.0j6.6.0....0...1c.1.64.serp..2.6.788...0j0i22i10i30k1.qm4ecXrq45k|2017-02-28T18:32:30.0000000|2017-02-28T18:32:35.0000000|www.google.com.ec|ManicTime/Documents
+8156|http://stackoverflow.com/questions/12210870/how-to-get-array-of-json-objects-rather-than-mongoose-documents|2017-02-28T18:32:35.0000000|2017-02-28T18:33:12.0000000|stackoverflow.com|ManicTime/Documents
+8157|mongoose lean query, virtuals not showing - Stack Overflow - Google Chrome|2017-02-28T18:33:12.0000000|2017-02-28T18:34:06.0000000|Google Chrome|ManicTime/Applications
+8158|http://stackoverflow.com/questions/18363472/mongoose-lean-query-virtuals-not-showing/18383080#18383080|2017-02-28T18:33:12.0000000|2017-02-28T18:34:06.0000000|stackoverflow.com|ManicTime/Documents
+8159|node.js - mongodb/mongoose findMany - find all documents with IDs listed in array - Stack Overflow - Google Chrome|2017-02-28T18:34:06.0000000|2017-02-28T18:34:12.0000000|Google Chrome|ManicTime/Applications
+8160|mongoose find return array - Buscar con Google - Google Chrome|2017-02-28T18:34:12.0000000|2017-02-28T18:34:31.0000000|Google Chrome|ManicTime/Applications
+8161|How I ensure to obtain an array mongoose find - Buscar con Google - Google Chrome|2017-02-28T18:34:31.0000000|2017-02-28T18:34:38.0000000|Google Chrome|ManicTime/Applications
+8162|node.js - Mongoose Unique values in nested array of objects - Stack Overflow - Google Chrome|2017-02-28T18:34:38.0000000|2017-02-28T18:35:07.0000000|Google Chrome|ManicTime/Applications
+8163|http://stackoverflow.com/questions/8303900/mongodb-mongoose-findmany-find-all-documents-with-ids-listed-in-array|2017-02-28T18:34:06.0000000|2017-02-28T18:34:12.0000000|stackoverflow.com|ManicTime/Documents
+8164|https://www.google.com.ec/search?sclient=psy-ab&biw=1920&bih=970&noj=1&q=mongoose+find+return+array&oq=find+mongoose+retun+a&gs_l=serp.1.0.0i22i30k1l2.51752.54279.1.56490.8.8.0.0.0.0.162.788.0j6.6.0....0...1c.1.64.serp..2.6.788...0j0i22i10i30k1.qm4ecXrq45k|2017-02-28T18:34:12.0000000|2017-02-28T18:34:31.0000000|www.google.com.ec|ManicTime/Documents
+8165|https://www.google.com.ec/search?sclient=psy-ab&biw=1920&bih=970&noj=1&q=How+I+ensure+to+obtain+an+array+mongoose+find&oq=How+I+ensure+to+obtain+an+array+mongoose+find&gs_l=serp.3...99852.117052.1.117365.47.47.0.0.0.0.199.5672.0j42.42.0....0...1c.1.64.serp..5.37.5002...0j0i67k1j0i131k1j0i22i30k1j33i160k1j30i10k1j33i21k1.pO8WjHaK1Us|2017-02-28T18:34:31.0000000|2017-02-28T18:34:38.0000000|www.google.com.ec|ManicTime/Documents
+8166|http://stackoverflow.com/questions/15921700/mongoose-unique-values-in-nested-array-of-objects|2017-02-28T18:34:38.0000000|2017-02-28T18:35:07.0000000|stackoverflow.com|ManicTime/Documents
+8167|How I ensure to obtain an array mongoose find - Buscar con Google - Google Chrome|2017-02-28T18:35:07.0000000|2017-02-28T18:35:14.0000000|Google Chrome|ManicTime/Applications
+8168|node.js - mongodb/mongoose findMany - find all documents with IDs listed in array - Stack Overflow - Google Chrome|2017-02-28T18:35:14.0000000|2017-02-28T18:35:55.0000000|Google Chrome|ManicTime/Applications
+8169|How I ensure to obtain an array mongoose find - Buscar con Google - Google Chrome|2017-02-28T18:35:55.0000000|2017-02-28T18:36:11.0000000|Google Chrome|ManicTime/Applications
+8170|https://www.google.com.ec/search?sclient=psy-ab&biw=1920&bih=970&noj=1&q=How+I+ensure+to+obtain+an+array+mongoose+find&oq=How+I+ensure+to+obtain+an+array+mongoose+find&gs_l=serp.3...99852.117052.1.117365.47.47.0.0.0.0.199.5672.0j42.42.0....0...1c.1.64.serp..5.37.5002...0j0i67k1j0i131k1j0i22i30k1j33i160k1j30i10k1j33i21k1.pO8WjHaK1Us|2017-02-28T18:35:07.0000000|2017-02-28T18:35:14.0000000|www.google.com.ec|ManicTime/Documents
+8171|http://stackoverflow.com/questions/8303900/mongodb-mongoose-findmany-find-all-documents-with-ids-listed-in-array|2017-02-28T18:35:14.0000000|2017-02-28T18:35:55.0000000|stackoverflow.com|ManicTime/Documents
+8172|https://www.google.com.ec/search?sclient=psy-ab&biw=1920&bih=970&noj=1&q=How+I+ensure+to+obtain+an+array+mongoose+find&oq=How+I+ensure+to+obtain+an+array+mongoose+find&gs_l=serp.3...99852.117052.1.117365.47.47.0.0.0.0.199.5672.0j42.42.0....0...1c.1.64.serp..5.37.5002...0j0i67k1j0i131k1j0i22i30k1j33i160k1j30i10k1j33i21k1.pO8WjHaK1Us|2017-02-28T18:35:55.0000000|2017-02-28T18:36:11.0000000|www.google.com.ec|ManicTime/Documents
+8173|get values mongoose - Buscar con Google - Google Chrome|2017-02-28T18:36:11.0000000|2017-02-28T18:36:19.0000000|Google Chrome|ManicTime/Applications
+8174|javascript - How to access specific value from mongoose query callback? - Stack Overflow - Google Chrome|2017-02-28T18:36:19.0000000|2017-02-28T18:36:26.0000000|Google Chrome|ManicTime/Applications
+8175|Mongoose Queries v4.8.5 - Google Chrome|2017-02-28T18:36:26.0000000|2017-02-28T18:37:07.0000000|Google Chrome|ManicTime/Applications
+8176|https://www.google.com.ec/search?sclient=psy-ab&biw=1920&bih=970&noj=1&q=get+values+mongoose&oq=get+values+mongoose&gs_l=serp.3..0i22i30k1l3.90909.102222.1.102397.25.22.0.3.3.0.164.2385.0j19.19.0....0...1c.1.64.serp..3.21.2285.0..0j35i39k1j0i67k1j0i131k1.dDpoZpdwMyQ|2017-02-28T18:36:11.0000000|2017-02-28T18:36:19.0000000|www.google.com.ec|ManicTime/Documents
+8177|http://stackoverflow.com/questions/20723984/how-to-access-specific-value-from-mongoose-query-callback|2017-02-28T18:36:19.0000000|2017-02-28T18:36:26.0000000|stackoverflow.com|ManicTime/Documents
+8178|http://mongoosejs.com/docs/queries.html|2017-02-28T18:36:26.0000000|2017-02-28T18:37:07.0000000|mongoosejs.com|ManicTime/Documents
+8179|Mongoose Query Population v4.8.5 - Google Chrome|2017-02-28T18:37:07.0000000|2017-02-28T18:37:33.0000000|Google Chrome|ManicTime/Applications
+8180|node.js - Mongoose Unique values in nested array of objects - Stack Overflow - Google Chrome|2017-02-28T18:37:33.0000000|2017-02-28T18:41:09.0000000|Google Chrome|ManicTime/Applications
+8181|http://mongoosejs.com/docs/populate.html|2017-02-28T18:37:07.0000000|2017-02-28T18:37:33.0000000|mongoosejs.com|ManicTime/Documents
+8182|http://stackoverflow.com/questions/15921700/mongoose-unique-values-in-nested-array-of-objects|2017-02-28T18:37:33.0000000|2017-02-28T18:41:09.0000000|stackoverflow.com|ManicTime/Documents
+8183|Nueva pestaña - Google Chrome|2017-02-28T18:41:09.0000000|2017-02-28T18:41:17.0000000|Google Chrome|ManicTime/Applications
+8184|findAll mongoose - Buscar con Google - Google Chrome|2017-02-28T18:41:17.0000000|2017-02-28T18:41:24.0000000|Google Chrome|ManicTime/Applications
+8185|mongodb - How to findAll in mongoosejs? - Stack Overflow - Google Chrome|2017-02-28T18:41:24.0000000|2017-02-28T18:41:50.0000000|Google Chrome|ManicTime/Applications
+8186|findAll mongoose - Buscar con Google - Google Chrome|2017-02-28T18:41:50.0000000|2017-02-28T18:42:01.0000000|Google Chrome|ManicTime/Applications
+8187|https://www.google.com.ec/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=findAll+mongoose&*|2017-02-28T18:41:17.0000000|2017-02-28T18:41:24.0000000|www.google.com.ec|ManicTime/Documents
+8188|http://stackoverflow.com/questions/7247541/how-to-findall-in-mongoosejs|2017-02-28T18:41:24.0000000|2017-02-28T18:41:50.0000000|stackoverflow.com|ManicTime/Documents
+8189|https://www.google.com.ec/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=findAll+mongoose&*|2017-02-28T18:41:50.0000000|2017-02-28T18:42:01.0000000|www.google.com.ec|ManicTime/Documents
 
-(7872 rows affected)
+(7947 rows affected)
