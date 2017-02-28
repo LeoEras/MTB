@@ -7234,7 +7234,7 @@
 7465|MINGW64:/c/Users/Estudiante/nodeProyects/proyectoDAWIIparcial|2017-02-28T12:52:44.0000000|2017-02-28T12:52:50.0000000|mintty|ManicTime/Applications
 7466|Windows PowerShell|2017-02-28T12:52:50.0000000|2017-02-28T12:52:56.0000000|Windows PowerShell|ManicTime/Applications
 7467|MINGW64:/c/Users/Estudiante/nodeProyects/proyectoDAWIIparcial|2017-02-28T12:52:56.0000000|2017-02-28T12:54:30.0000000|mintty|ManicTime/Applications
-7468||2017-02-28T12:52:44.0000000|2017-02-28T13:27:08.0000000||ManicTime/ComputerUsage
+7468||2017-02-28T12:52:44.0000000|2017-02-28T13:41:59.0000000||ManicTime/ComputerUsage
 7469|OpenSSH|2017-02-28T12:54:30.0000000|2017-02-28T12:54:35.0000000|Tk 8.6 for Windows|ManicTime/Applications
 7470|MINGW64:/c/Users/Estudiante/nodeProyects/proyectoDAWIIparcial|2017-02-28T12:54:35.0000000|2017-02-28T12:54:40.0000000|mintty|ManicTime/Applications
 7471|Windows PowerShell|2017-02-28T12:54:40.0000000|2017-02-28T12:54:47.0000000|Windows PowerShell|ManicTime/Applications
@@ -7309,8 +7309,66 @@
 7540|Nueva pestaña - Google Chrome|2017-02-28T13:25:54.0000000|2017-02-28T13:25:59.0000000|Google Chrome|ManicTime/Applications
 7542|https://mail.google.com/mail/#inbox|2017-02-28T13:25:45.0000000|2017-02-28T13:25:54.0000000|mail.google.com|ManicTime/Documents
 7543|1485795174_727__ProyectoFinalDAW2016-2T.pdf - Adobe Acrobat Reader DC|2017-02-28T13:25:59.0000000|2017-02-28T13:26:06.0000000|Adobe Acrobat Reader DC|ManicTime/Applications
-7544|Nodemailer – Send e-mails with Node.JS - Google Chrome|2017-02-28T13:26:06.0000000|2017-02-28T13:27:08.0000000|Google Chrome|ManicTime/Applications
+7544|Nodemailer – Send e-mails with Node.JS - Google Chrome|2017-02-28T13:26:06.0000000|2017-02-28T13:27:13.0000000|Google Chrome|ManicTime/Applications
 7545|1485795174_727__ProyectoFinalDAW2016-2T.pdf|2017-02-28T13:25:59.0000000|2017-02-28T13:26:06.0000000|1485795174_727__ProyectoFinalDAW2016-2T.pdf|ManicTime/Documents
-7546|https://community.nodemailer.com/|2017-02-28T13:26:06.0000000|2017-02-28T13:27:08.0000000|community.nodemailer.com|ManicTime/Documents
+7546|https://community.nodemailer.com/|2017-02-28T13:26:06.0000000|2017-02-28T13:27:13.0000000|community.nodemailer.com|ManicTime/Documents
+7547|Using Gmail – Nodemailer - Google Chrome|2017-02-28T13:27:13.0000000|2017-02-28T13:27:54.0000000|Google Chrome|ManicTime/Applications
+7548|Inicio de sesión - Cuentas de Google - Google Chrome|2017-02-28T13:27:54.0000000|2017-02-28T13:28:12.0000000|Google Chrome|ManicTime/Applications
+7549|https://community.nodemailer.com/using-gmail/|2017-02-28T13:27:13.0000000|2017-02-28T13:27:54.0000000|community.nodemailer.com|ManicTime/Documents
+7550|https://accounts.google.com/ServiceLogin?passive=1209600&continue=https:%2F%2Faccounts.google.com%2Fb%2F0%2Fdisplayunlockcaptcha&followup=https:%2F%2Faccounts.google.com%2Fb%2F0%2Fdisplayunlockcaptcha#identifier|2017-02-28T13:27:54.0000000|2017-02-28T13:28:12.0000000|accounts.google.com|ManicTime/Documents
+7551|Inicio de sesión - Cuentas de Google - Google Chrome|2017-02-28T13:28:12.0000000|2017-02-28T13:28:22.0000000|Google Chrome|ManicTime/Applications
+7552|Cuentas de Google - Google Chrome|2017-02-28T13:28:22.0000000|2017-02-28T13:28:28.0000000|Google Chrome|ManicTime/Applications
+7553|Cuentas de Google - Google Chrome|2017-02-28T13:28:28.0000000|2017-02-28T13:28:35.0000000|Google Chrome|ManicTime/Applications
+7554|https://accounts.google.com/b/0/DisplayUnlockCaptcha - Google Chrome|2017-02-28T13:28:35.0000000|2017-02-28T13:28:45.0000000|Google Chrome|ManicTime/Applications
+7555|Nueva pestaña - Google Chrome|2017-02-28T13:28:45.0000000|2017-02-28T13:28:50.0000000|Google Chrome|ManicTime/Applications
+7556|Gmail - Google Chrome|2017-02-28T13:28:50.0000000|2017-02-28T13:28:55.0000000|Google Chrome|ManicTime/Applications
+7557|Login form shake effect - Google Chrome|2017-02-28T13:28:55.0000000|2017-02-28T13:29:01.0000000|Google Chrome|ManicTime/Applications
+7559|https://accounts.google.com/ServiceLogin?passive=1209600&continue=https:%2F%2Faccounts.google.com%2Fb%2F0%2Fdisplayunlockcaptcha&followup=https:%2F%2Faccounts.google.com%2Fb%2F0%2Fdisplayunlockcaptcha#password|2017-02-28T13:28:12.0000000|2017-02-28T13:28:22.0000000|accounts.google.com|ManicTime/Documents
+7560|https://accounts.google.com/CheckCookie?checkedDomains=youtube&checkConnection=youtube:352:1&pstMsg=1&chtml=LoginDoneHtml&continue=https:%2F%2Faccounts.google.com%2Fb%2F0%2Fdisplayunlockcaptcha&gidl=EgIIAA|2017-02-28T13:28:22.0000000|2017-02-28T13:28:28.0000000|accounts.google.com|ManicTime/Documents
+7561|https://accounts.google.com/b/0/displayunlockcaptcha|2017-02-28T13:28:28.0000000|2017-02-28T13:28:35.0000000|accounts.google.com|ManicTime/Documents
+7562|https://accounts.google.com/b/0/DisplayUnlockCaptcha|2017-02-28T13:28:35.0000000|2017-02-28T13:28:45.0000000|accounts.google.com|ManicTime/Documents
+7563|http://github.com/|2017-02-28T13:28:45.0000000|2017-02-28T13:28:50.0000000|github.com|ManicTime/Documents
+7564|https://mail.google.com/mail/|2017-02-28T13:28:50.0000000|2017-02-28T13:28:55.0000000|mail.google.com|ManicTime/Documents
+7565|http://localhost:3000/usuario#!/|2017-02-28T13:28:55.0000000|2017-02-28T13:29:01.0000000|localhost|ManicTime/Documents
+7567|https://accounts.google.com/b/0/DisplayUnlockCaptcha - Google Chrome|2017-02-28T13:29:01.0000000|2017-02-28T13:29:21.0000000|Google Chrome|ManicTime/Applications
+7568|Setup SMTP – Nodemailer - Google Chrome|2017-02-28T13:29:21.0000000|2017-02-28T13:29:26.0000000|Google Chrome|ManicTime/Applications
+7569|Allowing less secure apps to access your account - Accounts Help - Google Chrome|2017-02-28T13:29:26.0000000|2017-02-28T13:30:05.0000000|Google Chrome|ManicTime/Applications
+7570|https://accounts.google.com/b/0/DisplayUnlockCaptcha|2017-02-28T13:29:01.0000000|2017-02-28T13:29:21.0000000|accounts.google.com|ManicTime/Documents
+7571|https://community.nodemailer.com/2-0-0-beta/setup-smtp/|2017-02-28T13:29:21.0000000|2017-02-28T13:29:26.0000000|community.nodemailer.com|ManicTime/Documents
+7572|https://support.google.com/accounts/answer/6010255?hl=en|2017-02-28T13:29:26.0000000|2017-02-28T13:30:05.0000000|support.google.com|ManicTime/Documents
+7573|Aplicaciones menos seguras - Configuración de la cuenta - Google Chrome|2017-02-28T13:30:05.0000000|2017-02-28T13:30:16.0000000|Google Chrome|ManicTime/Applications
+7574|Inicio de sesión y seguridad - Google Chrome|2017-02-28T13:30:16.0000000|2017-02-28T13:30:54.0000000|Google Chrome|ManicTime/Applications
+7575|Setup SMTP – Nodemailer - Google Chrome|2017-02-28T13:30:54.0000000|2017-02-28T13:31:43.0000000|Google Chrome|ManicTime/Applications
+7576|https://www.google.com/settings/security/lesssecureapps|2017-02-28T13:30:05.0000000|2017-02-28T13:30:16.0000000|www.google.com|ManicTime/Documents
+7577|https://myaccount.google.com/security?pli=1|2017-02-28T13:30:16.0000000|2017-02-28T13:30:54.0000000|myaccount.google.com|ManicTime/Documents
+7578|https://community.nodemailer.com/2-0-0-beta/setup-smtp/|2017-02-28T13:30:54.0000000|2017-02-28T13:31:43.0000000|community.nodemailer.com|ManicTime/Documents
+7579|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-28T13:31:43.0000000|2017-02-28T13:31:50.0000000|Sublime Text|ManicTime/Applications
+7580|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-28T13:31:50.0000000|2017-02-28T13:32:16.0000000|Sublime Text|ManicTime/Applications
+7581|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js|2017-02-28T13:31:43.0000000|2017-02-28T13:31:50.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js|ManicTime/Documents
+7582|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js|2017-02-28T13:31:50.0000000|2017-02-28T13:32:16.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js|ManicTime/Documents
+7583|Setup SMTP – Nodemailer - Google Chrome|2017-02-28T13:32:16.0000000|2017-02-28T13:33:10.0000000|Google Chrome|ManicTime/Applications
+7584|https://community.nodemailer.com/2-0-0-beta/setup-smtp/|2017-02-28T13:32:16.0000000|2017-02-28T13:33:10.0000000|community.nodemailer.com|ManicTime/Documents
+7585|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-28T13:33:10.0000000|2017-02-28T13:33:30.0000000|Sublime Text|ManicTime/Applications
+7586|Setup SMTP – Nodemailer - Google Chrome|2017-02-28T13:33:30.0000000|2017-02-28T13:34:28.0000000|Google Chrome|ManicTime/Applications
+7587|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js|2017-02-28T13:33:10.0000000|2017-02-28T13:33:30.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js|ManicTime/Documents
+7588|https://community.nodemailer.com/2-0-0-beta/setup-smtp/|2017-02-28T13:33:30.0000000|2017-02-28T13:34:28.0000000|community.nodemailer.com|ManicTime/Documents
+7589|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-28T13:34:28.0000000|2017-02-28T13:36:51.0000000|Sublime Text|ManicTime/Applications
+7590|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js|2017-02-28T13:34:28.0000000|2017-02-28T13:36:51.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js|ManicTime/Documents
+7591|Windows PowerShell|2017-02-28T13:36:51.0000000|2017-02-28T13:36:58.0000000|Windows PowerShell|ManicTime/Applications
+7592|Setup SMTP – Nodemailer - Google Chrome|2017-02-28T13:36:58.0000000|2017-02-28T13:37:04.0000000|Google Chrome|ManicTime/Applications
+7593|https://community.nodemailer.com/2-0-0-beta/setup-smtp/|2017-02-28T13:36:58.0000000|2017-02-28T13:37:04.0000000|community.nodemailer.com|ManicTime/Documents
+7594|Login - Google Chrome|2017-02-28T13:37:04.0000000|2017-02-28T13:37:12.0000000|Google Chrome|ManicTime/Applications
+7595|Login form shake effect - Google Chrome|2017-02-28T13:37:12.0000000|2017-02-28T13:38:46.0000000|Google Chrome|ManicTime/Applications
+7596|http://localhost:3000/|2017-02-28T13:37:04.0000000|2017-02-28T13:37:12.0000000|localhost|ManicTime/Documents
+7597|http://localhost:3000/usuario#!/|2017-02-28T13:37:12.0000000|2017-02-28T13:38:46.0000000|localhost|ManicTime/Documents
+7598|Windows PowerShell|2017-02-28T13:38:46.0000000|2017-02-28T13:39:31.0000000|Windows PowerShell|ManicTime/Applications
+7599|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-28T13:39:31.0000000|2017-02-28T13:40:14.0000000|Sublime Text|ManicTime/Applications
+7600|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js|2017-02-28T13:39:31.0000000|2017-02-28T13:40:14.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js|ManicTime/Documents
+7601|Setup SMTP – Nodemailer - Google Chrome|2017-02-28T13:40:14.0000000|2017-02-28T13:41:04.0000000|Google Chrome|ManicTime/Applications
+7602|https://community.nodemailer.com/2-0-0-beta/setup-smtp/|2017-02-28T13:40:14.0000000|2017-02-28T13:41:04.0000000|community.nodemailer.com|ManicTime/Documents
+7603|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-28T13:41:04.0000000|2017-02-28T13:41:58.0000000|Sublime Text|ManicTime/Applications
+7604|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-02-28T13:41:58.0000000|2017-02-28T13:41:59.0000000|Sublime Text|ManicTime/Applications
+7605|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js|2017-02-28T13:41:04.0000000|2017-02-28T13:41:58.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js|ManicTime/Documents
+7606|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js|2017-02-28T13:41:58.0000000|2017-02-28T13:41:59.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\usuario.js|ManicTime/Documents
 
-(7314 rows affected)
+(7372 rows affected)
