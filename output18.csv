@@ -8737,7 +8737,7 @@
 9040|Descargas - Google Chrome|2017-03-01T16:51:06.0000000|2017-03-01T16:51:11.0000000|Google Chrome|ManicTime/Applications
 9041|nodeProyects|2017-03-01T16:51:11.0000000|2017-03-01T16:51:17.0000000|Windows Explorer|ManicTime/Applications
 9042|Downloads|2017-03-01T16:51:17.0000000|2017-03-01T16:52:08.0000000|Windows Explorer|ManicTime/Applications
-9043||2017-03-01T16:51:06.0000000|2017-03-01T17:11:56.0000000||ManicTime/ComputerUsage
+9043||2017-03-01T16:51:06.0000000|2017-03-01T17:27:02.0000000||ManicTime/ComputerUsage
 9044|chrome://downloads/|2017-03-01T16:51:06.0000000|2017-03-01T16:51:11.0000000|downloads|ManicTime/Documents
 9045|proyectoDAWIIparcial|2017-03-01T16:52:08.0000000|2017-03-01T16:52:16.0000000|Windows Explorer|ManicTime/Applications
 9046|images|2017-03-01T16:52:16.0000000|2017-03-01T16:52:46.0000000|Windows Explorer|ManicTime/Applications
@@ -8798,7 +8798,52 @@
 9101|http://localhost:3000/perfil|2017-03-01T17:09:25.0000000|2017-03-01T17:09:31.0000000|localhost|ManicTime/Documents
 9102|http://localhost:3000/|2017-03-01T17:09:31.0000000|2017-03-01T17:09:37.0000000|localhost|ManicTime/Documents
 9103|http://localhost:3000/usuario#!/|2017-03-01T17:09:37.0000000|2017-03-01T17:09:43.0000000|localhost|ManicTime/Documents
-9104|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-03-01T17:10:08.0000000|2017-03-01T17:11:56.0000000|Sublime Text|ManicTime/Applications
-9105|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs|2017-03-01T17:10:08.0000000|2017-03-01T17:11:56.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs|ManicTime/Documents
+9104|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-03-01T17:10:08.0000000|2017-03-01T17:12:21.0000000|Sublime Text|ManicTime/Applications
+9105|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs|2017-03-01T17:10:08.0000000|2017-03-01T17:12:21.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs|ManicTime/Documents
+9106|npm|2017-03-01T17:12:21.0000000|2017-03-01T17:12:26.0000000|Windows PowerShell|ManicTime/Applications
+9107|Nueva pestaña - Google Chrome|2017-03-01T17:12:26.0000000|2017-03-01T17:12:35.0000000|Google Chrome|ManicTime/Applications
+9108|Windows PowerShell|2017-03-01T17:12:35.0000000|2017-03-01T17:12:41.0000000|Windows PowerShell|ManicTime/Applications
+9109|Login form shake effect - Google Chrome|2017-03-01T17:12:41.0000000|2017-03-01T17:12:47.0000000|Google Chrome|ManicTime/Applications
+9110|Login - Google Chrome|2017-03-01T17:12:47.0000000|2017-03-01T17:12:54.0000000|Google Chrome|ManicTime/Applications
+9111|Login form shake effect - Google Chrome|2017-03-01T17:12:54.0000000|2017-03-01T17:12:59.0000000|Google Chrome|ManicTime/Applications
+9112|http://localhost:3000/perfil|2017-03-01T17:12:41.0000000|2017-03-01T17:12:47.0000000|localhost|ManicTime/Documents
+9113|http://localhost:3000/#!/|2017-03-01T17:12:47.0000000|2017-03-01T17:12:54.0000000|localhost|ManicTime/Documents
+9114|http://localhost:3000/usuario#!/|2017-03-01T17:12:54.0000000|2017-03-01T17:12:59.0000000|localhost|ManicTime/Documents
+9115|Login form shake effect - Google Chrome|2017-03-01T17:12:59.0000000|2017-03-01T17:22:12.0000000|Google Chrome|ManicTime/Applications
+9116|http://localhost:3000/perfil|2017-03-01T17:12:59.0000000|2017-03-01T17:22:12.0000000|localhost|ManicTime/Documents
+9117|Nueva pestaña - Google Chrome|2017-03-01T17:22:12.0000000|2017-03-01T17:22:24.0000000|Google Chrome|ManicTime/Applications
+9118|user png - Buscar con Google - Google Chrome|2017-03-01T17:22:24.0000000|2017-03-01T17:22:31.0000000|Google Chrome|ManicTime/Applications
+9119|user png - Buscar con Google - Google Chrome|2017-03-01T17:22:31.0000000|2017-03-01T17:22:59.0000000|Google Chrome|ManicTime/Applications
+9121|https://www.google.com.ec/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=user+png&*|2017-03-01T17:22:24.0000000|2017-03-01T17:22:31.0000000|www.google.com.ec|ManicTime/Documents
+9122|https://www.google.com.ec/search?q=user+png&espv=2&biw=1920&bih=970&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjq0rn5q7bSAhUP7GMKHWHpA3cQ_AUIBigB|2017-03-01T17:22:31.0000000|2017-03-01T17:22:59.0000000|www.google.com.ec|ManicTime/Documents
+9124|User icons - Download 23727 free & premium icons on Iconfinder - Google Chrome|2017-03-01T17:22:59.0000000|2017-03-01T17:23:17.0000000|Google Chrome|ManicTime/Applications
+9125|Avatar, man, person, user icon | Icon search engine - Google Chrome|2017-03-01T17:23:17.0000000|2017-03-01T17:23:29.0000000|Google Chrome|ManicTime/Applications
+9126|User icons - Download 23727 free & premium icons on Iconfinder - Google Chrome|2017-03-01T17:23:29.0000000|2017-03-01T17:23:40.0000000|Google Chrome|ManicTime/Applications
+9127|Array.prototype.includes() - JavaScript | MDN - Google Chrome|2017-03-01T17:23:40.0000000|2017-03-01T17:23:45.0000000|Google Chrome|ManicTime/Applications
+9128|npm|2017-03-01T17:23:45.0000000|2017-03-01T17:23:52.0000000|Windows PowerShell|ManicTime/Applications
+9129|Nueva pestaña - Google Chrome|2017-03-01T17:23:52.0000000|2017-03-01T17:24:00.0000000|Google Chrome|ManicTime/Applications
+9131|https://www.iconfinder.com/search/?q=user|2017-03-01T17:22:59.0000000|2017-03-01T17:23:17.0000000|www.iconfinder.com|ManicTime/Documents
+9132|https://www.iconfinder.com/icons/1335651/avatar_man_person_user_icon#size=128|2017-03-01T17:23:17.0000000|2017-03-01T17:23:29.0000000|www.iconfinder.com|ManicTime/Documents
+9133|https://www.iconfinder.com/search/?q=user|2017-03-01T17:23:29.0000000|2017-03-01T17:23:40.0000000|www.iconfinder.com|ManicTime/Documents
+9134|https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Array/includes|2017-03-01T17:23:40.0000000|2017-03-01T17:23:45.0000000|developer.mozilla.org|ManicTime/Documents
+9136|Bootstrap Panels - Google Chrome|2017-03-01T17:24:00.0000000|2017-03-01T17:24:08.0000000|Google Chrome|ManicTime/Applications
+9137|box bootstrap - Buscar con Google - Google Chrome|2017-03-01T17:24:08.0000000|2017-03-01T17:24:20.0000000|Google Chrome|ManicTime/Applications
+9138|box-model bootstrap - Buscar con Google - Google Chrome|2017-03-01T17:24:20.0000000|2017-03-01T17:24:30.0000000|Google Chrome|ManicTime/Applications
+9139|Introduction · Bootstrap - Google Chrome|2017-03-01T17:24:30.0000000|2017-03-01T17:25:15.0000000|Google Chrome|ManicTime/Applications
+9140|https://www.w3schools.com/bootstrap/bootstrap_panels.asp|2017-03-01T17:24:00.0000000|2017-03-01T17:24:08.0000000|www.w3schools.com|ManicTime/Documents
+9141|https://www.google.com.ec/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=box+bootstrap&*|2017-03-01T17:24:08.0000000|2017-03-01T17:24:20.0000000|www.google.com.ec|ManicTime/Documents
+9142|https://www.google.com.ec/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=box-model+bootstrap&*|2017-03-01T17:24:20.0000000|2017-03-01T17:24:30.0000000|www.google.com.ec|ManicTime/Documents
+9143|https://v4-alpha.getbootstrap.com/getting-started/introduction/|2017-03-01T17:24:30.0000000|2017-03-01T17:25:15.0000000|v4-alpha.getbootstrap.com|ManicTime/Documents
+9144|Nueva pestaña - Google Chrome|2017-03-01T17:25:15.0000000|2017-03-01T17:25:22.0000000|Google Chrome|ManicTime/Applications
+9145|all to the left css - Buscar con Google - Google Chrome|2017-03-01T17:25:22.0000000|2017-03-01T17:25:27.0000000|Google Chrome|ManicTime/Applications
+9146|CSS left property - Google Chrome|2017-03-01T17:25:27.0000000|2017-03-01T17:25:43.0000000|Google Chrome|ManicTime/Applications
+9147|Tryit Editor v3.3 - Google Chrome|2017-03-01T17:25:43.0000000|2017-03-01T17:26:07.0000000|Google Chrome|ManicTime/Applications
+9148|https://www.google.com.ec/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=all+to+the+left+css&*|2017-03-01T17:25:22.0000000|2017-03-01T17:25:27.0000000|www.google.com.ec|ManicTime/Documents
+9149|https://www.w3schools.com/cssref/pr_pos_left.asp|2017-03-01T17:25:27.0000000|2017-03-01T17:25:43.0000000|www.w3schools.com|ManicTime/Documents
+9150|https://www.w3schools.com/cssref/tryit.asp?filename=trycss_position_left|2017-03-01T17:25:43.0000000|2017-03-01T17:26:07.0000000|www.w3schools.com|ManicTime/Documents
+9151|Positioning Content - Learn to Code HTML & CSS - Google Chrome|2017-03-01T17:26:07.0000000|2017-03-01T17:26:18.0000000|Google Chrome|ManicTime/Applications
+9152|Login form shake effect - Google Chrome|2017-03-01T17:26:18.0000000|2017-03-01T17:27:02.0000000|Google Chrome|ManicTime/Applications
+9153|http://learn.shayhowe.com/html-css/positioning-content/|2017-03-01T17:26:07.0000000|2017-03-01T17:26:18.0000000|learn.shayhowe.com|ManicTime/Documents
+9154|http://localhost:3000/perfil|2017-03-01T17:26:18.0000000|2017-03-01T17:27:02.0000000|localhost|ManicTime/Documents
 
-(8802 rows affected)
+(8847 rows affected)
