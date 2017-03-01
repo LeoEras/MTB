@@ -8055,7 +8055,7 @@
 8308||2017-03-01T00:34:47.0000000|2017-03-01T01:26:36.0000000||ManicTime/ComputerUsage
 8309|Windows Activation Client|2017-03-01T01:26:36.0000000|2017-03-01T01:26:45.0000000|Windows Activation Client|ManicTime/Applications
 8310|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-03-01T01:26:45.0000000|2017-03-01T01:27:44.0000000|Sublime Text|ManicTime/Applications
-8311||2017-03-01T01:26:36.0000000|2017-03-01T01:41:56.0000000||ManicTime/ComputerUsage
+8311||2017-03-01T01:26:36.0000000|2017-03-01T01:57:00.0000000||ManicTime/ComputerUsage
 8312|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs|2017-03-01T01:26:45.0000000|2017-03-01T01:27:44.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs|ManicTime/Documents
 8313|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\perfilV.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-03-01T01:27:44.0000000|2017-03-01T01:28:02.0000000|Sublime Text|ManicTime/Applications
 8314|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\perfilV.js|2017-03-01T01:27:44.0000000|2017-03-01T01:28:02.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\perfilV.js|ManicTime/Documents
@@ -8145,9 +8145,29 @@
 8398|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\perfil.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-03-01T01:41:00.0000000|2017-03-01T01:41:34.0000000|Sublime Text|ManicTime/Applications
 8399|npm|2017-03-01T01:41:34.0000000|2017-03-01T01:41:45.0000000|Windows PowerShell|ManicTime/Applications
 8400|localhost:3000/perfil - Google Chrome|2017-03-01T01:41:45.0000000|2017-03-01T01:41:51.0000000|Google Chrome|ManicTime/Applications
-8401|Login - Google Chrome|2017-03-01T01:41:51.0000000|2017-03-01T01:41:56.0000000|Google Chrome|ManicTime/Applications
+8401|Login - Google Chrome|2017-03-01T01:41:51.0000000|2017-03-01T01:42:02.0000000|Google Chrome|ManicTime/Applications
 8402|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\perfil.js|2017-03-01T01:41:00.0000000|2017-03-01T01:41:34.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\perfil.js|ManicTime/Documents
 8403|http://localhost:3000/perfil|2017-03-01T01:41:45.0000000|2017-03-01T01:41:51.0000000|localhost|ManicTime/Documents
-8404|http://localhost:3000/#!/|2017-03-01T01:41:51.0000000|2017-03-01T01:41:56.0000000|localhost|ManicTime/Documents
+8404|http://localhost:3000/#!/|2017-03-01T01:41:51.0000000|2017-03-01T01:42:02.0000000|localhost|ManicTime/Documents
+8405|Login form shake effect - Google Chrome|2017-03-01T01:42:02.0000000|2017-03-01T01:42:07.0000000|Google Chrome|ManicTime/Applications
+8406|Login form shake effect - Google Chrome|2017-03-01T01:42:07.0000000|2017-03-01T01:42:56.0000000|Google Chrome|ManicTime/Applications
+8407|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs (nodeProyects) - Sublime Text (UNREGISTERED)|2017-03-01T01:42:56.0000000|2017-03-01T01:44:25.0000000|Sublime Text|ManicTime/Applications
+8408|http://localhost:3000/usuario#!/|2017-03-01T01:42:02.0000000|2017-03-01T01:42:07.0000000|localhost|ManicTime/Documents
+8409|http://localhost:3000/perfil|2017-03-01T01:42:07.0000000|2017-03-01T01:42:56.0000000|localhost|ManicTime/Documents
+8410|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs|2017-03-01T01:42:56.0000000|2017-03-01T01:44:25.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs|ManicTime/Documents
+8411|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-03-01T01:44:25.0000000|2017-03-01T01:46:18.0000000|Sublime Text|ManicTime/Applications
+8412|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs|2017-03-01T01:44:25.0000000|2017-03-01T01:46:18.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs|ManicTime/Documents
+8413|npm|2017-03-01T01:46:18.0000000|2017-03-01T01:46:34.0000000|Windows PowerShell|ManicTime/Applications
+8414|Windows PowerShell|2017-03-01T01:46:34.0000000|2017-03-01T01:46:48.0000000|Windows PowerShell|ManicTime/Applications
+8415|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs (nodeProyects) - Sublime Text (UNREGISTERED)|2017-03-01T01:46:48.0000000|2017-03-01T01:46:53.0000000|Sublime Text|ManicTime/Applications
+8416|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\perfil.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-03-01T01:46:53.0000000|2017-03-01T01:46:59.0000000|Sublime Text|ManicTime/Applications
+8417|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\perfilV.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-03-01T01:46:59.0000000|2017-03-01T01:47:05.0000000|Sublime Text|ManicTime/Applications
+8418|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs|2017-03-01T01:46:48.0000000|2017-03-01T01:46:53.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs|ManicTime/Documents
+8419|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\perfil.js|2017-03-01T01:46:53.0000000|2017-03-01T01:46:59.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\perfil.js|ManicTime/Documents
+8420|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\perfilV.js|2017-03-01T01:46:59.0000000|2017-03-01T01:47:05.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\perfilV.js|ManicTime/Documents
+8421|esc is not a function nodejs - Buscar con Google - Google Chrome|2017-03-01T01:47:05.0000000|2017-03-01T01:47:10.0000000|Google Chrome|ManicTime/Applications
+8422|mLab: Cloud-hosted MongoDB - Google Chrome|2017-03-01T01:47:10.0000000|2017-03-01T01:57:00.0000000|Google Chrome|ManicTime/Applications
+8423|https://www.google.com.ec/search?q=esc+is+not+a+function&oq=esc+is+not+a+function&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8#q=esc+is+not+a+function+nodejs&*|2017-03-01T01:47:05.0000000|2017-03-01T01:47:10.0000000|www.google.com.ec|ManicTime/Documents
+8424|https://mlab.com/databases/proyecto_daw/collections/ejercicioestudiantes|2017-03-01T01:47:10.0000000|2017-03-01T01:57:00.0000000|mlab.com|ManicTime/Documents
 
-(8151 rows affected)
+(8171 rows affected)
