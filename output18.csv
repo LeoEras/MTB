@@ -8522,7 +8522,7 @@
 8817|Program Manager|2017-03-01T04:07:11.0000000|2017-03-01T04:07:12.0000000|Windows Explorer|ManicTime/Applications
 8818|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\models\ejercicioEstudiante.js|2017-03-01T04:06:48.0000000|2017-03-01T04:07:05.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\models\ejercicioEstudiante.js|ManicTime/Documents
 8819|Program Manager|2017-03-01T14:05:26.0000000|2017-03-01T14:10:48.0000000|Windows Explorer|ManicTime/Applications
-8820||2017-03-01T14:05:26.0000000|2017-03-01T14:26:23.0000000||ManicTime/ComputerUsage
+8820||2017-03-01T14:05:26.0000000|2017-03-01T14:30:05.0000000||ManicTime/ComputerUsage
 8821|Escuela Superior Politécnica del Litoral - Google Chrome|2017-03-01T14:10:48.0000000|2017-03-01T14:12:20.0000000|Google Chrome|ManicTime/Applications
 8822|http://file///C:/Users/Estudiante/Desktop/FORMS/form.html|2017-03-01T14:10:48.0000000|2017-03-01T14:12:20.0000000|file|ManicTime/Documents
 8823|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\models\ejercicioEstudiante.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-03-01T14:12:20.0000000|2017-03-01T14:12:29.0000000|Sublime Text|ManicTime/Applications
@@ -8581,8 +8581,25 @@
 8876|Windows PowerShell|2017-03-01T14:25:47.0000000|2017-03-01T14:26:02.0000000|Windows PowerShell|ManicTime/Applications
 8877|Login form shake effect - Google Chrome|2017-03-01T14:26:02.0000000|2017-03-01T14:26:07.0000000|Google Chrome|ManicTime/Applications
 8878|Login - Google Chrome|2017-03-01T14:26:07.0000000|2017-03-01T14:26:13.0000000|Google Chrome|ManicTime/Applications
-8879|npm|2017-03-01T14:26:13.0000000|2017-03-01T14:26:23.0000000|Windows PowerShell|ManicTime/Applications
+8879|npm|2017-03-01T14:26:13.0000000|2017-03-01T14:26:26.0000000|Windows PowerShell|ManicTime/Applications
 8880|http://localhost:3000/perfil|2017-03-01T14:26:02.0000000|2017-03-01T14:26:07.0000000|localhost|ManicTime/Documents
 8881|http://localhost:3000/#!/|2017-03-01T14:26:07.0000000|2017-03-01T14:26:13.0000000|localhost|ManicTime/Documents
+8882|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\perfil.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-03-01T14:26:26.0000000|2017-03-01T14:26:31.0000000|Sublime Text|ManicTime/Applications
+8883|Windows PowerShell|2017-03-01T14:26:31.0000000|2017-03-01T14:26:36.0000000|Windows PowerShell|ManicTime/Applications
+8884|Login - Google Chrome|2017-03-01T14:26:36.0000000|2017-03-01T14:26:47.0000000|Google Chrome|ManicTime/Applications
+8885|Login form shake effect - Google Chrome|2017-03-01T14:26:47.0000000|2017-03-01T14:26:52.0000000|Google Chrome|ManicTime/Applications
+8886|npm|2017-03-01T14:26:52.0000000|2017-03-01T14:27:48.0000000|Windows PowerShell|ManicTime/Applications
+8887|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\perfil.js|2017-03-01T14:26:26.0000000|2017-03-01T14:26:31.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\perfil.js|ManicTime/Documents
+8888|http://localhost:3000/#!/|2017-03-01T14:26:36.0000000|2017-03-01T14:26:47.0000000|localhost|ManicTime/Documents
+8889|http://localhost:3000/usuario|2017-03-01T14:26:47.0000000|2017-03-01T14:26:52.0000000|localhost|ManicTime/Documents
+8890|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\perfil.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-03-01T14:27:48.0000000|2017-03-01T14:28:11.0000000|Sublime Text|ManicTime/Applications
+8891|npm|2017-03-01T14:28:11.0000000|2017-03-01T14:28:16.0000000|Windows PowerShell|ManicTime/Applications
+8892|Login - Google Chrome|2017-03-01T14:28:16.0000000|2017-03-01T14:28:26.0000000|Google Chrome|ManicTime/Applications
+8893|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\perfil.js|2017-03-01T14:27:48.0000000|2017-03-01T14:28:11.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\perfil.js|ManicTime/Documents
+8894|http://localhost:3000/#!/|2017-03-01T14:28:16.0000000|2017-03-01T14:28:26.0000000|localhost|ManicTime/Documents
+8895|npm|2017-03-01T14:28:26.0000000|2017-03-01T14:28:39.0000000|Windows PowerShell|ManicTime/Applications
+8896|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\perfil.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-03-01T14:28:39.0000000|2017-03-01T14:30:02.0000000|Sublime Text|ManicTime/Applications
+8897|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\perfil.js|2017-03-01T14:28:39.0000000|2017-03-01T14:30:02.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\perfil.js|ManicTime/Documents
+8900||2017-03-01T14:30:05.0000000|2017-03-01T14:41:23.0000000||ManicTime/ComputerUsage
 
-(8586 rows affected)
+(8603 rows affected)
