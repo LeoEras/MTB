@@ -8281,7 +8281,7 @@
 8572|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\perfil.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-03-01T03:09:14.0000000|2017-03-01T03:09:20.0000000|Sublime Text|ManicTime/Applications
 8573|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs (nodeProyects) - Sublime Text (UNREGISTERED)|2017-03-01T03:09:20.0000000|2017-03-01T03:09:26.0000000|Sublime Text|ManicTime/Applications
 8574|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-03-01T03:09:26.0000000|2017-03-01T03:09:43.0000000|Sublime Text|ManicTime/Applications
-8575||2017-03-01T03:09:04.0000000|2017-03-01T03:26:40.0000000||ManicTime/ComputerUsage
+8575||2017-03-01T03:09:04.0000000|2017-03-01T03:41:34.0000000||ManicTime/ComputerUsage
 8576|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\perfil.js|2017-03-01T03:09:14.0000000|2017-03-01T03:09:20.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\perfil.js|ManicTime/Documents
 8577|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs|2017-03-01T03:09:20.0000000|2017-03-01T03:09:26.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs|ManicTime/Documents
 8578|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs|2017-03-01T03:09:26.0000000|2017-03-01T03:09:43.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs|ManicTime/Documents
@@ -8343,13 +8343,78 @@
 8634|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-03-01T03:26:22.0000000|2017-03-01T03:26:28.0000000|Sublime Text|ManicTime/Applications
 8635|npm|2017-03-01T03:26:28.0000000|2017-03-01T03:26:34.0000000|Windows PowerShell|ManicTime/Applications
 8636|localhost:3000/perfil - Google Chrome|2017-03-01T03:26:34.0000000|2017-03-01T03:26:39.0000000|Google Chrome|ManicTime/Applications
-8637|localhost:3000 - Google Chrome|2017-03-01T03:26:39.0000000|2017-03-01T03:26:40.0000000|Google Chrome|ManicTime/Applications
 8638|http://localhost:3000/|2017-03-01T03:25:41.0000000|2017-03-01T03:25:50.0000000|localhost|ManicTime/Documents
 8639|http://localhost:3000/|2017-03-01T03:25:50.0000000|2017-03-01T03:25:56.0000000|localhost|ManicTime/Documents
 8640|http://localhost:3000/perfil|2017-03-01T03:25:56.0000000|2017-03-01T03:26:13.0000000|localhost|ManicTime/Documents
 8641|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs|2017-03-01T03:26:13.0000000|2017-03-01T03:26:22.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs|ManicTime/Documents
 8642|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs|2017-03-01T03:26:22.0000000|2017-03-01T03:26:28.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs|ManicTime/Documents
 8643|http://localhost:3000/perfil|2017-03-01T03:26:34.0000000|2017-03-01T03:26:39.0000000|localhost|ManicTime/Documents
-8644|http://localhost:3000/|2017-03-01T03:26:39.0000000|2017-03-01T03:26:40.0000000|localhost|ManicTime/Documents
+8645|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-03-01T03:26:39.0000000|2017-03-01T03:26:45.0000000|Sublime Text|ManicTime/Applications
+8646|npm|2017-03-01T03:26:45.0000000|2017-03-01T03:26:50.0000000|Windows PowerShell|ManicTime/Applications
+8647|Login - Google Chrome|2017-03-01T03:26:50.0000000|2017-03-01T03:26:56.0000000|Google Chrome|ManicTime/Applications
+8648|localhost:3000/perfil - Google Chrome|2017-03-01T03:26:56.0000000|2017-03-01T03:27:27.0000000|Google Chrome|ManicTime/Applications
+8649|SyntaxError: Unexpected token else. what is wrong with my code? | Codecademy - Google Chrome|2017-03-01T03:27:27.0000000|2017-03-01T03:27:47.0000000|Google Chrome|ManicTime/Applications
+8650|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs|2017-03-01T03:26:39.0000000|2017-03-01T03:26:45.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs|ManicTime/Documents
+8651|http://localhost:3000/#!/|2017-03-01T03:26:50.0000000|2017-03-01T03:26:56.0000000|localhost|ManicTime/Documents
+8652|http://localhost:3000/perfil|2017-03-01T03:26:56.0000000|2017-03-01T03:27:27.0000000|localhost|ManicTime/Documents
+8653|https://www.codecademy.com/es/forum_questions/50a99ce34d854f7d1b001532|2017-03-01T03:27:27.0000000|2017-03-01T03:27:47.0000000|www.codecademy.com|ManicTime/Documents
+8654|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-03-01T03:27:47.0000000|2017-03-01T03:30:41.0000000|Sublime Text|ManicTime/Applications
+8655|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs|2017-03-01T03:27:47.0000000|2017-03-01T03:30:41.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs|ManicTime/Documents
+8656|npm|2017-03-01T03:30:41.0000000|2017-03-01T03:30:52.0000000|Windows PowerShell|ManicTime/Applications
+8657|localhost:3000/perfil - Google Chrome|2017-03-01T03:30:52.0000000|2017-03-01T03:30:58.0000000|Google Chrome|ManicTime/Applications
+8658|Login - Google Chrome|2017-03-01T03:30:58.0000000|2017-03-01T03:31:04.0000000|Google Chrome|ManicTime/Applications
+8659|Login - Google Chrome|2017-03-01T03:31:04.0000000|2017-03-01T03:31:09.0000000|Google Chrome|ManicTime/Applications
+8660|localhost:3000/perfil - Google Chrome|2017-03-01T03:31:09.0000000|2017-03-01T03:31:25.0000000|Google Chrome|ManicTime/Applications
+8661|RyanZim/EJS-Lint: Linter/Syntax Checker for EJS Templates. - Google Chrome|2017-03-01T03:31:25.0000000|2017-03-01T03:33:36.0000000|Google Chrome|ManicTime/Applications
+8662|http://localhost:3000/perfil|2017-03-01T03:30:52.0000000|2017-03-01T03:30:58.0000000|localhost|ManicTime/Documents
+8663|http://localhost:3000/|2017-03-01T03:30:58.0000000|2017-03-01T03:31:04.0000000|localhost|ManicTime/Documents
+8664|http://localhost:3000/#!/|2017-03-01T03:31:04.0000000|2017-03-01T03:31:09.0000000|localhost|ManicTime/Documents
+8665|http://localhost:3000/perfil|2017-03-01T03:31:09.0000000|2017-03-01T03:31:25.0000000|localhost|ManicTime/Documents
+8666|https://github.com/RyanZim/EJS-Lint|2017-03-01T03:31:25.0000000|2017-03-01T03:33:36.0000000|github.com|ManicTime/Documents
+8668|Windows PowerShell|2017-03-01T03:33:36.0000000|2017-03-01T03:34:00.0000000|Windows PowerShell|ManicTime/Applications
+8669|npm|2017-03-01T03:34:00.0000000|2017-03-01T03:34:11.0000000|Windows PowerShell|ManicTime/Applications
+8670|Windows PowerShell|2017-03-01T03:34:11.0000000|2017-03-01T03:34:27.0000000|Windows PowerShell|ManicTime/Applications
+8671|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs (nodeProyects) - Sublime Text (UNREGISTERED)|2017-03-01T03:34:27.0000000|2017-03-01T03:34:33.0000000|Sublime Text|ManicTime/Applications
+8672|RyanZim/EJS-Lint: Linter/Syntax Checker for EJS Templates. - Google Chrome|2017-03-01T03:34:33.0000000|2017-03-01T03:34:40.0000000|Google Chrome|ManicTime/Applications
+8673|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs|2017-03-01T03:34:27.0000000|2017-03-01T03:34:33.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs|ManicTime/Documents
+8674|https://github.com/RyanZim/EJS-Lint|2017-03-01T03:34:33.0000000|2017-03-01T03:34:40.0000000|github.com|ManicTime/Documents
+8675|Login - Google Chrome|2017-03-01T03:34:40.0000000|2017-03-01T03:34:51.0000000|Google Chrome|ManicTime/Applications
+8676|localhost:3000/perfil - Google Chrome|2017-03-01T03:34:51.0000000|2017-03-01T03:35:29.0000000|Google Chrome|ManicTime/Applications
+8677|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs (nodeProyects) - Sublime Text (UNREGISTERED)|2017-03-01T03:35:29.0000000|2017-03-01T03:35:35.0000000|Sublime Text|ManicTime/Applications
+8679|http://localhost:3000/#!/|2017-03-01T03:34:40.0000000|2017-03-01T03:34:51.0000000|localhost|ManicTime/Documents
+8680|http://localhost:3000/perfil|2017-03-01T03:34:51.0000000|2017-03-01T03:35:29.0000000|localhost|ManicTime/Documents
+8681|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs|2017-03-01T03:35:29.0000000|2017-03-01T03:35:35.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs|ManicTime/Documents
+8682|localhost:3000/perfil - Google Chrome|2017-03-01T03:35:35.0000000|2017-03-01T03:35:46.0000000|Google Chrome|ManicTime/Applications
+8683|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\perfil.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-03-01T03:35:46.0000000|2017-03-01T03:35:52.0000000|Sublime Text|ManicTime/Applications
+8684|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs (nodeProyects) - Sublime Text (UNREGISTERED)|2017-03-01T03:35:52.0000000|2017-03-01T03:35:59.0000000|Sublime Text|ManicTime/Applications
+8685|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-03-01T03:35:59.0000000|2017-03-01T03:36:05.0000000|Sublime Text|ManicTime/Applications
+8686|Untitled - Notepad|2017-03-01T03:36:05.0000000|2017-03-01T03:36:10.0000000|Notepad|ManicTime/Applications
+8687|npm|2017-03-01T03:36:10.0000000|2017-03-01T03:36:19.0000000|Windows PowerShell|ManicTime/Applications
+8688|Login - Google Chrome|2017-03-01T03:36:19.0000000|2017-03-01T03:36:28.0000000|Google Chrome|ManicTime/Applications
+8689|Login form shake effect - Google Chrome|2017-03-01T03:36:28.0000000|2017-03-01T03:36:41.0000000|Google Chrome|ManicTime/Applications
+8690|http://localhost:3000/perfil|2017-03-01T03:35:35.0000000|2017-03-01T03:35:46.0000000|localhost|ManicTime/Documents
+8691|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\perfil.js|2017-03-01T03:35:46.0000000|2017-03-01T03:35:52.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\perfil.js|ManicTime/Documents
+8692|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs|2017-03-01T03:35:52.0000000|2017-03-01T03:35:59.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs|ManicTime/Documents
+8693|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs|2017-03-01T03:35:59.0000000|2017-03-01T03:36:05.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs|ManicTime/Documents
+8694|Untitled|2017-03-01T03:36:05.0000000|2017-03-01T03:36:10.0000000|Untitled|ManicTime/Documents
+8695|http://localhost:3000/#!/|2017-03-01T03:36:19.0000000|2017-03-01T03:36:28.0000000|localhost|ManicTime/Documents
+8696|http://localhost:3000/perfil|2017-03-01T03:36:28.0000000|2017-03-01T03:36:41.0000000|localhost|ManicTime/Documents
+8697|Login - Google Chrome|2017-03-01T03:36:41.0000000|2017-03-01T03:36:47.0000000|Google Chrome|ManicTime/Applications
+8698|Login form shake effect - Google Chrome|2017-03-01T03:36:47.0000000|2017-03-01T03:36:56.0000000|Google Chrome|ManicTime/Applications
+8699|Login - Google Chrome|2017-03-01T03:36:56.0000000|2017-03-01T03:37:04.0000000|Google Chrome|ManicTime/Applications
+8700|localhost:3000/perfil - Google Chrome|2017-03-01T03:37:04.0000000|2017-03-01T03:37:14.0000000|Google Chrome|ManicTime/Applications
+8701|Nueva pestaña - Google Chrome|2017-03-01T03:37:14.0000000|2017-03-01T03:38:12.0000000|Google Chrome|ManicTime/Applications
+8702|http://localhost:3000/#!/|2017-03-01T03:36:41.0000000|2017-03-01T03:36:47.0000000|localhost|ManicTime/Documents
+8703|http://localhost:3000/perfil|2017-03-01T03:36:47.0000000|2017-03-01T03:36:56.0000000|localhost|ManicTime/Documents
+8704|http://localhost:3000/#!/|2017-03-01T03:36:56.0000000|2017-03-01T03:37:04.0000000|localhost|ManicTime/Documents
+8705|http://localhost:3000/perfil|2017-03-01T03:37:04.0000000|2017-03-01T03:37:14.0000000|localhost|ManicTime/Documents
+8706|npm|2017-03-01T03:38:12.0000000|2017-03-01T03:38:20.0000000|Windows PowerShell|ManicTime/Applications
+8707|mLab: Cloud-hosted MongoDB - Google Chrome|2017-03-01T03:38:20.0000000|2017-03-01T03:38:26.0000000|Google Chrome|ManicTime/Applications
+8708|mLab: Cloud-hosted MongoDB - Google Chrome|2017-03-01T03:38:26.0000000|2017-03-01T03:38:33.0000000|Google Chrome|ManicTime/Applications
+8709|mLab: Cloud-hosted MongoDB - Google Chrome|2017-03-01T03:38:33.0000000|2017-03-01T03:39:35.0000000|Google Chrome|ManicTime/Applications
+8710|https://mlab.com/databases/proyecto_daw/collections/usuarios|2017-03-01T03:38:20.0000000|2017-03-01T03:38:26.0000000|mlab.com|ManicTime/Documents
+8711|https://mlab.com/databases/proyecto_daw|2017-03-01T03:38:26.0000000|2017-03-01T03:38:33.0000000|mlab.com|ManicTime/Documents
+8712|https://mlab.com/databases/proyecto_daw/collections/badgesestudiantes|2017-03-01T03:38:33.0000000|2017-03-01T03:39:35.0000000|mlab.com|ManicTime/Documents
+8713|Select npm|2017-03-01T03:39:35.0000000|2017-03-01T03:41:34.0000000|Windows PowerShell|ManicTime/Applications
 
-(8353 rows affected)
+(8418 rows affected)
