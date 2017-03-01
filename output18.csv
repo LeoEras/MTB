@@ -8737,7 +8737,7 @@
 9040|Descargas - Google Chrome|2017-03-01T16:51:06.0000000|2017-03-01T16:51:11.0000000|Google Chrome|ManicTime/Applications
 9041|nodeProyects|2017-03-01T16:51:11.0000000|2017-03-01T16:51:17.0000000|Windows Explorer|ManicTime/Applications
 9042|Downloads|2017-03-01T16:51:17.0000000|2017-03-01T16:52:08.0000000|Windows Explorer|ManicTime/Applications
-9043||2017-03-01T16:51:06.0000000|2017-03-01T17:27:02.0000000||ManicTime/ComputerUsage
+9043||2017-03-01T16:51:06.0000000|2017-03-01T17:42:08.0000000||ManicTime/ComputerUsage
 9044|chrome://downloads/|2017-03-01T16:51:06.0000000|2017-03-01T16:51:11.0000000|downloads|ManicTime/Documents
 9045|proyectoDAWIIparcial|2017-03-01T16:52:08.0000000|2017-03-01T16:52:16.0000000|Windows Explorer|ManicTime/Applications
 9046|images|2017-03-01T16:52:16.0000000|2017-03-01T16:52:46.0000000|Windows Explorer|ManicTime/Applications
@@ -8842,8 +8842,75 @@
 9149|https://www.w3schools.com/cssref/pr_pos_left.asp|2017-03-01T17:25:27.0000000|2017-03-01T17:25:43.0000000|www.w3schools.com|ManicTime/Documents
 9150|https://www.w3schools.com/cssref/tryit.asp?filename=trycss_position_left|2017-03-01T17:25:43.0000000|2017-03-01T17:26:07.0000000|www.w3schools.com|ManicTime/Documents
 9151|Positioning Content - Learn to Code HTML & CSS - Google Chrome|2017-03-01T17:26:07.0000000|2017-03-01T17:26:18.0000000|Google Chrome|ManicTime/Applications
-9152|Login form shake effect - Google Chrome|2017-03-01T17:26:18.0000000|2017-03-01T17:27:02.0000000|Google Chrome|ManicTime/Applications
+9152|Login form shake effect - Google Chrome|2017-03-01T17:26:18.0000000|2017-03-01T17:28:14.0000000|Google Chrome|ManicTime/Applications
 9153|http://learn.shayhowe.com/html-css/positioning-content/|2017-03-01T17:26:07.0000000|2017-03-01T17:26:18.0000000|learn.shayhowe.com|ManicTime/Documents
-9154|http://localhost:3000/perfil|2017-03-01T17:26:18.0000000|2017-03-01T17:27:02.0000000|localhost|ManicTime/Documents
+9154|http://localhost:3000/perfil|2017-03-01T17:26:18.0000000|2017-03-01T17:28:14.0000000|localhost|ManicTime/Documents
+9155|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs (nodeProyects) - Sublime Text (UNREGISTERED)|2017-03-01T17:28:14.0000000|2017-03-01T17:28:19.0000000|Sublime Text|ManicTime/Applications
+9156|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-03-01T17:28:19.0000000|2017-03-01T17:30:16.0000000|Sublime Text|ManicTime/Applications
+9157|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs|2017-03-01T17:28:14.0000000|2017-03-01T17:28:19.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs|ManicTime/Documents
+9158|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs|2017-03-01T17:28:19.0000000|2017-03-01T17:30:16.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs|ManicTime/Documents
+9159|User icons - Download 23727 free & premium icons on Iconfinder - Google Chrome|2017-03-01T17:30:16.0000000|2017-03-01T17:30:21.0000000|Google Chrome|ManicTime/Applications
+9160|JavaScript String toLowerCase() Method - Google Chrome|2017-03-01T17:30:21.0000000|2017-03-01T17:30:27.0000000|Google Chrome|ManicTime/Applications
+9161|user icons - Buscar con Google - Google Chrome|2017-03-01T17:30:27.0000000|2017-03-01T17:30:46.0000000|Google Chrome|ManicTime/Applications
+9162|User Set 200 free icons (SVG, EPS, PSD, PNG files) - Google Chrome|2017-03-01T17:30:46.0000000|2017-03-01T17:30:59.0000000|Google Chrome|ManicTime/Applications
+9163|user icons - Buscar con Google - Google Chrome|2017-03-01T17:30:59.0000000|2017-03-01T17:31:05.0000000|Google Chrome|ManicTime/Applications
+9164|https://www.iconfinder.com/search/?q=user|2017-03-01T17:30:16.0000000|2017-03-01T17:30:21.0000000|www.iconfinder.com|ManicTime/Documents
+9165|https://www.w3schools.com/jsref/jsref_tolowercase.asp|2017-03-01T17:30:21.0000000|2017-03-01T17:30:27.0000000|www.w3schools.com|ManicTime/Documents
+9166|https://www.google.com.ec/search?q=user+icons&oq=user+icons&aqs=chrome..69i57j0l5.3735j0j4&sourceid=chrome&ie=UTF-8|2017-03-01T17:30:27.0000000|2017-03-01T17:30:46.0000000|www.google.com.ec|ManicTime/Documents
+9167|http://www.flaticon.com/packs/user-set|2017-03-01T17:30:46.0000000|2017-03-01T17:30:59.0000000|www.flaticon.com|ManicTime/Documents
+9168|https://www.google.com.ec/search?q=user+icons&oq=user+icons&aqs=chrome..69i57j0l5.3735j0j4&sourceid=chrome&ie=UTF-8|2017-03-01T17:30:59.0000000|2017-03-01T17:31:05.0000000|www.google.com.ec|ManicTime/Documents
+9169|user icons - Buscar con Google - Google Chrome|2017-03-01T17:31:05.0000000|2017-03-01T17:32:01.0000000|Google Chrome|ManicTime/Applications
+9170|user icons - Buscar con Google - Google Chrome|2017-03-01T17:32:01.0000000|2017-03-01T17:32:07.0000000|Google Chrome|ManicTime/Applications
+9171|https://www.google.com.ec/search?q=user+icons&source=lnms&tbm=isch&sa=X&ved=0ahUKEwicqLPgrbbSAhUN6GMKHY5JCKYQ_AUICCgB&biw=1920&bih=970|2017-03-01T17:31:05.0000000|2017-03-01T17:32:01.0000000|www.google.com.ec|ManicTime/Documents
+9172|https://www.google.com.ec/search?q=user+icons&source=lnms&tbm=isch&sa=X&ved=0ahUKEwicqLPgrbbSAhUN6GMKHY5JCKYQ_AUICCgB&biw=1920&bih=970#imgrc=_|2017-03-01T17:32:01.0000000|2017-03-01T17:32:07.0000000|www.google.com.ec|ManicTime/Documents
+9173|user icons - Buscar con Google - Google Chrome|2017-03-01T17:32:07.0000000|2017-03-01T17:32:12.0000000|Google Chrome|ManicTime/Applications
+9174|User Set 200 free icons (SVG, EPS, PSD, PNG files) - Google Chrome|2017-03-01T17:32:12.0000000|2017-03-01T17:32:22.0000000|Google Chrome|ManicTime/Applications
+9175|User Icons - Download 1747 Free User icons here - Google Chrome|2017-03-01T17:32:22.0000000|2017-03-01T17:32:27.0000000|Google Chrome|ManicTime/Applications
+9176|user icons - Buscar con Google - Google Chrome|2017-03-01T17:32:27.0000000|2017-03-01T17:32:39.0000000|Google Chrome|ManicTime/Applications
+9177|userpng - Buscar con Google - Google Chrome|2017-03-01T17:32:39.0000000|2017-03-01T17:32:46.0000000|Google Chrome|ManicTime/Applications
+9178|user png - Buscar con Google - Google Chrome|2017-03-01T17:32:46.0000000|2017-03-01T17:32:53.0000000|Google Chrome|ManicTime/Applications
+9179|User Set 200 free icons (SVG, EPS, PSD, PNG files) - Google Chrome|2017-03-01T17:32:53.0000000|2017-03-01T17:32:58.0000000|Google Chrome|ManicTime/Applications
+9180|User Set 200 free icons (SVG, EPS, PSD, PNG files) - Google Chrome|2017-03-01T17:32:58.0000000|2017-03-01T17:33:04.0000000|Google Chrome|ManicTime/Applications
+9182|https://www.google.com.ec/search?q=user+icons&source=lnms&tbm=isch&sa=X&ved=0ahUKEwicqLPgrbbSAhUN6GMKHY5JCKYQ_AUICCgB&biw=1920&bih=970#imgrc=IJCMI0GqVri6oM:|2017-03-01T17:32:07.0000000|2017-03-01T17:32:12.0000000|www.google.com.ec|ManicTime/Documents
+9183|http://www.flaticon.com/packs/user-set|2017-03-01T17:32:12.0000000|2017-03-01T17:32:22.0000000|www.flaticon.com|ManicTime/Documents
+9184|http://www.iconarchive.com/tag/user|2017-03-01T17:32:22.0000000|2017-03-01T17:32:27.0000000|www.iconarchive.com|ManicTime/Documents
+9185|https://www.google.com.ec/search?q=user+icons&oq=user+icons&aqs=chrome..69i57j0l5.3735j0j4&sourceid=chrome&ie=UTF-8|2017-03-01T17:32:27.0000000|2017-03-01T17:32:39.0000000|www.google.com.ec|ManicTime/Documents
+9186|https://www.google.com.ec/search?q=user+icons&oq=user+icons&aqs=chrome..69i57j0l5.3735j0j4&sourceid=chrome&ie=UTF-8#q=userpng&*|2017-03-01T17:32:39.0000000|2017-03-01T17:32:46.0000000|www.google.com.ec|ManicTime/Documents
+9187|https://www.google.com.ec/search?q=user+icons&oq=user+icons&aqs=chrome..69i57j0l5.3735j0j4&sourceid=chrome&ie=UTF-8#q=user+png&*|2017-03-01T17:32:46.0000000|2017-03-01T17:32:53.0000000|www.google.com.ec|ManicTime/Documents
+9188|http://www.flaticon.com/packs/user-set|2017-03-01T17:32:53.0000000|2017-03-01T17:32:58.0000000|www.flaticon.com|ManicTime/Documents
+9189|http://www.flaticon.com/packs/user-set/2|2017-03-01T17:32:58.0000000|2017-03-01T17:33:04.0000000|www.flaticon.com|ManicTime/Documents
+9191|user PNG、ICO、ICNS Icons search and download_easyicon.net - Google Chrome|2017-03-01T17:33:04.0000000|2017-03-01T17:33:17.0000000|Google Chrome|ManicTime/Applications
+9192|user png - Buscar con Google - Google Chrome|2017-03-01T17:33:17.0000000|2017-03-01T17:33:30.0000000|Google Chrome|ManicTime/Applications
+9193|user logo png - Buscar con Google - Google Chrome|2017-03-01T17:33:30.0000000|2017-03-01T17:33:38.0000000|Google Chrome|ManicTime/Applications
+9194|user logo png - Buscar con Google - Google Chrome|2017-03-01T17:33:38.0000000|2017-03-01T17:33:54.0000000|Google Chrome|ManicTime/Applications
+9195|User Icon PNG # | PNGLogocom - Photo, Image, Picture - Google Chrome|2017-03-01T17:33:54.0000000|2017-03-01T17:34:06.0000000|Google Chrome|ManicTime/Applications
+9197|https://www.easyicon.net/language.en/iconsearch/user/|2017-03-01T17:33:04.0000000|2017-03-01T17:33:17.0000000|www.easyicon.net|ManicTime/Documents
+9198|https://www.google.com.ec/search?q=user+icons&oq=user+icons&aqs=chrome..69i57j0l5.3735j0j4&sourceid=chrome&ie=UTF-8#q=user+png&*|2017-03-01T17:33:17.0000000|2017-03-01T17:33:30.0000000|www.google.com.ec|ManicTime/Documents
+9199|https://www.google.com.ec/search?q=user+png&biw=1920&bih=970&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiyjuahrrbSAhVJ5WMKHRNwDwMQ_AUIBigB#tbm=isch&q=user+logo+png&*|2017-03-01T17:33:30.0000000|2017-03-01T17:33:38.0000000|www.google.com.ec|ManicTime/Documents
+9200|https://www.google.com.ec/search?q=user+png&biw=1920&bih=970&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiyjuahrrbSAhVJ5WMKHRNwDwMQ_AUIBigB#tbm=isch&q=user+logo+png&*&imgrc=5Nqg96_BQK6qQM:|2017-03-01T17:33:38.0000000|2017-03-01T17:33:54.0000000|www.google.com.ec|ManicTime/Documents
+9201|http://ww.itimes.com/photo/user-icon-png-pnglogocom|2017-03-01T17:33:54.0000000|2017-03-01T17:34:06.0000000|ww.itimes.com|ManicTime/Documents
+9203|Badges and votes 32 free icons (SVG, EPS, PSD, PNG files) - Google Chrome|2017-03-01T17:34:06.0000000|2017-03-01T17:34:11.0000000|Google Chrome|ManicTime/Applications
+9204|user logo png - Buscar con Google - Google Chrome|2017-03-01T17:34:11.0000000|2017-03-01T17:34:26.0000000|Google Chrome|ManicTime/Applications
+9205|Save As|2017-03-01T17:34:26.0000000|2017-03-01T17:34:59.0000000|Google Chrome|ManicTime/Applications
+9206|user-icon.png - Windows Photo Viewer|2017-03-01T17:34:59.0000000|2017-03-01T17:35:08.0000000|COM Surrogate|ManicTime/Applications
+9207|http://www.flaticon.com/packs/badges-and-votes|2017-03-01T17:34:06.0000000|2017-03-01T17:34:11.0000000|www.flaticon.com|ManicTime/Documents
+9208|https://www.google.com.ec/search?q=user+png&biw=1920&bih=970&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiyjuahrrbSAhVJ5WMKHRNwDwMQ_AUIBigB#tbm=isch&q=user+logo+png&*&imgrc=5Nqg96_BQK6qQM:|2017-03-01T17:34:11.0000000|2017-03-01T17:34:26.0000000|www.google.com.ec|ManicTime/Documents
+9209|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-03-01T17:35:08.0000000|2017-03-01T17:35:17.0000000|Sublime Text|ManicTime/Applications
+9210|badges|2017-03-01T17:35:17.0000000|2017-03-01T17:35:22.0000000|Windows Explorer|ManicTime/Applications
+9211|images|2017-03-01T17:35:22.0000000|2017-03-01T17:35:32.0000000|Windows Explorer|ManicTime/Applications
+9212|Downloads|2017-03-01T17:35:32.0000000|2017-03-01T17:35:54.0000000|Windows Explorer|ManicTime/Applications
+9213|proyectoDAWIIparcial|2017-03-01T17:35:54.0000000|2017-03-01T17:35:59.0000000|Windows Explorer|ManicTime/Applications
+9214|images|2017-03-01T17:35:59.0000000|2017-03-01T17:36:20.0000000|Windows Explorer|ManicTime/Applications
+9215|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs|2017-03-01T17:35:08.0000000|2017-03-01T17:35:17.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs|ManicTime/Documents
+9216|user-icon.png Properties|2017-03-01T17:36:20.0000000|2017-03-01T17:36:25.0000000|Windows Explorer|ManicTime/Applications
+9217|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-03-01T17:36:25.0000000|2017-03-01T17:36:40.0000000|Sublime Text|ManicTime/Applications
+9218|Windows PowerShell|2017-03-01T17:36:40.0000000|2017-03-01T17:36:45.0000000|Windows PowerShell|ManicTime/Applications
+9219|Login form shake effect - Google Chrome|2017-03-01T17:36:45.0000000|2017-03-01T17:36:52.0000000|Google Chrome|ManicTime/Applications
+9220|Login form shake effect - Google Chrome|2017-03-01T17:36:52.0000000|2017-03-01T17:37:02.0000000|Google Chrome|ManicTime/Applications
+9221|Login form shake effect - Google Chrome|2017-03-01T17:37:02.0000000|2017-03-01T17:42:08.0000000|Google Chrome|ManicTime/Applications
+9222|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs|2017-03-01T17:36:25.0000000|2017-03-01T17:36:40.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs|ManicTime/Documents
+9223|http://localhost:3000/perfil|2017-03-01T17:36:45.0000000|2017-03-01T17:36:52.0000000|localhost|ManicTime/Documents
+9224|http://localhost:3000/usuario#!/|2017-03-01T17:36:52.0000000|2017-03-01T17:37:02.0000000|localhost|ManicTime/Documents
+9225|http://localhost:3000/perfil|2017-03-01T17:37:02.0000000|2017-03-01T17:42:08.0000000|localhost|ManicTime/Documents
 
-(8847 rows affected)
+(8914 rows affected)
