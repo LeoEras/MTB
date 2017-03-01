@@ -1,1 +1,1 @@
-false,true,false,false,,teminar usuarios,,
+false,true,false,false,,terminar perfil,,
