@@ -8607,7 +8607,7 @@
 8904|Nueva pestaña - Google Chrome|2017-03-01T14:58:30.0000000|2017-03-01T14:58:35.0000000|Google Chrome|ManicTime/Applications
 8905||2017-03-01T14:58:35.0000000|2017-03-01T15:15:19.0000000||ManicTime/ComputerUsage
 8906|Nueva pestaña - Google Chrome|2017-03-01T15:15:19.0000000|2017-03-01T15:16:35.0000000|Google Chrome|ManicTime/Applications
-8907||2017-03-01T15:15:19.0000000|2017-03-01T15:27:09.0000000||ManicTime/ComputerUsage
+8907||2017-03-01T15:15:19.0000000|2017-03-01T15:22:22.0000000||ManicTime/ComputerUsage
 8908|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\perfil.js (nodeProyects) - Sublime Text (UNREGISTERED)|2017-03-01T15:16:35.0000000|2017-03-01T15:16:41.0000000|Sublime Text|ManicTime/Applications
 8909|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\perfil.js • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-03-01T15:16:41.0000000|2017-03-01T15:17:18.0000000|Sublime Text|ManicTime/Applications
 8910|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\perfil.js|2017-03-01T15:16:35.0000000|2017-03-01T15:16:41.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\perfil.js|ManicTime/Documents
@@ -8652,9 +8652,8 @@
 8952|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs|2017-03-01T15:21:45.0000000|2017-03-01T15:22:02.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs|ManicTime/Documents
 8953|Login - Google Chrome|2017-03-01T15:22:07.0000000|2017-03-01T15:22:15.0000000|Google Chrome|ManicTime/Applications
 8954|Login form shake effect - Google Chrome|2017-03-01T15:22:15.0000000|2017-03-01T15:22:21.0000000|Google Chrome|ManicTime/Applications
-8955|Login form shake effect - Google Chrome|2017-03-01T15:22:21.0000000|2017-03-01T15:27:09.0000000|Google Chrome|ManicTime/Applications
 8956|http://localhost:3000/#!/|2017-03-01T15:22:07.0000000|2017-03-01T15:22:15.0000000|localhost|ManicTime/Documents
 8957|http://localhost:3000/usuario#!/|2017-03-01T15:22:15.0000000|2017-03-01T15:22:21.0000000|localhost|ManicTime/Documents
-8958|http://localhost:3000/perfil|2017-03-01T15:22:21.0000000|2017-03-01T15:27:09.0000000|localhost|ManicTime/Documents
+8959||2017-03-01T15:22:22.0000000|2017-03-01T15:42:11.0000000||ManicTime/ComputerUsage
 
-(8658 rows affected)
+(8657 rows affected)
