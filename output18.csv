@@ -8654,6 +8654,25 @@
 8954|Login form shake effect - Google Chrome|2017-03-01T15:22:15.0000000|2017-03-01T15:22:21.0000000|Google Chrome|ManicTime/Applications
 8956|http://localhost:3000/#!/|2017-03-01T15:22:07.0000000|2017-03-01T15:22:15.0000000|localhost|ManicTime/Documents
 8957|http://localhost:3000/usuario#!/|2017-03-01T15:22:15.0000000|2017-03-01T15:22:21.0000000|localhost|ManicTime/Documents
-8959||2017-03-01T15:22:22.0000000|2017-03-01T15:42:11.0000000||ManicTime/ComputerUsage
+8959||2017-03-01T15:22:22.0000000|2017-03-01T15:42:51.0000000||ManicTime/ComputerUsage
+8960|Login form shake effect - Google Chrome|2017-03-01T15:42:51.0000000|2017-03-01T15:43:02.0000000|Google Chrome|ManicTime/Applications
+8961|Nueva pestaña - Google Chrome|2017-03-01T15:43:02.0000000|2017-03-01T15:43:07.0000000|Google Chrome|ManicTime/Applications
+8962|badges png - Buscar con Google - Google Chrome|2017-03-01T15:43:07.0000000|2017-03-01T15:43:18.0000000|Google Chrome|ManicTime/Applications
+8963||2017-03-01T15:42:51.0000000|2017-03-01T15:57:17.0000000||ManicTime/ComputerUsage
+8964|http://localhost:3000/perfil|2017-03-01T15:42:51.0000000|2017-03-01T15:43:02.0000000|localhost|ManicTime/Documents
+8965|https://www.google.com.ec/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=badges+png&*|2017-03-01T15:43:07.0000000|2017-03-01T15:43:18.0000000|www.google.com.ec|ManicTime/Documents
+8966|badges png - Buscar con Google - Google Chrome|2017-03-01T15:43:18.0000000|2017-03-01T15:43:33.0000000|Google Chrome|ManicTime/Applications
+8967|Resultado de imágenes de Google para http://clipartist.net/openclipart.org/2013/May/May2013/sponsor_badges-555px.png - Google Chrome|2017-03-01T15:43:33.0000000|2017-03-01T15:43:38.0000000|Google Chrome|ManicTime/Applications
+8968|Badge Icons - 2,052 free vector icons - Google Chrome|2017-03-01T15:43:38.0000000|2017-03-01T15:43:47.0000000|Google Chrome|ManicTime/Applications
+8969|Badges and votes 32 free icons (SVG, EPS, PSD, PNG files) - Google Chrome|2017-03-01T15:43:47.0000000|2017-03-01T15:43:55.0000000|Google Chrome|ManicTime/Applications
+8970|1485795174_727__ProyectoFinalDAW2016-2T.pdf - Adobe Acrobat Reader DC|2017-03-01T15:43:55.0000000|2017-03-01T15:44:00.0000000|Adobe Acrobat Reader DC|ManicTime/Applications
+8971|Badges and votes 32 free icons (SVG, EPS, PSD, PNG files) - Google Chrome|2017-03-01T15:44:00.0000000|2017-03-01T15:46:33.0000000|Google Chrome|ManicTime/Applications
+8972|https://www.google.com.ec/search?q=badges+png&espv=2&biw=1920&bih=921&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwj8rYLhlbbSAhUQwmMKHfEhD-0QsAQIFw|2017-03-01T15:43:18.0000000|2017-03-01T15:43:33.0000000|www.google.com.ec|ManicTime/Documents
+8973|https://www.google.com.ec/imgres?imgurl=http:%2F%2Fclipartist.net%2Fopenclipart.org%2F2013%2FMay%2FMay2013%2Fsponsor_badges-555px.png&imgrefurl=http:%2F%2Fclipartist.net%2Fsvg%2Fsponsor-badges-clipartist-net-poster-art%2F&docid=Gh53o0RzRZ5tUM&tbnid=O2Jj9QV3tybrxM:&vet=1&w=555&h=747&bih=921&biw=1920&q=badges png&ved=0ahUKEwiQwdbjlbbSAhVE4mMKHfL0Cf4QMwg1KAkwCQ&iact=mrc&uact=8#h=747&imgrc=O2Jj9QV3tybrxM:&vet=1&w=555|2017-03-01T15:43:33.0000000|2017-03-01T15:43:38.0000000|www.google.com.ec|ManicTime/Documents
+8974|http://www.flaticon.com/free-icons/badge_24085|2017-03-01T15:43:38.0000000|2017-03-01T15:43:47.0000000|www.flaticon.com|ManicTime/Documents
+8975|http://www.flaticon.com/packs/badges-and-votes|2017-03-01T15:43:47.0000000|2017-03-01T15:43:55.0000000|www.flaticon.com|ManicTime/Documents
+8976|1485795174_727__ProyectoFinalDAW2016-2T.pdf|2017-03-01T15:43:55.0000000|2017-03-01T15:44:00.0000000|1485795174_727__ProyectoFinalDAW2016-2T.pdf|ManicTime/Documents
+8977|http://www.flaticon.com/packs/badges-and-votes|2017-03-01T15:44:00.0000000|2017-03-01T15:46:33.0000000|www.flaticon.com|ManicTime/Documents
+8978|Windows Explorer|2017-03-01T15:46:33.0000000|2017-03-01T15:57:17.0000000|Windows Explorer|ManicTime/Applications
 
-(8657 rows affected)
+(8676 rows affected)
