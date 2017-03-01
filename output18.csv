@@ -8737,7 +8737,7 @@
 9040|Descargas - Google Chrome|2017-03-01T16:51:06.0000000|2017-03-01T16:51:11.0000000|Google Chrome|ManicTime/Applications
 9041|nodeProyects|2017-03-01T16:51:11.0000000|2017-03-01T16:51:17.0000000|Windows Explorer|ManicTime/Applications
 9042|Downloads|2017-03-01T16:51:17.0000000|2017-03-01T16:52:08.0000000|Windows Explorer|ManicTime/Applications
-9043||2017-03-01T16:51:06.0000000|2017-03-01T17:42:08.0000000||ManicTime/ComputerUsage
+9043||2017-03-01T16:51:06.0000000|2017-03-01T17:57:10.0000000||ManicTime/ComputerUsage
 9044|chrome://downloads/|2017-03-01T16:51:06.0000000|2017-03-01T16:51:11.0000000|downloads|ManicTime/Documents
 9045|proyectoDAWIIparcial|2017-03-01T16:52:08.0000000|2017-03-01T16:52:16.0000000|Windows Explorer|ManicTime/Applications
 9046|images|2017-03-01T16:52:16.0000000|2017-03-01T16:52:46.0000000|Windows Explorer|ManicTime/Applications
@@ -8907,10 +8907,27 @@
 9218|Windows PowerShell|2017-03-01T17:36:40.0000000|2017-03-01T17:36:45.0000000|Windows PowerShell|ManicTime/Applications
 9219|Login form shake effect - Google Chrome|2017-03-01T17:36:45.0000000|2017-03-01T17:36:52.0000000|Google Chrome|ManicTime/Applications
 9220|Login form shake effect - Google Chrome|2017-03-01T17:36:52.0000000|2017-03-01T17:37:02.0000000|Google Chrome|ManicTime/Applications
-9221|Login form shake effect - Google Chrome|2017-03-01T17:37:02.0000000|2017-03-01T17:42:08.0000000|Google Chrome|ManicTime/Applications
+9221|Login form shake effect - Google Chrome|2017-03-01T17:37:02.0000000|2017-03-01T17:50:09.0000000|Google Chrome|ManicTime/Applications
 9222|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs|2017-03-01T17:36:25.0000000|2017-03-01T17:36:40.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs|ManicTime/Documents
 9223|http://localhost:3000/perfil|2017-03-01T17:36:45.0000000|2017-03-01T17:36:52.0000000|localhost|ManicTime/Documents
 9224|http://localhost:3000/usuario#!/|2017-03-01T17:36:52.0000000|2017-03-01T17:37:02.0000000|localhost|ManicTime/Documents
-9225|http://localhost:3000/perfil|2017-03-01T17:37:02.0000000|2017-03-01T17:42:08.0000000|localhost|ManicTime/Documents
+9225|http://localhost:3000/perfil|2017-03-01T17:37:02.0000000|2017-03-01T17:50:09.0000000|localhost|ManicTime/Documents
+9226|1485795174_727__ProyectoFinalDAW2016-2T.pdf - Adobe Acrobat Reader DC|2017-03-01T17:50:09.0000000|2017-03-01T17:55:22.0000000|Adobe Acrobat Reader DC|ManicTime/Applications
+9227|1485795174_727__ProyectoFinalDAW2016-2T.pdf|2017-03-01T17:50:09.0000000|2017-03-01T17:55:22.0000000|1485795174_727__ProyectoFinalDAW2016-2T.pdf|ManicTime/Documents
+9228|Login form shake effect - Google Chrome|2017-03-01T17:55:22.0000000|2017-03-01T17:55:37.0000000|Google Chrome|ManicTime/Applications
+9229|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs (nodeProyects) - Sublime Text (UNREGISTERED)|2017-03-01T17:55:37.0000000|2017-03-01T17:55:59.0000000|Sublime Text|ManicTime/Applications
+9230|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-03-01T17:55:59.0000000|2017-03-01T17:56:23.0000000|Sublime Text|ManicTime/Applications
+9231|http://localhost:3000/perfil|2017-03-01T17:55:22.0000000|2017-03-01T17:55:37.0000000|localhost|ManicTime/Documents
+9232|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs|2017-03-01T17:55:37.0000000|2017-03-01T17:55:59.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs|ManicTime/Documents
+9233|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs|2017-03-01T17:55:59.0000000|2017-03-01T17:56:23.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs|ManicTime/Documents
+9234|Windows PowerShell|2017-03-01T17:56:23.0000000|2017-03-01T17:56:31.0000000|Windows PowerShell|ManicTime/Applications
+9235|Login - Google Chrome|2017-03-01T17:56:31.0000000|2017-03-01T17:56:47.0000000|Google Chrome|ManicTime/Applications
+9236|Login form shake effect - Google Chrome|2017-03-01T17:56:47.0000000|2017-03-01T17:57:01.0000000|Google Chrome|ManicTime/Applications
+9237|Login - Google Chrome|2017-03-01T17:57:01.0000000|2017-03-01T17:57:06.0000000|Google Chrome|ManicTime/Applications
+9238|Login form shake effect - Google Chrome|2017-03-01T17:57:06.0000000|2017-03-01T17:57:10.0000000|Google Chrome|ManicTime/Applications
+9239|http://localhost:3000/#!/|2017-03-01T17:56:31.0000000|2017-03-01T17:56:47.0000000|localhost|ManicTime/Documents
+9240|http://localhost:3000/perfil|2017-03-01T17:56:47.0000000|2017-03-01T17:57:01.0000000|localhost|ManicTime/Documents
+9241|http://localhost:3000/#!/|2017-03-01T17:57:01.0000000|2017-03-01T17:57:06.0000000|localhost|ManicTime/Documents
+9242|http://localhost:3000/perfil|2017-03-01T17:57:06.0000000|2017-03-01T17:57:10.0000000|localhost|ManicTime/Documents
 
-(8914 rows affected)
+(8931 rows affected)
