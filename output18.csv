@@ -8737,7 +8737,7 @@
 9040|Descargas - Google Chrome|2017-03-01T16:51:06.0000000|2017-03-01T16:51:11.0000000|Google Chrome|ManicTime/Applications
 9041|nodeProyects|2017-03-01T16:51:11.0000000|2017-03-01T16:51:17.0000000|Windows Explorer|ManicTime/Applications
 9042|Downloads|2017-03-01T16:51:17.0000000|2017-03-01T16:52:08.0000000|Windows Explorer|ManicTime/Applications
-9043||2017-03-01T16:51:06.0000000|2017-03-01T16:56:53.0000000||ManicTime/ComputerUsage
+9043||2017-03-01T16:51:06.0000000|2017-03-01T17:11:56.0000000||ManicTime/ComputerUsage
 9044|chrome://downloads/|2017-03-01T16:51:06.0000000|2017-03-01T16:51:11.0000000|downloads|ManicTime/Documents
 9045|proyectoDAWIIparcial|2017-03-01T16:52:08.0000000|2017-03-01T16:52:16.0000000|Windows Explorer|ManicTime/Applications
 9046|images|2017-03-01T16:52:16.0000000|2017-03-01T16:52:46.0000000|Windows Explorer|ManicTime/Applications
@@ -8754,8 +8754,51 @@
 9057|https://www.google.com.ec/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=contains+array+javascript&*|2017-03-01T16:55:29.0000000|2017-03-01T16:55:35.0000000|www.google.com.ec|ManicTime/Documents
 9058|http://stackoverflow.com/questions/237104/how-do-i-check-if-an-array-includes-an-object-in-javascript|2017-03-01T16:55:35.0000000|2017-03-01T16:56:06.0000000|stackoverflow.com|ManicTime/Documents
 9059|Array.prototype.includes() - JavaScript | MDN - Google Chrome|2017-03-01T16:56:06.0000000|2017-03-01T16:56:34.0000000|Google Chrome|ManicTime/Applications
-9060|How do I check if an array includes an object in JavaScript? - Stack Overflow - Google Chrome|2017-03-01T16:56:34.0000000|2017-03-01T16:56:53.0000000|Google Chrome|ManicTime/Applications
+9060|How do I check if an array includes an object in JavaScript? - Stack Overflow - Google Chrome|2017-03-01T16:56:34.0000000|2017-03-01T16:57:12.0000000|Google Chrome|ManicTime/Applications
 9061|https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Array/includes|2017-03-01T16:56:06.0000000|2017-03-01T16:56:34.0000000|developer.mozilla.org|ManicTime/Documents
-9062|http://stackoverflow.com/questions/237104/how-do-i-check-if-an-array-includes-an-object-in-javascript|2017-03-01T16:56:34.0000000|2017-03-01T16:56:53.0000000|stackoverflow.com|ManicTime/Documents
+9062|http://stackoverflow.com/questions/237104/how-do-i-check-if-an-array-includes-an-object-in-javascript|2017-03-01T16:56:34.0000000|2017-03-01T16:57:12.0000000|stackoverflow.com|ManicTime/Documents
+9063|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-03-01T16:57:12.0000000|2017-03-01T16:57:23.0000000|Sublime Text|ManicTime/Applications
+9064|How do I check if an array includes an object in JavaScript? - Stack Overflow - Google Chrome|2017-03-01T16:57:23.0000000|2017-03-01T16:57:28.0000000|Google Chrome|ManicTime/Applications
+9065|JavaScript String toLowerCase() Method - Google Chrome|2017-03-01T16:57:28.0000000|2017-03-01T16:57:38.0000000|Google Chrome|ManicTime/Applications
+9066|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-03-01T16:57:38.0000000|2017-03-01T17:00:29.0000000|Sublime Text|ManicTime/Applications
+9067|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs|2017-03-01T16:57:12.0000000|2017-03-01T16:57:23.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs|ManicTime/Documents
+9068|http://stackoverflow.com/questions/237104/how-do-i-check-if-an-array-includes-an-object-in-javascript|2017-03-01T16:57:23.0000000|2017-03-01T16:57:28.0000000|stackoverflow.com|ManicTime/Documents
+9069|https://www.w3schools.com/jsref/jsref_tolowercase.asp|2017-03-01T16:57:28.0000000|2017-03-01T16:57:38.0000000|www.w3schools.com|ManicTime/Documents
+9070|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs|2017-03-01T16:57:38.0000000|2017-03-01T17:00:29.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs|ManicTime/Documents
+9071|badges|2017-03-01T17:00:29.0000000|2017-03-01T17:00:36.0000000|Windows Explorer|ManicTime/Applications
+9072|images|2017-03-01T17:00:36.0000000|2017-03-01T17:00:52.0000000|Windows Explorer|ManicTime/Applications
+9073|badges|2017-03-01T17:00:52.0000000|2017-03-01T17:01:06.0000000|Windows Explorer|ManicTime/Applications
+9074|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-03-01T17:01:06.0000000|2017-03-01T17:04:12.0000000|Sublime Text|ManicTime/Applications
+9075|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs|2017-03-01T17:01:06.0000000|2017-03-01T17:04:12.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs|ManicTime/Documents
+9076|npm|2017-03-01T17:04:12.0000000|2017-03-01T17:04:47.0000000|Windows PowerShell|ManicTime/Applications
+9077|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-03-01T17:04:47.0000000|2017-03-01T17:05:09.0000000|Sublime Text|ManicTime/Applications
+9078|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs|2017-03-01T17:04:47.0000000|2017-03-01T17:05:09.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs|ManicTime/Documents
+9079|1485795174_727__ProyectoFinalDAW2016-2T.pdf - Adobe Acrobat Reader DC|2017-03-01T17:05:09.0000000|2017-03-01T17:05:15.0000000|Adobe Acrobat Reader DC|ManicTime/Applications
+9080|badges|2017-03-01T17:05:15.0000000|2017-03-01T17:05:26.0000000|Windows Explorer|ManicTime/Applications
+9081|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-03-01T17:05:26.0000000|2017-03-01T17:06:10.0000000|Sublime Text|ManicTime/Applications
+9082|1485795174_727__ProyectoFinalDAW2016-2T.pdf|2017-03-01T17:05:09.0000000|2017-03-01T17:05:15.0000000|1485795174_727__ProyectoFinalDAW2016-2T.pdf|ManicTime/Documents
+9083|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs|2017-03-01T17:05:26.0000000|2017-03-01T17:06:10.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs|ManicTime/Documents
+9084|npm|2017-03-01T17:06:10.0000000|2017-03-01T17:06:24.0000000|Windows PowerShell|ManicTime/Applications
+9085|Login - Google Chrome|2017-03-01T17:06:24.0000000|2017-03-01T17:06:32.0000000|Google Chrome|ManicTime/Applications
+9086|Login form shake effect - Google Chrome|2017-03-01T17:06:32.0000000|2017-03-01T17:06:38.0000000|Google Chrome|ManicTime/Applications
+9087|Login form shake effect - Google Chrome|2017-03-01T17:06:38.0000000|2017-03-01T17:08:32.0000000|Google Chrome|ManicTime/Applications
+9088|http://localhost:3000/#!/|2017-03-01T17:06:24.0000000|2017-03-01T17:06:32.0000000|localhost|ManicTime/Documents
+9089|http://localhost:3000/usuario|2017-03-01T17:06:32.0000000|2017-03-01T17:06:38.0000000|localhost|ManicTime/Documents
+9090|http://localhost:3000/perfil|2017-03-01T17:06:38.0000000|2017-03-01T17:08:32.0000000|localhost|ManicTime/Documents
+9091|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs (nodeProyects) - Sublime Text (UNREGISTERED)|2017-03-01T17:08:32.0000000|2017-03-01T17:08:38.0000000|Sublime Text|ManicTime/Applications
+9092|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-03-01T17:08:38.0000000|2017-03-01T17:09:04.0000000|Sublime Text|ManicTime/Applications
+9093|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs|2017-03-01T17:08:32.0000000|2017-03-01T17:08:38.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs|ManicTime/Documents
+9094|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs|2017-03-01T17:08:38.0000000|2017-03-01T17:09:04.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs|ManicTime/Documents
+9095|Select npm|2017-03-01T17:09:04.0000000|2017-03-01T17:09:13.0000000|Windows PowerShell|ManicTime/Applications
+9096|Windows PowerShell|2017-03-01T17:09:13.0000000|2017-03-01T17:09:25.0000000|Windows PowerShell|ManicTime/Applications
+9097|Login form shake effect - Google Chrome|2017-03-01T17:09:25.0000000|2017-03-01T17:09:31.0000000|Google Chrome|ManicTime/Applications
+9098|Login - Google Chrome|2017-03-01T17:09:31.0000000|2017-03-01T17:09:37.0000000|Google Chrome|ManicTime/Applications
+9099|Login form shake effect - Google Chrome|2017-03-01T17:09:37.0000000|2017-03-01T17:09:43.0000000|Google Chrome|ManicTime/Applications
+9100|Nueva pestaña - Google Chrome|2017-03-01T17:09:43.0000000|2017-03-01T17:10:08.0000000|Google Chrome|ManicTime/Applications
+9101|http://localhost:3000/perfil|2017-03-01T17:09:25.0000000|2017-03-01T17:09:31.0000000|localhost|ManicTime/Documents
+9102|http://localhost:3000/|2017-03-01T17:09:31.0000000|2017-03-01T17:09:37.0000000|localhost|ManicTime/Documents
+9103|http://localhost:3000/usuario#!/|2017-03-01T17:09:37.0000000|2017-03-01T17:09:43.0000000|localhost|ManicTime/Documents
+9104|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs • (nodeProyects) - Sublime Text (UNREGISTERED)|2017-03-01T17:10:08.0000000|2017-03-01T17:11:56.0000000|Sublime Text|ManicTime/Applications
+9105|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs|2017-03-01T17:10:08.0000000|2017-03-01T17:11:56.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs|ManicTime/Documents
 
-(8759 rows affected)
+(8802 rows affected)
