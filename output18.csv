@@ -8737,7 +8737,7 @@
 9040|Descargas - Google Chrome|2017-03-01T16:51:06.0000000|2017-03-01T16:51:11.0000000|Google Chrome|ManicTime/Applications
 9041|nodeProyects|2017-03-01T16:51:11.0000000|2017-03-01T16:51:17.0000000|Windows Explorer|ManicTime/Applications
 9042|Downloads|2017-03-01T16:51:17.0000000|2017-03-01T16:52:08.0000000|Windows Explorer|ManicTime/Applications
-9043||2017-03-01T16:51:06.0000000|2017-03-01T18:27:15.0000000||ManicTime/ComputerUsage
+9043||2017-03-01T16:51:06.0000000|2017-03-01T18:42:16.0000000||ManicTime/ComputerUsage
 9044|chrome://downloads/|2017-03-01T16:51:06.0000000|2017-03-01T16:51:11.0000000|downloads|ManicTime/Documents
 9045|proyectoDAWIIparcial|2017-03-01T16:52:08.0000000|2017-03-01T16:52:16.0000000|Windows Explorer|ManicTime/Applications
 9046|images|2017-03-01T16:52:16.0000000|2017-03-01T16:52:46.0000000|Windows Explorer|ManicTime/Applications
@@ -8976,8 +8976,33 @@
 9287|Nueva pestaña - Google Chrome|2017-03-01T18:23:59.0000000|2017-03-01T18:26:55.0000000|Google Chrome|ManicTime/Applications
 9288|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs (nodeProyects) - Sublime Text (UNREGISTERED)|2017-03-01T18:26:55.0000000|2017-03-01T18:27:01.0000000|Sublime Text|ManicTime/Applications
 9289|Select Folder|2017-03-01T18:27:01.0000000|2017-03-01T18:27:12.0000000|Sublime Text|ManicTime/Applications
-9290|untitled (proyectoDAW-ParcialII) - Sublime Text (UNREGISTERED)|2017-03-01T18:27:12.0000000|2017-03-01T18:27:15.0000000|Sublime Text|ManicTime/Applications
+9290|untitled (proyectoDAW-ParcialII) - Sublime Text (UNREGISTERED)|2017-03-01T18:27:12.0000000|2017-03-01T18:27:19.0000000|Sublime Text|ManicTime/Applications
 9291|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs|2017-03-01T18:26:55.0000000|2017-03-01T18:27:01.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs|ManicTime/Documents
-9292|untitled|2017-03-01T18:27:12.0000000|2017-03-01T18:27:15.0000000|Untitled|ManicTime/Documents
+9292|untitled|2017-03-01T18:27:12.0000000|2017-03-01T18:27:19.0000000|Untitled|ManicTime/Documents
+9293|C:\Users\Estudiante\djangoProyects\proyectoDAW-ParcialII\Fundamentos\ayudantias\admin.py (proyectoDAW-ParcialII) - Sublime Text (UNREGISTERED)|2017-03-01T18:27:19.0000000|2017-03-01T18:27:25.0000000|Sublime Text|ManicTime/Applications
+9294|C:\Users\Estudiante\djangoProyects\proyectoDAW-ParcialII\Fundamentos\ayudantias\views.py (proyectoDAW-ParcialII) - Sublime Text (UNREGISTERED)|2017-03-01T18:27:25.0000000|2017-03-01T18:27:31.0000000|Sublime Text|ManicTime/Applications
+9295|C:\Users\Estudiante\djangoProyects\proyectoDAW-ParcialII\Fundamentos\ayudantias\migrations\0004_aulas_ayudantes_ayudantias.py (proyectoDAW-ParcialII) - Sublime Text (UNREGISTERED)|2017-03-01T18:27:31.0000000|2017-03-01T18:27:40.0000000|Sublime Text|ManicTime/Applications
+9296|C:\Users\Estudiante\djangoProyects\proyectoDAW-ParcialII\Fundamentos\curso\admin.py (proyectoDAW-ParcialII) - Sublime Text (UNREGISTERED)|2017-03-01T18:27:40.0000000|2017-03-01T18:27:49.0000000|Sublime Text|ManicTime/Applications
+9297|C:\Users\Estudiante\djangoProyects\proyectoDAW-ParcialII\Fundamentos\templates\ayudantias.html (proyectoDAW-ParcialII) - Sublime Text (UNREGISTERED)|2017-03-01T18:27:49.0000000|2017-03-01T18:28:06.0000000|Sublime Text|ManicTime/Applications
+9298|C:\Users\Estudiante\djangoProyects\proyectoDAW-ParcialII\Fundamentos\static\js\maps.js (proyectoDAW-ParcialII) - Sublime Text (UNREGISTERED)|2017-03-01T18:28:06.0000000|2017-03-01T18:28:18.0000000|Sublime Text|ManicTime/Applications
+9299|C:\Users\Estudiante\djangoProyects\proyectoDAW-ParcialII\Fundamentos\ayudantias\admin.py|2017-03-01T18:27:19.0000000|2017-03-01T18:27:25.0000000|C:\Users\Estudiante\djangoProyects\proyectoDAW-ParcialII\Fundamentos\ayudantias\admin.py|ManicTime/Documents
+9300|C:\Users\Estudiante\djangoProyects\proyectoDAW-ParcialII\Fundamentos\ayudantias\views.py|2017-03-01T18:27:25.0000000|2017-03-01T18:27:31.0000000|C:\Users\Estudiante\djangoProyects\proyectoDAW-ParcialII\Fundamentos\ayudantias\views.py|ManicTime/Documents
+9301|C:\Users\Estudiante\djangoProyects\proyectoDAW-ParcialII\Fundamentos\ayudantias\migrations\0004_aulas_ayudantes_ayudantias.py|2017-03-01T18:27:31.0000000|2017-03-01T18:27:40.0000000|C:\Users\Estudiante\djangoProyects\proyectoDAW-ParcialII\Fundamentos\ayudantias\migrations\0004_aulas_ayudantes_ayudantias.py|ManicTime/Documents
+9302|C:\Users\Estudiante\djangoProyects\proyectoDAW-ParcialII\Fundamentos\curso\admin.py|2017-03-01T18:27:40.0000000|2017-03-01T18:27:49.0000000|C:\Users\Estudiante\djangoProyects\proyectoDAW-ParcialII\Fundamentos\curso\admin.py|ManicTime/Documents
+9303|C:\Users\Estudiante\djangoProyects\proyectoDAW-ParcialII\Fundamentos\templates\ayudantias.html|2017-03-01T18:27:49.0000000|2017-03-01T18:28:06.0000000|C:\Users\Estudiante\djangoProyects\proyectoDAW-ParcialII\Fundamentos\templates\ayudantias.html|ManicTime/Documents
+9304|C:\Users\Estudiante\djangoProyects\proyectoDAW-ParcialII\Fundamentos\static\js\maps.js|2017-03-01T18:28:06.0000000|2017-03-01T18:28:18.0000000|C:\Users\Estudiante\djangoProyects\proyectoDAW-ParcialII\Fundamentos\static\js\maps.js|ManicTime/Documents
+9305|C:\Users\Estudiante\djangoProyects\proyectoDAW-ParcialII\Fundamentos\ayudantias\models.py (proyectoDAW-ParcialII) - Sublime Text (UNREGISTERED)|2017-03-01T18:28:18.0000000|2017-03-01T18:28:32.0000000|Sublime Text|ManicTime/Applications
+9306|C:\Users\Estudiante\djangoProyects\proyectoDAW-ParcialII\Fundamentos\ayudantias\views.py (proyectoDAW-ParcialII) - Sublime Text (UNREGISTERED)|2017-03-01T18:28:32.0000000|2017-03-01T18:28:47.0000000|Sublime Text|ManicTime/Applications
+9307|Positioning Content - Learn to Code HTML & CSS - Google Chrome|2017-03-01T18:28:47.0000000|2017-03-01T18:35:17.0000000|Google Chrome|ManicTime/Applications
+9308|C:\Users\Estudiante\djangoProyects\proyectoDAW-ParcialII\Fundamentos\ayudantias\models.py|2017-03-01T18:28:18.0000000|2017-03-01T18:28:32.0000000|C:\Users\Estudiante\djangoProyects\proyectoDAW-ParcialII\Fundamentos\ayudantias\models.py|ManicTime/Documents
+9309|C:\Users\Estudiante\djangoProyects\proyectoDAW-ParcialII\Fundamentos\ayudantias\views.py|2017-03-01T18:28:32.0000000|2017-03-01T18:28:47.0000000|C:\Users\Estudiante\djangoProyects\proyectoDAW-ParcialII\Fundamentos\ayudantias\views.py|ManicTime/Documents
+9310|http://learn.shayhowe.com/html-css/positioning-content/|2017-03-01T18:28:47.0000000|2017-03-01T18:35:17.0000000|learn.shayhowe.com|ManicTime/Documents
+9311|Windows PowerShell|2017-03-01T18:35:17.0000000|2017-03-01T18:35:54.0000000|Windows PowerShell|ManicTime/Applications
+9312|MINGW64:/c/Users/Estudiante/djangoProyects|2017-03-01T18:35:54.0000000|2017-03-01T18:35:59.0000000|mintty|ManicTime/Applications
+9313|Windows PowerShell|2017-03-01T18:35:59.0000000|2017-03-01T18:36:08.0000000|Windows PowerShell|ManicTime/Applications
+9314|Positioning Content - Learn to Code HTML & CSS - Google Chrome|2017-03-01T18:36:08.0000000|2017-03-01T18:36:50.0000000|Google Chrome|ManicTime/Applications
+9315|http://learn.shayhowe.com/html-css/positioning-content/|2017-03-01T18:36:08.0000000|2017-03-01T18:36:50.0000000|learn.shayhowe.com|ManicTime/Documents
+9316|Windows PowerShell|2017-03-01T18:36:50.0000000|2017-03-01T18:39:49.0000000|Windows PowerShell|ManicTime/Applications
+9317|Select Windows PowerShell|2017-03-01T18:39:49.0000000|2017-03-01T18:42:16.0000000|Windows PowerShell|ManicTime/Applications
 
-(8981 rows affected)
+(9006 rows affected)
