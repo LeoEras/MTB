@@ -8737,7 +8737,7 @@
 9040|Descargas - Google Chrome|2017-03-01T16:51:06.0000000|2017-03-01T16:51:11.0000000|Google Chrome|ManicTime/Applications
 9041|nodeProyects|2017-03-01T16:51:11.0000000|2017-03-01T16:51:17.0000000|Windows Explorer|ManicTime/Applications
 9042|Downloads|2017-03-01T16:51:17.0000000|2017-03-01T16:52:08.0000000|Windows Explorer|ManicTime/Applications
-9043||2017-03-01T16:51:06.0000000|2017-03-01T17:57:10.0000000||ManicTime/ComputerUsage
+9043||2017-03-01T16:51:06.0000000|2017-03-01T18:12:13.0000000||ManicTime/ComputerUsage
 9044|chrome://downloads/|2017-03-01T16:51:06.0000000|2017-03-01T16:51:11.0000000|downloads|ManicTime/Documents
 9045|proyectoDAWIIparcial|2017-03-01T16:52:08.0000000|2017-03-01T16:52:16.0000000|Windows Explorer|ManicTime/Applications
 9046|images|2017-03-01T16:52:16.0000000|2017-03-01T16:52:46.0000000|Windows Explorer|ManicTime/Applications
@@ -8924,10 +8924,43 @@
 9235|Login - Google Chrome|2017-03-01T17:56:31.0000000|2017-03-01T17:56:47.0000000|Google Chrome|ManicTime/Applications
 9236|Login form shake effect - Google Chrome|2017-03-01T17:56:47.0000000|2017-03-01T17:57:01.0000000|Google Chrome|ManicTime/Applications
 9237|Login - Google Chrome|2017-03-01T17:57:01.0000000|2017-03-01T17:57:06.0000000|Google Chrome|ManicTime/Applications
-9238|Login form shake effect - Google Chrome|2017-03-01T17:57:06.0000000|2017-03-01T17:57:10.0000000|Google Chrome|ManicTime/Applications
+9238|Login form shake effect - Google Chrome|2017-03-01T17:57:06.0000000|2017-03-01T17:57:40.0000000|Google Chrome|ManicTime/Applications
 9239|http://localhost:3000/#!/|2017-03-01T17:56:31.0000000|2017-03-01T17:56:47.0000000|localhost|ManicTime/Documents
 9240|http://localhost:3000/perfil|2017-03-01T17:56:47.0000000|2017-03-01T17:57:01.0000000|localhost|ManicTime/Documents
 9241|http://localhost:3000/#!/|2017-03-01T17:57:01.0000000|2017-03-01T17:57:06.0000000|localhost|ManicTime/Documents
-9242|http://localhost:3000/perfil|2017-03-01T17:57:06.0000000|2017-03-01T17:57:10.0000000|localhost|ManicTime/Documents
+9242|http://localhost:3000/perfil|2017-03-01T17:57:06.0000000|2017-03-01T17:57:40.0000000|localhost|ManicTime/Documents
+9243|Nueva pestaña - Google Chrome|2017-03-01T17:57:40.0000000|2017-03-01T17:57:47.0000000|Google Chrome|ManicTime/Applications
+9244|GitHub - Google Chrome|2017-03-01T17:57:47.0000000|2017-03-01T18:00:57.0000000|Google Chrome|ManicTime/Applications
+9245|http://github.com/|2017-03-01T17:57:40.0000000|2017-03-01T17:57:47.0000000|github.com|ManicTime/Documents
+9246|https://github.com/|2017-03-01T17:57:47.0000000|2017-03-01T18:00:57.0000000|github.com|ManicTime/Documents
+9247|Windows Explorer|2017-03-01T18:00:57.0000000|2017-03-01T18:01:02.0000000|Windows Explorer|ManicTime/Applications
+9248|/usr/bin/bash --login -i|2017-03-01T18:01:02.0000000|2017-03-01T18:01:07.0000000|mintty|ManicTime/Applications
+9249|MINGW64:/c/Users/Estudiante/nodeProyects/proyectoDAWIIparcial|2017-03-01T18:01:07.0000000|2017-03-01T18:02:41.0000000|mintty|ManicTime/Applications
+9250|OpenSSH|2017-03-01T18:02:41.0000000|2017-03-01T18:02:47.0000000|Tk 8.6 for Windows|ManicTime/Applications
+9251|MINGW64:/c/Users/Estudiante/nodeProyects/proyectoDAWIIparcial|2017-03-01T18:02:47.0000000|2017-03-01T18:02:53.0000000|mintty|ManicTime/Applications
+9252|GitHub - Google Chrome|2017-03-01T18:02:53.0000000|2017-03-01T18:03:00.0000000|Google Chrome|ManicTime/Applications
+9253|drakamaleon/Proyecto-DAW - Google Chrome|2017-03-01T18:03:00.0000000|2017-03-01T18:03:05.0000000|Google Chrome|ManicTime/Applications
+9254|javiteri95/proyectoDAWIIparcial-node: aplicacion hecha en express y node.js para el proyecto de DAW II parcial - Google Chrome|2017-03-01T18:03:05.0000000|2017-03-01T18:03:15.0000000|Google Chrome|ManicTime/Applications
+9255|https://github.com/|2017-03-01T18:02:53.0000000|2017-03-01T18:03:00.0000000|github.com|ManicTime/Documents
+9256|https://github.com/drakamaleon/Proyecto-DAW|2017-03-01T18:03:00.0000000|2017-03-01T18:03:05.0000000|github.com|ManicTime/Documents
+9257|https://github.com/javiteri95/proyectoDAWIIparcial-node|2017-03-01T18:03:05.0000000|2017-03-01T18:03:15.0000000|github.com|ManicTime/Documents
+9258|proyectoDAWIIparcial-node/views at master · javiteri95/proyectoDAWIIparcial-node - Google Chrome|2017-03-01T18:03:15.0000000|2017-03-01T18:05:53.0000000|Google Chrome|ManicTime/Applications
+9259|https://github.com/javiteri95/proyectoDAWIIparcial-node/tree/master/views|2017-03-01T18:03:15.0000000|2017-03-01T18:05:53.0000000|github.com|ManicTime/Documents
+9260|MINGW64:/c/Users/Estudiante/nodeProyects/proyectoDAWIIparcial|2017-03-01T18:05:53.0000000|2017-03-01T18:05:58.0000000|mintty|ManicTime/Applications
+9261|djangoProyects|2017-03-01T18:05:58.0000000|2017-03-01T18:06:06.0000000|Windows Explorer|ManicTime/Applications
+9262|proyectoDAWIIparcial-node/views at master · javiteri95/proyectoDAWIIparcial-node - Google Chrome|2017-03-01T18:06:06.0000000|2017-03-01T18:06:11.0000000|Google Chrome|ManicTime/Applications
+9263|https://github.com/javiteri95/proyectoDAWIIparcial-node/tree/master/views|2017-03-01T18:06:06.0000000|2017-03-01T18:06:11.0000000|github.com|ManicTime/Documents
+9264|javiteri95/proyectoDAWIIparcial-node: aplicacion hecha en express y node.js para el proyecto de DAW II parcial - Google Chrome|2017-03-01T18:06:11.0000000|2017-03-01T18:07:58.0000000|Google Chrome|ManicTime/Applications
+9265|https://github.com/javiteri95/proyectoDAWIIparcial-node|2017-03-01T18:06:11.0000000|2017-03-01T18:07:58.0000000|github.com|ManicTime/Documents
+9266|GitHub - Google Chrome|2017-03-01T18:07:58.0000000|2017-03-01T18:08:07.0000000|Google Chrome|ManicTime/Applications
+9267|tahtty/proyectoDAW-ParcialII - Google Chrome|2017-03-01T18:08:07.0000000|2017-03-01T18:08:28.0000000|Google Chrome|ManicTime/Applications
+9268|https://github.com/|2017-03-01T18:07:58.0000000|2017-03-01T18:08:07.0000000|github.com|ManicTime/Documents
+9269|https://github.com/tahtty/proyectoDAW-ParcialII|2017-03-01T18:08:07.0000000|2017-03-01T18:08:28.0000000|github.com|ManicTime/Documents
+9270|proyectoDAW-ParcialII/Fundamentos at master · tahtty/proyectoDAW-ParcialII - Google Chrome|2017-03-01T18:08:28.0000000|2017-03-01T18:08:38.0000000|Google Chrome|ManicTime/Applications
+9271|tahtty/proyectoDAW-ParcialII - Google Chrome|2017-03-01T18:08:38.0000000|2017-03-01T18:10:15.0000000|Google Chrome|ManicTime/Applications
+9272|https://github.com/tahtty/proyectoDAW-ParcialII/tree/master/Fundamentos|2017-03-01T18:08:28.0000000|2017-03-01T18:08:38.0000000|github.com|ManicTime/Documents
+9273|https://github.com/tahtty/proyectoDAW-ParcialII|2017-03-01T18:08:38.0000000|2017-03-01T18:10:15.0000000|github.com|ManicTime/Documents
+9274|MINGW64:/c/Users/Estudiante/djangoProyects|2017-03-01T18:10:15.0000000|2017-03-01T18:11:36.0000000|mintty|ManicTime/Applications
+9275|Fundamentos|2017-03-01T18:11:36.0000000|2017-03-01T18:12:13.0000000|Windows Explorer|ManicTime/Applications
 
-(8931 rows affected)
+(8964 rows affected)
