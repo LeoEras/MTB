@@ -9048,8 +9048,12 @@
 9359|Windows Activation Client|2017-03-01T18:55:08.0000000|2017-03-01T18:55:51.0000000|Windows Activation Client|ManicTime/Applications
 9361||2017-03-01T18:55:51.0000000|2017-03-01T19:06:37.0000000||ManicTime/ComputerUsage
 9362|Windows PowerShell|2017-03-01T19:06:37.0000000|2017-03-01T19:13:12.0000000|Windows PowerShell|ManicTime/Applications
-9363||2017-03-01T19:06:37.0000000|2017-03-01T19:27:16.0000000||ManicTime/ComputerUsage
-9364|C:\Users\Estudiante\djangoProyects\proyectoDAW-ParcialII\Fundamentos\semana\models.py (proyectoDAW-ParcialII) - Sublime Text (UNREGISTERED)|2017-03-01T19:13:12.0000000|2017-03-01T19:27:16.0000000|Sublime Text|ManicTime/Applications
-9365|C:\Users\Estudiante\djangoProyects\proyectoDAW-ParcialII\Fundamentos\semana\models.py|2017-03-01T19:13:12.0000000|2017-03-01T19:27:16.0000000|C:\Users\Estudiante\djangoProyects\proyectoDAW-ParcialII\Fundamentos\semana\models.py|ManicTime/Documents
+9363||2017-03-01T19:06:37.0000000|2017-03-01T19:20:23.0000000||ManicTime/ComputerUsage
+9364|C:\Users\Estudiante\djangoProyects\proyectoDAW-ParcialII\Fundamentos\semana\models.py (proyectoDAW-ParcialII) - Sublime Text (UNREGISTERED)|2017-03-01T19:13:12.0000000|2017-03-01T19:20:23.0000000|Sublime Text|ManicTime/Applications
+9365|C:\Users\Estudiante\djangoProyects\proyectoDAW-ParcialII\Fundamentos\semana\models.py|2017-03-01T19:13:12.0000000|2017-03-01T19:20:23.0000000|C:\Users\Estudiante\djangoProyects\proyectoDAW-ParcialII\Fundamentos\semana\models.py|ManicTime/Documents
+9366||2017-03-01T19:20:23.0000000|2017-03-01T19:32:23.0000000||ManicTime/ComputerUsage
+9367|C:\Users\Estudiante\djangoProyects\proyectoDAW-ParcialII\Fundamentos\semana\models.py (proyectoDAW-ParcialII) - Sublime Text (UNREGISTERED)|2017-03-01T19:32:23.0000000|2017-03-01T19:42:19.0000000|Sublime Text|ManicTime/Applications
+9368||2017-03-01T19:32:23.0000000|2017-03-01T19:42:19.0000000||ManicTime/ComputerUsage
+9369|C:\Users\Estudiante\djangoProyects\proyectoDAW-ParcialII\Fundamentos\semana\models.py|2017-03-01T19:32:23.0000000|2017-03-01T19:42:19.0000000|C:\Users\Estudiante\djangoProyects\proyectoDAW-ParcialII\Fundamentos\semana\models.py|ManicTime/Documents
 
-(9053 rows affected)
+(9057 rows affected)
