@@ -8737,7 +8737,7 @@
 9040|Descargas - Google Chrome|2017-03-01T16:51:06.0000000|2017-03-01T16:51:11.0000000|Google Chrome|ManicTime/Applications
 9041|nodeProyects|2017-03-01T16:51:11.0000000|2017-03-01T16:51:17.0000000|Windows Explorer|ManicTime/Applications
 9042|Downloads|2017-03-01T16:51:17.0000000|2017-03-01T16:52:08.0000000|Windows Explorer|ManicTime/Applications
-9043||2017-03-01T16:51:06.0000000|2017-03-01T18:42:16.0000000||ManicTime/ComputerUsage
+9043||2017-03-01T16:51:06.0000000|2017-03-01T18:57:16.0000000||ManicTime/ComputerUsage
 9044|chrome://downloads/|2017-03-01T16:51:06.0000000|2017-03-01T16:51:11.0000000|downloads|ManicTime/Documents
 9045|proyectoDAWIIparcial|2017-03-01T16:52:08.0000000|2017-03-01T16:52:16.0000000|Windows Explorer|ManicTime/Applications
 9046|images|2017-03-01T16:52:16.0000000|2017-03-01T16:52:46.0000000|Windows Explorer|ManicTime/Applications
@@ -9003,6 +9003,49 @@
 9314|Positioning Content - Learn to Code HTML & CSS - Google Chrome|2017-03-01T18:36:08.0000000|2017-03-01T18:36:50.0000000|Google Chrome|ManicTime/Applications
 9315|http://learn.shayhowe.com/html-css/positioning-content/|2017-03-01T18:36:08.0000000|2017-03-01T18:36:50.0000000|learn.shayhowe.com|ManicTime/Documents
 9316|Windows PowerShell|2017-03-01T18:36:50.0000000|2017-03-01T18:39:49.0000000|Windows PowerShell|ManicTime/Applications
-9317|Select Windows PowerShell|2017-03-01T18:39:49.0000000|2017-03-01T18:42:16.0000000|Windows PowerShell|ManicTime/Applications
+9317|Select Windows PowerShell|2017-03-01T18:39:49.0000000|2017-03-01T18:42:19.0000000|Windows PowerShell|ManicTime/Applications
+9318|Windows Explorer|2017-03-01T18:42:19.0000000|2017-03-01T18:42:29.0000000|Windows Explorer|ManicTime/Applications
+9319|C:\Users\Estudiante\djangoProyects\proyectoDAW-ParcialII\Fundamentos\ayudantias\views.py (proyectoDAW-ParcialII) - Sublime Text (UNREGISTERED)|2017-03-01T18:42:29.0000000|2017-03-01T18:42:40.0000000|Sublime Text|ManicTime/Applications
+9320|Select Windows PowerShell|2017-03-01T18:42:40.0000000|2017-03-01T18:42:47.0000000|Windows PowerShell|ManicTime/Applications
+9321|MINGW64:/c/Users/Estudiante/djangoProyects|2017-03-01T18:42:47.0000000|2017-03-01T18:42:52.0000000|mintty|ManicTime/Applications
+9322|C:\Users\Estudiante\djangoProyects\proyectoDAW-ParcialII\Fundamentos\curso\models.py (proyectoDAW-ParcialII) - Sublime Text (UNREGISTERED)|2017-03-01T18:42:52.0000000|2017-03-01T18:43:02.0000000|Sublime Text|ManicTime/Applications
+9323|C:\Users\Estudiante\djangoProyects\proyectoDAW-ParcialII\Fundamentos\curso\models.py • (proyectoDAW-ParcialII) - Sublime Text (UNREGISTERED)|2017-03-01T18:43:02.0000000|2017-03-01T18:43:17.0000000|Sublime Text|ManicTime/Applications
+9324|C:\Users\Estudiante\djangoProyects\proyectoDAW-ParcialII\Fundamentos\ayudantias\views.py|2017-03-01T18:42:29.0000000|2017-03-01T18:42:40.0000000|C:\Users\Estudiante\djangoProyects\proyectoDAW-ParcialII\Fundamentos\ayudantias\views.py|ManicTime/Documents
+9325|C:\Users\Estudiante\djangoProyects\proyectoDAW-ParcialII\Fundamentos\curso\models.py|2017-03-01T18:42:52.0000000|2017-03-01T18:43:02.0000000|C:\Users\Estudiante\djangoProyects\proyectoDAW-ParcialII\Fundamentos\curso\models.py|ManicTime/Documents
+9326|C:\Users\Estudiante\djangoProyects\proyectoDAW-ParcialII\Fundamentos\curso\models.py|2017-03-01T18:43:02.0000000|2017-03-01T18:43:17.0000000|C:\Users\Estudiante\djangoProyects\proyectoDAW-ParcialII\Fundamentos\curso\models.py|ManicTime/Documents
+9327|Nueva pestaña - Google Chrome|2017-03-01T18:43:17.0000000|2017-03-01T18:43:26.0000000|Google Chrome|ManicTime/Applications
+9328|Unicode data | Django documentation | Django - Google Chrome|2017-03-01T18:43:26.0000000|2017-03-01T18:43:51.0000000|Google Chrome|ManicTime/Applications
+9329|Python Django Encoding Error, Non-ASCII character '\xe5' - Stack Overflow - Google Chrome|2017-03-01T18:43:51.0000000|2017-03-01T18:44:07.0000000|Google Chrome|ManicTime/Applications
+9330|C:\Users\Estudiante\djangoProyects\proyectoDAW-ParcialII\Fundamentos\curso\models.py • (proyectoDAW-ParcialII) - Sublime Text (UNREGISTERED)|2017-03-01T18:44:07.0000000|2017-03-01T18:44:18.0000000|Sublime Text|ManicTime/Applications
+9331|https://docs.djangoproject.com/es/1.9/ref/unicode/|2017-03-01T18:43:26.0000000|2017-03-01T18:43:51.0000000|docs.djangoproject.com|ManicTime/Documents
+9332|http://stackoverflow.com/questions/20714517/python-django-encoding-error-non-ascii-character-xe5|2017-03-01T18:43:51.0000000|2017-03-01T18:44:07.0000000|stackoverflow.com|ManicTime/Documents
+9333|C:\Users\Estudiante\djangoProyects\proyectoDAW-ParcialII\Fundamentos\curso\models.py|2017-03-01T18:44:07.0000000|2017-03-01T18:44:18.0000000|C:\Users\Estudiante\djangoProyects\proyectoDAW-ParcialII\Fundamentos\curso\models.py|ManicTime/Documents
+9334|C:\Users\Estudiante\djangoProyects\proyectoDAW-ParcialII\Fundamentos\ayudantias\models.py • (proyectoDAW-ParcialII) - Sublime Text (UNREGISTERED)|2017-03-01T18:44:18.0000000|2017-03-01T18:44:28.0000000|Sublime Text|ManicTime/Applications
+9335|C:\Users\Estudiante\djangoProyects\proyectoDAW-ParcialII\Fundamentos\equipo\models.py • (proyectoDAW-ParcialII) - Sublime Text (UNREGISTERED)|2017-03-01T18:44:28.0000000|2017-03-01T18:44:38.0000000|Sublime Text|ManicTime/Applications
+9336|C:\Users\Estudiante\djangoProyects\proyectoDAW-ParcialII\Fundamentos\Fundamentos\settings.py (proyectoDAW-ParcialII) - Sublime Text (UNREGISTERED)|2017-03-01T18:44:38.0000000|2017-03-01T18:44:50.0000000|Sublime Text|ManicTime/Applications
+9337|C:\Users\Estudiante\djangoProyects\proyectoDAW-ParcialII\Fundamentos\noticias\models.py • (proyectoDAW-ParcialII) - Sublime Text (UNREGISTERED)|2017-03-01T18:44:50.0000000|2017-03-01T18:45:00.0000000|Sublime Text|ManicTime/Applications
+9338|C:\Users\Estudiante\djangoProyects\proyectoDAW-ParcialII\Fundamentos\ranking\admin.py (proyectoDAW-ParcialII) - Sublime Text (UNREGISTERED)|2017-03-01T18:45:00.0000000|2017-03-01T18:45:06.0000000|Sublime Text|ManicTime/Applications
+9339|C:\Users\Estudiante\djangoProyects\proyectoDAW-ParcialII\Fundamentos\ranking\views.py (proyectoDAW-ParcialII) - Sublime Text (UNREGISTERED)|2017-03-01T18:45:06.0000000|2017-03-01T18:45:12.0000000|Sublime Text|ManicTime/Applications
+9340|C:\Users\Estudiante\djangoProyects\proyectoDAW-ParcialII\Fundamentos\semana\models.py (proyectoDAW-ParcialII) - Sublime Text (UNREGISTERED)|2017-03-01T18:45:12.0000000|2017-03-01T18:45:22.0000000|Sublime Text|ManicTime/Applications
+9341|C:\Users\Estudiante\djangoProyects\proyectoDAW-ParcialII\Fundamentos\ayudantias\models.py|2017-03-01T18:44:18.0000000|2017-03-01T18:44:28.0000000|C:\Users\Estudiante\djangoProyects\proyectoDAW-ParcialII\Fundamentos\ayudantias\models.py|ManicTime/Documents
+9342|C:\Users\Estudiante\djangoProyects\proyectoDAW-ParcialII\Fundamentos\equipo\models.py|2017-03-01T18:44:28.0000000|2017-03-01T18:44:38.0000000|C:\Users\Estudiante\djangoProyects\proyectoDAW-ParcialII\Fundamentos\equipo\models.py|ManicTime/Documents
+9343|C:\Users\Estudiante\djangoProyects\proyectoDAW-ParcialII\Fundamentos\Fundamentos\settings.py|2017-03-01T18:44:38.0000000|2017-03-01T18:44:50.0000000|C:\Users\Estudiante\djangoProyects\proyectoDAW-ParcialII\Fundamentos\Fundamentos\settings.py|ManicTime/Documents
+9344|C:\Users\Estudiante\djangoProyects\proyectoDAW-ParcialII\Fundamentos\noticias\models.py|2017-03-01T18:44:50.0000000|2017-03-01T18:45:00.0000000|C:\Users\Estudiante\djangoProyects\proyectoDAW-ParcialII\Fundamentos\noticias\models.py|ManicTime/Documents
+9345|C:\Users\Estudiante\djangoProyects\proyectoDAW-ParcialII\Fundamentos\ranking\admin.py|2017-03-01T18:45:00.0000000|2017-03-01T18:45:06.0000000|C:\Users\Estudiante\djangoProyects\proyectoDAW-ParcialII\Fundamentos\ranking\admin.py|ManicTime/Documents
+9346|C:\Users\Estudiante\djangoProyects\proyectoDAW-ParcialII\Fundamentos\ranking\views.py|2017-03-01T18:45:06.0000000|2017-03-01T18:45:12.0000000|C:\Users\Estudiante\djangoProyects\proyectoDAW-ParcialII\Fundamentos\ranking\views.py|ManicTime/Documents
+9347|C:\Users\Estudiante\djangoProyects\proyectoDAW-ParcialII\Fundamentos\semana\models.py|2017-03-01T18:45:12.0000000|2017-03-01T18:45:22.0000000|C:\Users\Estudiante\djangoProyects\proyectoDAW-ParcialII\Fundamentos\semana\models.py|ManicTime/Documents
+9348|C:\Users\Estudiante\djangoProyects\proyectoDAW-ParcialII\Fundamentos\semana\models.py • (proyectoDAW-ParcialII) - Sublime Text (UNREGISTERED)|2017-03-01T18:45:22.0000000|2017-03-01T18:45:35.0000000|Sublime Text|ManicTime/Applications
+9349|Python Django Encoding Error, Non-ASCII character '\xe5' - Stack Overflow - Google Chrome|2017-03-01T18:45:35.0000000|2017-03-01T18:45:59.0000000|Google Chrome|ManicTime/Applications
+9350|Unicode data | Django documentation | Django - Google Chrome|2017-03-01T18:45:59.0000000|2017-03-01T18:46:21.0000000|Google Chrome|ManicTime/Applications
+9351|C:\Users\Estudiante\djangoProyects\proyectoDAW-ParcialII\Fundamentos\semana\models.py|2017-03-01T18:45:22.0000000|2017-03-01T18:45:35.0000000|C:\Users\Estudiante\djangoProyects\proyectoDAW-ParcialII\Fundamentos\semana\models.py|ManicTime/Documents
+9352|http://stackoverflow.com/questions/20714517/python-django-encoding-error-non-ascii-character-xe5|2017-03-01T18:45:35.0000000|2017-03-01T18:45:59.0000000|stackoverflow.com|ManicTime/Documents
+9353|https://docs.djangoproject.com/es/1.9/ref/unicode/|2017-03-01T18:45:59.0000000|2017-03-01T18:46:21.0000000|docs.djangoproject.com|ManicTime/Documents
+9354|C:\Users\Estudiante\djangoProyects\proyectoDAW-ParcialII\Fundamentos\semana\models.py (proyectoDAW-ParcialII) - Sublime Text (UNREGISTERED)|2017-03-01T18:46:21.0000000|2017-03-01T18:46:28.0000000|Sublime Text|ManicTime/Applications
+9355|Windows PowerShell|2017-03-01T18:46:28.0000000|2017-03-01T18:46:37.0000000|Windows PowerShell|ManicTime/Applications
+9356|MINGW64:/c/Users/Estudiante/djangoProyects|2017-03-01T18:46:37.0000000|2017-03-01T18:46:42.0000000|mintty|ManicTime/Applications
+9357|Windows PowerShell|2017-03-01T18:46:42.0000000|2017-03-01T18:55:08.0000000|Windows PowerShell|ManicTime/Applications
+9358|C:\Users\Estudiante\djangoProyects\proyectoDAW-ParcialII\Fundamentos\semana\models.py|2017-03-01T18:46:21.0000000|2017-03-01T18:46:28.0000000|C:\Users\Estudiante\djangoProyects\proyectoDAW-ParcialII\Fundamentos\semana\models.py|ManicTime/Documents
+9359|Windows Activation Client|2017-03-01T18:55:08.0000000|2017-03-01T18:55:53.0000000|Windows Activation Client|ManicTime/Applications
+9360|Windows PowerShell|2017-03-01T18:55:53.0000000|2017-03-01T18:57:16.0000000|Windows PowerShell|ManicTime/Applications
 
-(9006 rows affected)
+(9049 rows affected)
