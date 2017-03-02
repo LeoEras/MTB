@@ -1,1 +1,1 @@
-false,true,false,false,,terminar perfil,,
+false,true,false,false,,afinando detalles,,
