@@ -9092,7 +9092,7 @@
 9416|Windows Explorer|2017-03-01T22:15:28.0000000|2017-03-01T22:15:37.0000000|Windows Explorer|ManicTime/Applications
 9417|Start menu|2017-03-01T22:15:37.0000000|2017-03-01T22:15:41.0000000|Windows Explorer|ManicTime/Applications
 9418|Program Manager|2017-03-02T03:02:25.0000000|2017-03-02T03:05:25.0000000|Windows Explorer|ManicTime/Applications
-9419||2017-03-02T03:02:25.0000000|2017-03-02T03:26:25.0000000||ManicTime/ComputerUsage
+9419||2017-03-02T03:02:25.0000000|2017-03-02T03:41:24.0000000||ManicTime/ComputerUsage
 9420|Escuela Superior Politécnica del Litoral - Google Chrome|2017-03-02T03:05:25.0000000|2017-03-02T03:05:38.0000000|Google Chrome|ManicTime/Applications
 9421|Program Manager|2017-03-02T03:05:38.0000000|2017-03-02T03:05:44.0000000|Windows Explorer|ManicTime/Applications
 9422|Windows PowerShell|2017-03-02T03:05:44.0000000|2017-03-02T03:06:21.0000000|Windows PowerShell|ManicTime/Applications
@@ -9123,11 +9123,20 @@
 9447|Login - Google Chrome|2017-03-02T03:17:34.0000000|2017-03-02T03:17:39.0000000|Google Chrome|ManicTime/Applications
 9448|Login form shake effect - Google Chrome|2017-03-02T03:17:39.0000000|2017-03-02T03:17:45.0000000|Google Chrome|ManicTime/Applications
 9449|Login form shake effect - Google Chrome|2017-03-02T03:17:45.0000000|2017-03-02T03:17:52.0000000|Google Chrome|ManicTime/Applications
-9450|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js • (proyectoDAWIIparcial) - Sublime Text (UNREGISTERED)|2017-03-02T03:17:52.0000000|2017-03-02T03:26:25.0000000|Sublime Text|ManicTime/Applications
+9450|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js • (proyectoDAWIIparcial) - Sublime Text (UNREGISTERED)|2017-03-02T03:17:52.0000000|2017-03-02T03:33:15.0000000|Sublime Text|ManicTime/Applications
 9451|http://localhost:3000/|2017-03-02T03:17:29.0000000|2017-03-02T03:17:34.0000000|localhost|ManicTime/Documents
 9452|http://localhost:3000/#!/|2017-03-02T03:17:34.0000000|2017-03-02T03:17:39.0000000|localhost|ManicTime/Documents
 9453|http://localhost:3000/usuario|2017-03-02T03:17:39.0000000|2017-03-02T03:17:45.0000000|localhost|ManicTime/Documents
 9454|http://localhost:3000/usuario#!/|2017-03-02T03:17:45.0000000|2017-03-02T03:17:52.0000000|localhost|ManicTime/Documents
-9455|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|2017-03-02T03:17:52.0000000|2017-03-02T03:26:25.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|ManicTime/Documents
+9455|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|2017-03-02T03:17:52.0000000|2017-03-02T03:33:15.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|ManicTime/Documents
+9456|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js (proyectoDAWIIparcial) - Sublime Text (UNREGISTERED)|2017-03-02T03:33:15.0000000|2017-03-02T03:37:30.0000000|Sublime Text|ManicTime/Applications
+9457|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|2017-03-02T03:33:15.0000000|2017-03-02T03:37:30.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|ManicTime/Documents
+9458|npm|2017-03-02T03:37:30.0000000|2017-03-02T03:37:37.0000000|Windows PowerShell|ManicTime/Applications
+9459|Login form shake effect - Google Chrome|2017-03-02T03:37:37.0000000|2017-03-02T03:37:42.0000000|Google Chrome|ManicTime/Applications
+9460|Login - Google Chrome|2017-03-02T03:37:42.0000000|2017-03-02T03:37:49.0000000|Google Chrome|ManicTime/Applications
+9461|Login form shake effect - Google Chrome|2017-03-02T03:37:49.0000000|2017-03-02T03:41:24.0000000|Google Chrome|ManicTime/Applications
+9462|http://localhost:3000/usuario#!/|2017-03-02T03:37:37.0000000|2017-03-02T03:37:42.0000000|localhost|ManicTime/Documents
+9463|http://localhost:3000/#!/|2017-03-02T03:37:42.0000000|2017-03-02T03:37:49.0000000|localhost|ManicTime/Documents
+9464|http://localhost:3000/usuario#!/|2017-03-02T03:37:49.0000000|2017-03-02T03:41:24.0000000|localhost|ManicTime/Documents
 
-(9131 rows affected)
+(9140 rows affected)
