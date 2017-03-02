@@ -8737,7 +8737,7 @@
 9040|Descargas - Google Chrome|2017-03-01T16:51:06.0000000|2017-03-01T16:51:11.0000000|Google Chrome|ManicTime/Applications
 9041|nodeProyects|2017-03-01T16:51:11.0000000|2017-03-01T16:51:17.0000000|Windows Explorer|ManicTime/Applications
 9042|Downloads|2017-03-01T16:51:17.0000000|2017-03-01T16:52:08.0000000|Windows Explorer|ManicTime/Applications
-9043||2017-03-01T16:51:06.0000000|2017-03-01T18:57:16.0000000||ManicTime/ComputerUsage
+9043||2017-03-01T16:51:06.0000000|2017-03-01T18:55:51.0000000||ManicTime/ComputerUsage
 9044|chrome://downloads/|2017-03-01T16:51:06.0000000|2017-03-01T16:51:11.0000000|downloads|ManicTime/Documents
 9045|proyectoDAWIIparcial|2017-03-01T16:52:08.0000000|2017-03-01T16:52:16.0000000|Windows Explorer|ManicTime/Applications
 9046|images|2017-03-01T16:52:16.0000000|2017-03-01T16:52:46.0000000|Windows Explorer|ManicTime/Applications
@@ -9045,7 +9045,9 @@
 9356|MINGW64:/c/Users/Estudiante/djangoProyects|2017-03-01T18:46:37.0000000|2017-03-01T18:46:42.0000000|mintty|ManicTime/Applications
 9357|Windows PowerShell|2017-03-01T18:46:42.0000000|2017-03-01T18:55:08.0000000|Windows PowerShell|ManicTime/Applications
 9358|C:\Users\Estudiante\djangoProyects\proyectoDAW-ParcialII\Fundamentos\semana\models.py|2017-03-01T18:46:21.0000000|2017-03-01T18:46:28.0000000|C:\Users\Estudiante\djangoProyects\proyectoDAW-ParcialII\Fundamentos\semana\models.py|ManicTime/Documents
-9359|Windows Activation Client|2017-03-01T18:55:08.0000000|2017-03-01T18:55:53.0000000|Windows Activation Client|ManicTime/Applications
-9360|Windows PowerShell|2017-03-01T18:55:53.0000000|2017-03-01T18:57:16.0000000|Windows PowerShell|ManicTime/Applications
+9359|Windows Activation Client|2017-03-01T18:55:08.0000000|2017-03-01T18:55:51.0000000|Windows Activation Client|ManicTime/Applications
+9361||2017-03-01T18:55:51.0000000|2017-03-01T19:06:37.0000000||ManicTime/ComputerUsage
+9362|Windows PowerShell|2017-03-01T19:06:37.0000000|2017-03-01T19:12:16.0000000|Windows PowerShell|ManicTime/Applications
+9363||2017-03-01T19:06:37.0000000|2017-03-01T19:12:16.0000000||ManicTime/ComputerUsage
 
-(9049 rows affected)
+(9051 rows affected)
