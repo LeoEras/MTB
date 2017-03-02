@@ -9092,7 +9092,7 @@
 9416|Windows Explorer|2017-03-01T22:15:28.0000000|2017-03-01T22:15:37.0000000|Windows Explorer|ManicTime/Applications
 9417|Start menu|2017-03-01T22:15:37.0000000|2017-03-01T22:15:41.0000000|Windows Explorer|ManicTime/Applications
 9418|Program Manager|2017-03-02T03:02:25.0000000|2017-03-02T03:05:25.0000000|Windows Explorer|ManicTime/Applications
-9419||2017-03-02T03:02:25.0000000|2017-03-02T03:56:22.0000000||ManicTime/ComputerUsage
+9419||2017-03-02T03:02:25.0000000|2017-03-02T04:12:16.0000000||ManicTime/ComputerUsage
 9420|Escuela Superior Politécnica del Litoral - Google Chrome|2017-03-02T03:05:25.0000000|2017-03-02T03:05:38.0000000|Google Chrome|ManicTime/Applications
 9421|Program Manager|2017-03-02T03:05:38.0000000|2017-03-02T03:05:44.0000000|Windows Explorer|ManicTime/Applications
 9422|Windows PowerShell|2017-03-02T03:05:44.0000000|2017-03-02T03:06:21.0000000|Windows PowerShell|ManicTime/Applications
@@ -9151,7 +9151,29 @@
 9475|Nueva pestaña - Google Chrome|2017-03-02T03:48:49.0000000|2017-03-02T03:52:21.0000000|Google Chrome|ManicTime/Applications
 9476|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|2017-03-02T03:48:43.0000000|2017-03-02T03:48:49.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|ManicTime/Documents
 9477|http://flaticon.com/packs/badges-and-votes|2017-03-02T03:48:49.0000000|2017-03-02T03:52:21.0000000|flaticon.com|ManicTime/Documents
-9478|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js (proyectoDAWIIparcial) - Sublime Text (UNREGISTERED)|2017-03-02T03:52:21.0000000|2017-03-02T03:56:22.0000000|Sublime Text|ManicTime/Applications
-9479|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|2017-03-02T03:52:21.0000000|2017-03-02T03:56:22.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|ManicTime/Documents
+9478|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js (proyectoDAWIIparcial) - Sublime Text (UNREGISTERED)|2017-03-02T03:52:21.0000000|2017-03-02T03:59:34.0000000|Sublime Text|ManicTime/Applications
+9479|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|2017-03-02T03:52:21.0000000|2017-03-02T03:59:34.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|ManicTime/Documents
+9480|Windows PowerShell|2017-03-02T03:59:34.0000000|2017-03-02T03:59:42.0000000|Windows PowerShell|ManicTime/Applications
+9481|MINGW64:/c/Users/Estudiante/nodeProyects/proyectoDAWIIparcial|2017-03-02T03:59:42.0000000|2017-03-02T04:00:02.0000000|mintty|ManicTime/Applications
+9482|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js (proyectoDAWIIparcial) - Sublime Text (UNREGISTERED)|2017-03-02T04:00:02.0000000|2017-03-02T04:00:12.0000000|Sublime Text|ManicTime/Applications
+9483|npm|2017-03-02T04:00:12.0000000|2017-03-02T04:00:19.0000000|Windows PowerShell|ManicTime/Applications
+9484|Login - Google Chrome|2017-03-02T04:00:19.0000000|2017-03-02T04:00:28.0000000|Google Chrome|ManicTime/Applications
+9485|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|2017-03-02T04:00:02.0000000|2017-03-02T04:00:12.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|ManicTime/Documents
+9486|http://localhost:3000/#!/|2017-03-02T04:00:19.0000000|2017-03-02T04:00:28.0000000|localhost|ManicTime/Documents
+9487|Login form shake effect - Google Chrome|2017-03-02T04:00:28.0000000|2017-03-02T04:02:19.0000000|Google Chrome|ManicTime/Applications
+9488|http://localhost:3000/usuario#!/|2017-03-02T04:00:28.0000000|2017-03-02T04:02:19.0000000|localhost|ManicTime/Documents
+9489|Nueva pestaña - Google Chrome|2017-03-02T04:02:19.0000000|2017-03-02T04:07:45.0000000|Google Chrome|ManicTime/Applications
+9490|MINGW64:/c/Users/Estudiante/nodeProyects/proyectoDAWIIparcial|2017-03-02T04:07:45.0000000|2017-03-02T04:09:24.0000000|mintty|ManicTime/Applications
+9491|OpenSSH|2017-03-02T04:09:24.0000000|2017-03-02T04:09:29.0000000|Tk 8.6 for Windows|ManicTime/Applications
+9492|MINGW64:/c/Users/Estudiante/nodeProyects/proyectoDAWIIparcial|2017-03-02T04:09:29.0000000|2017-03-02T04:09:35.0000000|mintty|ManicTime/Applications
+9493|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js (proyectoDAWIIparcial) - Sublime Text (UNREGISTERED)|2017-03-02T04:09:35.0000000|2017-03-02T04:09:40.0000000|Sublime Text|ManicTime/Applications
+9494|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\ejerciciosE.js (proyectoDAWIIparcial) - Sublime Text (UNREGISTERED)|2017-03-02T04:09:40.0000000|2017-03-02T04:09:50.0000000|Sublime Text|ManicTime/Applications
+9495|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\ejercicios.js (proyectoDAWIIparcial) - Sublime Text (UNREGISTERED)|2017-03-02T04:09:50.0000000|2017-03-02T04:10:40.0000000|Sublime Text|ManicTime/Applications
+9496|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|2017-03-02T04:09:35.0000000|2017-03-02T04:09:40.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|ManicTime/Documents
+9497|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\ejerciciosE.js|2017-03-02T04:09:40.0000000|2017-03-02T04:09:50.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\ejerciciosE.js|ManicTime/Documents
+9498|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\ejercicios.js|2017-03-02T04:09:50.0000000|2017-03-02T04:10:40.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\ejercicios.js|ManicTime/Documents
+9499|Nueva pestaña - Google Chrome|2017-03-02T04:10:40.0000000|2017-03-02T04:10:51.0000000|Google Chrome|ManicTime/Applications
+9500|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\ejercicios.js (proyectoDAWIIparcial) - Sublime Text (UNREGISTERED)|2017-03-02T04:10:51.0000000|2017-03-02T04:12:16.0000000|Sublime Text|ManicTime/Applications
+9501|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\ejercicios.js|2017-03-02T04:10:51.0000000|2017-03-02T04:12:16.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\routes\ejercicios.js|ManicTime/Documents
 
-(9155 rows affected)
+(9177 rows affected)
