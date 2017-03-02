@@ -9092,7 +9092,7 @@
 9416|Windows Explorer|2017-03-01T22:15:28.0000000|2017-03-01T22:15:37.0000000|Windows Explorer|ManicTime/Applications
 9417|Start menu|2017-03-01T22:15:37.0000000|2017-03-01T22:15:41.0000000|Windows Explorer|ManicTime/Applications
 9418|Program Manager|2017-03-02T03:02:25.0000000|2017-03-02T03:05:25.0000000|Windows Explorer|ManicTime/Applications
-9419||2017-03-02T03:02:25.0000000|2017-03-02T03:11:25.0000000||ManicTime/ComputerUsage
+9419||2017-03-02T03:02:25.0000000|2017-03-02T03:26:25.0000000||ManicTime/ComputerUsage
 9420|Escuela Superior Politécnica del Litoral - Google Chrome|2017-03-02T03:05:25.0000000|2017-03-02T03:05:38.0000000|Google Chrome|ManicTime/Applications
 9421|Program Manager|2017-03-02T03:05:38.0000000|2017-03-02T03:05:44.0000000|Windows Explorer|ManicTime/Applications
 9422|Windows PowerShell|2017-03-02T03:05:44.0000000|2017-03-02T03:06:21.0000000|Windows PowerShell|ManicTime/Applications
@@ -9105,7 +9105,29 @@
 9429|/usr/bin/bash --login -i|2017-03-02T03:06:54.0000000|2017-03-02T03:07:00.0000000|mintty|ManicTime/Applications
 9430|MINGW64:/c/Users/Estudiante/nodeProyects/proyectoDAWIIparcial|2017-03-02T03:07:00.0000000|2017-03-02T03:07:53.0000000|mintty|ManicTime/Applications
 9431|proyectoDAWIIparcial|2017-03-02T03:07:53.0000000|2017-03-02T03:07:58.0000000|Windows Explorer|ManicTime/Applications
-9432|1485795174_727__ProyectoFinalDAW2016-2T.pdf - Adobe Acrobat Reader DC|2017-03-02T03:07:58.0000000|2017-03-02T03:11:25.0000000|Adobe Acrobat Reader DC|ManicTime/Applications
-9433|1485795174_727__ProyectoFinalDAW2016-2T.pdf|2017-03-02T03:07:58.0000000|2017-03-02T03:11:25.0000000|1485795174_727__ProyectoFinalDAW2016-2T.pdf|ManicTime/Documents
+9432|1485795174_727__ProyectoFinalDAW2016-2T.pdf - Adobe Acrobat Reader DC|2017-03-02T03:07:58.0000000|2017-03-02T03:15:22.0000000|Adobe Acrobat Reader DC|ManicTime/Applications
+9433|1485795174_727__ProyectoFinalDAW2016-2T.pdf|2017-03-02T03:07:58.0000000|2017-03-02T03:15:22.0000000|1485795174_727__ProyectoFinalDAW2016-2T.pdf|ManicTime/Documents
+9434|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs (proyectoDAWIIparcial) - Sublime Text (UNREGISTERED)|2017-03-02T03:15:22.0000000|2017-03-02T03:15:38.0000000|Sublime Text|ManicTime/Applications
+9435|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs|2017-03-02T03:15:22.0000000|2017-03-02T03:15:38.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\views\perfil.ejs|ManicTime/Documents
+9436|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js (proyectoDAWIIparcial) - Sublime Text (UNREGISTERED)|2017-03-02T03:15:38.0000000|2017-03-02T03:15:46.0000000|Sublime Text|ManicTime/Applications
+9437|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js • (proyectoDAWIIparcial) - Sublime Text (UNREGISTERED)|2017-03-02T03:15:46.0000000|2017-03-02T03:16:29.0000000|Sublime Text|ManicTime/Applications
+9438|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|2017-03-02T03:15:38.0000000|2017-03-02T03:15:46.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|ManicTime/Documents
+9439|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|2017-03-02T03:15:46.0000000|2017-03-02T03:16:29.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|ManicTime/Documents
+9440|Nueva pestaña - Google Chrome|2017-03-02T03:16:29.0000000|2017-03-02T03:16:34.0000000|Google Chrome|ManicTime/Applications
+9441|JavaScript Comparison and Logical Operators - Google Chrome|2017-03-02T03:16:34.0000000|2017-03-02T03:16:45.0000000|Google Chrome|ManicTime/Applications
+9442|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js • (proyectoDAWIIparcial) - Sublime Text (UNREGISTERED)|2017-03-02T03:16:45.0000000|2017-03-02T03:17:22.0000000|Sublime Text|ManicTime/Applications
+9443|Windows PowerShell|2017-03-02T03:17:22.0000000|2017-03-02T03:17:29.0000000|Windows PowerShell|ManicTime/Applications
+9444|https://www.w3schools.com/js/js_comparisons.asp|2017-03-02T03:16:34.0000000|2017-03-02T03:16:45.0000000|www.w3schools.com|ManicTime/Documents
+9445|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|2017-03-02T03:16:45.0000000|2017-03-02T03:17:22.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|ManicTime/Documents
+9446|Nueva pestaña - Google Chrome|2017-03-02T03:17:29.0000000|2017-03-02T03:17:34.0000000|Google Chrome|ManicTime/Applications
+9447|Login - Google Chrome|2017-03-02T03:17:34.0000000|2017-03-02T03:17:39.0000000|Google Chrome|ManicTime/Applications
+9448|Login form shake effect - Google Chrome|2017-03-02T03:17:39.0000000|2017-03-02T03:17:45.0000000|Google Chrome|ManicTime/Applications
+9449|Login form shake effect - Google Chrome|2017-03-02T03:17:45.0000000|2017-03-02T03:17:52.0000000|Google Chrome|ManicTime/Applications
+9450|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js • (proyectoDAWIIparcial) - Sublime Text (UNREGISTERED)|2017-03-02T03:17:52.0000000|2017-03-02T03:26:25.0000000|Sublime Text|ManicTime/Applications
+9451|http://localhost:3000/|2017-03-02T03:17:29.0000000|2017-03-02T03:17:34.0000000|localhost|ManicTime/Documents
+9452|http://localhost:3000/#!/|2017-03-02T03:17:34.0000000|2017-03-02T03:17:39.0000000|localhost|ManicTime/Documents
+9453|http://localhost:3000/usuario|2017-03-02T03:17:39.0000000|2017-03-02T03:17:45.0000000|localhost|ManicTime/Documents
+9454|http://localhost:3000/usuario#!/|2017-03-02T03:17:45.0000000|2017-03-02T03:17:52.0000000|localhost|ManicTime/Documents
+9455|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|2017-03-02T03:17:52.0000000|2017-03-02T03:26:25.0000000|C:\Users\Estudiante\nodeProyects\proyectoDAWIIparcial\public\js\usuariosV.js|ManicTime/Documents
 
-(9109 rows affected)
+(9131 rows affected)
