@@ -1,4 +1,4 @@
 @echo off
 git add .
 git commit . -m "Update"
-git push https://LeoEras:hipoS666@github.com/LeoEras/MTB %var% --quiet
+git push git+ssh://git@github.com/LeoEras/MTB.git --quiet
