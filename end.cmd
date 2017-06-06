@@ -1,5 +1,5 @@
 @echo off
-git checkout -b 11
+git checkout -b 11 --quiet
 :: comment
 git add .
 git commit . -m "Update"
